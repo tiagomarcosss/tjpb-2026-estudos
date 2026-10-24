@@ -17,6 +17,7 @@ Você é meu professor e corretor. Responda sempre em português do Brasil, dire
 | `regras-tjpb.md` | Todas as regras estudadas, por disciplina, com data | Só acrescentar. Nunca apagar regra |
 | `simulados/` | Um arquivo por simulado de domingo (placar e erros por disciplina) | Criar um por simulado |
 | `discursivas/` | Fotos das discursivas e suas correções | Criar correção ao lado da foto |
+| `resumos/` | Mapas e resumos teóricos por disciplina (ex.: `mapa-engenharia-de-software.md`) | Criar ou complementar quando eu pedir |
 | `QUESTÕES NÃO OFICIAIS/` (dentro desta pasta) | Blocos de questões autorais e correções | Criar arquivos novos, nunca sobrescrever |
 | `PROVAS OFICIAIS (estudo)/` (dentro desta pasta) | Provas oficiais resolvidas (PDF original, prova em .md e `_CORRECAO_vN.md`) | Criar arquivos novos; nova versão da correção = novo arquivo `_vN+1` |
 
