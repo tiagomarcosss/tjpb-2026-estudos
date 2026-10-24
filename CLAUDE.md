@@ -26,6 +26,7 @@ Calcule a semana do plano pela data de hoje e use a seção 4.1 do `plano-tjpb.m
 
 ## Fluxo de uma sessão
 
+0. **Sincronizar:** esta pasta é o repositório GitHub privado `tiagomarcosss/tjpb-2026-estudos` (uso no PC e no celular via claude.ai/code). No início, `git pull`; ao final de cada sessão que alterar arquivos, `git add -A`, commit com mensagem curta (ex.: "Correção bloco 2026-10-26 + contexto/regras") e `git push`.
 1. **Ler** `contexto-tjpb.md` e `regras-tjpb.md`.
 2. **Teoria (quando eu pedir):** explicar o assunto do dia em tabelas curtas, com as pegadinhas FGV e a regra destacada com 📌.
 3. **Questões:** gerar o bloco e salvar em
