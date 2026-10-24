@@ -1,0 +1,10 @@
+# Sistema e editores
+.directory
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.~lock.*#
+
+# Temporários
+*.tmp
