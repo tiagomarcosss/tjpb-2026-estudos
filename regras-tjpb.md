@@ -66,6 +66,7 @@
 - [24/10] Integração e configuração (reuso): menos custo e risco, entrega rápida; mas exige concessão nos requisitos e perde o controle sobre a evolução dos componentes.
 - [24/10] RUP · Elaboração = maioria dos casos de uso + descrição da arquitetura + plano de desenvolvimento, riscos principais tratados. Concepção = caso de negócio.
 - [24/10] RUP · 3 perspectivas: dinâmica = fases no tempo · estática = workflows (atividades) · prática = boas práticas. Todo workflow pode ocorrer em qualquer fase; cada fase tem iterações.
+- [24/10] RUP não é ágil: é iterativo e incremental, mas dirigido a planos (pesado). Definição: dirigido a casos de uso, centrado na arquitetura, iterativo e incremental. AUP/OpenUP são as variações ágeis.
 - [24/10] Manifesto Ágil: "mais que", não "em vez de". Processos, documentação, contratos e planos têm valor.
 - [24/10] Dirigido a planos quando: sistema crítico, regulação externa, especificação aprovada antes de codificar, equipe grande ou distribuída.
 

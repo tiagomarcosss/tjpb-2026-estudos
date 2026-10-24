@@ -67,6 +67,24 @@ Planejam tudo antes e documentam muito.
 
 📌 O RUP é o "meio-termo": tem fases, documentação e UML como os tradicionais, mas já é iterativo e incremental por dentro.
 
+### O RUP é ágil? **Não.**
+
+O RUP é **iterativo e incremental, mas dirigido a planos** (processo pesado e prescritivo). Ser iterativo **não** torna um método ágil.
+
+| | RUP | Ágil (Scrum, XP) |
+|---|---|---|
+| Iterativo e incremental | ✅ Sim | ✅ Sim |
+| Planejamento | Detalhado, com fases e marcos formais | Leve, a cada ciclo |
+| Documentação | Muita (modelos UML, casos de uso, documento de arquitetura) | Mínima ("software funcionando mais que documentação") |
+| Papéis e processo | Muitos papéis, atividades e artefatos definidos | Poucos papéis, equipe auto-organizada |
+| Época | Final dos anos 1990 | Manifesto de 2001 (reação a processos "pesados" como o RUP) |
+| Classificação | Processo **pesado** e prescritivo | Processo **leve** |
+
+- **Definição clássica do RUP:** *dirigido a casos de uso, centrado na arquitetura, iterativo e incremental* ("ágil" não aparece).
+- **Variações ágeis existem:** **AUP** (Agile Unified Process, Scott Ambler) e **OpenUP** são versões enxutas derivadas, não o RUP em si.
+
+📌 **Pegadinha FGV:** "o RUP, por ser iterativo e incremental, é um método ágil" → **falso**. Iterativo e incremental é característica; ágil é filosofia (Manifesto).
+
 ---
 
 ## Grupo 4 · Os métodos ágeis (o contraponto)
