@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina:
   - Engenharia de Software e Ágil
 assunto: Prova de Engenharia de Software (15 questões)

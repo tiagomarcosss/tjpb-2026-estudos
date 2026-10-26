@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 24/10/2026 · **Semana do plano:** 0 (adiantando a Semana 1)
+**Atualizado em:** 26/10/2026 · **Semana do plano:** 1 (Engenharia de Software e Ágil)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -47,6 +47,15 @@
 - **Evolução:** — (ponto de partida)
 - **Observação:** no TRT-16, Português de Analista cobrou mais argumentação, inferência e organização textual do que gramática pura.
 
+### Semana 1 (26/10–01/11) · Engenharia de Software e Ágil
+
+- **26/10 · Prova Eng. Software (15 autorais, Okular):** 8/15 (53%) · 6 erros · 1 em branco
+  - Acertos: RUP fases (era branco), RUP × ágil, verificação × validação, artefatos/compromissos (chute, segundo anotação), XP práticas (era erro), subtipos de RNF (era erro), leitura de código 2/2 (TDD Python, refatoração Java).
+  - Em branco: perspectivas do RUP (2ª vez).
+  - Erros: espiral × prototipação (palavra "protótipo" puxou), modelo em V (lado do requisito × teste; unitário ≠ req. sistema), prototipação "incorreta" (achei que não ajuda na elicitação), Scrum (achei que o PO altera o Sprint Backlog, 2ª vez em responsabilidades), scaling up × out (2ª vez), Kanban lead × cycle (tomei a fila como lead time).
+  - Evolução: Eng. Software 9/14 (64%) → 8/15 (53%), com 8 das 15 sobre pontos fracos. Estratégia V/F funcionou (marcou "?" na resposta certa da Q3, mas não confiou).
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-26_Semana-01_Bloco-01_Prova-EngSoftware-15q_CORRECAO.pdf` (+ .md)
+
 ---
 
 ## Pontos fracos (prioridade)
@@ -64,12 +73,15 @@
 
 ### Técnico
 
-1. Leitura de código: rastrear a saída de trechos (Java, Python, JS)
-2. RUP: fases × produtos (Elaboração = arquitetura) e perspectivas dinâmica/estática/prática (não estudado)
-3. Subtipos de RNF: produto × organizacional × externo
-4. XP: práticas (propriedade coletiva, ritmo sustentável, histórias + cliente no local) e scaling up × out
-5. Scrum: responsabilidades dos papéis (quem decide o quê) e artefatos × compromissos
-6. Estratégia de prova: V/F com itens I, II, III e "assinale a incorreta" (julgar cada alternativa V/F; não trocar resposta sem regra). Melhorou em 24/10 (2/2 "incorreta")
+1. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
+2. Scrum · responsabilidades (dono do Sprint Backlog, quem decide o quê): errou 22 e 26/10. Artefatos × compromissos: acertou em 26/10 por chute (não conta)
+3. Scaling up × out: errou 24 e 26/10
+4. Modelos de processo (novo): espiral × prototipação, modelo em V (qual teste para qual fase), prototipação na elicitação. Errou 3/3 em 26/10
+5. Kanban (novo): lead time × cycle time. Errou em 26/10
+6. Leitura de código: 2/2 em 26/10 (1/2 para sair)
+7. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
+8. XP · práticas: acertou em 26/10 (1/2 para sair)
+9. Estratégia de prova: "incorreta" (errou Q3 em 26/10 por conteúdo, mas marcou "?" na certa) e nunca deixar em branco
 
 ---
 
@@ -77,10 +89,12 @@
 
 | Dia | O que fazer |
 |---|---|
-| Sex 23/10 | Ler o Guia do Scrum 2020 inteiro + 10 questões FGV de Scrum (papéis e eventos). Anki: "Quem cancela a Sprint?", "3 artefatos e compromissos", "Review × Retro" |
-| Sáb 24/10 | 30 min de RUP (Sommerville cap. 2: fases × produtos, 3 perspectivas) + 5 questões FGV de RUP. Depois Kanban (WIP, lead time, cycle time) + Lean (7 desperdícios) + questões. Videoaula de 20 min: termos da oração. Anki: "Produto da Elaboração", "RUP dinâmica × estática × prática", "Scaling up × out", "RNF produto × organizacional × externo" |
-| Dom 25/10 · 13h | Simulado TRT-16 2022 + 1 discursiva + 1h de correção. Trazer placar por disciplina e erros |
-| Seg 26/10 → Dom 01/11 | Seguir a ordem da Semana 1 na seção 4.1 do plano. Ter 27/10 (RF × RNF): reforçar subtipos de RNF ("quem exige isso?") |
+| Seg 26/10 · 22:40 | Reler as 7 regras 📌 dos erros da prova de hoje. Anki: "RUP dinâmica × estática × prática", "Scaling up × out", "Lead × cycle time", "V: qual teste para qual fase?", "Dono do Sprint Backlog" |
+| Ter 27/10 | Almoço: RLM (lógica proposicional). Bloco 1: RF × RNF × regras de negócio + 10 min de RUP (seção 3.6 do mapa). Bloco 2: questões FGV de requisitos + 5 de Kanban |
+| Qua 28/10 | Plano: user stories (INVEST) + Gherkin. Revisão: refazer Q1, Q2, Q11 e Q13 da prova de 26/10 sem olhar. Revisão espaçada de 7 dias das regras de 21/10 |
+| Qui 29/10 → Sáb 31/10 | Seguir a seção 4.1 do plano (estimativa, SDD, revisão da semana) |
+| Dom 01/11 · 13h | Simulado + discursiva. Meta: zero questões em branco |
+| Pendente | Placar do simulado TRT-16 de 25/10 (Port · RLM · Específicas · Discursiva) |
 
 - **Almoço (Português, 10 questões FGV por dia):**
 

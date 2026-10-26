@@ -1,6 +1,6 @@
 # Regras Estudadas · TJPB 2026
 
-**Atualizado em:** 24/10/2026
+**Atualizado em:** 26/10/2026
 
 > Arquivo acumulativo: só recebe acréscimos, no fim da seção certa. Uma regra por linha. Usado para revisão espaçada.
 > Data entre colchetes = quando a regra entrou.
@@ -69,6 +69,10 @@
 - [24/10] RUP não é ágil: é iterativo e incremental, mas dirigido a planos (pesado). Definição: dirigido a casos de uso, centrado na arquitetura, iterativo e incremental. AUP/OpenUP são as variações ágeis.
 - [24/10] Manifesto Ágil: "mais que", não "em vez de". Processos, documentação, contratos e planos têm valor.
 - [24/10] Dirigido a planos quando: sistema crítico, regulação externa, especificação aprovada antes de codificar, equipe grande ou distribuída.
+- [26/10] Espiral: cada volta = objetivos → análise e redução de riscos (com protótipos) → desenvolvimento → planejar e decidir se continua. Protótipo dentro da volta não torna o modelo "prototipação".
+- [26/10] Prototipação ajuda na elicitação E na validação de requisitos. Protótipo descartável não vira o sistema final (ignora RNF, estrutura ruim); "descartável que evolui" é contradição.
+- [26/10] Modelo em V (sequencial): req. do usuário ↔ aceitação · req. do sistema/arquitetura ↔ teste de sistema · projeto de módulos ↔ integração · código ↔ unitário.
+- [26/10] Verificação = produto feito corretamente (contra a especificação) · Validação = produto certo (contra a necessidade real) (Boehm).
 
 ### XP e escalamento ágil
 
@@ -76,7 +80,9 @@
 - [24/10] Propriedade coletiva (XP): qualquer desenvolvedor altera qualquer parte do código; não existe dono de módulo.
 - [24/10] Ritmo sustentável (XP): evitar horas extras em excesso, pois reduzem a qualidade do código e a produtividade.
 - [24/10] Histórias de usuário e cliente no local são práticas da XP (não exclusivas do Scrum).
-- [24/10] Scaling up = ágil em sistema grande (várias equipes) · Scaling out = ágil espalhado por toda a organização.
+- [24/10] Scaling up = o SISTEMA cresce (projeto grande, várias equipes) · Scaling out = o ágil se espalha pela ORGANIZAÇÃO inteira (cultura, outras diretorias). Imagem: up = prédio mais alto; out = mais prédios.
+- [26/10] TDD: teste novo falhando = vermelho → código mínimo (verde) → refatorar. Não se refatora com teste falhando. Em Python, 100.0 == 100 é True.
+- [26/10] Refatoração não muda a saída para nenhuma entrada. Teste: comparar as versões com entrada estranha (negativo, vazio, nulo).
 
 ### Scrum
 
@@ -88,8 +94,11 @@
 - [22/10] Review = inspeciona o produto (com stakeholders) · Retro = inspeciona o processo (pessoas, interações, processos, ferramentas).
 - [22/10] Artefatos e compromissos: Product Backlog → Product Goal · Sprint Backlog → Sprint Goal · Incremento → DoD. DoD não é artefato.
 - [22/10] Refinamento do backlog não é evento.
+- [26/10] Sprint Backlog é dos Developers: eles ajustam o plano durante a Sprint (a Sprint Goal fica fixa; mudança de escopo é negociada com o PO). O PO ordena o Product Backlog.
 
 ### Kanban e Lean
+
+- [26/10] Lead time = pedido → entrega (visão do cliente, inclui a fila) · Cycle time = início do trabalho → entrega (visão do time). Lead ≥ cycle.
 
 ### Requisitos e user stories
 
@@ -128,3 +137,5 @@
 - [22/10] V/F com itens I, II, III: se a combinação que achei não existe nas alternativas, reavaliar os itens antes de escolher a mais próxima.
 - [23/10] Questão que pede a "incorreta": julgar cada alternativa como V ou F; a resposta é a única F.
 - [24/10] Item V/F que define uma prática pelo oposto do nome ("propriedade coletiva" = "um único dono") é falso. Um item não fica falso só porque a prática também existe em outro método.
+- [26/10] Nunca deixar em branco (a FGV não desconta erro): eliminar o item que contradiz o que já sei e chutar entre as restantes.
+- [26/10] Em V/F, conferir a quem se refere cada expressão da frase ("que estão no lado esquerdo" se refere aos requisitos, não ao teste).

@@ -21,7 +21,7 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 | Almoço | Português: termos da oração e predicação verbal (10 questões FGV) | [[Português]] |
 | 19h · Bloco 1 | Teoria: engenharia de requisitos (elicitação → análise → especificação → validação) | [[mapa-engenharia-de-software#5.1 Engenharia de requisitos (26 e 27/10)]] |
 | 20h · Bloco 2 | Questões FGV de engenharia de requisitos | [[Engenharia de Software e Ágil]] |
-| 22:40 · Revisão | Caderno de erros e Anki: RUP, subtipos de RNF, XP | Regras abaixo |
+| 22:40 · Revisão | Regras 📌 dos 7 erros da prova de hoje (8/15): RUP perspectivas, scaling, V, espiral, Kanban, Sprint Backlog | [[2026-10-26_Semana-01_Bloco-01_Prova-EngSoftware-15q_CORRECAO]] |
 
 **⚠️ Prazo:** pedido de **isenção da taxa só até amanhã, 27/10, às 16h** (1ª retificação). A inscrição normal segue até 18/11, 16h.
 
@@ -29,10 +29,10 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias. Hoje: a data mais recente com regras (24/10). As de 21/10 completam 7 dias na quarta (28/10).
+Regras de `regras-tjpb` com ~1, 7 e 30 dias. Hoje: as regras novas da prova de hoje (26/10). As de 21/10 completam 7 dias na quarta (28/10).
 
 ```query
-path:regras-tjpb "[24/10]"
+path:regras-tjpb "[26/10]"
 ```
 
 ---
