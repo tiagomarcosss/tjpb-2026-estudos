@@ -1,80 +1,80 @@
+filters:
+  and:
+    - '!file.inFolder("modelos")'
+    - or:
+        - tipo == "correcao"
+        - tipo == "simulado"
+        - tipo == "discursiva"
 formulas:
-  aproveitamento: 'if(total, (acertos / total * 100).round() + "%", "")'
+  aproveitamento: if(total, (acertos / total * 100).round() + "%", "")
 properties:
   formula.aproveitamento:
     displayName: Aproveitamento
   file.name:
     displayName: Arquivo
-filters:
-  and:
-    - '!file.inFolder("modelos")'
-    - or:
-        - 'tipo == "correcao"'
-        - 'tipo == "simulado"'
-        - 'tipo == "discursiva"'
 views:
   - type: table
     name: Linha do tempo
     order:
-      - note.data
-      - note.tipo
-      - note.fonte
-      - note.disciplina
-      - note.assunto
-      - note.acertos
-      - note.total
+      - data
+      - tipo
+      - fonte
+      - disciplina
+      - assunto
+      - acertos
+      - total
       - formula.aproveitamento
       - file.name
     sort:
-      - property: note.data
+      - property: data
         direction: DESC
   - type: table
     name: Por disciplina
     groupBy:
-      property: note.disciplina
+      property: disciplina
       direction: ASC
     order:
-      - note.data
-      - note.assunto
-      - note.acertos
-      - note.total
+      - data
+      - assunto
+      - acertos
+      - total
       - formula.aproveitamento
       - file.name
     sort:
-      - property: note.data
+      - property: data
         direction: DESC
   - type: table
     name: Só provas oficiais
     filters:
       and:
-        - 'fonte == "oficial"'
+        - fonte == "oficial"
     order:
-      - note.data
-      - note.prova
-      - note.disciplina
-      - note.acertos
-      - note.total
+      - data
+      - prova
+      - disciplina
+      - acertos
+      - total
       - formula.aproveitamento
       - file.name
     sort:
-      - property: note.data
+      - property: data
         direction: DESC
   - type: table
     name: Simulados
     filters:
       and:
-        - 'tipo == "simulado"'
+        - tipo == "simulado"
     order:
-      - note.data
-      - note.prova
-      - note.portugues
-      - note.rlm
-      - note.especificas
-      - note.discursiva_nota
-      - note.acertos
-      - note.total
+      - data
+      - prova
+      - portugues
+      - rlm
+      - especificas
+      - discursiva_nota
+      - acertos
+      - total
       - formula.aproveitamento
       - file.name
     sort:
-      - property: note.data
+      - property: data
         direction: DESC

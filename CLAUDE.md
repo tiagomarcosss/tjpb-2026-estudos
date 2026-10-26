@@ -105,7 +105,9 @@ Estudo em dois PCs, cada um com uma conta GitHub diferente. Commits e pushes sae
 - Para cada questão, **inclusive nas que acertei**: repetir a questão inteira (enunciado completo, itens I/II/III quando houver e **todas** as alternativas de A a E), marcar ❌ a minha e ✅ a certa. Nunca mostrar só a alternativa correta.
 - Nos erros: explicar onde provavelmente me confundi (usar minhas anotações, se houver) e destacar a regra com 📌.
 - Nos acertos: 1–2 linhas confirmando (por que as outras alternativas estão erradas) e a regra 📌.
-- Gerar também a correção em PDF (mesmo nome do `.md`, extensão `.pdf`).
+- **Correção de prova ou bloco sempre é entregue em PDF** (mesmo nome do `.md`, extensão `.pdf`, na pasta `Correções/`). O PDF é o arquivo que eu leio. O `.md` continua existindo só como base do PDF e dos painéis do Obsidian (propriedades `acertos`/`total`). Todo o resto (resumos, contexto, regras, blocos de questões) pode ficar só em `.md`.
+- **Quando eu mandar um PDF para analisar** (prova oficial, lista de questões, bloco anotado), a correção vira **outro PDF**, no mesmo padrão, sem alterar o PDF original: `..._CORRECAO.pdf` (ou `_CORRECAO_vN.pdf`) em `Correções/`, ao lado da pasta `Provas/` onde está o original.
+- **Padrão visual do PDF** (referência: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-23_Semana-01_Bloco-01_EngSoftware-UNIVESP-Aulas01a05_CORRECAO_v2.pdf`): A4, gerado de HTML pelo navegador em modo headless (Linux: `brave --headless --print-to-pdf`), título com versão, data e placar, aviso de questões autorais/oficiais, tabela-resumo (Questão · Assunto · Sua · Gabarito · Resultado com ✅/❌/em branco), faixas escuras por seção e cada questão completa com A–E, ✅ na certa e "← sua resposta" na minha. Não incluir o frontmatter YAML no PDF.
 - Tabela "Para o caderno de erros": assunto · por que errei · regra certa.
 - Fechar com "O que estudar agora", ligado à rotina do plano (almoço, Bloco 1 19h, Bloco 2 20h, revisão 22:40, simulado de domingo).
 - Comparar com o resultado anterior do mesmo assunto, se houver.
