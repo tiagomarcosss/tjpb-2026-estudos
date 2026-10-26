@@ -1,3 +1,11 @@
+---
+tipo: resumo
+disciplina: ["RLM"]
+assunto: "Prioridades de RLM pelo edital"
+data: 2026-10-26
+atualizado: 2026-10-26
+---
+
 # Mapa de RLM · Prioridades de estudo (TJPB 2026 · FGV · Analista de TI)
 
 **Criado em:** 26/10/2026 · **Peso na prova:** 10 questões (10%) · **Meta:** 8 acertos

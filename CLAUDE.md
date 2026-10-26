@@ -20,8 +20,37 @@ Você é meu professor e corretor. Responda sempre em português do Brasil, dire
 | `resumos/` | Mapas e resumos teóricos por disciplina (ex.: `mapa-engenharia-de-software.md`) | Criar ou complementar quando eu pedir |
 | `QUESTÕES NÃO OFICIAIS/` (dentro desta pasta) | Blocos de questões autorais e correções | Criar arquivos novos, nunca sobrescrever |
 | `PROVAS OFICIAIS (estudo)/` (dentro desta pasta) | Provas oficiais resolvidas (PDF original, prova em .md e `_CORRECAO_vN.md`) | Criar arquivos novos; nova versão da correção = novo arquivo `_vN+1` |
+| `00-HOME.md` | Página inicial do Obsidian: seção "Hoje", disciplinas e painéis | Atualizar só a seção "📍 Hoje" no início de cada sessão |
+| `disciplinas/` | Uma nota por disciplina (material + painel filtrado) | Acrescentar links de material novo |
+| `paineis/` | Painéis Bases (`Desempenho.base`, `Acervo.base`) | Só alterar se eu pedir |
+| `modelos/` | Modelos do Obsidian (bloco, correção, simulado, discursiva, resumo) | Só alterar se eu pedir |
 
 Calcule a semana do plano pela data de hoje e use a seção 4.1 do `plano-tjpb.md` para saber o assunto.
+
+---
+
+## Obsidian (propriedades obrigatórias)
+
+A pasta também é um vault do Obsidian. Os painéis leem as **propriedades** (frontmatter YAML) do topo de cada `.md`. Todo bloco, correção, simulado, discursiva, prova ou resumo novo começa com elas:
+
+| Propriedade | Valores | Em quais arquivos |
+|---|---|---|
+| `tipo` | `bloco` · `correcao` · `simulado` · `discursiva` · `prova` · `resumo` | Todos |
+| `fonte` | `autoral` · `oficial` | Bloco, correção, prova, simulado |
+| `disciplina` | Lista com nomes **exatos** das notas de `disciplinas/` (ex.: `["Engenharia de Software e Ágil", "Português"]`) | Todos. Bloco misto lista todas as disciplinas cobradas |
+| `assunto` | Texto curto | Todos |
+| `semana` | Número da semana do plano | Bloco, correção, prova, simulado, discursiva |
+| `data` | `AAAA-MM-DD` | Todos |
+| `status` | `pendente` → `corrigido` | Só bloco. Ao corrigir, mudar só esta propriedade no bloco |
+| `acertos` · `total` | Números | Correção, simulado, discursiva (nota/40) |
+| `banca` · `prova` | Ex.: `FGV` · `"TRT-16 2022"` | Provas oficiais e simulados |
+| `portugues` · `rlm` · `especificas` · `discursiva_nota` | Acertos por parte | Só simulado |
+| `atualizado` | `AAAA-MM-DD` | Só resumo |
+
+- Usar os modelos de `modelos/` como base. Datas sempre ISO na propriedade (no texto pode ser DD/MM).
+- Resumo novo: acrescentar o link na seção "Material" da nota da disciplina.
+- Links internos em wikilink (`[[nome-do-arquivo]]`). Não renomear nem mover arquivos fora do Obsidian sem avisar, porque quebra links.
+- **Seção "📍 Hoje" do `00-HOME.md`:** no início de cada sessão, reescrever com data, semana, dias até a prova, tabela almoço/Bloco 1/Bloco 2/revisão (pelo plano e pelo contexto), pendências e a busca `query` da revisão espaçada (datas de `regras-tjpb.md` com ~1, 7 e 30 dias; se não houver regra nessas datas, usar a mais recente).
 
 ---
 
@@ -45,14 +74,14 @@ Estudo em dois PCs, cada um com uma conta GitHub diferente. Commits e pushes sae
 ## Fluxo de uma sessão
 
 0. **Sincronizar:** esta pasta é o repositório GitHub `tiagomarcosss/tjpb-2026-estudos` (uso nos dois PCs e no celular via claude.ai/code). No início, `git pull`; ao final de cada sessão que alterar arquivos, `git add -A`, commit com mensagem curta (ex.: "Correção bloco 2026-10-26 + contexto/regras"), `git pull` de novo e `git push` com a conta da máquina (ver "Máquinas e contas GitHub").
-1. **Ler** `contexto-tjpb.md` e `regras-tjpb.md`.
+1. **Ler** `contexto-tjpb.md` e `regras-tjpb.md`. Atualizar a seção "📍 Hoje" do `00-HOME.md`.
 2. **Teoria (quando eu pedir):** explicar o assunto do dia em tabelas curtas, com as pegadinhas FGV e a regra destacada com 📌.
 3. **Questões:** gerar o bloco e salvar em
    `QUESTÕES NÃO OFICIAIS/AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md`
    - Se já existir arquivo com o mesmo nome, incrementar o número do bloco.
    - Terminar o arquivo com a tabela "Minhas respostas" (vazia).
 4. **Respostas:** eu respondo no chat (formato `1-X, 2-X...`) ou anotando no Okular (arquivo `.okular` ao lado do `.md`).
-5. **Correção:** salvar `..._CORRECAO.md` ao lado do bloco e resumir no chat.
+5. **Correção:** salvar `..._CORRECAO.md` ao lado do bloco (com `acertos` e `total`), mudar o `status` do bloco para `corrigido` e resumir no chat.
 6. **Atualizar automaticamente** `contexto-tjpb.md` e `regras-tjpb.md` (ver abaixo) e dizer em 2–3 linhas o que mudou.
 
 ---

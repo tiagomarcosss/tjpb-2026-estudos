@@ -1,3 +1,16 @@
+---
+tipo: correcao
+fonte: oficial
+banca: FGV
+prova: "DATAPREV · ATI Desenvolvimento de Software"
+disciplina: ["Português"]
+assunto: "Prova FGV DATAPREV · Português Q1–12"
+semana: 0
+data: 2026-10-23
+acertos: 2
+total: 12
+---
+
 # Correção e análise · FGV · DATAPREV · ATI Desenvolvimento de Software
 
 **Disciplina:** Língua Portuguesa (questões 1 a 12) · **Resolvida em:** 23/10/2026 · **Versão:** 3 (substitui as v1 e v2)

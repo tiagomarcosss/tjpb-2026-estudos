@@ -1,0 +1,55 @@
+properties:
+  file.name:
+    displayName: Arquivo
+filters:
+  and:
+    - '!file.inFolder("modelos")'
+    - or:
+        - 'tipo == "bloco"'
+        - 'tipo == "prova"'
+        - 'tipo == "resumo"'
+views:
+  - type: table
+    name: Blocos aguardando correção
+    filters:
+      and:
+        - 'tipo == "bloco"'
+        - 'status == "pendente"'
+    order:
+      - note.data
+      - note.semana
+      - note.disciplina
+      - note.assunto
+      - file.name
+    sort:
+      - property: note.data
+        direction: DESC
+  - type: table
+    name: Todos os blocos e provas
+    filters:
+      or:
+        - 'tipo == "bloco"'
+        - 'tipo == "prova"'
+    order:
+      - note.data
+      - note.tipo
+      - note.fonte
+      - note.disciplina
+      - note.assunto
+      - note.status
+      - file.name
+    sort:
+      - property: note.data
+        direction: DESC
+  - type: table
+    name: Resumos
+    filters:
+      and:
+        - 'tipo == "resumo"'
+    groupBy:
+      property: note.disciplina
+      direction: ASC
+    order:
+      - file.name
+      - note.assunto
+      - note.atualizado

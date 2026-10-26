@@ -1,3 +1,14 @@
+---
+tipo: correcao
+fonte: autoral
+disciplina: ["Engenharia de Software e Ágil"]
+assunto: "Eng. Software UNIVESP Aulas 01–05"
+semana: 1
+data: 2026-10-24
+acertos: 9
+total: 14
+---
+
 # Correção · Simulado Semana 1 · Engenharia de Software (UNIVESP, Aulas 01 a 05)
 
 **Versão 2** (questões completas, inclusive nos acertos) · **Data da correção:** 24/10/2026

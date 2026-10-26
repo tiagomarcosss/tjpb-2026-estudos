@@ -1,3 +1,14 @@
+---
+tipo: prova
+fonte: oficial
+banca: FGV
+prova: "DATAPREV · ATI Desenvolvimento de Software"
+disciplina: ["Português"]
+assunto: "Prova FGV DATAPREV · Português Q1–12"
+semana: 0
+data: 2026-10-23
+---
+
 # Prova · FGV · DATAPREV · ATI Desenvolvimento de Software
 
 **Turno:** Tarde · **Tipo:** 1 – Branca · **Disciplina:** Língua Portuguesa (questões 1 a 12)

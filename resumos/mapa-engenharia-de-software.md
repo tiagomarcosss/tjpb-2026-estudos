@@ -1,3 +1,11 @@
+---
+tipo: resumo
+disciplina: ["Engenharia de Software e Ágil"]
+assunto: "Mapa geral de Engenharia de Software"
+data: 2026-10-24
+atualizado: 2026-10-26
+---
+
 # Mapa geral · Engenharia de Software
 
 **Criado em:** 24/10/2026 · **Versão 2:** 26/10/2026 (cada assunto com: pra que serve · onde é usado · por que é assim · conceitos técnicos)
@@ -344,7 +352,7 @@ Princípios que mais caem: entregar software funcionando **com frequência** (se
 
 ## Grupo 5 · Áreas transversais (valem para qualquer modelo)
 
-### 5.1 Engenharia de requisitos · **assunto de 26 e 27/10**
+### 5.1 Engenharia de requisitos (26 e 27/10)
 
 | | |
 |---|---|
@@ -384,7 +392,7 @@ Princípios que mais caem: entregar software funcionando **com frequência** (se
 
 📌 RNF precisa ser **mensurável e verificável**: "fácil de usar" é meta; "usuário treinado executa a tarefa em até 2 min" é requisito.
 
-### 5.2 Histórias de usuário e critérios de aceitação · **28/10**
+### 5.2 Histórias de usuário e critérios de aceitação (28/10)
 
 | | |
 |---|---|
@@ -404,7 +412,7 @@ Cenário: Petição sem assinatura digital
   E exibir a mensagem "Documento sem assinatura digital"
 ```
 
-### 5.3 Estimativa ágil · **29/10**
+### 5.3 Estimativa ágil (29/10)
 
 | | |
 |---|---|

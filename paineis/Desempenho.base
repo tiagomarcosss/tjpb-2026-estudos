@@ -1,0 +1,80 @@
+formulas:
+  aproveitamento: 'if(total, (acertos / total * 100).round() + "%", "")'
+properties:
+  formula.aproveitamento:
+    displayName: Aproveitamento
+  file.name:
+    displayName: Arquivo
+filters:
+  and:
+    - '!file.inFolder("modelos")'
+    - or:
+        - 'tipo == "correcao"'
+        - 'tipo == "simulado"'
+        - 'tipo == "discursiva"'
+views:
+  - type: table
+    name: Linha do tempo
+    order:
+      - note.data
+      - note.tipo
+      - note.fonte
+      - note.disciplina
+      - note.assunto
+      - note.acertos
+      - note.total
+      - formula.aproveitamento
+      - file.name
+    sort:
+      - property: note.data
+        direction: DESC
+  - type: table
+    name: Por disciplina
+    groupBy:
+      property: note.disciplina
+      direction: ASC
+    order:
+      - note.data
+      - note.assunto
+      - note.acertos
+      - note.total
+      - formula.aproveitamento
+      - file.name
+    sort:
+      - property: note.data
+        direction: DESC
+  - type: table
+    name: Só provas oficiais
+    filters:
+      and:
+        - 'fonte == "oficial"'
+    order:
+      - note.data
+      - note.prova
+      - note.disciplina
+      - note.acertos
+      - note.total
+      - formula.aproveitamento
+      - file.name
+    sort:
+      - property: note.data
+        direction: DESC
+  - type: table
+    name: Simulados
+    filters:
+      and:
+        - 'tipo == "simulado"'
+    order:
+      - note.data
+      - note.prova
+      - note.portugues
+      - note.rlm
+      - note.especificas
+      - note.discursiva_nota
+      - note.acertos
+      - note.total
+      - formula.aproveitamento
+      - file.name
+    sort:
+      - property: note.data
+        direction: DESC

@@ -1,3 +1,14 @@
+---
+tipo: correcao
+fonte: autoral
+disciplina: ["Engenharia de Software e Ágil"]
+assunto: "SDLC e Scrum"
+semana: 1
+data: 2026-10-22
+acertos: 3
+total: 5
+---
+
 # Correção · Bloco 1 · SDLC e Scrum
 
 **Data:** 22/10/2026 · **Placar: 3/5 (60%)**

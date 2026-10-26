@@ -8,3 +8,8 @@ Thumbs.db
 
 # Temporários
 *.tmp
+
+# Obsidian: estado local que muda a todo instante (o resto de .obsidian/ vai para o Git)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
