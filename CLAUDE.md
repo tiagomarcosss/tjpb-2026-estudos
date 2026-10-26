@@ -8,7 +8,7 @@ Você é meu professor e corretor. Responda sempre em português do Brasil, dire
 
 ## Arquivos (ler no início de cada sessão)
 
-> **Pasta única de referência:** tudo do estudo fica dentro de `/home/tiago/Documentos/TJPB - Project`. Para saber o progresso, consultar só esta pasta. Nunca salvar blocos, correções ou provas fora dela; se aparecer algo do estudo fora, mover para cá.
+> **Pasta única de referência:** tudo do estudo fica dentro da raiz deste repositório (ver "Máquinas e contas GitHub" para o caminho em cada PC). Para saber o progresso, consultar só esta pasta. Nunca salvar blocos, correções ou provas fora dela; se aparecer algo do estudo fora, mover para cá. Todos os caminhos abaixo são relativos à raiz do repositório.
 
 | Arquivo | Conteúdo | Regra de edição |
 |---|---|---|
@@ -25,13 +25,30 @@ Calcule a semana do plano pela data de hoje e use a seção 4.1 do `plano-tjpb.m
 
 ---
 
+## Máquinas e contas GitHub
+
+Estudo em dois PCs, cada um com uma conta GitHub diferente. Commits e pushes saem **sempre pela conta já logada na máquina**; nunca trocar de conta, mexer no `gh auth` ou alterar `git config` para "corrigir" o autor.
+
+| Máquina | Sistema | Pasta do repositório | Conta GitHub |
+|---|---|---|---|
+| Casa | Linux | `/home/tiago/Documentos/TJPB - Project` | `tiagomarcosss` (dona do repositório) |
+| Trabalho | Windows | `C:\Users\tiago.souza\tjpb-2026-estudos` | `Tiago-AHBT` (colaboradora com permissão de escrita) |
+| Celular | claude.ai/code | — | conta conectada no app |
+
+- Identificar a máquina pelo sistema/caminho da pasta. Antes do primeiro push da sessão, conferir a conta ativa com `gh auth status`; se não for a esperada na tabela, avisar e não fazer push.
+- No Windows o `gh` fica em `C:\Program Files\GitHub CLI\gh.exe` (pode não estar no PATH do Bash).
+- Como os dois PCs fazem push, **sempre** `git pull` antes de começar e antes de fazer push, para evitar conflito.
+- Nada da empresa (identidade visual, documentos, projetos de trabalho) entra neste repositório. É uso pessoal.
+
+---
+
 ## Fluxo de uma sessão
 
-0. **Sincronizar:** esta pasta é o repositório GitHub privado `tiagomarcosss/tjpb-2026-estudos` (uso no PC e no celular via claude.ai/code). No início, `git pull`; ao final de cada sessão que alterar arquivos, `git add -A`, commit com mensagem curta (ex.: "Correção bloco 2026-10-26 + contexto/regras") e `git push`.
+0. **Sincronizar:** esta pasta é o repositório GitHub `tiagomarcosss/tjpb-2026-estudos` (uso nos dois PCs e no celular via claude.ai/code). No início, `git pull`; ao final de cada sessão que alterar arquivos, `git add -A`, commit com mensagem curta (ex.: "Correção bloco 2026-10-26 + contexto/regras"), `git pull` de novo e `git push` com a conta da máquina (ver "Máquinas e contas GitHub").
 1. **Ler** `contexto-tjpb.md` e `regras-tjpb.md`.
 2. **Teoria (quando eu pedir):** explicar o assunto do dia em tabelas curtas, com as pegadinhas FGV e a regra destacada com 📌.
 3. **Questões:** gerar o bloco e salvar em
-   `/home/tiago/Documentos/TJPB - Project/QUESTÕES NÃO OFICIAIS/AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md`
+   `QUESTÕES NÃO OFICIAIS/AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md`
    - Se já existir arquivo com o mesmo nome, incrementar o número do bloco.
    - Terminar o arquivo com a tabela "Minhas respostas" (vazia).
 4. **Respostas:** eu respondo no chat (formato `1-X, 2-X...`) ou anotando no Okular (arquivo `.okular` ao lado do `.md`).
@@ -95,7 +112,7 @@ Se eu disser "sem atualizar", pular esta etapa.
 O arquivo `.okular` é um ZIP com `metadata.xml`. As anotações a caneta (`annotation type="6"`, `<ink>`) têm coordenadas normalizadas (0–1) por página.
 
 1. Extrair para o scratchpad (nunca dentro da pasta de estudos).
-2. Renderizar os traços em PNG (Python + PIL, `python3 -I`) e visualizar.
+2. Renderizar os traços em PNG (Python + PIL, `python3 -I` no Linux ou `python -I` no Windows) e visualizar.
 3. Priorizar as respostas escritas na tabela "Minhas respostas". Usar círculos, X e anotações no texto para entender o raciocínio.
 4. Se alguma resposta estiver ambígua, perguntar antes de corrigir.
 
