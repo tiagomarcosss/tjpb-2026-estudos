@@ -23,6 +23,8 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 | 20h · Bloco 2 | Questões FGV de engenharia de requisitos | [[Engenharia de Software e Ágil]] |
 | 22:40 · Revisão | Caderno de erros e Anki: RUP, subtipos de RNF, XP | Regras abaixo |
 
+**⚠️ Prazo:** pedido de **isenção da taxa só até amanhã, 27/10, às 16h** (1ª retificação). A inscrição normal segue até 18/11, 16h.
+
 **Pendente:** registrar o placar do simulado TRT-16 de 25/10 (Port · RLM · Específicas · Discursiva).
 
 ### 🔁 Revisão espaçada de hoje

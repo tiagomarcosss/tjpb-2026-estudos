@@ -2,8 +2,9 @@
 tipo: bloco
 fonte: autoral
 status: pendente
-disciplina: ["Engenharia de Software e Ágil"]
-assunto: "Prova de Engenharia de Software (15 questões)"
+disciplina:
+  - Engenharia de Software e Ágil
+assunto: Prova de Engenharia de Software (15 questões)
 semana: 1
 data: 2026-10-26
 ---

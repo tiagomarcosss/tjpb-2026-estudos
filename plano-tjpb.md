@@ -4,10 +4,10 @@
 
 - **Prova:** Domingo, 24/01/2027 · 13h às 18h (portões fecham 12h30)
 - **Local:** João Pessoa/PB
-- **Inscrição:** até 18/11/2026, 16h · boleto até 19/11
+- **Inscrição:** até 18/11/2026, 16h · boleto até 19/11 · **pedido de isenção só até 27/10/2026, 16h** (1ª retificação)
 - **Vagas Dev:** 10 (6 AC · 1 PcD · 3 negros) + cadastro de reserva
 - **Meta:** 49–51 acertos na objetiva · 30+ na discursiva
-- **Versão:** 2 · 22/10/2026 · Fonte: Edital nº 01/2026 – TJPB01
+- **Versão:** 3 · 26/10/2026 · Fonte: Edital nº 01/2026 – TJPB01 + 1ª retificação (23/10/2026, arquivo em `edital/`)
 
 ---
 
@@ -22,7 +22,7 @@
 | Banca | FGV – Fundação Getulio Vargas |
 | Vagas | 10: 6 ampla concorrência · 1 PcD · 3 negros (pretos e pardos) |
 | Remuneração | R$ 7.526,14 + aux. alimentação R$ 2.200 + aux. saúde R$ 1.800 ≈ R$ 11.526,14 |
-| Jornada | 40h semanais |
+| Jornada | **30h semanais** (era 40h; alterado pela 1ª retificação) |
 | Requisito | Graduação ou pós-graduação em TI (MEC) · sem exigência de experiência |
 | Taxa | R$ 120,00 |
 | Validade | 2 anos, prorrogável por mais 2 |
@@ -47,7 +47,8 @@
 
 | Data | Evento |
 |---|---|
-| 20/10 a 18/11/2026 (16h) | Inscrições e pedido de isenção |
+| 20/10 a **27/10/2026 (16h)** | Pedido de isenção da taxa (prazo reduzido pela 1ª retificação; era 18/11) |
+| 20/10 a 18/11/2026 (16h) | Inscrições |
 | 19/11/2026 | Último dia para pagar o boleto |
 | 24/01/2027 · 13h | Prova objetiva + discursiva (chegar até 12h30) |
 
@@ -391,7 +392,7 @@ Redes avançadas (OSPF, BGP) · Terraform em detalhe · MoReq-Jus · PDTI do TJP
 1. Flutter/Dart, SDD, virtual threads e bancos vetoriais quase não aparecem em provas FGV. Estude pela documentação ou por outras bancas.
 2. Resoluções CNJ (335/2020, 91/2009, 370/2021, 396/2021, 468/2022, 615/2025), PDPJ-Br, MNI e PDTI do TJPB: leia a norma original e faça um resumo de 1 página.
 3. Cebraspe, FCC e Cesgranrio servem para conteúdo, não para treinar o estilo da FGV.
-4. Acompanhe editais de retificação: o edital tem erros (ex.: "60% (cinquenta por cento)" no item 10.12).
+4. Acompanhe editais de retificação. **1ª retificação (23/10/2026):** jornada de 40h → 30h semanais (subitem 3.1; vagas e remuneração iguais) · isenção da taxa só até 27/10, 16h (subitem 5.2) · item 10.12 corrigido para "60% (sessenta por cento)" (o mínimo de 60% não mudou).
 
 ---
 
@@ -436,6 +437,7 @@ Não é redação estilo ENEM. É uma questão técnica: o enunciado pede itens 
 
 ### Para começar agora
 
+- [ ] Se tiver direito à isenção da taxa: pedir até **27/10, 16h** (1ª retificação)
 - [ ] Fazer a inscrição em conhecimento.fgv.br/concursos/tjpb26 (até 18/11, 16h)
 - [ ] Pagar o boleto (até 19/11)
 - [ ] Baixar o PDTI 2024–2026 do TJPB e as resoluções do CNJ
