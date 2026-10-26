@@ -68,9 +68,9 @@ Painéis completos (com mais visões, como "Por disciplina", "Só provas oficiai
 
 1. **Abrir o dia:** comece por esta Home. A seção **Hoje** diz o que estudar.
 2. **Teoria (19h):** abra a nota da disciplina e o resumo ligado a ela.
-3. **Questões (20h):** peça o bloco ao Claude. Ele salva em `QUESTÕES NÃO OFICIAIS/` com `status: pendente` e o bloco aparece em "Blocos aguardando correção".
+3. **Questões (20h):** peça o bloco ao Claude. Ele salva em `QUESTÕES NÃO OFICIAIS/Provas/` com `status: pendente` e o bloco aparece em "Blocos aguardando correção".
 4. **Responder:** no chat (`1-A, 2-C...`) ou anotando no Okular.
-5. **Correção:** o Claude cria o `_CORRECAO.md` com `acertos` e `total`. O placar entra sozinho em **Desempenho** e na nota da disciplina.
+5. **Correção:** o Claude cria o `_CORRECAO.md` em `Correções/` com `acertos` e `total`. O placar entra sozinho em **Desempenho** e na nota da disciplina.
 6. **Revisão (22:40):** regras da seção "Revisão espaçada" + caderno de erros.
 7. **Domingo:** simulado + discursiva. O Claude cria a nota em `simulados/` e ela aparece na visão "Simulados".
 

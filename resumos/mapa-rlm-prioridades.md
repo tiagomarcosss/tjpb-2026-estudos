@@ -65,7 +65,7 @@ Fonte: [Edital TJPB 2026 – FGV, p. 34](https://conhecimento.fgv.br/sites/defau
 
 ## 3. Aula 04 · Problemas de Raciocínio (56 questões FGV)
 
-Arquivo: `PROVAS OFICIAIS (estudo)/2026-10-26_FGV-RLM_Aula04-Problemas-de-Raciocinio_56-questoes.pdf` (questões oficiais FGV compiladas; gabarito na última página).
+Arquivo: `PROVAS OFICIAIS (estudo)/Provas/2026-10-26_FGV-RLM_Aula04-Problemas-de-Raciocinio_56-questoes.pdf` (questões oficiais FGV compiladas; gabarito na última página).
 
 | # | Assunto | Questões | Qtd | Técnica-chave |
 |---|---|---|---|---|

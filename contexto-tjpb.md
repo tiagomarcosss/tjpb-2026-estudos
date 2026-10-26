@@ -11,7 +11,7 @@
 - Semana 0 (21–25/10): inscrição, caderno de erros, Anki e diagnóstico.
 - Adiantando a Semana 1 (Engenharia de Software e Ágil) desde 22/10.
 - Estudo sem cursinho: fontes oficiais + banco de questões (QConcursos/TEC) + Claude como professor e corretor de discursiva. Pacotes pós-edital ainda não lançados.
-- Questões autorais salvas em .md na pasta "QUESTÕES NÃO OFICIAIS" (padrão: `AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md` + `_CORRECAO.md`).
+- Questões autorais salvas em .md na pasta "QUESTÕES NÃO OFICIAIS" (blocos em `Provas/`: `AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md`; correções em `Correções/`: `_CORRECAO.md`). Provas oficiais seguem a mesma divisão.
 - Simulados: todo domingo, 13h–17h, + 1 discursiva + 1h de correção. Em janeiro, 13h–18h.
 - 1º simulado: domingo 25/10, prova FGV TRT-16 2022 (Analista Judiciário – TI). Pular Legislação e Atualidades.
 
@@ -33,14 +33,14 @@
   - Em branco: oração subordinada substantiva, adjunto adnominal × complemento nominal.
   - Erros: interpretação (rótulo "irônica"; risquei o paradoxo certo), regência ("lembra do"), vocabulário (irascível), discurso direto × indireto, "de modo que" (consequência × finalidade), verbo de ligação ("ficou à janela"), concordância ("é proibido a entrada").
   - Padrões: lacuna de base em sintaxe; julgar pelo uso comum e não pela norma; errar "assinale a incorreta" marcando alternativa verdadeira (Q6, Q8); trocar a resposta certa sem regra (Q4, Q5).
-  - Arquivos: `PROVAS OFICIAIS (estudo)/2026-10-23_Semana-00_FGV-DATAPREV_Portugues_*` (prova, PDF original, correção v3).
+  - Arquivos: `PROVAS OFICIAIS (estudo)/Provas/2026-10-23_Semana-00_FGV-DATAPREV_Portugues_*` (prova e PDF original) e `Correções/` (correção v3).
   - Meta para a próxima prova de Português: ≥ 5/12, nenhuma em branco por desconhecimento.
 - **24/10 · Bloco Eng. Software UNIVESP Aulas 01–05 (14 autorais, PDF anotado à mão):** 9/14 (64%) · 3 erros · 2 em branco
   - Acertos: atividades do processo, cascata, incremental ("incorreta"), reuso (I/II/III), Manifesto Ágil, ágil × planos, test-first, requisito de usuário × sistema, RNF ("incorreta").
   - Em branco (não estudado): RUP · fases (Elaboração) e 3 perspectivas.
   - Erros: XP (aceitei "propriedade coletiva = um dono"; descartei histórias de usuário achando que era só Scrum), scaling up × out, RNF de produto × organizacional (invertidos).
   - Evolução: "assinale a incorreta" 2/2 usando V/F ao lado (era erro na DATAPREV); modelos de processo acertados de novo.
-  - Arquivo: `QUESTÕES NÃO OFICIAIS/2026-10-23_Semana-01_Bloco-01_EngSoftware-UNIVESP-Aulas01a05_CORRECAO_v2.md` (+ .pdf)
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-23_Semana-01_Bloco-01_EngSoftware-UNIVESP-Aulas01a05_CORRECAO_v2.md` (+ .pdf)
 - **25/10 · Simulado TRT-16 2022:** Port __/10 · RLM __/10 · Específicas __/40 · Discursiva __/40
   - Erros: __
 - **Evolução:** — (ponto de partida)

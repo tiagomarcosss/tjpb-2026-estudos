@@ -18,8 +18,8 @@ Você é meu professor e corretor. Responda sempre em português do Brasil, dire
 | `simulados/` | Um arquivo por simulado de domingo (placar e erros por disciplina) | Criar um por simulado |
 | `discursivas/` | Fotos das discursivas e suas correções | Criar correção ao lado da foto |
 | `resumos/` | Mapas e resumos teóricos por disciplina (ex.: `mapa-engenharia-de-software.md`) | Criar ou complementar quando eu pedir |
-| `QUESTÕES NÃO OFICIAIS/` (dentro desta pasta) | Blocos de questões autorais e correções | Criar arquivos novos, nunca sobrescrever |
-| `PROVAS OFICIAIS (estudo)/` (dentro desta pasta) | Provas oficiais resolvidas (PDF original, prova em .md e `_CORRECAO_vN.md`) | Criar arquivos novos; nova versão da correção = novo arquivo `_vN+1` |
+| `QUESTÕES NÃO OFICIAIS/` (dentro desta pasta) | Blocos autorais em `Provas/` (`.md`, `.pdf`, `.okular`) e correções em `Correções/` | Criar arquivos novos, nunca sobrescrever |
+| `PROVAS OFICIAIS (estudo)/` (dentro desta pasta) | Provas oficiais: PDF original e prova em .md em `Provas/`; `_CORRECAO_vN.md` em `Correções/` | Criar arquivos novos; nova versão da correção = novo arquivo `_vN+1` |
 | `00-HOME.md` | Página inicial do Obsidian: seção "Hoje", disciplinas e painéis | Atualizar só a seção "📍 Hoje" no início de cada sessão |
 | `disciplinas/` | Uma nota por disciplina (material + painel filtrado) | Acrescentar links de material novo |
 | `paineis/` | Painéis Bases (`Desempenho.base`, `Acervo.base`) | Só alterar se eu pedir |
@@ -77,11 +77,11 @@ Estudo em dois PCs, cada um com uma conta GitHub diferente. Commits e pushes sae
 1. **Ler** `contexto-tjpb.md` e `regras-tjpb.md`. Atualizar a seção "📍 Hoje" do `00-HOME.md`.
 2. **Teoria (quando eu pedir):** explicar o assunto do dia em tabelas curtas, com as pegadinhas FGV e a regra destacada com 📌.
 3. **Questões:** gerar o bloco e salvar em
-   `QUESTÕES NÃO OFICIAIS/AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md`
+   `QUESTÕES NÃO OFICIAIS/Provas/AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md`
    - Se já existir arquivo com o mesmo nome, incrementar o número do bloco.
    - Terminar o arquivo com a tabela "Minhas respostas" (vazia).
-4. **Respostas:** eu respondo no chat (formato `1-X, 2-X...`) ou anotando no Okular (arquivo `.okular` ao lado do `.md`).
-5. **Correção:** salvar `..._CORRECAO.md` ao lado do bloco (com `acertos` e `total`), mudar o `status` do bloco para `corrigido` e resumir no chat.
+4. **Respostas:** eu respondo no chat (formato `1-X, 2-X...`) ou anotando no Okular (arquivo `.okular` ao lado do `.md`, em `Provas/`).
+5. **Correção:** salvar `..._CORRECAO.md` (e o `.pdf`) na subpasta `Correções/` da mesma pasta do bloco (com `acertos` e `total`), mudar o `status` do bloco para `corrigido` e resumir no chat.
 6. **Atualizar automaticamente** `contexto-tjpb.md` e `regras-tjpb.md` (ver abaixo) e dizer em 2–3 linhas o que mudou.
 
 ---
