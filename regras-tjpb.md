@@ -1,6 +1,6 @@
 # Regras Estudadas · TJPB 2026
 
-**Atualizado em:** 26/10/2026
+**Atualizado em:** 27/10/2026
 
 > Arquivo acumulativo: só recebe acréscimos, no fim da seção certa. Uma regra por linha. Usado para revisão espaçada.
 > Data entre colchetes = quando a regra entrou.
@@ -34,6 +34,15 @@
 - [21/10] "A ou B" + não B → logo A.
 - [21/10] Se e somente se: as duas partes são sempre iguais (ambas V ou ambas F).
 - [21/10] Encadeamento: começar pela premissa solta; sem premissa solta, supor uma afirmação e buscar contradição.
+- [27/10] Proposição = frase declarativa com um único valor V ou F. Não são: pergunta, ordem, exclamação, sentença aberta (x + 3 = 10) e paradoxo ("esta frase é falsa").
+- [27/10] Linhas da tabela-verdade = 2ⁿ, n = proposições simples diferentes. Letra repetida conta 1 vez; letra negada (~T) também conta.
+- [27/10] De Morgan: ~(A e B) = ~A ou ~B · ~(A ou B) = ~A e ~B. Nega as partes E troca o conectivo (Boole: (A·B)' = A' + B').
+- [27/10] A → B = ~A ∨ B (Boole: A' + B). Só é F em V → F. Equivalentes: ~B → ~A e ~A ∨ B. Recíproca (B → A) e inversa (~A → ~B) não.
+- [27/10] ↔ é V quando os lados são iguais, inclusive F ↔ F = V. ~(A ↔ B) = "ou A, ou B" (XOR, lados diferentes).
+- [27/10] "Ou… ou" (XOR) verdadeiro: um lado é o oposto do outro. "Ou" simples aceita os dois V.
+- [27/10] Tautologia: a simplificação chega em x + x' (= 1). Contradição: x · x' (= 0). (A → B) → (B → A) não é tautologia.
+- [27/10] Condicional dada como falsa → antecedente V e consequente F; consequente com "ou" → todas as partes F. Achar os valores e testar cada alternativa com eles.
+- [27/10] Fato negativo também é fato: em x' + y = V com y = F, conclui-se x = F (voltar negando a cadeia).
 
 ### Quantificadores e argumentação
 
@@ -41,6 +50,7 @@
 - [21/10] Todo/algum/nenhum: desenhar círculos (diagramas), não usar tabela de conectivos.
 - [21/10] "Todo A é B" equivale a "todo não B é não A" (não equivale a "todo B é A").
 - [21/10] Generalização: poucos casos → todos. Falsa causa: causa errada para um fato.
+- [27/10] Negação de "todo A é B" = "algum A não é B" (pelo menos um), nunca "nenhum". Negação de "algum A é B" = "nenhum A é B".
 
 ### Matemática
 
@@ -139,3 +149,5 @@
 - [24/10] Item V/F que define uma prática pelo oposto do nome ("propriedade coletiva" = "um único dono") é falso. Um item não fica falso só porque a prática também existe em outro método.
 - [26/10] Nunca deixar em branco (a FGV não desconta erro): eliminar o item que contradiz o que já sei e chutar entre as restantes.
 - [26/10] Em V/F, conferir a quem se refere cada expressão da frase ("que estão no lado esquerdo" se refere aos requisitos, não ao teste).
+- [27/10] Lógica: antes de marcar, reler a alternativa escolhida e conferir com os valores deduzidos (errei Q10 e Q11 com o raciocínio certo).
+- [27/10] Lógica pelo método de Boole: frase → letras positivas → converter (A → B = A' + B) → simplificar → comparar apóstrofo e porta.

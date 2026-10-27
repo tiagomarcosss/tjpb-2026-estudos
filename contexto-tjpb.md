@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 26/10/2026 · **Semana do plano:** 1 (Engenharia de Software e Ágil)
+**Atualizado em:** 27/10/2026 · **Semana do plano:** 1 (Engenharia de Software e Ágil)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -61,6 +61,12 @@
   - Pastas de questões e provas divididas em `Provas/` e `Correções/`. Correções passam a sair sempre em PDF.
   - 1ª retificação do edital lida e aplicada ao plano (v3): jornada 30h, isenção só até 27/10, item 10.12 corrigido.
   - Anki com AnkiConnect: 30 cartões em formato FGV simplificado, baralhos `TJPB 2026::03 Engenharia de Software e Ágil::<assunto>` + `00 Estratégia de prova`. Primeira revisão: hoje às 22:40.
+- **27/10 · Bloco RLM Conectivos e proposições (15 autorais, PDF anotado):** 8/15 (53%) · 7 erros · 0 em branco
+  - Acertos: condicional falsa, negação do "e" e do "se… então" e contrapositiva (3, 4 e 5 assistidas, explicadas antes da resposta), bicondicional na dedução, validade (Q12: não caiu em negar o antecedente, erro de 21/10), negação de "todo", leitura de código Python (XOR com `!=`).
+  - Erros de conteúdo: paradoxo tomado como proposição, tabela 2⁴ em vez de 2⁵ (contou 4 variáveis), F ↔ F avaliado como F, tautologia por eliminação sem simplificar, condicional falsa (copiou o consequente).
+  - Erros de atenção: Q10 (deduziu Ana V e Bruno F, mas marcou a D) e Q11 (pressa: aceitou "fato negativo não conclui").
+  - Método que funcionou: lógica como Álgebra de Boole/circuitos do IFPB (A → B = A' + B, ↔ = XNOR, ou… ou = XOR) e a analogia do segurança da festa. Usar esse formato nas explicações de RLM.
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-27_Semana-01_Bloco-01_RLM-Conectivos-e-Proposicoes_CORRECAO.pdf` (+ .md)
 
 ---
 
@@ -70,12 +76,13 @@
 
 1. Sintaxe (base): termos da oração, predicação verbal, AA × CN, orações subordinadas
 2. Concordância verbal e nominal pela norma-padrão (≈50% do Português FGV)
-3. Lógica da argumentação: silogismos, validade, falácias
-4. Regência verbal e pronomes relativos (lembrar/lembrar-se, obedecer a, cujo, onde/aonde)
-5. Interpretação: opinião × fato, rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto
-6. Porcentagem e divisão proporcional
-7. Semântica: conectivos ("de modo que"), vocabulário erudito (irascível, indelével)
-8. Raciocínio sequencial (filas, trocas, calendários)
+3. Lógica da argumentação: silogismos, validade, falácias. Validade acertada em 27/10 (Q12); cadeia de condicionais errada por pressa (Q11)
+4. Lógica proposicional (novo, 27/10): bicondicional com F ↔ F, contagem de linhas 2ⁿ, tautologia, condicional dada como falsa, "ou… ou" na dedução. Negações e equivalências: 4/4 em 27/10 (1/2 para sair; foram assistidas)
+5. Regência verbal e pronomes relativos (lembrar/lembrar-se, obedecer a, cujo, onde/aonde)
+6. Interpretação: opinião × fato, rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto
+7. Porcentagem e divisão proporcional
+8. Semântica: conectivos ("de modo que"), vocabulário erudito (irascível, indelével)
+9. Raciocínio sequencial (filas, trocas, calendários)
 
 ### Técnico
 
@@ -87,7 +94,7 @@
 6. Leitura de código: 2/2 em 26/10 (1/2 para sair)
 7. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
 8. XP · práticas: acertou em 26/10 (1/2 para sair)
-9. Estratégia de prova: "incorreta" (errou Q3 em 26/10 por conteúdo, mas marcou "?" na certa) e nunca deixar em branco
+9. Estratégia de prova: "incorreta" (errou Q3 em 26/10 por conteúdo, mas marcou "?" na certa), nunca deixar em branco e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10)
 
 ---
 
@@ -96,10 +103,11 @@
 | Dia | O que fazer |
 |---|---|
 | Seg 26/10 · 22:40 | Reler as 7 regras 📌 dos erros da prova de hoje. Anki: "RUP dinâmica × estática × prática", "Scaling up × out", "Lead × cycle time", "V: qual teste para qual fase?", "Dono do Sprint Backlog" |
-| Ter 27/10 | Almoço: RLM (lógica proposicional). Bloco 1: RF × RNF × regras de negócio + 10 min de RUP (seção 3.6 do mapa). Bloco 2: questões FGV de requisitos + 5 de Kanban |
-| Qua 28/10 | Plano: user stories (INVEST) + Gherkin. Revisão: refazer Q1, Q2, Q11 e Q13 da prova de 26/10 sem olhar. Revisão espaçada de 7 dias das regras de 21/10 |
-| Qui 29/10 → Sáb 31/10 | Seguir a seção 4.1 do plano (estimativa, SDD, revisão da semana) |
-| Dom 01/11 · 13h | Simulado + discursiva. Meta: zero questões em branco |
+| Ter 27/10 | ✅ Almoço/tarde: bloco RLM conectivos (8/15). Bloco 1: RF × RNF × regras de negócio + 10 min de RUP (seção 3.6 do mapa). Bloco 2: questões FGV de requisitos + 5 de Kanban. 22:40: reler as 7 regras 📌 do bloco RLM e refazer Q6, Q7 e Q15 sem olhar |
+| Qua 28/10 | Plano: user stories (INVEST) + Gherkin. Revisão: refazer Q1, Q2, Q11 e Q13 da prova de 26/10 sem olhar. Revisão espaçada de 7 dias das regras de 21/10 + refazer Q8 e Q10 do bloco RLM |
+| Qui 29/10 | Almoço: RLM, 10 questões FGV de equivalências e negações (QConcursos/TEC), pelo método de Boole. Depois, seção 4.1 do plano |
+| Sex 30/10 → Sáb 31/10 | Seguir a seção 4.1 do plano (estimativa, SDD, revisão da semana). Sáb no almoço: RLM argumentação e diagramas (todo/algum/nenhum) |
+| Dom 01/11 · 13h | Simulado + discursiva. Meta: zero questões em branco e reler cada alternativa de lógica antes de marcar |
 | Pendente | Placar do simulado TRT-16 de 25/10 (Port · RLM · Específicas · Discursiva) |
 
 - **Almoço (Português, 10 questões FGV por dia):**
