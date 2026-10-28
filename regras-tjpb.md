@@ -161,3 +161,4 @@
 - [26/10] Em V/F, conferir a quem se refere cada expressão da frase ("que estão no lado esquerdo" se refere aos requisitos, não ao teste).
 - [27/10] Lógica: antes de marcar, reler a alternativa escolhida e conferir com os valores deduzidos (errei Q10 e Q11 com o raciocínio certo).
 - [27/10] Lógica pelo método de Boole: frase → letras positivas → converter (A → B = A' + B) → simplificar → comparar apóstrofo e porta.
+$LINE

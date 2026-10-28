@@ -17,7 +17,7 @@ total: 15
 
 > Questões autorais no estilo FGV, elaboradas para treino. Não são questões oficiais.
 
-> **Marcas no PDF:** "?" em "Deus" (Q2) e na Q6 (deixada em branco). Há também um **pontinho vermelho** depois da sua resposta nas Q4, Q10 e Q11. Não há regra registrada para essa marca. Se ela quer dizer "chute" ou "dúvida", me avise que eu registro.
+> **Marcas no PDF:** "?" em "Deus" (Q2) e na Q6 (deixada em branco). O **pontinho** marca uma alternativa candidata, que pode ser a certa sem que você tenha certeza (seu método de eliminação). Ele aparece nas Q4 ✅, Q10 ❌ e Q11 ✅. Ou seja: 7 dos 9 acertos foram com certeza, e a Q10 caiu justamente na dúvida.
 
 | Questão | Assunto | Sua | Gabarito | Resultado |
 |---|---|---|---|---|
