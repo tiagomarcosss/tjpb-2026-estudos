@@ -16,7 +16,7 @@ atualizado: 2026-10-28
 >
 > **Nível:** 🔴 aprofundar · 🟡 básico · ⚪ só o conceito (ver seção 4.1 do [[plano-tjpb]]).
 >
-> **Progresso (atualizado em 28/10/2026):** ✅ <u>já vi</u> = teoria estudada + bloco de questões feito · 🔄 <u>estou vendo</u> = em andamento (ainda não conta no %). "Visto" não quer dizer "dominado": os erros continuam em [[regras-tjpb]] e no Anki.
+> **Progresso (atualizado em 28/10/2026):** <ins>sublinhado</ins> = já vi (teoria estudada + bloco de questões feito) · <ins>*sublinhado em itálico*</ins> = estou vendo (ainda não conta no %). "Visto" não quer dizer "dominado": os erros continuam em [[regras-tjpb]] e no Anki.
 > - **% da área:** assuntos vistos ÷ assuntos da área.
 > - **% da disciplina:** Português e RLM pesam cada área pela incidência (% da prova); Específicas é a média das 13 áreas, porque não há incidência.
 > - Atualizar este mapa ao fim de cada bloco de estudo.
@@ -25,11 +25,11 @@ atualizado: 2026-10-28
 
 ## Língua Portuguesa (10 questões)
 
-**Progresso em Português: 0%** · 🔄 Módulo 0 começou em 28/10 (área A, parte 1)
+**Progresso em Português: 0%** · Módulo 0 começou em 28/10 (área A, parte 1)
 
 | Área | O que engloba | Edital | % | Questões | Nível | Progresso |
 |---|---|---|---|---|---|---|
-| **A. MORFOLOGIA** (classes de palavras) | 🔄 <u>Substantivo, adjetivo, artigo, numeral</u>, pronome, verbo (tempos e modos), advérbio, preposição, conjunção, interjeição + locuções (🔄 <u>locução adjetiva</u>) | 5.1, 4.2 | 11,3% | ~1 | 🟡 base | 0/11 · 0% 🔄 |
+| **A. MORFOLOGIA** (classes de palavras) | <ins>*Substantivo, adjetivo, artigo, numeral*</ins>, pronome, verbo (tempos e modos), advérbio, preposição, conjunção, interjeição + locuções (<ins>*locução adjetiva*</ins>) | 5.1, 4.2 | 11,3% | ~1 | 🟡 base | 0/11 · 0% (em andamento) |
 | **B. SINTAXE DA ORAÇÃO** (termos) | Sujeito e predicado, tipos de verbo, objeto direto e indireto, predicativo, complemento nominal, adjuntos, aposto, vocativo | 5.2, 5.3 | junto com C | — | 🔴 base | 0/8 · 0% |
 | **C. SINTAXE DO PERÍODO** | Coordenação, orações subordinadas (substantivas, adjetivas, adverbiais), conectivos | 5.2, 5.3 | 5,2% (B+C) | ~0,5 | 🟡 | 0/3 · 0% |
 | **D. CONCORDÂNCIA** | Verbal (sujeito posposto e composto, haver/fazer, "se", "um dos que") e nominal ("é proibido", anexo, meio, bastante) | 5.5 | 49,7% | ~5 ⚠️ | 🔴 | 0/2 · 0% |
@@ -79,8 +79,8 @@ Método: explicação com analogia de programação + questões autorais básica
 
 | Área | O que engloba | Edital | % | Questões | Nível | Progresso |
 |---|---|---|---|---|---|---|
-| **1. LÓGICA PROPOSICIONAL** | ✅ <u>Proposições, conectivos, tabela-verdade, equivalências e negações</u> (bloco de 27/10: 8/15) | 13–16 | 17,6% | ~2 | 🔴 | 4/4 · 100% ✅ |
-| **2. ARGUMENTAÇÃO E RACIOCÍNIO** | ✅ <u>Argumentação</u> (dedução e validade, 27/10), diagramas lógicos (todo/algum/nenhum), orientação temporal e espacial, verdades e mentiras | 17–19 | 10,6% | ~1 | 🔴 | 1/4 · 25% |
+| **1. LÓGICA PROPOSICIONAL** | <ins>Proposições, conectivos, tabela-verdade, equivalências e negações</ins> (bloco de 27/10: 8/15) | 13–16 | 17,6% | ~2 | 🔴 | 4/4 · 100% |
+| **2. ARGUMENTAÇÃO E RACIOCÍNIO** | <ins>Argumentação</ins> (dedução e validade, 27/10), diagramas lógicos (todo/algum/nenhum), orientação temporal e espacial, verdades e mentiras | 17–19 | 10,6% | ~1 | 🔴 | 1/4 · 25% |
 | **3. MATEMÁTICA BÁSICA** | Conjuntos e operações, razão e proporção, regra de três, porcentagem | 1–4 | 38,3% | ~4 | 🔴 ⭐ maior peso | 0/4 · 0% |
 | **4. MATEMÁTICA FINANCEIRA** | Juros simples e compostos | 5 | 10,5% | ~1 | 🔴 | 0/2 · 0% |
 | **5. ÁLGEBRA** | Equações, inequações e sistemas, funções, sequências (PA, PG), matrizes | 6–9 | 18,5% | ~2 | 🟡 (matrizes ⚪) | 0/4 · 0% |
@@ -104,7 +104,7 @@ Não há tabela de incidência das específicas, então não há coluna de %. Se
 
 | Área | O que engloba | Semana | Nível | Progresso |
 |---|---|---|---|---|
-| **T1. ENGENHARIA DE SOFTWARE E ÁGIL** | ✅ <u>SDLC (cascata, iterativo, RUP, V, espiral)</u>, ✅ <u>Scrum</u>, ✅ <u>Kanban e Lean</u>, SAFe, 🔄 <u>requisitos (elicitação, RF × RNF × regras de negócio)</u>, user stories e backlog, APF/IFPUG, estimativa ágil, SDD | 1–2 | 🔴 | 3/9 · 33% 🔄 |
+| **T1. ENGENHARIA DE SOFTWARE E ÁGIL** | <ins>SDLC (cascata, iterativo, RUP, V, espiral)</ins>, <ins>Scrum</ins>, <ins>Kanban e Lean</ins>, SAFe, <ins>*requisitos (elicitação, RF × RNF × regras de negócio)*</ins>, user stories e backlog, APF/IFPUG, estimativa ágil, SDD | 1–2 | 🔴 | 3/9 · 33% (em andamento) |
 | **T2. QUALIDADE E TESTES** | Tipos de teste (unitário → aceitação, carga), TDD, automação, SAST × DAST × IAST, SonarQube, contract e mutation testing | 2 | 🔴 / 🟡 | 0/6 · 0% |
 | **T3. ALGORITMOS E POO** | Big-O, listas, pilhas, filas, árvores, hash, busca e ordenação, **leitura de código**, POO, SOLID | 3 | 🔴 | 0/6 · 0% |
 | **T4. ARQUITETURA E PADRÕES** | GoF (criacionais, estruturais, comportamentais), IoC e DI, padrões corporativos, SOA, REST × SOAP, microsserviços, eventos (Kafka, RabbitMQ), Clean Architecture, DDD, métricas DORA | 3 e 6 | 🔴 | 0/10 · 0% |
@@ -129,8 +129,8 @@ Não há tabela de incidência das específicas, então não há coluna de %. Se
 
 | Disciplina | Áreas | Peso | Progresso | Onde estou (28/10) |
 |---|---|---|---|---|
-| **Português** | A–I | 10 questões | ▱▱▱▱▱▱▱▱▱▱ 0% | 🔄 A. Morfologia (Módulo 0, parte 1) |
-| **RLM** | 1–6 | 10 questões | ▰▰▱▱▱▱▱▱▱▱ ~20% | ✅ 1. Lógica proposicional · próximo: 2 e 3 |
-| **Específicas** | T1–T13 | 40 questões (+ discursiva) | ▱▱▱▱▱▱▱▱▱▱ ~3% | 🔄 T1. Engenharia de Software e Ágil (33%) |
+| **Português** | A–I | 10 questões | ▱▱▱▱▱▱▱▱▱▱ 0% | A. Morfologia (Módulo 0, parte 1), em andamento |
+| **RLM** | 1–6 | 10 questões | ▰▰▱▱▱▱▱▱▱▱ ~20% | 1. Lógica proposicional concluída · próximo: 2 e 3 |
+| **Específicas** | T1–T13 | 40 questões (+ discursiva) | ▱▱▱▱▱▱▱▱▱▱ ~3% | T1. Engenharia de Software e Ágil (33%), em andamento |
 
 - Estamos na Semana 1 de 13 (cerca de 8% do tempo até a prova). Específicas e Português estão abaixo desse ritmo; RLM está acima.
