@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 27/10/2026 · **Semana do plano:** 1 (Engenharia de Software e Ágil)
+**Atualizado em:** 28/10/2026 · **Semana do plano:** 1 (Engenharia de Software e Ágil)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -14,7 +14,7 @@
 - Estudo sem cursinho: fontes oficiais + banco de questões (QConcursos/TEC) + Claude como professor e corretor de discursiva. Pacotes pós-edital ainda não lançados.
 - Questões autorais salvas em .md na pasta "QUESTÕES NÃO OFICIAIS" (blocos em `Provas/`: `AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md`; correções em `Correções/`: `_CORRECAO.md`). Provas oficiais seguem a mesma divisão.
 - Simulados: todo domingo, 13h–17h, + 1 discursiva + 1h de correção. Em janeiro, 13h–18h.
-- 1º simulado: domingo 25/10, prova FGV TRT-16 2022 (Analista Judiciário – TI). Pular Legislação e Atualidades.
+- **1º simulado oficial: domingo 01/11, 13h**, cronometrado e sem consulta. Prova FGV inédita: TJ-MS 2024 ou TJ-AP 2024 (recomendadas) ou outro caderno da DATAPREV (não o ATI Desenvolvimento de Software · tarde, cujo Português já foi resolvido em 23/10). Marcar "?" nos chutes. É o ponto de partida da evolução. O TRT-16 de 25/10 foi desconsiderado.
 
 ---
 
@@ -42,8 +42,7 @@
   - Erros: XP (aceitei "propriedade coletiva = um dono"; descartei histórias de usuário achando que era só Scrum), scaling up × out, RNF de produto × organizacional (invertidos).
   - Evolução: "assinale a incorreta" 2/2 usando V/F ao lado (era erro na DATAPREV); modelos de processo acertados de novo.
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-23_Semana-01_Bloco-01_EngSoftware-UNIVESP-Aulas01a05_CORRECAO_v2.md` (+ .pdf)
-- **25/10 · Simulado TRT-16 2022:** Port __/10 · RLM __/10 · Específicas __/40 · Discursiva __/40
-  - Erros: __
+- **25/10 · Simulado TRT-16 2022:** desconsiderado (feito sem condições de prova e sem placar). Não entra na evolução.
 - **Evolução:** — (ponto de partida)
 - **Observação:** no TRT-16, Português de Analista cobrou mais argumentação, inferência e organização textual do que gramática pura.
 
@@ -109,8 +108,7 @@
 | Qua 28/10 | Plano: user stories (INVEST) + Gherkin. Revisão: refazer Q1, Q2, Q11 e Q13 da prova de 26/10 sem olhar. Revisão espaçada de 7 dias das regras de 21/10 + refazer Q8 e Q10 do bloco RLM |
 | Qui 29/10 | Almoço: RLM, 10 questões FGV de equivalências e negações (QConcursos/TEC), pelo método de Boole. Depois, seção 4.1 do plano |
 | Sex 30/10 → Sáb 31/10 | Seguir a seção 4.1 do plano (estimativa, SDD, revisão da semana). Sáb no almoço: RLM argumentação e diagramas (todo/algum/nenhum) |
-| Dom 01/11 · 13h | Simulado + discursiva. Meta: zero questões em branco e reler cada alternativa de lógica antes de marcar |
-| Pendente | Placar do simulado TRT-16 de 25/10 (Port · RLM · Específicas · Discursiva) |
+| Dom 01/11 · 13h | **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
 
 - **Almoço (Português, 10 questões FGV por dia):**
 

@@ -512,7 +512,7 @@ Não é redação estilo ENEM. É uma questão técnica: o enunciado pede itens 
 - [ ] Baixar o PDTI 2024–2026 do TJPB e as resoluções do CNJ
 - [x] Resolver 1 prova FGV de Analista de TI como diagnóstico (TJ-RR)
 - [ ] Criar o caderno de erros (papel, Notion ou planilha) e o baralho no Anki
-- [ ] Primeiro simulado: domingo 25/10, às 13h (TRT-16 2022)
+- [ ] Primeiro simulado oficial: domingo 01/11, às 13h, cronometrado (TJ-MS 2024, TJ-AP 2024 ou DATAPREV inédita). O TRT-16 de 25/10 foi desconsiderado
 
 ### Véspera e dia da prova
 
