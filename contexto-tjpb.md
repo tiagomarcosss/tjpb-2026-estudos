@@ -68,6 +68,12 @@
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-27_Semana-01_Bloco-01_RLM-Conectivos-e-Proposicoes_CORRECAO.pdf` (+ .md)
   - Anki: 31 cartões FGV (10 em cada sub-baralho `02 RLM::01 Conectivos e tabela-verdade`, `02 Negações e equivalências`, `03 Dedução e argumentos` + 1 em `00 Estratégia de prova`). Cópia em `anki/2026-10-27_RLM-Conectivos-Proposicoes_formato-FGV.tsv`.
   - Edital completo lido (`edital/edital.pdf`) → **plano v4**: parte "Comum a todos os cargos de TI" incluída (SO, redes, BI, ISO 27005, gestão de TI, PJe, MoReq-Jus, Res. 522/2023), níveis 🔴 🟡 ⚪ por assunto, normas do CNJ aos sábados e RLM com 12 itens de matemática (seção 4.2). Conversa franca sobre o volume: meta realista é passar dos 60% e ter a discursiva corrigida; as vagas dependem de constância.
+- **28/10 · Bloco Português Classes de palavras A1 (15 autorais, PDF anotado):** 9/15 (60%) · 5 erros · 1 em branco
+  - Acertos: substantivo 3/3 (substantivação, abstrato × concreto, gênero), adjetivo 2/2 (posição; opinião × fato, que era erro em 21/10), artigo definido × indefinido, numeral (classificação, "um" numeral), classificação mista. "Incorreta" 2/2 entre as respondidas.
+  - Em branco: locução → adjetivo (de rio = fluvial, não lacustre).
+  - Erros: locução adjetiva × adverbial ("às pressas"; contou "com rapidez" como adjetiva), artigos de lei (art. 10 = dez), **concordância repetida de 23/10** ("é proibido a entrada" e "seguem anexo": de novo pelo uso comum).
+  - Marca nova no PDF: pontinho vermelho após a resposta (Q4, Q10, Q11), significado a confirmar.
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-28_Semana-01_Bloco-01_Portugues-Classes-de-Palavras-A1_CORRECAO.pdf` (+ .md)
 
 ---
 
@@ -75,15 +81,17 @@
 
 ### Português / RLM
 
-1. Sintaxe (base): termos da oração, predicação verbal, AA × CN, orações subordinadas
-2. Concordância verbal e nominal pela norma-padrão (≈50% do Português FGV)
-3. Lógica da argumentação: silogismos, validade, falácias. Validade acertada em 27/10 (Q12); cadeia de condicionais errada por pressa (Q11)
-4. Lógica proposicional (novo, 27/10): bicondicional com F ↔ F, contagem de linhas 2ⁿ, tautologia, condicional dada como falsa, "ou… ou" na dedução. Negações e equivalências: 4/4 em 27/10 (1/2 para sair; foram assistidas)
-5. Regência verbal e pronomes relativos (lembrar/lembrar-se, obedecer a, cujo, onde/aonde)
-6. Interpretação: opinião × fato, rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto
-7. Porcentagem e divisão proporcional
-8. Semântica: conectivos ("de modo que"), vocabulário erudito (irascível, indelével)
-9. Raciocínio sequencial (filas, trocas, calendários)
+1. Concordância nominal pela norma-padrão (≈50% do Português FGV): "é proibida a entrada" e "seguem anexas" erradas **2×** (23 e 28/10), sempre pelo uso comum. Olhar primeiro se há artigo
+2. Sintaxe (base): termos da oração, predicação verbal, AA × CN, orações subordinadas
+3. Locução adjetiva × adverbial (novo, 28/10): errou 2/2 (Q7, Q8) e deixou em branco locução → adjetivo erudito
+4. Lógica da argumentação: silogismos, validade, falácias. Validade acertada em 27/10 (Q12); cadeia de condicionais errada por pressa (Q11)
+5. Lógica proposicional (novo, 27/10): bicondicional com F ↔ F, contagem de linhas 2ⁿ, tautologia, condicional dada como falsa, "ou… ou" na dedução. Negações e equivalências: 4/4 em 27/10 (1/2 para sair; foram assistidas)
+6. Regência verbal e pronomes relativos (lembrar/lembrar-se, obedecer a, cujo, onde/aonde)
+7. Interpretação: rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto. Opinião × fato: acertou em 28/10 (1/2 para sair)
+8. Numeração de artigos de lei (novo, 28/10): ordinal até o 9º, cardinal do 10 em diante
+9. Porcentagem e divisão proporcional
+10. Semântica: conectivos ("de modo que"), vocabulário erudito (irascível, indelével)
+11. Raciocínio sequencial (filas, trocas, calendários)
 
 ### Técnico
 
@@ -95,7 +103,7 @@
 6. Leitura de código: 2/2 em 26/10 (1/2 para sair)
 7. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
 8. XP · práticas: acertou em 26/10 (1/2 para sair)
-9. Estratégia de prova: "incorreta" (errou Q3 em 26/10 por conteúdo, mas marcou "?" na certa), nunca deixar em branco e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10)
+9. Estratégia de prova: "incorreta" (errou Q3 em 26/10 por conteúdo, mas marcou "?" na certa), nunca deixar em branco (Q6 em branco em 28/10) e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10). "Incorreta" com V/F: 2/2 em 28/10
 
 ---
 
@@ -105,18 +113,12 @@
 |---|---|
 | Seg 26/10 · 22:40 | Reler as 7 regras 📌 dos erros da prova de hoje. Anki: "RUP dinâmica × estática × prática", "Scaling up × out", "Lead × cycle time", "V: qual teste para qual fase?", "Dono do Sprint Backlog" |
 | Ter 27/10 | ✅ Almoço/tarde: bloco RLM conectivos (8/15). Bloco 1: RF × RNF × regras de negócio + 10 min de RUP (seção 3.6 do mapa). Bloco 2: questões FGV de requisitos + 5 de Kanban. 22:40: reler as 7 regras 📌 do bloco RLM e refazer Q6, Q7 e Q15 sem olhar |
-| Qua 28/10 | Plano: user stories (INVEST) + Gherkin. Revisão: refazer Q1, Q2, Q11 e Q13 da prova de 26/10 sem olhar. Revisão espaçada de 7 dias das regras de 21/10 + refazer Q8 e Q10 do bloco RLM |
+| Qua 28/10 | ✅ Almoço/tarde: Módulo 0 A1 + bloco Português classes de palavras (9/15). Plano: user stories (INVEST) + Gherkin. Revisão 22:40: regras 📌 do bloco de hoje + refazer Q7, Q8, Q10 e Q14 sem olhar; escrever 3 frases com "é proibido/proibida" e 3 com "anexo/anexas/em anexo". Revisão espaçada de 7 dias das regras de 21/10 + refazer Q8 e Q10 do bloco RLM |
 | Qui 29/10 | Almoço: RLM, 10 questões FGV de equivalências e negações (QConcursos/TEC), pelo método de Boole. Depois, seção 4.1 do plano |
-| Sex 30/10 → Sáb 31/10 | Seguir a seção 4.1 do plano (estimativa, SDD, revisão da semana). Sáb no almoço: RLM argumentação e diagramas (todo/algum/nenhum) |
+| Sex 30/10 → Sáb 31/10 | Almoço: Módulo 0. Sex A2 (verbo, advérbio, **locuções adverbiais**: fecha os erros de Q7 e Q8 de 28/10) · Sáb A3 (pronome, preposição, conjunção). Resto: seção 4.1 do plano (estimativa, SDD, revisão da semana). RLM argumentação e diagramas (todo/algum/nenhum): encaixar no Bloco 2 de sábado |
 | Dom 01/11 · 13h | **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
 
-- **Almoço (Português, 10 questões FGV por dia):**
-
-| Semana | Seg | Qua | Sex |
-|---|---|---|---|
-| 26–30/10 | Termos da oração + predicação | AA × CN | Orações subordinadas |
-| 02–06/11 | Concordância verbal | Concordância nominal | Pontuação |
-| 09–13/11 | Semântica, conectivos, reescritura | Verbo: tempos, modos, vozes | Regência e crase |
+- **Almoço (Português · Módulo 0 de base, combinado em 28/10):** qua 28/10 A1 ✅ · sex 30/10 A2 (verbo, advérbio, locuções) · sáb 31/10 A3 (pronome, preposição, conjunção) · seg 02/11 B1 (sujeito e predicado) · qua 04/11 B2 (verbo e complementos) · sex 06/11 B3 (termos acessórios) + revisão. Depois: D concordância (09–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só a partir de 09/11; até lá, autorais básicas.
 
 - **Ter e qui no almoço:** alternar argumentação/falácias e porcentagem/proporção.
 - **Anki (criar):** verbos de regência (lembrar, esquecer, simpatizar, obedecer, residir, pagar, perdoar, assistir, visar, aspirar, preferir, implicar) · adjetivos eruditos (irascível, indelével, imiscível, inefável, inócuo, iníquo, profícuo, perene) · figuras de linguagem (paradoxo, antítese, ironia, metáfora).

@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["Português"]
 assunto: "Classes de palavras A1: substantivo, adjetivo, artigo, numeral e locução adjetiva"
 semana: 1

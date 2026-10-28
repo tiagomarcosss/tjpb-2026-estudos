@@ -25,11 +25,11 @@ atualizado: 2026-10-28
 
 ## Língua Portuguesa (10 questões)
 
-**Progresso em Português: 0%** · Módulo 0 começou em 28/10 (área A, parte 1)
+**Progresso em Português: 4%** · Módulo 0 começou em 28/10 (A1 visto: bloco 9/15)
 
 | Área | O que engloba | Edital | % | Questões | Nível | Progresso |
 |---|---|---|---|---|---|---|
-| **A. MORFOLOGIA** (classes de palavras) | <ins>*Substantivo, adjetivo, artigo, numeral*</ins>, pronome, verbo (tempos e modos), advérbio, preposição, conjunção, interjeição + locuções (<ins>*locução adjetiva*</ins>) | 5.1, 4.2 | 11,3% | ~1 | 🟡 base | 0/11 · 0% (em andamento) |
+| **A. MORFOLOGIA** (classes de palavras) | <ins>Substantivo, adjetivo, artigo, numeral</ins>, pronome, verbo (tempos e modos), advérbio, preposição, conjunção, interjeição + locuções (<ins>*locução adjetiva*</ins>) | 5.1, 4.2 | 11,3% | ~1 | 🟡 base | 4/11 · 36% (em andamento) |
 | **B. SINTAXE DA ORAÇÃO** (termos) | Sujeito e predicado, tipos de verbo, objeto direto e indireto, predicativo, complemento nominal, adjuntos, aposto, vocativo | 5.2, 5.3 | junto com C | — | 🔴 base | 0/8 · 0% |
 | **C. SINTAXE DO PERÍODO** | Coordenação, orações subordinadas (substantivas, adjetivas, adverbiais), conectivos | 5.2, 5.3 | 5,2% (B+C) | ~0,5 | 🟡 | 0/3 · 0% |
 | **D. CONCORDÂNCIA** | Verbal (sujeito posposto e composto, haver/fazer, "se", "um dos que") e nominal ("é proibido", anexo, meio, bastante) | 5.5 | 49,7% | ~5 ⚠️ | 🔴 | 0/2 · 0% |

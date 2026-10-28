@@ -1,6 +1,6 @@
 # Regras Estudadas · TJPB 2026
 
-**Atualizado em:** 27/10/2026
+**Atualizado em:** 28/10/2026
 
 > Arquivo acumulativo: só recebe acréscimos, no fim da seção certa. Uma regra por linha. Usado para revisão espaçada.
 > Data entre colchetes = quando a regra entrou.
@@ -23,6 +23,16 @@
 - [23/10] Paradoxo = ideias opostas que convivem. Alternativa que repete o texto e acrescenta rótulo (irônico, negativo) ou extrapola (impossível, sempre) é suspeita.
 - [23/10] Discurso direto = fala preservada e separada (travessão, aspas, verbo de elocução). "Narrador interpreta/absorve a fala" = discurso indireto.
 - [23/10] Variação linguística: a FGV nunca aceita tratar a variante como "desprestigiada" ou "pobre".
+- [28/10] Artigo na frente transforma qualquer palavra em substantivo: o não, o sim, o amanhã, o porquê.
+- [28/10] Abstrato = ação, estado, qualidade ou sentimento (julgamento, saudade). Concreto = ser com existência própria, real ou imaginário (juiz, Deus, fada).
+- [28/10] Gênero: o grama (peso) · a cal · a alface · o dó (pena) · o capital (dinheiro) × a capital (cidade).
+- [28/10] Adjetivo antes do substantivo = sentido figurado (grande juiz, pobre homem) · depois = literal (juiz grande, homem pobre).
+- [28/10] Locução adjetiva × adverbial: caracteriza um substantivo (servidor de plantão = plantonista) = adjetiva · liga-se ao verbo e responde como/quando/onde (saiu às pressas, chegou de manhã, tramitou com rapidez) = adverbial.
+- [28/10] Contar locuções adjetivas: preposição + substantivo colada a outro substantivo, inclusive em cadeia ("processo de família da comarca de Patos" = 3).
+- [28/10] Locução → adjetivo: rio = fluvial · lago = lacustre · chuva = pluvial · ilha = insular · chumbo = plúmbeo · sonho = onírico · guerra = bélico · fígado = hepático · pedra = pétreo.
+- [28/10] "Um" é numeral quando a frase destaca a quantidade (só um, apenas um); fora isso, artigo indefinido.
+- [28/10] Artigo e parágrafo de lei: ordinal até o 9º, cardinal do 10 em diante (art. 9º nono, art. 10 dez; LC 95/1998). Séculos, papas e reis: ordinal até o décimo.
+- [28/10] Anexo, incluso, quite e mesmo são adjetivos e concordam (seguem anexas as certidões) · "em anexo" não varia · bastante (= suficiente) varia. Reforço da regra de 23/10, errada de novo em 28/10 junto com "é proibida a entrada".
 
 ## Raciocínio Lógico-Matemático
 
