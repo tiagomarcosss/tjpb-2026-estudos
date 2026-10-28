@@ -105,13 +105,13 @@ GRUPO 5 · Áreas transversais (valem para qualquer modelo): requisitos, estimat
 
 ### 3.1 Cascata (Waterfall)
 
-| | |
-|---|---|
-| 🎯 **Pra que serve** | Organizar o projeto em fases fechadas, com aprovação formal entre elas |
-| 🏛️ **Onde é usado** | Requisitos **estáveis e bem entendidos**, contratos de escopo fechado, sistemas embarcados ou críticos, integração com hardware. Ex.: adequar um sistema a um layout de arquivo já definido em norma |
-| 🤔 **Por que é assim** | Copia as engenharias tradicionais (civil, mecânica): projeto aprovado antes de construir. Dá **visibilidade gerencial**, porque cada fase gera um documento que pode ser cobrado |
+|                           |                                                                                                                                                                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎯 **Pra que serve**      | Organizar o projeto em fases fechadas, com aprovação formal entre elas                                                                                                                                           |
+| 🏛️ **Onde é usado**      | Requisitos **estáveis e bem entendidos**, contratos de escopo fechado, sistemas embarcados ou críticos, integração com hardware. Ex.: adequar um sistema a um layout de arquivo já definido em norma             |
+| 🤔 **Por que é assim**    | Copia as engenharias tradicionais (civil, mecânica): projeto aprovado antes de construir. Dá **visibilidade gerencial**, porque cada fase gera um documento que pode ser cobrado                                 |
 | 🔧 **Conceitos técnicos** | Fases: requisitos → projeto → implementação → testes → operação e manutenção · cada fase **só começa após a aprovação** da anterior · documentação forte · cliente vê o software só no fim (**feedback tardio**) |
-| ⚠️ **Problema** | Requisitos mudam; descobrir um erro de requisito na fase de testes custa muito caro |
+| ⚠️ **Problema**           | Requisitos mudam; descobrir um erro de requisito na fase de testes custa muito caro                                                                                                                              |
 
 📌 Winston **Royce (1970)** descreveu o modelo sequencial **para criticá-lo**: ele mesmo recomendava iteração e feedback. O nome "cascata" veio depois.
 

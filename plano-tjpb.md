@@ -7,7 +7,8 @@
 - **Inscrição:** até 18/11/2026, 16h · boleto até 19/11 · **pedido de isenção só até 27/10/2026, 16h** (1ª retificação)
 - **Vagas Dev:** 10 (6 AC · 1 PcD · 3 negros) + cadastro de reserva
 - **Meta:** 49–51 acertos na objetiva · 30+ na discursiva
-- **Versão:** 3 · 26/10/2026 · Fonte: Edital nº 01/2026 – TJPB01 + 1ª retificação (23/10/2026, arquivo em `edital/`)
+- **Versão:** 4 · 27/10/2026 · Fonte: Edital nº 01/2026 (`edital/edital.pdf`) + 1ª retificação (23/10/2026, arquivo em `edital/`)
+- **Mudanças da v4:** conteúdo conferido com o Anexo I do edital · parte "Comum a todos os cargos de TI" incluída · nível de profundidade por assunto (🔴 🟡 ⚪) · normas do CNJ espalhadas pelos sábados · conteúdo de RLM e Português (seção 4.2) · OSPF/BGP removidos
 
 ---
 
@@ -39,6 +40,7 @@
 | Discursiva (1 questão, até 30 linhas) | 40 pontos | 40% |
 | **Total** | **100 pontos** | **100%** |
 
+- As 40 específicas cobram o conteúdo do Cargo 5 **e** a parte "Comum a todos os cargos: Fundamentos de TI" (Anexo I). O edital não informa quantas questões saem de cada lista.
 - Mínimo para não ser eliminado: 36 acertos (60%) na objetiva. Cotistas e PcD: 20% a menos.
 - Discursiva corrigida apenas para os 100 primeiros da objetiva.
 - Desempate: idade ≥ 60 → maior nota em Específicas → jurado → mais velho.
@@ -125,23 +127,25 @@ A discursiva é o que separa quem passa: muitos vão empatar entre 46 e 50 acert
 
 ## 4. Cronograma: 13 semanas
 
-| Sem. | Período | Foco |
-|---|---|---|
-| 0 | 21–25/10 | Inscrição · prova FGV de diagnóstico · montar caderno de erros e Anki |
-| 1 | 26/10–01/11 | Engenharia de Software · Scrum · Kanban · requisitos |
-| 2 | 02–08/11 | APF/IFPUG · SAFe · testes e TDD (02/11 feriado: dia extra) |
-| 3 | 09–15/11 | Algoritmos · POO · SOLID · padrões GoF · IoC/DI |
-| 4 | 16–22/11 | Banco de dados · normalização · SQL (18/11 fim das inscrições · 20/11 feriado) |
-| 5 | 23–29/11 | SQL avançado · tuning · NoSQL · bancos vetoriais |
-| 6 | 30/11–06/12 | Arquitetura: SOA · REST · microsserviços · eventos · Clean Arch · DDD |
-| 7 | 07–13/12 | System Design: CAP · cache/Redis · escalabilidade · resiliência |
-| 8 | 14–20/12 | Java/Spring · JS/TS · Node · Angular/React · Python |
-| 9 | 21–27/12 | Dart/Flutter · mobile · UI/UX · WCAG/eMAG (25/12 descanso) |
-| 10 | 28/12–03/01 | DevOps: Git · CI/CD · Docker · Kubernetes · Terraform · observabilidade |
-| 11 | 04–10/01 | Segurança (OWASP, OAuth, JWT, cripto) · IA (LLM, RAG, segurança de IA) |
-| 12 | 11–17/01 | Judiciário (PDPJ, MNI, CNJ) · LGPD · Marco Civil · COBIT · ITIL · ISO 27001 · PDTI TJPB · 2 simulados completos |
-| 13 | 18–23/01 | Só revisão + simulados. Sexta e sábado: descanso. |
-| **Prova** | **Dom 24/01** | **13h · chegar até 12h30 · documento original com foto e caneta preta/azul transparente** |
+| Sem. | Período | Foco (específicas) | Sábado · norma do CNJ (1 resumo de 1 página) |
+|---|---|---|---|
+| 0 | 21–25/10 | Inscrição · prova FGV de diagnóstico · montar caderno de erros e Anki | — |
+| 1 | 26/10–01/11 | Engenharia de Software · Scrum · Kanban · requisitos | — |
+| 2 | 02–08/11 | APF/IFPUG · SAFe · testes e TDD (02/11 feriado: dia extra) | — |
+| 3 | 09–15/11 | Algoritmos · POO · SOLID · padrões GoF · IoC/DI | Res. 370/2021 |
+| 4 | 16–22/11 | Banco de dados · modelagem ER · normalização · SQL (18/11 fim das inscrições · 20/11 feriado) | Res. 396/2021 |
+| 5 | 23–29/11 | SQL avançado · tuning · NoSQL · bancos vetoriais · BI e governança de dados | Res. 468/2022 |
+| 6 | 30/11–06/12 | Arquitetura: SOA · REST · microsserviços · eventos · padrões corporativos · Clean Arch · DDD | Res. 335/2020 (PDPJ-Br) |
+| 7 | 07–13/12 | System Design: CAP · cache/Redis · escalabilidade · resiliência | Res. 615/2025 (IA) |
+| 8 | 14–20/12 | Java/Spring · JS/TS · Node · Angular/React · Python | Res. 91/2009 (MNI) + MInG |
+| 9 | 21–27/12 | Dart/Flutter · mobile · UI/UX · WCAG/eMAG · acessibilidade (25/12 descanso) | Res. 522/2023 + MoReq-Jus |
+| 10 | 28/12–03/01 | DevOps: Git · CI/CD · Docker · Kubernetes · Terraform · observabilidade + fundamentos (SO, redes, arquitetura de computadores) | PDTI 2024–2026 do TJPB |
+| 11 | 04–10/01 | Segurança (OWASP, OAuth, JWT, cripto) · IA (ML, LLM, RAG, segurança de IA) | — |
+| 12 | 11–17/01 | LGPD · Marco Civil · governança (COBIT, ITIL, ISO 27001/27002/27005) · gestão de TI · transformação digital · 2 simulados completos | — |
+| 13 | 18–23/01 | Só revisão + simulados. Sexta e sábado: descanso. | — |
+| **Prova** | **Dom 24/01** | **13h · chegar até 12h30 · documento original com foto e caneta preta/azul transparente** | |
+
+- **Normas do CNJ aos sábados:** em vez de acumular tudo na Semana 12, uma norma por sábado (30–45 min, dentro das 3h de teoria). Ler a norma original em atos.cnj.jus.br e fazer resumo de 1 página.
 
 ### Fases
 
@@ -149,7 +153,7 @@ A discursiva é o que separa quem passa: muitos vão empatar entre 46 e 50 acert
 |---|---|---|
 | 1. Base | 21/10–22/11 | Eng. Software, Ágil, APF, algoritmos, POO/SOLID, GoF, BD/SQL |
 | 2. Núcleo | 23/11–27/12 | Arquitetura, System Design, linguagens, mobile, UI/UX |
-| 3. Complemento | 28/12–17/01 | DevOps, segurança, IA, LGPD, governança, CNJ |
+| 3. Complemento | 28/12–17/01 | DevOps, fundamentos de TI, segurança, IA, LGPD, governança, CNJ |
 | 4. Reta final | 18/01–23/01 | Simulados, caderno de erros, discursivas. Nada novo. |
 
 - Sugestão: se possível, tire 2–3 dias de folga entre 18 e 22/01 para a revisão final.
@@ -159,7 +163,15 @@ A discursiva é o que separa quem passa: muitos vão empatar entre 46 e 50 acert
 
 ## 4.1 Conteúdo detalhado por semana
 
-> ⚠ = assunto de maior peso ou maior dificuldade; dedicar mais tempo.
+> **O edital é grande demais para estudar tudo a fundo. Ninguém vai dominar tudo.** Cada assunto tem um nível, e o nível define até onde ir:
+>
+> | Nível | O que fazer | Tempo |
+> |---|---|---|
+> | 🔴 **Aprofundar** | Teoria completa + muitas questões FGV + cartões no Anki. Cai em várias questões | 4–8h no total |
+> | 🟡 **Básico** | Conceitos principais + 10–20 questões. Saber reconhecer e aplicar | 1h30–3h |
+> | ⚪ **Só o conceito** | Resumo de 1 página: o que é, para que serve, 2–3 termos-chave. Passar rápido, sem culpa | 30–60 min |
+>
+> As 40 questões de específicas cobram **duas listas do edital**: a do Cargo 5 (Desenvolvimento de Sistemas) e a parte **"Comum a todos os cargos: Fundamentos de TI"**. Itens marcados com **(comum)** vêm da segunda. O edital não diz quantas questões saem de cada lista.
 
 ### Semana 1 (26/10–01/11): Engenharia de Software e Ágil
 
@@ -177,114 +189,137 @@ Ordem recomendada:
 
 (SDLC, Scrum, Kanban e Lean adiantados na Semana 0, de 22 a 24/10.)
 
-- SDLC: modelo cascata, iterativo e incremental
-- Scrum: papéis (PO, SM, Devs), eventos (Sprint, Planning, Daily, Review, Retro), artefatos (Product Backlog, Sprint Backlog, Incremento) e compromissos (Product Goal, Sprint Goal, DoD)
-- Kanban (limite de WIP, lead time, cycle time) e Lean (7 desperdícios)
-- Engenharia de requisitos: elicitação, análise, especificação e validação
-- Requisitos funcionais × não funcionais × regras de negócio
-- User stories (INVEST), critérios de aceitação (Gherkin: Dado/Quando/Então), backlog
-- Estimativa ágil: Planning Poker, story points, T-shirt sizing
-- SDD (Spec-Driven Development): especificação executável e harness de IA. É tema novo, quase sem questões; estude por artigos
+- 🟡 SDLC: cascata, iterativo e incremental (o edital cita "cascata e iterativo"; RUP, V e espiral entram como exemplos) · ciclo de vida de sistemas (comum)
+- 🔴 Scrum: papéis (PO, SM, Devs), eventos (Sprint, Planning, Daily, Review, Retro), artefatos (Product Backlog, Sprint Backlog, Incremento) e compromissos (Product Goal, Sprint Goal, DoD)
+- 🟡 Kanban (limite de WIP, lead time, cycle time) e Lean (7 desperdícios)
+- 🔴 Engenharia de requisitos: elicitação, análise, especificação e validação
+- 🔴 Requisitos funcionais × não funcionais × regras de negócio
+- 🟡 User stories (INVEST), critérios de aceitação (Gherkin: Dado/Quando/Então), gerenciamento de backlog
+- 🟡 Estimativa ágil: Planning Poker, story points, T-shirt sizing
+- ⚪ SDD (Spec-Driven Development): especificação executável e harness de IA. É tema novo, quase sem questões; estude por artigos
 
 ### Semana 2 (02–08/11): APF, SAFe e Testes
 
-- ⚠ APF/IFPUG: ALI, AIE, EE, SE, CE, complexidade (DER/RLR/TR), contagem não ajustada. Faça contas.
-- SAFe: níveis (Essential, Large Solution, Portfolio, Full), ART, PI Planning, Release Train Engineer
-- Tipos de teste: unitário, integração, funcional, sistema, aceitação, desempenho/carga/estresse
-- TDD (Red-Green-Refactor), automação de testes
-- SAST × DAST × IAST, SonarQube (code smells, quality gate, débito técnico)
-- Contract testing (Pact) e mutation testing (mutantes mortos e sobreviventes)
+- 🔴 APF/IFPUG: ALI, AIE, EE, SE, CE, complexidade (DER/RLR/TR), contagem não ajustada e aplicações. Faça contas.
+- 🟡 SAFe: níveis (Essential, Large Solution, Portfolio, Full), ART, PI Planning, Release Train Engineer
+- ⚪ Práticas de agilidade organizacional (Business Agility, times multidisciplinares, Lean Portfolio)
+- 🔴 Tipos de teste: unitário, integração, funcional, sistema, aceitação, desempenho/carga · qualidade e testes (comum)
+- 🟡 TDD (Red-Green-Refactor), automação de testes
+- 🟡 SAST × DAST × IAST, SonarQube (code smells, quality gate, débito técnico)
+- ⚪ Contract testing (Pact) e mutation testing (mutantes mortos e sobreviventes)
 
 ### Semana 3 (09–15/11): Algoritmos, POO, SOLID e GoF
 
-- ⚠ Big-O: análise de laços e recursão
-- Listas, pilhas, filas, árvores (BST, AVL, percursos pré/in/pós-ordem), tabelas hash (colisões)
-- Busca (linear, binária) e ordenação (bubble, insertion, selection, merge, quick, heap): complexidade e estabilidade
-- ⚠ Leitura de código: rastrear a saída de trechos de código (é o que mais derrubou no TJ-RR)
-- POO: herança, polimorfismo (sobrecarga × sobrescrita), encapsulamento, abstração, interface × classe abstrata
-- SOLID: um exemplo de violação de cada princípio
-- GoF: criacionais (Singleton, Factory Method, Abstract Factory, Builder, Prototype), estruturais (Adapter, Decorator, Facade, Proxy, Composite, Bridge), comportamentais (Strategy, Observer, Command, Template Method, State, Chain of Responsibility)
-- IoC e injeção de dependência
+- 🔴 Big-O: análise de laços e recursão
+- 🔴 Listas, pilhas, filas, árvores (BST, AVL, percursos pré/in/pós-ordem), tabelas hash (colisões)
+- 🟡 Busca (linear, binária) e ordenação (bubble, insertion, selection, merge, quick, heap): complexidade e estabilidade
+- 🔴 Leitura de código: rastrear a saída de trechos de código (é o que mais derrubou no TJ-RR)
+- 🔴 POO: herança, polimorfismo (sobrecarga × sobrescrita), encapsulamento, abstração, interface × classe abstrata
+- 🔴 SOLID: um exemplo de violação de cada princípio
+- 🔴 GoF: criacionais (Singleton, Factory Method, Abstract Factory, Builder, Prototype), estruturais (Adapter, Decorator, Facade, Proxy, Composite, Bridge), comportamentais (Strategy, Observer, Command, Template Method, State, Chain of Responsibility)
+- 🟡 IoC e injeção de dependência
+- Sábado: ⚪ Res. CNJ 370/2021
 
 ### Semana 4 (16–22/11): Relacional e SQL
 
-- Álgebra relacional: σ, π, ⋈, ∪, ∩, −, ×, divisão
-- Chaves (primária, candidata, estrangeira), integridade de entidade e referencial
-- Dependência funcional, 1FN, 2FN e 3FN
-- ⚠ SQL ANSI: DML, DDL, DCL (GRANT/REVOKE), TCL (COMMIT/ROLLBACK/SAVEPOINT)
-- ⚠ JOINs (INNER/LEFT/RIGHT/FULL), subconsultas (IN, EXISTS, correlacionadas), GROUP BY/HAVING, NULL em agregações
+- 🟡 Modelagem de dados (comum): conceitual, lógica e física · DER/MER · cardinalidade · mapeamento para o relacional
+- 🟡 Álgebra relacional: σ, π, ⋈, ∪, ∩, −, ×, divisão
+- 🟡 Chaves (primária, candidata, estrangeira), integridade de entidade e referencial
+- 🔴 Dependência funcional, 1FN, 2FN e 3FN
+- 🔴 SQL ANSI: DML, DDL, DCL (GRANT/REVOKE), TCL (COMMIT/ROLLBACK/SAVEPOINT)
+- 🔴 JOINs (INNER/LEFT/RIGHT/FULL), subconsultas (IN, EXISTS, correlacionadas), GROUP BY/HAVING, NULL em agregações
 - Resolver muitas questões do tipo "qual o resultado desta consulta"
+- Sábado: ⚪ Res. CNJ 396/2021
 
 ### Semana 5 (23–29/11): Objetos de BD, Tuning e NoSQL
 
-- Views, triggers (BEFORE/AFTER, ROW/STATEMENT), stored procedures
-- Plano de execução (EXPLAIN), índices (B-tree, hash, clusterizado × não clusterizado), estatísticas, particionamento
-- Diferenças pontuais entre PostgreSQL, Oracle, MySQL/MariaDB e SQL Server
-- NoSQL: chave-valor (Redis), documentos (MongoDB: find, aggregate), colunares (Cassandra), grafos (Neo4j)
-- Bancos vetoriais: embeddings, similaridade de cosseno, ANN/HNSW, pgvector
+- 🟡 Views, triggers (BEFORE/AFTER, ROW/STATEMENT), stored procedures
+- 🟡 Plano de execução (EXPLAIN), índices (B-tree, hash, clusterizado × não clusterizado), estatísticas, particionamento
+- ⚪ Diferenças pontuais entre PostgreSQL, Oracle, MySQL/MariaDB e SQL Server
+- 🟡 NoSQL: chave-valor (Redis), documentos (MongoDB: find, aggregate), colunares (Cassandra), grafos (Neo4j)
+- 🟡 Bancos vetoriais e busca vetorial: embeddings, similaridade de cosseno, índice vetorial (ANN/HNSW), pgvector
+- ⚪ BI (comum): Data Warehouse, fato × dimensão, OLAP (drill-down, roll-up, slice, dice), ETL
+- ⚪ Governança de dados (comum): metadados, qualidade de dados, ciclo de vida da informação
+- Sábado: ⚪ Res. CNJ 468/2022 (contratações de TIC)
 
 ### Semana 6 (30/11–06/12): Arquitetura de Software
 
-- SOA, REST (verbos, códigos de status, idempotência, HATEOAS) × SOAP (WSDL, envelope)
-- Microsserviços: decomposição, API Gateway, service mesh (Istio), serverless
-- EDA: Kafka (tópico, partição, consumer group, offset) × RabbitMQ (exchange, fila, binding), pub/sub
-- Clean Architecture (camadas, regra de dependência) e DDD (bounded context, agregado, entidade, value object, linguagem ubíqua)
-- Métricas DORA: frequência de deploy, lead time, MTTR, taxa de falha; cobertura e densidade de defeitos
+- 🔴 REST: verbos, códigos de status, idempotência, HATEOAS (cai muito)
+- 🟡 SOA e web services SOAP (WSDL, envelope) · APIs · arquitetura e integração de sistemas (comum)
+- 🔴 Microsserviços: decomposição, API Gateway, service mesh (Istio), serverless
+- 🟡 EDA: Kafka (tópico, partição, consumer group, offset) × RabbitMQ (exchange, fila, binding), pub/sub
+- 🟡 Padrões de arquitetura corporativa (Fowler): MVC, camadas, Service Layer, Repository, DAO, Active Record × Data Mapper, Unit of Work
+- 🟡 Clean Architecture (camadas, regra de dependência) e DDD (bounded context, agregado, entidade, value object, linguagem ubíqua)
+- 🟡 Métricas: DORA (frequência de deploy, lead time para alterações, MTTR, taxa de falha), qualidade do código, cobertura, densidade de defeitos, bugs relatados pelos clientes e satisfação do usuário
+- Sábado: ⚪ Res. CNJ 335/2020 (PDPJ-Br: microsserviços, marketplace, proteção dos serviços)
 
 ### Semana 7 (07–13/12): System Design
 
-- Latência × throughput, CAP, PACELC, ACID × BASE
-- gRPC (Protobuf, HTTP/2, streaming) × REST; WebSockets; mensageria
-- Escalabilidade horizontal × vertical, replicação, sharding, failover, clustering
-- Cache: client-side, CDN, aplicação, Redis (TTL, LRU/LFU, cache-aside, write-through)
-- Circuit breaker (estados fechado/aberto/semiaberto), graceful degradation
-- Balanceamento de carga (round robin, least connections, L4 × L7), NGINX e HAProxy, proxy reverso
+- 🔴 Latência × throughput, CAP, PACELC, ACID × BASE
+- 🟡 gRPC (Protobuf, HTTP/2, streaming) × REST; WebSockets; mensageria
+- 🟡 Escalabilidade horizontal × vertical, replicação, sharding, failover, clustering
+- 🟡 Cache: client-side, CDN, aplicação, Redis (TTL, LRU/LFU, cache-aside, write-through)
+- 🟡 Circuit breaker (estados fechado/aberto/semiaberto), graceful degradation
+- ⚪ Balanceamento de carga (round robin, least connections, L4 × L7), NGINX e HAProxy, proxy reverso
+- Sábado: ⚪ Res. CNJ 615/2025 (IA no Judiciário: vedações e limites em atos decisórios)
 
 ### Semana 8 (14–20/12): Linguagens e Frameworks
 
-- Java: Collections (List/Set/Map, ArrayList × LinkedList, HashMap), Streams (map/filter/reduce/collect), lambdas, records, sealed classes, pattern matching, switch expressions, virtual threads
-- Jakarta EE, Spring (IoC, @Autowired, @Component/@Service/@Repository), Spring Boot (starters, application.properties), JPA/Hibernate (@Entity, relacionamentos, lazy × eager, JPQL)
-- JavaScript/TypeScript: let/const/var, closures, Promises/async-await, event loop, tipos do TS; Node.js
-- Angular (componentes, módulos, DI, RxJS) e React (hooks: useState, useEffect; props; virtual DOM)
-- Python: tipos, listas, dicionários, tuplas, sets, slicing, compreensões; FastAPI (Pydantic, rotas, async) e Django (MTV, ORM, migrations)
+- 🔴 Java: Collections (List/Set/Map, ArrayList × LinkedList, HashMap), Streams (map/filter/reduce/collect), lambdas, records, sealed classes, pattern matching, switch expressions, virtual threads
+- 🟡 Jakarta EE, Spring (IoC, @Autowired, @Component/@Service/@Repository), Spring Boot (starters, application.properties), JPA/Hibernate (@Entity, relacionamentos, lazy × eager, JPQL)
+- 🟡 JavaScript/TypeScript: let/const/var, closures, Promises/async-await, event loop, tipos do TS · ⚪ Node.js
+- 🟡 Angular (componentes, módulos, DI, RxJS) e React (hooks: useState, useEffect; props; virtual DOM)
+- 🔴 Python: tipos, listas, dicionários, tuplas, sets, slicing, compreensões (leitura de código) · ⚪ FastAPI (Pydantic, rotas, async) e Django (MTV, ORM, migrations)
+- Sábado: ⚪ Res. CNJ 91/2009 (MNI) + MInG
 
 ### Semana 9 (21–27/12): Dart, Flutter, Mobile e UI/UX
 
-- Dart: tipos, null safety, try/catch, Future, async/await, Stream
-- Flutter: StatelessWidget × StatefulWidget, ciclo de vida (initState, build, dispose, setState)
-- Mobile: ciclo de vida Android/iOS, SQLite, Room, Hive/Isar, SharedPreferences/NSUserDefaults, Keystore/Keychain, SSL Pinning, ofuscação, JSON, Firebase Cloud Messaging
-- UI/UX: princípios, user flows, wireframes e protótipos (baixa/média/alta fidelidade), design systems, mobile-first
-- WCAG 2.1/2.2 (POUR, níveis A/AA/AAA), eMAG, HTML5 semântico, ARIA, leitores de tela
+- 🟡 Dart: tipos, null safety, estruturas de controle, try/catch, Future, async/await, Stream
+- 🟡 Flutter: "tudo é um widget", StatelessWidget × StatefulWidget, ciclo de vida (initState, build, dispose, setState)
+- ⚪ Flutter: gerenciamento de estado (Provider, BLoC, Cubit, Riverpod: o que cada um faz), layout (Material × Cupertino, responsivo), navegação (Navigator, rotas nomeadas, passagem de parâmetros)
+- 🟡 Mobile: ciclo de vida Android/iOS, SQLite, Room, Hive/Isar, SharedPreferences/NSUserDefaults, Keystore/Keychain, SSL Pinning, ofuscação, TLS, dados em repouso × em trânsito, JSON, Firebase Cloud Messaging
+- 🟡 UI/UX: princípios, user flows, wireframes e protótipos (baixa/média/alta fidelidade), design systems, mobile-first
+- 🟡 WCAG 2.1/2.2 (POUR, níveis A/AA/AAA), eMAG, HTML5 semântico, ARIA, leitores de tela · acessibilidade digital (comum)
 - (Dart e Flutter têm poucas questões FGV; complemente com outras bancas)
+- Sábado: ⚪ Res. CNJ 522/2023 + MoReq-Jus e gestão documental (metadados, ciclo de vida, preservação, RDC-Arq) (comum)
 
-### Semana 10 (28/12–03/01): DevOps e Nuvem
+### Semana 10 (28/12–03/01): DevOps, Nuvem e Fundamentos de TI
 
-- CI/CD: Jenkins (Jenkinsfile), GitLab CI (.gitlab-ci.yml, stages), GitHub Actions (workflows, jobs, runners)
-- Git: merge × rebase, Gitflow (main/develop/feature/release/hotfix) × Trunk-Based, GitOps (ArgoCD)
-- ⚠ Docker: Dockerfile (FROM, RUN, CMD × ENTRYPOINT, COPY), camadas, Compose, volumes, redes
-- ⚠ Kubernetes: Pod, Deployment, ReplicaSet, Service (ClusterIP/NodePort/LoadBalancer), Ingress, ConfigMap, Secret
-- IaaS/PaaS/SaaS; nuvem pública, privada e híbrida
-- Terraform: providers, módulos, state, plan/apply
-- Observabilidade: Zabbix, Prometheus (pull, PromQL), Grafana, ELK/OpenSearch, tracing distribuído, APM
+- 🟡 CI/CD: Jenkins (Jenkinsfile), GitLab CI (.gitlab-ci.yml, stages), GitHub Actions (workflows, jobs, runners)
+- 🔴 Git: merge × rebase, Gitflow (main/develop/feature/release/hotfix) × Trunk-Based, GitOps (ArgoCD)
+- 🔴 Docker: Dockerfile (FROM, RUN, CMD × ENTRYPOINT, COPY), camadas, Compose, volumes, redes
+- 🔴 Kubernetes: Pod, Deployment, ReplicaSet, Service (ClusterIP/NodePort/LoadBalancer), Ingress, ConfigMap, Secret
+- 🟡 IaaS/PaaS/SaaS; nuvem pública, privada e híbrida
+- ⚪ Terraform: providers, módulos, state, plan/apply
+- 🟡 Observabilidade: Zabbix, Prometheus (pull, PromQL), Grafana, ELK/OpenSearch, tracing distribuído, APM
+- ⚪ Arquitetura de computadores (comum): CPU, memória, cache, barramento, E/S
+- ⚪ Sistemas operacionais (comum): processos × threads, escalonamento, memória virtual, deadlock
+- 🟡 Redes e TCP/IP (comum): camadas, IP, TCP × UDP, portas, DNS, HTTP/HTTPS
+- Sábado: ⚪ PDTI 2024–2026 do TJPB
 
 ### Semana 11 (04–10/01): Segurança e IA
 
-- ⚠ OWASP Top 10 (2021): A01 Broken Access Control, A03 Injection etc.
-- Codificação segura, modelagem de ameaças (STRIDE), DevSecOps
-- Criptografia simétrica (AES) × assimétrica (RSA, ECC), hash, assinatura digital, certificados, PKI, ICP-Brasil
-- ⚠ OAuth 2.0 (fluxos, authorization code + PKCE), OpenID Connect (ID token), SAML 2.0 (IdP, SP, asserção), JWT (header.payload.signature), rate limiting
-- IA: tokenização, stemming × lematização, stop words, TF-IDF, word embeddings, Transformer (atenção), LLMs, engenharia de prompt (zero/few-shot, chain-of-thought), APIs OpenAI/Hugging Face, LangChain, RAG
-- Segurança de IA: prompt injection, jailbreak, ataques adversariais, sanitização da saída, vazamento de contexto, retenção zero
+- 🔴 OWASP Top 10 (2021): A01 Broken Access Control, A03 Injection etc.
+- 🟡 Codificação segura, modelagem de ameaças (STRIDE), DevSecOps
+- 🔴 Criptografia simétrica (AES) × assimétrica (RSA, ECC), assinatura digital, certificados, PKI, ICP-Brasil
+- 🔴 OAuth 2.0 (fluxos, authorization code + PKCE), OpenID Connect (ID token), SAML 2.0 (IdP, SP, asserção), JWT (header.payload.signature), rate limiting
+- 🟡 Segurança (comum): confidencialidade, integridade e disponibilidade · controle de acesso
+- 🟡 IA: tokenização, stemming × lematização, stop words, TF-IDF, word embeddings, Transformer (atenção), LLMs, engenharia de prompt (zero/few-shot, chain-of-thought)
+- 🔴 RAG · ⚪ APIs OpenAI/Hugging Face, LangChain
+- 🟡 Fundamentos de IA (comum): aprendizado supervisionado × não supervisionado, IA generativa
+- 🟡 Segurança de IA: prompt injection, jailbreak, ataques adversariais, sanitização da saída, vazamento de contexto, retenção zero
 
-### Semana 12 (11–17/01): Judiciário, Legislação e Governança
+### Semana 12 (11–17/01): Legislação, Governança e Gestão de TI
 
-- PDPJ-Br (Res. CNJ 335/2020): microsserviços, marketplace, proteção dos serviços
-- MNI (Res. CNJ 91/2009) e MInG
-- LGPD: princípios, dados sensíveis, bases legais, direitos do titular, privacy by design/default
-- Marco Civil: guarda de registros (1 ano de conexão, 6 meses de aplicação), responsabilidade dos provedores
-- Governança algorítmica e normas CNJ de IA (confirmar se a Res. 615/2025 é a vigente)
-- COBIT 2019 (objetivos de governança × gestão), ITIL 4 (práticas, cadeia de valor), ISO 27001/27002 (SGSI, controles)
-- Resoluções CNJ 370/2021, 396/2021 e 468/2022 · PDTI 2024–2026 do TJPB (resumo de 1 página cada)
+- 🔴 LGPD: princípios, dados sensíveis, bases legais, direitos do titular, controles técnicos, privacy by design/default
+- 🟡 Marco Civil: guarda de registros (1 ano de conexão, 6 meses de aplicação), responsabilidade dos provedores
+- 🟡 Governança algorítmica: avaliação de impacto, transparência, explicabilidade, auditabilidade, supervisão humana
+- 🟡 Revisão rápida das normas do CNJ resumidas aos sábados (PDPJ-Br, MNI, 615/2025)
+- 🟡 COBIT 2019 (governança × gestão) e ITIL 4 (práticas, cadeia de valor) (comum)
+- 🟡 ISO/IEC 27001/27002 (SGSI, controles) e 27005 (gestão de riscos) · gestão de incidentes (comum)
+- ⚪ Continuidade de negócios (comum): plano de continuidade, RPO × RTO
+- ⚪ Gestão de TI (comum): planejamento estratégico, gestão de projetos, processos (BPM) e serviços, indicadores de desempenho, contratações de TIC
+- ⚪ Transformação digital (comum): governo digital, automação de processos, interoperabilidade, PJe
 - 2 simulados completos (sáb 16/01 e dom 17/01)
 
 ### Semana 13 (18–23/01): Reta final
@@ -292,6 +327,37 @@ Ordem recomendada:
 - Só revisão: caderno de erros, Anki, arquivo de regras
 - 1 simulado só objetivas (ter 19/01)
 - Sexta e sábado: descanso
+
+---
+
+## 4.2 Português e RLM (almoço, alternando por dia)
+
+São 20 das 60 questões. Dose diária no almoço (10 questões FGV) e revisão no Anki.
+
+### Raciocínio Lógico-Matemático (10 questões)
+
+O edital tem 19 itens, e **12 são de matemática**. Não dá para ficar só em lógica.
+
+| Semanas | Assunto | Nível |
+|---|---|---|
+| 1–2 | Proposições, conectivos, tabelas-verdade, equivalências e negações, argumentação, diagramas lógicos | 🔴 |
+| 3 | Conjuntos numéricos · razões e proporções · regra de três simples e composta | 🟡 |
+| 4 | Porcentagem · juros simples e compostos | 🔴 |
+| 5 | Equações, inequações e sistemas · funções | 🟡 |
+| 6 | Sequências (PA, PG, padrões) | 🟡 |
+| 7 | Análise combinatória | 🔴 |
+| 8 | Probabilidade | 🔴 |
+| 9 | Estatística descritiva (média, mediana, moda, desvio padrão) | 🟡 |
+| 10 | Matrizes e determinantes | ⚪ |
+| 11–13 | Revisão mista e problemas de raciocínio lógico-matemático | — |
+
+### Língua Portuguesa (10 questões)
+
+| Nível | Assuntos |
+|---|---|
+| 🔴 | Compreensão e interpretação · coesão (referenciação, conectores) · reescrita e substituição de trechos · concordância · regência |
+| 🟡 | Tipos e gêneros textuais · classes de palavras · coordenação e subordinação · pontuação · crase · colocação pronominal · tempos e modos verbais · significação das palavras |
+| ⚪ | Ortografia · **Redação Oficial** (Manual de Redação da Presidência da República: pronomes de tratamento, padrão ofício, atributos da redação oficial) |
 
 ---
 
@@ -306,13 +372,13 @@ Ordem recomendada:
 | SQL e Banco de Dados | Consulta + "qual o resultado?" · JOINs · GROUP BY/HAVING · subconsultas · NULL · normalização · ACID |
 | Engenharia de Software e Ágil | Cenários de Scrum (papéis, eventos, artefatos) · Kanban · requisitos · histórias de usuário |
 | Programação | Trecho em Java, Python ou JS + "qual a saída?" · POO · estruturas de dados · complexidade |
-| Segurança em aplicações | OWASP Top 10 (injeção, XSS, CSRF) · OAuth 2.0 · JWT · OIDC · criptografia e hash |
+| Segurança em aplicações | OWASP Top 10 (injeção, XSS, CSRF) · OAuth 2.0 · JWT · OIDC · criptografia |
 
 ### ALTA · Costuma cair, 2 a 4 questões
 
 | Assunto | Como a FGV cobra |
 |---|---|
-| Arquitetura | Microsserviços vs. monólito · REST (verbos, códigos HTTP) · SOA · mensageria |
+| Arquitetura | Microsserviços vs. monólito · REST (verbos, códigos HTTP) · SOA · mensageria · padrões corporativos |
 | Padrões GoF | Problema descrito → qual padrão (Singleton, Factory, Observer, Strategy, Adapter, Decorator) |
 | DevOps | Git · CI/CD · Dockerfile · Kubernetes (Pods, Deployments, Services) |
 | Testes | Tipos de teste · TDD · unitário vs. integração |
@@ -321,22 +387,25 @@ Ordem recomendada:
 
 ### MÉDIA · Cai às vezes, 1 a 2 questões
 
-APF (contagem ALI, AIE, EE, SE, CE) · System Design (CAP, cache) · Clean Architecture e DDD · WCAG e eMAG · Flutter/Dart e mobile · COBIT e ITIL · Resoluções CNJ, PDPJ, MNI
+APF (contagem ALI, AIE, EE, SE, CE) · System Design (CAP, cache) · Clean Architecture e DDD · WCAG e eMAG · Flutter/Dart e mobile · COBIT, ITIL e ISO 27001/27005 · Resoluções CNJ, PDPJ, MNI · fundamentos comuns (SO, redes TCP/IP, BI)
 
 ### BAIXA · Só o essencial
 
-Redes avançadas (OSPF, BGP) · Terraform em detalhe · MoReq-Jus · PDTI do TJPB
+Terraform em detalhe · arquitetura de computadores · MoReq-Jus e RDC-Arq · PDTI do TJPB · gestão de projetos e processos · transformação digital
+
+> Redes avançadas (OSPF, BGP) saíram do plano: estão só no edital de Infraestrutura, não no de Desenvolvimento nem na parte comum.
 
 ### Divisão do tempo nas específicas
 
 | Prior. | Assuntos | Tempo |
 |---|---|---|
 | 1ª | SQL/BD · Programação (Java, Python, JS) · POO | 30% |
-| 2ª | Eng. Software · Ágil · Testes · APF | 20% |
+| 2ª | Eng. Software · Ágil · Testes · APF | 18% |
 | 3ª | Segurança (OWASP, OAuth, JWT, cripto) · LGPD | 15% |
 | 4ª | Arquitetura · GoF · System Design | 15% |
-| 5ª | DevOps (Git, Docker, K8s, CI/CD) · IA/LLM | 12% |
-| 6ª | Flutter · mobile · UI/UX · COBIT/ITIL · CNJ | 8% |
+| 5ª | DevOps (Git, Docker, K8s, CI/CD) · IA/LLM | 10% |
+| 6ª | Parte comum (SO, redes, governança, gestão de TI, normas do CNJ) | 7% |
+| 7ª | Flutter · mobile · UI/UX | 5% |
 
 ---
 
@@ -390,7 +459,7 @@ Redes avançadas (OSPF, BGP) · Terraform em detalhe · MoReq-Jus · PDTI do TJP
 ### Ressalvas
 
 1. Flutter/Dart, SDD, virtual threads e bancos vetoriais quase não aparecem em provas FGV. Estude pela documentação ou por outras bancas.
-2. Resoluções CNJ (335/2020, 91/2009, 370/2021, 396/2021, 468/2022, 615/2025), PDPJ-Br, MNI e PDTI do TJPB: leia a norma original e faça um resumo de 1 página.
+2. Resoluções CNJ (335/2020, 91/2009, 370/2021, 396/2021, 468/2022, 522/2023, 615/2025), PDPJ-Br, MNI, MoReq-Jus e PDTI do TJPB: leia a norma original e faça um resumo de 1 página (uma por sábado, ver seção 4). A Res. 615/2025 está confirmada no edital.
 3. Cebraspe, FCC e Cesgranrio servem para conteúdo, não para treinar o estilo da FGV.
 4. Acompanhe editais de retificação. **1ª retificação (23/10/2026):** jornada de 40h → 30h semanais (subitem 3.1; vagas e remuneração iguais) · isenção da taxa só até 27/10, 16h (subitem 5.2) · item 10.12 corrigido para "60% (sessenta por cento)" (o mínimo de 60% não mudou).
 
