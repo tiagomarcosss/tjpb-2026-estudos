@@ -74,6 +74,14 @@
   - Erros: locução adjetiva × adverbial ("às pressas"; contou "com rapidez" como adjetiva), artigos de lei (art. 10 = dez), **concordância repetida de 23/10** ("é proibido a entrada" e "seguem anexo": de novo pelo uso comum).
   - Pontinho = candidata sem certeza: Q4 ✅, Q10 ❌, Q11 ✅. Acertos sem dúvida: 7 de 9.
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-28_Semana-01_Bloco-01_Portugues-Classes-de-Palavras-A1_CORRECAO.pdf` (+ .md)
+- **28/10 · Bloco Eng. Software User stories, INVEST e BDD (15 autorais, PDF anotado):** **13/15 (87%)**, melhor placar até agora · 1 erro · 1 em branco
+  - Assunto do dia (Q1–10): 9/10. 3 Cs, INVEST (I e N), épico, critério × DoD, Gherkin, BDD × Cucumber, história bem escrita e leitura de código Python (rastreou na margem) certos. Q4 e Q5 com marca de dúvida.
+  - Em branco: TDD × ATDD × BDD (Q8, só "?"). Dava para eliminar: I = V e III = F deixavam só A ou E.
+  - Revisão (Q11–15): 4/5. Acertou Sprint Backlog dos Developers (era erro 22 e 26/10), lead × cycle (era erro 26/10), modelo em V (era erro 26/10) e negação da condicional por Boole.
+  - Erro: concordância **pela 3ª vez** ("em anexos"; descartou "é necessário paciência"). Eliminou certo "anexo", "é proibido a" e "meias".
+  - **Regra nova (pedido do Tiago):** bloco de assunto novo cobra só o assunto; revisão e pontos fracos só quando ele pedir (registrado no `CLAUDE.md`).
+  - Novo PC (Windows, `C:\Users\Pichau`, conta `tiagomarcosss`): Git, GitHub CLI e Node instalados nesta sessão.
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-28_Semana-01_Bloco-02_User-Stories-INVEST-e-BDD_CORRECAO.pdf` (+ .md)
 
 ---
 
@@ -81,7 +89,7 @@
 
 ### Português / RLM
 
-1. Concordância nominal pela norma-padrão (≈50% do Português FGV): "é proibida a entrada" e "seguem anexas" erradas **2×** (23 e 28/10), sempre pelo uso comum. Olhar primeiro se há artigo
+1. Concordância nominal pela norma-padrão (≈50% do Português FGV): errada **3×** (23/10, 28/10 manhã e 28/10 noite), sempre pelo uso comum. Na 3ª já eliminou "anexo", "é proibido a" e "meias", mas errou "em anexo" (invariável) e "é necessário paciência" (certo, sem artigo). Olhar primeiro se há artigo
 2. Sintaxe (base): termos da oração, predicação verbal, AA × CN, orações subordinadas
 3. Locução adjetiva × adverbial (novo, 28/10): errou 2/2 (Q7, Q8) e deixou em branco locução → adjetivo erudito
 4. Lógica da argumentação: silogismos, validade, falácias. Validade acertada em 27/10 (Q12); cadeia de condicionais errada por pressa (Q11)
@@ -96,14 +104,15 @@
 ### Técnico
 
 1. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
-2. Scrum · responsabilidades (dono do Sprint Backlog, quem decide o quê): errou 22 e 26/10. Artefatos × compromissos: acertou em 26/10 por chute (não conta)
-3. Scaling up × out: errou 24 e 26/10
-4. Modelos de processo (novo): espiral × prototipação, modelo em V (qual teste para qual fase), prototipação na elicitação. Errou 3/3 em 26/10
-5. Kanban (novo): lead time × cycle time. Errou em 26/10
-6. Leitura de código: 2/2 em 26/10 (1/2 para sair)
+2. Scaling up × out: errou 24 e 26/10
+3. TDD × ATDD × BDD (novo, 28/10): em branco. Inseguro no ATDD
+4. Modelos de processo: espiral × prototipação e prototipação na elicitação (erros de 26/10, ainda não recobrados). Modelo em V: acertou em 28/10 (1/2 para sair)
+5. Scrum · responsabilidades: errou 22 e 26/10; acertou o dono do Sprint Backlog em 28/10 (1/2 para sair). Artefatos × compromissos: acertou em 26/10 por chute (não conta)
+6. Kanban · lead × cycle time: acertou em 28/10 (1/2 para sair)
 7. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
 8. XP · práticas: acertou em 26/10 (1/2 para sair)
-9. Estratégia de prova: "incorreta" (errou Q3 em 26/10 por conteúdo, mas marcou "?" na certa), nunca deixar em branco (Q6 em branco em 28/10) e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10). "Incorreta" com V/F: 2/2 em 28/10
+9. Estratégia de prova: nunca deixar em branco (Q6 em 28/10 manhã e Q8 em 28/10 noite: em I/II/III, julgar os itens que sabe e eliminar) e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10). "Incorreta" com V/F: 3/3 em 28/10
+- Saiu da lista em 28/10: **leitura de código** (acertou em 26/10 e 28/10, duas sessões seguidas). Continua sendo treinada quando couber no assunto ou na revisão
 
 ---
 
@@ -113,8 +122,8 @@
 |---|---|
 | Seg 26/10 · 22:40 | Reler as 7 regras 📌 dos erros da prova de hoje. Anki: "RUP dinâmica × estática × prática", "Scaling up × out", "Lead × cycle time", "V: qual teste para qual fase?", "Dono do Sprint Backlog" |
 | Ter 27/10 | ✅ Almoço/tarde: bloco RLM conectivos (8/15). Bloco 1: RF × RNF × regras de negócio + 10 min de RUP (seção 3.6 do mapa). Bloco 2: questões FGV de requisitos + 5 de Kanban. 22:40: reler as 7 regras 📌 do bloco RLM e refazer Q6, Q7 e Q15 sem olhar |
-| Qua 28/10 | ✅ Almoço/tarde: Módulo 0 A1 + bloco Português classes de palavras (9/15). Plano: user stories (INVEST) + Gherkin. Revisão 22:40: regras 📌 do bloco de hoje + refazer Q7, Q8, Q10 e Q14 sem olhar; escrever 3 frases com "é proibido/proibida" e 3 com "anexo/anexas/em anexo". Revisão espaçada de 7 dias das regras de 21/10 + refazer Q8 e Q10 do bloco RLM |
-| Qui 29/10 | Almoço: RLM, 10 questões FGV de equivalências e negações (QConcursos/TEC), pelo método de Boole. Depois, seção 4.1 do plano |
+| Qua 28/10 | ✅ Almoço/tarde: Módulo 0 A1 + bloco Português classes de palavras (9/15). ✅ Noite: user stories, INVEST e BDD (13/15). Revisão 22:40: regras 📌 da Q8 (TDD × ATDD × BDD) e da Q15 ("em anexo", "é necessário paciência"); regras 📌 do bloco de hoje + refazer Q7, Q8, Q10 e Q14 sem olhar; escrever 3 frases com "é proibido/proibida" e 3 com "anexo/anexas/em anexo". Revisão espaçada de 7 dias das regras de 21/10 + refazer Q8 e Q10 do bloco RLM |
+| Qui 29/10 | Almoço: RLM, 10 questões FGV de equivalências e negações (QConcursos/TEC), pelo método de Boole. Noite: estimativa ágil (Planning Poker, story points, T-shirt) + bloco só desse assunto |
 | Sex 30/10 → Sáb 31/10 | Almoço: Módulo 0. Sex A2 (verbo, advérbio, **locuções adverbiais**: fecha os erros de Q7 e Q8 de 28/10) · Sáb A3 (pronome, preposição, conjunção). Resto: seção 4.1 do plano (estimativa, SDD, revisão da semana). RLM argumentação e diagramas (todo/algum/nenhum): encaixar no Bloco 2 de sábado |
 | Dom 01/11 · 13h | **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
 

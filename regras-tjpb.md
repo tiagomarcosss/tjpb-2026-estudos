@@ -33,6 +33,7 @@
 - [28/10] "Um" é numeral quando a frase destaca a quantidade (só um, apenas um); fora isso, artigo indefinido.
 - [28/10] Artigo e parágrafo de lei: ordinal até o 9º, cardinal do 10 em diante (art. 9º nono, art. 10 dez; LC 95/1998). Séculos, papas e reis: ordinal até o décimo.
 - [28/10] Anexo, incluso, quite e mesmo são adjetivos e concordam (seguem anexas as certidões) · "em anexo" não varia · bastante (= suficiente) varia. Reforço da regra de 23/10, errada de novo em 28/10 junto com "é proibida a entrada".
+- [28/10] É necessário / é proibido / é bom + substantivo SEM artigo = invariável (é necessário paciência) · COM artigo = concorda (é necessária a paciência). "Em anexo" nunca vai para o plural. Errada pela 3ª vez em 28/10 (bloco de user stories).
 
 ## Raciocínio Lógico-Matemático
 
@@ -125,6 +126,14 @@
 - [24/10] Requisito de usuário = alto nível, linguagem natural · requisito de sistema = detalhado, preciso, pode ser base do contrato.
 - [24/10] RNF de produto = comportamento do software (disponibilidade, desempenho) · organizacional = norma interna (linguagem, processo) · externo = lei/regulação (LGPD). Teste: "quem exige isso?".
 - [24/10] RNF deve ser mensurável e verificável; "fácil de usar" é só meta.
+- [28/10] 3 Cs (Ron Jeffries): Cartão = lembrete curto · Conversa = onde nasce o detalhe (contínua, não um evento) · Confirmação = critérios de aceitação.
+- [28/10] INVEST: Independente (qualquer ordem; "só depois de" = falha do I) · Negociável (não é contrato fechado) · Valiosa · Estimável · Small (cabe numa iteração) · Testável.
+- [28/10] Épico = grande demais para uma Sprint → dividir em fatias verticais, cada uma com valor ao usuário. Fatiar por camada técnica (banco, back-end, tela) é errado.
+- [28/10] DoD = vale para todo item, qualidade interna (revisão, testes, deploy) · Critério de aceitação = vale para uma história, comportamento esperado · DoR = história pronta para entrar na Sprint.
+- [28/10] História boa = papel real + ação + benefício ("para…"). "Como sistema" ou "como desenvolvedor" + detalhe técnico = tarefa, não história.
+- [28/10] Gherkin: Dado = contexto anterior · Quando = ação/evento · Então = resultado esperado · E/Mas = continuam o passo anterior.
+- [28/10] BDD = prática · Gherkin = linguagem (aceita português) · Cucumber = ferramenta que executa o Gherkin via step definitions (há também SpecFlow, Behave, Behat). BDD não exige Cucumber.
+- [28/10] TDD = teste de unidade, pelo dev · ATDD = critérios de aceitação definidos juntos (negócio + dev + teste) antes de codificar · BDD = comportamento em linguagem de negócio. Complementares: nenhum substitui o outro.
 
 ### Estimativa
 
@@ -133,6 +142,8 @@
 ## APF, SAFe e Testes
 
 ## Algoritmos, POO, SOLID e GoF
+
+- [28/10] Leitura de código: anotar as variáveis a cada volta do laço. `continue` pula o resto da volta sem imprimir nada; `>=` inclui o zero.
 
 ## Banco de Dados e SQL
 
@@ -162,3 +173,4 @@
 - [27/10] Lógica: antes de marcar, reler a alternativa escolhida e conferir com os valores deduzidos (errei Q10 e Q11 com o raciocínio certo).
 - [27/10] Lógica pelo método de Boole: frase → letras positivas → converter (A → B = A' + B) → simplificar → comparar apóstrofo e porta.
 - [28/10] Marcas na prova: pontinho ao lado = candidata sem certeza (não reler o que já descartei) · risco = eliminada · "?" = chute. Entre duas candidatas, decidir por uma regra concreta, nunca pelo uso comum.
+- [28/10] Itens I/II/III com dúvida em um item: julgar os que sei e eliminar as alternativas incompatíveis antes de pensar em deixar em branco (Q8: I = V e III = F deixavam só 2 opções).

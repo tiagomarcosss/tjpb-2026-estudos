@@ -14,25 +14,23 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Segunda, 26/10/2026 · Semana 1 (Engenharia de Software e Ágil) · faltam 90 dias para a prova**
+**Quarta, 28/10/2026 · Semana 1 (Engenharia de Software e Ágil) · faltam 88 dias para a prova**
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Almoço | Português: termos da oração e predicação verbal (10 questões FGV) | [[Português]] |
-| 19h · Bloco 1 | Teoria: engenharia de requisitos (elicitação → análise → especificação → validação) | [[mapa-engenharia-de-software#5.1 Engenharia de requisitos (26 e 27/10)]] |
-| 20h · Bloco 2 | Questões FGV de engenharia de requisitos | [[Engenharia de Software e Ágil]] |
-| 22:40 · Revisão | Regras 📌 dos 7 erros da prova de hoje (8/15): RUP perspectivas, scaling, V, espiral, Kanban, Sprint Backlog | [[2026-10-26_Semana-01_Bloco-01_Prova-EngSoftware-15q_CORRECAO]] |
+| Almoço | ✅ Módulo 0 A1 + bloco Português classes de palavras (9/15) | [[2026-10-28_Semana-01_Bloco-01_Portugues-Classes-de-Palavras-A1_CORRECAO]] |
+| 19h · Bloco 1 | Teoria: user stories (formato, 3 Cs, INVEST) + critérios de aceitação (Gherkin: Dado/Quando/Então) | [[mapa-engenharia-de-software#5.2 Histórias de usuário e critérios de aceitação (28/10)]] |
+| 20h · Bloco 2 | Questões FGV de user stories e critérios de aceitação | [[Engenharia de Software e Ágil]] |
+| 22:40 · Revisão | Regras 📌 do bloco de hoje + refazer Q7, Q8, Q10 e Q14 sem olhar · 3 frases com "é proibido/proibida" e 3 com "anexo/anexas/em anexo" · regras de 21/10 (7 dias) + refazer Q8 e Q10 do bloco RLM | [[regras-tjpb]] |
 
-**⚠️ Prazo:** pedido de **isenção da taxa só até amanhã, 27/10, às 16h** (1ª retificação). A inscrição normal segue até 18/11, 16h.
-
-**Pendente:** registrar o placar do simulado TRT-16 de 25/10 (Port · RLM · Específicas · Discursiva).
+**Pendente:** confirmar a inscrição (até 18/11, 16h; boleto até 19/11). **Dom 01/11, 13h: 1º simulado oficial** (TJ-MS 2024 ou TJ-AP 2024, cronometrado e sem consulta).
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias. Hoje: as regras novas da prova de hoje (26/10). As de 21/10 completam 7 dias na quarta (28/10).
+Regras de `regras-tjpb` com ~1, 7 e 30 dias. Hoje: as de ontem (27/10) e as de 21/10 (7 dias).
 
 ```query
-path:regras-tjpb "[26/10]"
+path:regras-tjpb ("[27/10]" OR "[21/10]")
 ```
 
 ---

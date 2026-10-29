@@ -105,11 +105,11 @@ Estudo em dois PCs, cada um com uma conta GitHub diferente. Commits e pushes sae
 - Cada questão com título `## Questão N`, alternativas separadas por linha em branco e `---` entre questões.
 - Sempre avisar no topo: questões autorais no estilo FGV, não oficiais. Nunca apresentar como oficiais.
 - **Nunca colocar o gabarito junto.** Nem no arquivo, nem no chat, até eu responder.
-- Em todo bloco, pelo menos 30% das questões sobre os **pontos fracos** do contexto, mesmo fora do assunto da semana.
-- Cobrar de tempos em tempos as regras antigas de `regras-tjpb.md` (revisão espaçada: ~1, 7 e 30 dias após a data da regra), com outro cenário.
+- **Bloco de assunto novo = só aquele assunto** (regra de 28/10). Quando eu acabar de estudar um assunto, a prova cobra apenas ele: nada de outra disciplina (Português, RLM etc.) nem de outro assunto da mesma disciplina.
+- **Revisão só quando eu pedir** ("revisão de tudo", "revisão da semana", "bloco misto" ou parecido). Só nesses blocos entram os **pontos fracos** do contexto (pelo menos 30%) e as regras antigas de `regras-tjpb.md` pela revisão espaçada (~1, 7 e 30 dias após a data da regra), com outro cenário. Se a revisão espaçada estiver atrasada, posso lembrar no chat, mas não misturar no bloco do assunto.
 - Não repetir questões já feitas: conferir os blocos anteriores na pasta.
 - Português de Analista: mais argumentação, inferência e organização textual do que gramática pura.
-- Incluir 2–3 questões de leitura de código por semana (ponto fraco do TJ-RR).
+- Leitura de código (ponto fraco do TJ-RR): incluir quando couber no próprio assunto do bloco (ex.: código que aplica o conceito estudado) ou nos blocos de revisão.
 - **Compatibilidade com o Okular** (que converte "(C)" em "©" e "I." em lista "a."): no `.md` do bloco, escrever a alternativa C como `\(C)` e o item romano I como `I\.`. O Obsidian mostra normalmente.
 
 ## Padrão da correção
