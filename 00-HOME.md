@@ -14,23 +14,23 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Quarta, 28/10/2026 · Semana 1 (Engenharia de Software e Ágil) · faltam 88 dias para a prova**
+**Quinta, 29/10/2026 · Semana 1 (Engenharia de Software e Ágil) · faltam 87 dias para a prova**
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Almoço | ✅ Módulo 0 A1 + bloco Português classes de palavras (9/15) | [[2026-10-28_Semana-01_Bloco-01_Portugues-Classes-de-Palavras-A1_CORRECAO]] |
-| 19h · Bloco 1 | Teoria: user stories (formato, 3 Cs, INVEST) + critérios de aceitação (Gherkin: Dado/Quando/Então) | [[mapa-engenharia-de-software#5.2 Histórias de usuário e critérios de aceitação (28/10)]] |
-| 20h · Bloco 2 | Questões FGV de user stories e critérios de aceitação | [[Engenharia de Software e Ágil]] |
-| 22:40 · Revisão | Regras 📌 do bloco de hoje + refazer Q7, Q8, Q10 e Q14 sem olhar · 3 frases com "é proibido/proibida" e 3 com "anexo/anexas/em anexo" · regras de 21/10 (7 dias) + refazer Q8 e Q10 do bloco RLM | [[regras-tjpb]] |
+| Almoço | RLM: 10 questões FGV de equivalências e negações (QConcursos/TEC), pelo método de Boole | [[RLM]] |
+| 19h · Bloco 1 | Teoria: estimativa ágil (Planning Poker, story points, T-shirt) | [[mapa-engenharia-de-software]] |
+| 20h · Bloco 2 | Bloco só de estimativa ágil | [[Engenharia de Software e Ágil]] |
+| 22:40 · Revisão | **Criar os cartões de 28/10 no Anki** (adiado do início da sessão para a noite) · regras 📌 de 28/10 (1 dia) e de 22/10 (7 dias) · 3 frases com "é proibido/proibida" e 3 com "anexo/anexas/em anexo", se não fez ontem | [[regras-tjpb]] |
 
-**Pendente:** confirmar a inscrição (até 18/11, 16h; boleto até 19/11). **Dom 01/11, 13h: 1º simulado oficial** (TJ-MS 2024 ou TJ-AP 2024, cronometrado e sem consulta).
+**Pendente:** criar no Anki os cartões de 28/10 (user stories, INVEST, critério × DoD, Gherkin, TDD × ATDD × BDD, concordância "em anexo" / "é necessário") · sincronizar AnkiWeb (upload do PC com os 61 cartões, download nos novos) · confirmar a inscrição (até 18/11, 16h; boleto até 19/11). **Dom 01/11, 13h: 1º simulado oficial** (TJ-MS 2024 ou TJ-AP 2024, cronometrado e sem consulta).
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias. Hoje: as de ontem (27/10) e as de 21/10 (7 dias).
+Regras de `regras-tjpb` com ~1, 7 e 30 dias. Hoje: as de ontem (28/10) e as de 22/10 (7 dias). Sem regras de 29/09.
 
 ```query
-path:regras-tjpb ("[27/10]" OR "[21/10]")
+path:regras-tjpb ("[28/10]" OR "[22/10]")
 ```
 
 ---
