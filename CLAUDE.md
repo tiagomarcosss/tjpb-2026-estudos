@@ -148,6 +148,7 @@ Se eu disser "sem atualizar", pular esta etapa.
 ## Simulados e discursivas
 
 - **Simulado:** quando eu trouxer o placar, criar `simulados/AAAA-MM-DD_Prova-Banca-Ano.md` com placar por disciplina, erros e assuntos. Atualizar o contexto.
+- **Discursiva do simulado (regra de 28/10):** se o tema da discursiva da prova escolhida (DATAPREV, TJs etc.) for de assunto que eu já estudei, uso a própria discursiva da prova (oficial). Se não for, o Claude prepara uma discursiva autoral no padrão FGV sobre assunto já estudado, entregue fechada até a hora do simulado. Na dúvida, eu mando o tema e o Claude diz se já estudei o conteúdo (sem adiantar a resposta). Correção sempre com rigor de banca.
 - **Discursiva:** eu salvo a foto em `discursivas/` (ex.: `2026-10-25_tema.jpg`). Corrigir em `discursivas/AAAA-MM-DD_tema_CORRECAO.md`: nota estimada de 0 a 40 (conteúdo técnico com maior peso + língua portuguesa), item a item, termos técnicos que faltaram e versão melhorada. Avisar que a nota é estimativa, pois o edital não detalha os critérios.
 
 ---
