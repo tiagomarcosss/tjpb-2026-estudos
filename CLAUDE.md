@@ -163,7 +163,7 @@ O arquivo `.okular` é um ZIP com `metadata.xml`. As anotações a caneta (`anno
 3. Priorizar as respostas escritas na tabela "Minhas respostas". Usar círculos, X e anotações no texto para entender o raciocínio.
 4. Se alguma resposta estiver ambígua, perguntar antes de corrigir.
 
-**Legenda das minhas marcas:** círculo na letra = resposta final · risco/X = alternativa eliminada · **pontinho ao lado da alternativa = candidata** (pode ser a certa, mas não tenho certeza; é meu método de eliminação, para não reler o que já descartei) · "?" = dúvida ou chute. Na correção, tratar resposta com pontinho como **acerto com dúvida** (não conta para tirar o assunto dos pontos fracos) e, se houver mais de uma candidata, dizer qual pista levaria à certa.
+**Legenda das minhas marcas:** círculo na letra = resposta final · risco/X = alternativa eliminada · **pontinho ao lado da alternativa = candidata** (pode ser a certa, mas não tenho certeza; é meu método de eliminação, para não reler o que já descartei) · "?" = **não sei o conteúdo**: o assunto inteiro da questão ou o ponto específico onde o "?" foi marcado (palavra, item, alternativa). A letra marcada junto é chute. Na correção, tratar como "não sabia" (igual a branco, mesmo se acertar) e usar a posição do "?" para dizer exatamente o que falta estudar. Na correção, tratar resposta com pontinho como **acerto com dúvida** (não conta para tirar o assunto dos pontos fracos) e, se houver mais de uma candidata, dizer qual pista levaria à certa.
 
 **PDF anotado direto (sem `.okular`):** o Okular também pode salvar as anotações dentro do próprio PDF (anotações `Ink`). No Windows, sem Python, renderizar com Node + `pdfjs-dist` + `@napi-rs/canvas` instalados no scratchpad (`annotationMode: ENABLE`).
 
