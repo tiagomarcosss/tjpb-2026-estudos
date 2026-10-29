@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["RLM"]
 assunto: "Argumentação lógica e diagramas lógicos (diagnóstico)"
 semana: 1

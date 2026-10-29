@@ -18,10 +18,10 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Almoço | RLM: 10 questões FGV de equivalências e negações (QConcursos/TEC), pelo método de Boole | [[RLM]] |
+| Almoço | ✅ RLM argumentação e diagramas lógicos: teoria + exemplos + bloco (9/15) | [[2026-10-29_Semana-01_Bloco-01_RLM-Argumentacao-e-Diagramas-Logicos_CORRECAO]] |
 | 19h · Bloco 1 | Teoria: estimativa ágil (Planning Poker, story points, T-shirt) | [[mapa-engenharia-de-software]] |
 | 20h · Bloco 2 | Bloco só de estimativa ágil | [[Engenharia de Software e Ágil]] |
-| 22:40 · Revisão | **Criar os cartões de 28/10 no Anki** (adiado do início da sessão para a noite) · regras 📌 de 28/10 (1 dia) e de 22/10 (7 dias) · 3 frases com "é proibido/proibida" e 3 com "anexo/anexas/em anexo", se não fez ontem | [[regras-tjpb]] |
+| 22:40 · Revisão | **Criar os cartões de 28/10 e 29/10 no Anki** (adiado do início da sessão para a noite) · refazer Q10 e Q14 do bloco RLM sem olhar · regras 📌 de 28/10 (1 dia) e de 22/10 (7 dias) · 3 frases com "é proibido/proibida" e 3 com "anexo/anexas/em anexo", se não fez ontem | [[regras-tjpb]] |
 
 **Pendente:** criar no Anki os cartões de 28/10 (user stories, INVEST, critério × DoD, Gherkin, TDD × ATDD × BDD, concordância "em anexo" / "é necessário") · sincronizar AnkiWeb (upload do PC com os 61 cartões, download nos novos) · confirmar a inscrição (até 18/11, 16h; boleto até 19/11). **Dom 01/11, 13h: 1º simulado oficial** (TJ-MS 2024 ou TJ-AP 2024, cronometrado e sem consulta).
 

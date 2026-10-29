@@ -1,6 +1,6 @@
 # Regras Estudadas · TJPB 2026
 
-**Atualizado em:** 28/10/2026
+**Atualizado em:** 29/10/2026
 
 > Arquivo acumulativo: só recebe acréscimos, no fim da seção certa. Uma regra por linha. Usado para revisão espaçada.
 > Data entre colchetes = quando a regra entrou.
@@ -62,11 +62,23 @@
 - [21/10] "Todo A é B" equivale a "todo não B é não A" (não equivale a "todo B é A").
 - [21/10] Generalização: poucos casos → todos. Falsa causa: causa errada para um fato.
 - [27/10] Negação de "todo A é B" = "algum A não é B" (pelo menos um), nunca "nenhum". Negação de "algum A é B" = "nenhum A é B".
+- [29/10] Converter: todo A é B = A → B · nenhum A é B = A → B' (o "não" só no segundo, nunca (A → B)') · algum A é B = A·B (uma pessoa, o x) · algum A não é B = A·B'. "Algum" nunca vira seta.
+- [29/10] Testar a alternativa pela 1ª palavra: "algum" → confere na ficha do x · "todo/nenhum" → procura caminho de setas nas premissas (fim de uma = começo da outra, mesmo sinal). Sem caminho = não garantida.
+- [29/10] Ficha do x: começar pelo "algum" e andar nas setas. Esquerdo V empurra o direito para V; direito F puxa o esquerdo para F (1 → Y = Y · X → 0 = X'). Anotar sempre a letra positiva (S = F, nunca S' = V).
+- [29/10] Duas premissas com "algum" = duas pessoas (x e y): não multiplicar, nada se conclui. Toda ligação passa por uma seta (seta + seta ou seta + x).
+- [29/10] Contrapositiva vale: A → B = B' → A' (vira E nega os dois lados). Recíproca (B → A) não vale. "Nenhum" inverte (nenhum A é B = nenhum B é A); "todo" não.
+- [29/10] Só "todo/nenhum" nas premissas → resposta pela corrente de setas (todo + todo = todo; todo + nenhum = nenhum). Setas chegando no mesmo lugar (A → B ← C) ou nenhum + nenhum → nada se conclui.
+- [29/10] Validade = só a forma: inválido se existe ALGUMA situação com premissas V e conclusão F. Conclusão verdadeira não prova validade; premissa falsa não prova invalidez. Teste: forçar a conclusão F e tentar deixar as premissas V.
+- [29/10] Válidos: ponens (A → B; A; logo B), tollens (A → B; não B; logo não A), corrente, "A ou B; não A; logo B". Inválidos: afirmar o consequente, negar o antecedente, "A ou B; A; logo não B" (o "ou" simples aceita os dois V).
+- [29/10] "Conclui-se necessariamente" só aceita o obrigatório: o que é só possível está errado. "Não pode ser garantida" = procurar a única que falha.
+- [29/10] Palavras em Boole: ou = + · e/mas/porém/embora = · · nem A nem B = A'·B' · A somente se B = A → B · A a menos que B = A + B · A é suficiente para B / B é necessário para A = A → B.
+- [29/10] Falácias: ad hominem (ataca a pessoa) · ad populum (a maioria usa) · apelo à autoridade · generalização (poucos → todos) · falsa causa (depois → por causa) · falso dilema (só 2 opções) · ladeira escorregadia · petição de princípio · espantalho (distorce o argumento) · apelo à ignorância.
 
 ### Matemática
 
 - [21/10] Porcentagem com mudança no grupo: montar "parte = % × total" com os valores depois da mudança.
 - [21/10] Divisão proporcional: somar as proporções → dividir o total → multiplicar pela parte pedida.
+- [29/10] Venn com 2 conjuntos: Total − nenhum = A + B − ambos. Com 3: preencher do centro para fora (só C = C − AC − BC + ABC). Conferir somando todas as regiões. Isca: esquecer o "nenhum".
 
 ### Raciocínio sequencial
 
@@ -144,6 +156,7 @@
 ## Algoritmos, POO, SOLID e GoF
 
 - [28/10] Leitura de código: anotar as variáveis a cada volta do laço. `continue` pula o resto da volta sem imprimir nada; `>=` inclui o zero.
+- [29/10] Conjuntos em Python: `A & B` = interseção · `A | B` = união sem repetir · `A - B` = só A · `A ^ B` = só um dos dois. len(A | B) = len(A) + len(B) − len(A & B).
 
 ## Banco de Dados e SQL
 
@@ -174,3 +187,4 @@
 - [27/10] Lógica pelo método de Boole: frase → letras positivas → converter (A → B = A' + B) → simplificar → comparar apóstrofo e porta.
 - [28/10] Marcas na prova: pontinho ao lado = candidata sem certeza (não reler o que já descartei) · risco = eliminada · "?" = chute. Entre duas candidatas, decidir por uma regra concreta, nunca pelo uso comum.
 - [28/10] Itens I/II/III com dúvida em um item: julgar os que sei e eliminar as alternativas incompatíveis antes de pensar em deixar em branco (Q8: I = V e III = F deixavam só 2 opções).
+- [29/10] Silogismo no papel: letras bem diferentes para cada conjunto (F, J, E; nunca P_F e P_e), "algum" com ponto (P·S), "nenhum" com o não só no segundo e valor da letra positiva na ficha (S = F).
