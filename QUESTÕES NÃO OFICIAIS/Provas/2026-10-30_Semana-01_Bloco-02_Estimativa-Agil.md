@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["Engenharia de Software e Ágil"]
 assunto: "Estimativa ágil: story points, Planning Poker, T-shirt sizing e velocidade"
 semana: 1

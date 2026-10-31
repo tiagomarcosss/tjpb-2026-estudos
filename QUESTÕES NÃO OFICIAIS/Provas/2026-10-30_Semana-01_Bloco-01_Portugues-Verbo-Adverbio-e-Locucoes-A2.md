@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["Português"]
 assunto: "Classes de palavras A2: verbo, advérbio, locução verbal e locução adverbial"
 semana: 1

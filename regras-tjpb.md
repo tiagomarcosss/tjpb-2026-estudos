@@ -33,7 +33,16 @@
 - [28/10] "Um" é numeral quando a frase destaca a quantidade (só um, apenas um); fora isso, artigo indefinido.
 - [28/10] Artigo e parágrafo de lei: ordinal até o 9º, cardinal do 10 em diante (art. 9º nono, art. 10 dez; LC 95/1998). Séculos, papas e reis: ordinal até o décimo.
 - [28/10] Anexo, incluso, quite e mesmo são adjetivos e concordam (seguem anexas as certidões) · "em anexo" não varia · bastante (= suficiente) varia. Reforço da regra de 23/10, errada de novo em 28/10 junto com "é proibida a entrada".
-- [28/10] É necessário / é proibido / é bom + substantivo SEM artigo = invariável (é necessário paciência) · COM artigo = concorda (é necessária a paciência). "Em anexo" nunca vai para o plural. Errada pela 3ª vez em 28/10 (bloco de user stories).
+- [28/10] É necessário / é proibido / é bom + substantivo SEM artigo = invariável (é necessário paciência) · COM artigo = concorda (é necessária a paciência). "Em anexo" nunca vai para o plural. Errada pela 3ª vez em 28/10 (bloco de user stories). Errada pela 4ª vez em 30/10 (Q10 do bloco A2: achei erro em "seguem em anexo os"). Tem EM = advérbio = nunca varia.
+- [30/10] Voz passiva analítica = SER + particípio (+ agente "por/pelo"): os autos foram remetidos pela vara. TER/HAVER + particípio = tempo composto, voz ativa; o particípio faz parte da locução e não é adjetivo.
+- [30/10] Advérbio de intensidade (muito, bem, tão, bastante, meio) modifica adjetivo ou OUTRO advérbio: "muito bem". Pergunte "muito o quê?" em vez de ligar à palavra vizinha.
+- [30/10] Advérbios em "-mente" coordenados: sufixo só no último e os anteriores no feminino (rápida e justamente).
+- [30/10] Locução adverbial no início da frase, antes da vírgula, continua adverbial ("Na segunda-feira, o juiz…"). Para contar, varrer a frase toda perguntando ao verbo quando/onde/como/por quê.
+- [30/10] Valor da locução adverbial: por = causa · para = finalidade · com + objeto = instrumento · com + qualidade = modo · apesar de = concessão.
+- [30/10] "Bastante" + adjetivo/advérbio = advérbio, invariável (bastante nervosas) · + substantivo = concorda (bastantes processos).
+- [30/10] Advérbio de dúvida (provavelmente, talvez) × afirmação (certamente) muda o grau de certeza do autor (modalização).
+- [30/10] Vai + infinitivo = futuro do presente (vai divulgar = divulgará) · ia + infinitivo = futuro do pretérito (divulgaria). Se + -sse → -ria.
+- [30/10] Derivado conjuga como o primitivo: manter → mantiver · intervir → intervier · reaver → reouve ("reaveu" não existe). Futuro do subjuntivo: ver → quando eu vir · vir → quando ele vier.
 
 ## Raciocínio Lógico-Matemático
 
@@ -148,6 +157,14 @@
 - [28/10] TDD = teste de unidade, pelo dev · ATDD = critérios de aceitação definidos juntos (negócio + dev + teste) antes de codificar · BDD = comportamento em linguagem de negócio. Complementares: nenhum substitui o outro.
 
 ### Estimativa
+- [30/10] Story point = tamanho RELATIVO do item (esforço + complexidade + incerteza). Não é hora nem produtividade individual. O Guia do Scrum não obriga story points nem Planning Poker.
+- [30/10] Guia do Scrum 2020: os Developers que farão o trabalho dimensionam; o PO ordena e pode influenciar explicando trade-offs.
+- [30/10] Planning Poker (deriva do Wideband Delphi): cartas em segredo → revelação simultânea (contra ancoragem) → os extremos explicam → nova rodada até convergir. Nunca média, maioria ou descarte. Estimativas INDEPENDENTES + discussão.
+- [30/10] Fibonacci: saltos maiores porque a incerteza cresce com o tamanho. Cartas: "?" = falta informação · "∞" = grande demais, dividir · "☕" = pausa · "0" = trivial.
+- [30/10] T-shirt sizing (PP–GG) = estimativa grosseira de épicos e roadmap, convertível depois em pontos · afinidade = agrupar muitos itens por tamanho parecido · triangulação = comparar com 2 histórias de referência (relativa, não é APF).
+- [30/10] Velocidade: só contam itens concluídos pela DoD (parcial = 0) · não compara equipes · virar meta infla os pontos · equipe mais rápida: o ponto não muda, a velocidade sobe · férias: reduzir a capacidade (menos itens), nunca mexer nos pontos.
+- [30/10] Previsão = backlog ÷ velocidade média, arredondando para CIMA. Prova real: a média fica entre o menor e o maior valor (21, 18, 24 → 21).
+- [30/10] Cone da Incerteza (Boehm/McConnell): a estimativa é muito imprecisa no início e fica mais precisa à medida que o projeto avança. Por isso não se promete prazo exato no começo.
 
 ---
 
@@ -157,6 +174,7 @@
 
 - [28/10] Leitura de código: anotar as variáveis a cada volta do laço. `continue` pula o resto da volta sem imprimir nada; `>=` inclui o zero.
 - [29/10] Conjuntos em Python: `A & B` = interseção · `A | B` = união sem repetir · `A - B` = só A · `A ^ B` = só um dos dois. len(A | B) = len(A) + len(B) − len(A & B).
+- [30/10] Python: `lista[-3:]` = os 3 últimos · `lista[:3]` = os 3 primeiros · `math.ceil` arredonda para cima e devolve inteiro (nunca imprime 4.75).
 
 ## Banco de Dados e SQL
 
@@ -188,3 +206,5 @@
 - [28/10] Marcas na prova: pontinho ao lado = candidata sem certeza (não reler o que já descartei) · risco = eliminada · "?" = chute. Entre duas candidatas, decidir por uma regra concreta, nunca pelo uso comum.
 - [28/10] Itens I/II/III com dúvida em um item: julgar os que sei e eliminar as alternativas incompatíveis antes de pensar em deixar em branco (Q8: I = V e III = F deixavam só 2 opções).
 - [29/10] Silogismo no papel: letras bem diferentes para cada conjunto (F, J, E; nunca P_F e P_e), "algum" com ponto (P·S), "nenhum" com o não só no segundo e valor da letra positiva na ficha (S = F).
+- [30/10] "INCORRETA": não riscar a alternativa falsa, porque ela é a resposta. Escrever V/F ao lado de cada letra e circular a F (errei a Q8 de estimativa riscando a certa).
+- [30/10] Se duas alternativas que marquei como verdadeiras se contradizem ("tinha terminado" é locução × "terminado" é adjetivo), uma delas está errada.

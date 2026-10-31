@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 29/10/2026 · **Semana do plano:** 1 (Engenharia de Software e Ágil)
+**Atualizado em:** 30/10/2026 · **Semana do plano:** 1 (Engenharia de Software e Ágil)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -89,6 +89,17 @@
   - Erros: letras parecidas P_F × P_e trocadas (Q2), "conclusão V → válido" (Q4), "S' = V" lido como servidor V (Q10), contrapositiva D' → L sem negar o L + aceitou a recíproca (Q14).
   - Método que funcionou: setas para todo/nenhum, ficha do x para algum, "V empurra para frente, F puxa para trás", teste pela 1ª palavra da alternativa. O Tiago prefere raciocinar com V/F e setas a expandir Boole (achou "massivo").
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-29_Semana-01_Bloco-01_RLM-Argumentacao-e-Diagramas-Logicos_CORRECAO.pdf` (+ .md)
+- **30/10 · Bloco Português Verbo, advérbio e locuções A2 (15 autorais, PDF anotado):** 8/15 (53%) · 6 erros · 1 "não sabia" (Q4 voz passiva, letra certa com "?")
+  - Acertos: verbo de ligação, locução verbal, tempos (-sse → -ria), advérbio × adjetivo (setas certas), concessão × tempo, "bastante" (com dúvida entre A e D), modalização e "vai + infinitivo" (com dúvida). Verbo: 4/5.
+  - Erros: "muito" ligado ao verbo vizinho (é "muito bem"), "-mente" no primeiro advérbio, contagem de locuções adverbiais (classificou certo as do meio, mas esqueceu "Na segunda-feira," do início), **"em anexo" pela 4ª vez** (fez "anexo" concordar em todas), "reaveu" (é reouve), particípio de "tinha terminado" aceito como adjetivo.
+  - Comparação: A1 (28/10) 9/15 → A2 8/15.
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-30_Semana-01_Bloco-01_Portugues-Verbo-Adverbio-e-Locucoes-A2_CORRECAO.pdf` (+ .md)
+- **30/10 · Bloco Eng. Software Estimativa ágil (15 autorais, PDF anotado):** 10/15 (67%) · 4 erros (1 chute) · 1 em branco
+  - Estudou por videoaula no mesmo dia. Conceito firme: story points, Fibonacci, Planning Poker (procedimento, divergência, cartas "?"/"∞"), T-shirt, Guia do Scrum (Developers dimensionam), dias ideais, capacidade, triangulação (com dúvida em B = APF). 
+  - Em branco ("?"): Cone da Incerteza (não conhecia o termo).
+  - Erros: tudo em **velocidade**. Q5: método certo, mas dividiu 63 ÷ 3 = 32. Q6 (código): ignorou o `[-3:]`, fez a média das 5 e chutou. Q8: **riscou a falsa numa "INCORRETA"** e circulou uma verdadeira. Q15: achou que "estimativas independentes" no Delphi era falso e que item parcial conta na velocidade.
+  - Comparação: user stories (28/10) 13/15 → estimativa 10/15.
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-30_Semana-01_Bloco-02_Estimativa-Agil_CORRECAO.pdf` (+ .md)
 
 ---
 
@@ -96,31 +107,35 @@
 
 ### Português / RLM
 
-1. Concordância nominal pela norma-padrão (≈50% do Português FGV): errada **3×** (23/10, 28/10 manhã e 28/10 noite), sempre pelo uso comum. Na 3ª já eliminou "anexo", "é proibido a" e "meias", mas errou "em anexo" (invariável) e "é necessário paciência" (certo, sem artigo). Olhar primeiro se há artigo
+1. Concordância nominal pela norma-padrão (≈50% do Português FGV): errada **4×** (23/10, 28/10 manhã, 28/10 noite e 30/10), sempre pelo uso comum. "Em anexo" errado 3 vezes seguidas: em 30/10 fez "anexo" concordar até com o "em". Regra-gatilho: **tem EM = advérbio = não varia**. Olhar primeiro se há "em" e se há artigo. "Bastante" acertou em 30/10 (com dúvida)
 2. Sintaxe (base): termos da oração, predicação verbal, AA × CN, orações subordinadas
-3. Locução adjetiva × adverbial (novo, 28/10): errou 2/2 (Q7, Q8) e deixou em branco locução → adjetivo erudito
-4. Lógica da argumentação (atualizado 29/10): silogismos com todo/algum/nenhum 2/5 (erros de anotação: letras parecidas, "S' = V", contrapositiva sem negar os dois lados, recíproca aceita) · validade × verdade (achou que conclusão V torna válido) · formas da condicional ok (tollens, afirmar consequente). Falácias 2/2 em 29/10 (1/2 para sair)
-5. Conjuntos e Venn (novo, 29/10): em branco 2/2 (contagem com "nenhum" e operações de conjunto em Python). Não estudado
-6. Lógica proposicional (novo, 27/10): bicondicional com F ↔ F, contagem de linhas 2ⁿ, tautologia, condicional dada como falsa, "ou… ou" na dedução. Negações e equivalências: 4/4 em 27/10 (1/2 para sair; foram assistidas)
-7. Regência verbal e pronomes relativos (lembrar/lembrar-se, obedecer a, cujo, onde/aonde)
-8. Interpretação: rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto. Opinião × fato: acertou em 28/10 (1/2 para sair)
-9. Numeração de artigos de lei (novo, 28/10): ordinal até o 9º, cardinal do 10 em diante
-10. Porcentagem e divisão proporcional
-11. Semântica: conectivos ("de modo que"), vocabulário erudito (irascível, indelével)
-12. Raciocínio sequencial (filas, trocas, calendários)
+3. Locução adjetiva × adverbial (28/10): errou 2/2 (Q7, Q8) e deixou em branco locução → adjetivo erudito. Em 30/10: classificou certo pelas setas, mas na contagem esqueceu a locução do início da frase (Q9). Valor semântico acertado com dúvida (Q8)
+4. Morfologia A2 (novo, 30/10): o que o advérbio de intensidade modifica ("muito bem"), "-mente" coordenado (rápida e justamente), voz passiva (não sabia: SER + particípio), conjugação de derivados (reouve, intervier, mantiver), particípio de tempo composto não é adjetivo
+5. Lógica da argumentação (atualizado 29/10): silogismos com todo/algum/nenhum 2/5 (erros de anotação: letras parecidas, "S' = V", contrapositiva sem negar os dois lados, recíproca aceita) · validade × verdade (achou que conclusão V torna válido) · formas da condicional ok (tollens, afirmar consequente). Falácias 2/2 em 29/10 (1/2 para sair)
+6. Conjuntos e Venn (novo, 29/10): em branco 2/2 (contagem com "nenhum" e operações de conjunto em Python). Não estudado
+7. Lógica proposicional (novo, 27/10): bicondicional com F ↔ F, contagem de linhas 2ⁿ, tautologia, condicional dada como falsa, "ou… ou" na dedução. Negações e equivalências: 4/4 em 27/10 (1/2 para sair; foram assistidas)
+8. Regência verbal e pronomes relativos (lembrar/lembrar-se, obedecer a, cujo, onde/aonde)
+9. Interpretação: rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto. Opinião × fato: acertou em 28/10 (1/2 para sair)
+10. Numeração de artigos de lei (novo, 28/10): ordinal até o 9º, cardinal do 10 em diante
+11. Porcentagem e divisão proporcional
+12. Semântica: conectivos ("de modo que"), vocabulário erudito (irascível, indelével)
+13. Raciocínio sequencial (filas, trocas, calendários)
 
 ### Técnico
 
-1. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
-2. Scaling up × out: errou 24 e 26/10
-3. TDD × ATDD × BDD (novo, 28/10): em branco. Inseguro no ATDD
-4. Modelos de processo: espiral × prototipação e prototipação na elicitação (erros de 26/10, ainda não recobrados). Modelo em V: acertou em 28/10 (1/2 para sair)
-5. Scrum · responsabilidades: errou 22 e 26/10; acertou o dono do Sprint Backlog em 28/10 (1/2 para sair). Artefatos × compromissos: acertou em 26/10 por chute (não conta)
-6. Kanban · lead × cycle time: acertou em 28/10 (1/2 para sair)
-7. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
-8. XP · práticas: acertou em 26/10 (1/2 para sair)
-9. Estratégia de prova: nunca deixar em branco (Q6 em 28/10 manhã e Q8 em 28/10 noite: em I/II/III, julgar os itens que sabe e eliminar) e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10). "Incorreta" com V/F: 3/3 em 28/10
-- Saiu da lista em 28/10: **leitura de código** (acertou em 26/10 e 28/10, duas sessões seguidas). Continua sendo treinada quando couber no assunto ou na revisão
+1. Estratégia "INCORRETA" (voltou em 30/10): na Q8 de estimativa riscou a afirmação falsa (que era a resposta) e circulou uma verdadeira. Antes: 3/3 em 28/10. Escrever V/F e circular a F; nunca riscar a F
+2. Estimativa ágil · velocidade (novo, 30/10): conta da média (63 ÷ 3 = 32), velocidade não compara equipes, item parcial não conta, Delphi = estimativas independentes, Cone da Incerteza (em branco). Conceitos de story points e Planning Poker: 7/7
+3. Leitura de código (voltou em 30/10): ignorou `[-3:]` (fatiamento) e chutou. Rastrear linha a linha numa tabela, como em 28/10
+4. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
+5. Scaling up × out: errou 24 e 26/10
+6. TDD × ATDD × BDD (novo, 28/10): em branco. Inseguro no ATDD
+7. Modelos de processo: espiral × prototipação e prototipação na elicitação (erros de 26/10, ainda não recobrados). Modelo em V: acertou em 28/10 (1/2 para sair)
+8. Scrum · responsabilidades: errou 22 e 26/10; acertou o dono do Sprint Backlog em 28/10 (1/2 para sair). Artefatos × compromissos: acertou em 26/10 por chute (não conta)
+9. Kanban · lead × cycle time: acertou em 28/10 (1/2 para sair)
+10. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
+11. XP · práticas: acertou em 26/10 (1/2 para sair)
+12. Estratégia de prova: nunca deixar em branco (Q6 em 28/10 manhã e Q8 em 28/10 noite: em I/II/III, julgar os itens que sabe e eliminar) e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10). "Incorreta" com V/F: 3/3 em 28/10
+- Leitura de código saiu da lista em 28/10 e **voltou em 30/10** (Q6 de estimativa).
 
 ---
 
@@ -132,13 +147,14 @@
 | Ter 27/10 | ✅ Almoço/tarde: bloco RLM conectivos (8/15). Bloco 1: RF × RNF × regras de negócio + 10 min de RUP (seção 3.6 do mapa). Bloco 2: questões FGV de requisitos + 5 de Kanban. 22:40: reler as 7 regras 📌 do bloco RLM e refazer Q6, Q7 e Q15 sem olhar |
 | Qua 28/10 | ✅ Almoço/tarde: Módulo 0 A1 + bloco Português classes de palavras (9/15). ✅ Noite: user stories, INVEST e BDD (13/15). Revisão 22:40: regras 📌 da Q8 (TDD × ATDD × BDD) e da Q15 ("em anexo", "é necessário paciência"); regras 📌 do bloco de hoje + refazer Q7, Q8, Q10 e Q14 sem olhar; escrever 3 frases com "é proibido/proibida" e 3 com "anexo/anexas/em anexo". Revisão espaçada de 7 dias das regras de 21/10 + refazer Q8 e Q10 do bloco RLM |
 | Qui 29/10 | ✅ Almoço/tarde: em vez de negações (já feitas em 27/10), RLM argumentação e diagramas (item 2 do mapa de RLM): teoria + 11 exemplos + bloco (9/15). Noite: cansado, só Anki ✅ (41 cartões de 28/10 e 29/10 criados). Estimativa ágil adiada para sexta |
-| Sex 30/10 → Sáb 31/10 | Almoço: Módulo 0. Sex A2 (verbo, advérbio, **locuções adverbiais**: fecha os erros de Q7 e Q8 de 28/10) · Sáb A3 (pronome, preposição, conjunção). Sex à noite: **estimativa ágil** (adiada de 29/10) + bloco. Resto: seção 4.1 do plano (SDD, revisão da semana). Sábado, Bloco 2: **RLM conjuntos e Venn** (2 e 3 conjuntos, "no mínimo/no máximo"; ficou em branco em 29/10) no lugar da argumentação, que já foi feita |
+| Sex 30/10 | ✅ Videoaulas + bloco Português A2 (8/15) e bloco estimativa ágil (10/15). Revisão 22:40: regras 📌 de hoje (Q5, Q6, Q9, Q10 e Q14 do A2; Q5, Q6, Q8, Q11 e Q15 de estimativa), 5 frases com "em anexo" e 5 com "anexo(s)/anexa(s)", refazer as contas da Q5 e da Q6 sem olhar |
+| Sáb 31/10 | Almoço: Módulo 0 A3 (pronome, preposição, conjunção); abrir o bloco A3 com 1 questão de "em anexo" e 1 de voz passiva. Bloco 1: SDD (leitura leve). Bloco 2: **RLM conjuntos e Venn** (2 e 3 conjuntos, "no mínimo/no máximo"; ficou em branco em 29/10). Noite: Anki de estimativa ágil + Português A2 |
 | Dom 01/11 · 13h | **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva **autoral do Claude** sobre assunto já estudado (Eng. Software/Ágil), entregue fechada e corrigida com rigor de banca (combinado em 28/10; não usar a discursiva da prova). Objetiva 13h–16h, discursiva 16h–17h. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10):** qua 28/10 A1 ✅ · sex 30/10 A2 (verbo, advérbio, locuções) · sáb 31/10 A3 (pronome, preposição, conjunção) · seg 02/11 B1 (sujeito e predicado) · qua 04/11 B2 (verbo e complementos) · sex 06/11 B3 (termos acessórios) + revisão. Depois: D concordância (09–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só a partir de 09/11; até lá, autorais básicas.
 
 - **Ter e qui no almoço:** alternar argumentação/falácias e porcentagem/proporção.
-- **Anki (29/10, noite):** ✅ 41 cartões criados no PC de casa (25 de 28/10 + 16 de 29/10; cópias em `anki/`). Total no Anki: 102. Falta criar os de estimativa ágil depois do bloco de sexta. Ao criar a conta AnkiWeb: **enviar (upload) do PC de casa; nos aparelhos novos, baixar (download)**, para não apagar o histórico.
+- **Anki (29/10, noite):** ✅ 41 cartões criados no PC de casa (25 de 28/10 + 16 de 29/10; cópias em `anki/`). Total no Anki: 102. Faltam os cartões de 30/10 (Português A2 e estimativa ágil): criar no sábado. Ao criar a conta AnkiWeb: **enviar (upload) do PC de casa; nos aparelhos novos, baixar (download)**, para não apagar o histórico.
 - **Anki (criar):** verbos de regência (lembrar, esquecer, simpatizar, obedecer, residir, pagar, perdoar, assistir, visar, aspirar, preferir, implicar) · adjetivos eruditos (irascível, indelével, imiscível, inefável, inócuo, iníquo, profícuo, perene) · figuras de linguagem (paradoxo, antítese, ironia, metáfora).
 - **Hábitos de prova:** em "incorreta", escrever V/F ao lado de cada alternativa · em interpretação, sublinhar a palavra que a alternativa acrescenta · só trocar resposta com regra concreta · pontinho ao lado = candidata sem certeza (eliminação, para não reler o que já descartei) · **silogismo (29/10):** legenda com letras de inícios diferentes, ficha com a letra positiva (S = F), seta virada já com os dois apóstrofos, apontar letra da alternativa ↔ ficha antes de marcar. Os erros de 29/10 foram de anotação, não de raciocínio. O Tiago não vai pedir atendimento especial (decisão dele em 29/10).
 - **Leitura de código:** incluir 2 a 3 questões por semana desde já, mesmo antes da Semana 3.
