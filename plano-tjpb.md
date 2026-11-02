@@ -7,7 +7,7 @@
 - **Inscrição:** até 18/11/2026, 16h · boleto até 19/11 · **pedido de isenção só até 27/10/2026, 16h** (1ª retificação)
 - **Vagas Dev:** 10 (6 AC · 1 PcD · 3 negros) + cadastro de reserva
 - **Meta:** 49–51 acertos na objetiva · 30+ na discursiva
-- **Versão:** 4 · 27/10/2026 · Fonte: Edital nº 01/2026 (`edital/edital.pdf`) + 1ª retificação (23/10/2026, arquivo em `edital/`)
+- **Versão:** 4 · 27/10/2026 · Fonte: Edital nº 01/2026 (`edital/edital.pdf`) + 1ª retificação (23/10/2026) + 2ª retificação (29/10/2026, aplicada em 02/11) · arquivos em `edital/`
 - **Mudanças da v4:** conteúdo conferido com o Anexo I do edital · parte "Comum a todos os cargos de TI" incluída · nível de profundidade por assunto (🔴 🟡 ⚪) · normas do CNJ espalhadas pelos sábados · conteúdo de RLM e Português (seção 4.2) · OSPF/BGP removidos
 
 ---
@@ -22,7 +22,7 @@
 |---|---|
 | Banca | FGV – Fundação Getulio Vargas |
 | Vagas | 10: 6 ampla concorrência · 1 PcD · 3 negros (pretos e pardos) |
-| Remuneração | R$ 7.526,14 + aux. alimentação R$ 2.200 + aux. saúde R$ 1.800 ≈ R$ 11.526,14 |
+| Remuneração | Vencimento R$ 7.526,14 (a 2ª retificação trocou "remuneração" por "vencimento"; valor igual) + aux. alimentação R$ 2.200 + aux. saúde R$ 1.800 ≈ R$ 11.526,14 |
 | Jornada | **30h semanais** (era 40h; alterado pela 1ª retificação) |
 | Requisito | Graduação ou pós-graduação em TI (MEC) · sem exigência de experiência |
 | Taxa | R$ 120,00 |
@@ -37,12 +37,13 @@
 | Língua Portuguesa | 10 | 10% |
 | Raciocínio Lógico-Matemático | 10 | 10% |
 | Conhecimentos Específicos | 40 | 40% |
-| Discursiva (1 questão, até 30 linhas) | 40 pontos | 40% |
+| Discursiva (1 **estudo de caso** sobre as específicas, até 30 linhas) | 40 pontos | 40% |
 | **Total** | **100 pontos** | **100%** |
 
 - As 40 específicas cobram o conteúdo do Cargo 5 **e** a parte "Comum a todos os cargos: Fundamentos de TI" (Anexo I). O edital não informa quantas questões saem de cada lista.
 - Mínimo para não ser eliminado: 36 acertos (60%) na objetiva. Cotistas e PcD: 20% a menos.
-- Discursiva corrigida apenas para os 100 primeiros da objetiva.
+- Discursiva corrigida apenas para os 100 primeiros da objetiva (ampla concorrência). Cotistas e PcD aprovados na objetiva têm a discursiva sempre corrigida, fora desse limite (2ª retificação, 10.13.2).
+- **Mínimo na discursiva: 24 de 40 (60%)** (2ª retificação, 10.13.1). Abaixo disso, não é aprovado: a discursiva é eliminatória (item 2.1).
 - Desempate: idade ≥ 60 → maior nota em Específicas → jurado → mais velho.
 
 ### Datas importantes
@@ -64,7 +65,7 @@ Com 6 vagas de ampla concorrência e salário alto, a disputa tende a ser forte.
 
 | Objetivo | Objetiva (60) | Discursiva (40) | Nota final (100) |
 |---|---|---|---|
-| Não ser eliminado | 36 | – | – |
+| Não ser eliminado | 36 | 24 | 60 |
 | Ter a discursiva corrigida (top 100) | ~42–45 | – | – |
 | Cadastro de reserva | ~45–47 | ~26–28 | ~72–75 |
 | Ficar nas 6 vagas de ampla concorrência | ~48–51 | ~30+ | ~80+ |
@@ -461,33 +462,46 @@ Terraform em detalhe · arquitetura de computadores · MoReq-Jus e RDC-Arq · PD
 1. Flutter/Dart, SDD, virtual threads e bancos vetoriais quase não aparecem em provas FGV. Estude pela documentação ou por outras bancas.
 2. Resoluções CNJ (335/2020, 91/2009, 370/2021, 396/2021, 468/2022, 522/2023, 615/2025), PDPJ-Br, MNI, MoReq-Jus e PDTI do TJPB: leia a norma original e faça um resumo de 1 página (uma por sábado, ver seção 4). A Res. 615/2025 está confirmada no edital.
 3. Cebraspe, FCC e Cesgranrio servem para conteúdo, não para treinar o estilo da FGV.
-4. Acompanhe editais de retificação. **1ª retificação (23/10/2026):** jornada de 40h → 30h semanais (subitem 3.1; vagas e remuneração iguais) · isenção da taxa só até 27/10, 16h (subitem 5.2) · item 10.12 corrigido para "60% (sessenta por cento)" (o mínimo de 60% não mudou).
+4. Acompanhe editais de retificação. **1ª retificação (23/10/2026):** jornada de 40h → 30h semanais (subitem 3.1; vagas e remuneração iguais) · isenção da taxa só até 27/10, 16h (subitem 5.2) · item 10.12 corrigido para "60% (sessenta por cento)" (o mínimo de 60% não mudou). **2ª retificação (29/10/2026):** discursiva vira **estudo de caso** sobre Conhecimentos Específicos (10.7 a 10.7.3, com hipóteses de nota zero) · **mínimo de 60% na discursiva = 24/40** (10.13.1) · correção garantida a cotistas e PcD aprovados (10.13.2) · "remuneração" → "vencimento" · diabetes tipo 1 como deficiência · fim da exigência de experiência em outras especialidades de TI · referências corrigidas (11.10.2, 13.2, 13.3). Anexo I (conteúdo) não mudou.
 
 ---
 
 ## 7. Discursiva
 
-Não é redação estilo ENEM. É uma questão técnica: o enunciado pede itens (a, b, c) sobre o conteúdo do cargo, e você responde em texto corrido, em até 30 linhas, valendo 40 pontos.
+Não é redação estilo ENEM. Pela 2ª retificação (10.7 a 10.7.3), é **1 estudo de caso**: uma situação-problema (hipotética ou real) no contexto das atribuições do cargo, sobre **Conhecimentos Específicos** do Anexo I. Você responde em texto corrido, em até 30 linhas, valendo 40 pontos. **Mínimo: 24 pontos.**
+
+O edital diz o que a resposta precisa ter (10.7.2):
+
+1. **Análise crítica** do contexto apresentado
+2. **Identificação dos problemas** envolvidos
+3. **Aplicação dos conhecimentos teóricos e normativos** pertinentes (conceito técnico + norma, quando couber: LGPD, resoluções do CNJ, WCAG/eMAG etc.)
+4. **Proposição de soluções ou encaminhamentos** adequados
+
+O enunciado pode ainda vir dividido em itens (a, b, c). Se vier, responda na ordem dos itens; se não vier, siga as 4 etapas acima.
 
 ### Estrutura recomendada
 
 | Parte | Linhas | Conteúdo |
 |---|---|---|
-| Introdução | 2–3 | Contextualiza o problema |
-| Item a | 8–10 | Responde exatamente o que foi pedido |
-| Item b | 6–7 | Um parágrafo por item, na ordem |
-| Item c | 6–7 | Termos técnicos corretos e exemplo |
-| Conclusão | 2 | Fechamento curto |
+| Contexto | 2–3 | Retoma o caso em uma frase e diz qual é o problema central |
+| Diagnóstico | 6–8 | Identifica os problemas (causa → efeito), com termos técnicos |
+| Fundamentação | 6–8 | Conceitos teóricos e norma pertinente que embasam a análise |
+| Proposta | 8–10 | Soluções ou encaminhamentos concretos, ligados a cada problema |
+| Conclusão | 2 | Fechamento curto: resultado esperado |
+
+(Se o enunciado vier com itens a, b, c, troque as linhas do meio por um parágrafo por item, na ordem.)
 
 ### Dicas
 
 - Responda todos os itens. Item sem resposta = pontos perdidos.
+- **Nota zero (10.7.3):** sem texto, fugir do tema, fugir do formato de estudo de caso, letra ilegível, caneta que não seja azul ou preta, plágio, qualquer marca que identifique você, ou conteúdo técnico plenamente incorreto. Não assine, não desenhe, não use código-fonte.
+- Fale **do caso**, não do tema em geral: resposta genérica, que serviria para qualquer cenário, corre o risco de cair em "fora do padrão".
 - Use os termos técnicos que a banca procura.
 - Texto corrido, sem tópicos (a menos que o enunciado permita).
 - Não passe de 30 linhas. Faça rascunho, mas reserve tempo para passar a limpo (~1h a 1h15).
 - Treine à mão, com caneta. Para correção, tire foto e envie ao Claude.
 
-> O edital não detalha os critérios de correção. Em outros concursos a FGV avalia conteúdo técnico (maior peso) e língua portuguesa.
+> O edital (após a 2ª retificação) define o formato, o mínimo de 24 pontos e as hipóteses de nota zero, mas **não traz o barema** (pontos de conteúdo × língua). Em outros concursos a FGV avalia conteúdo técnico (maior peso) e língua portuguesa.
 
 ### Temas prováveis (palpite, não oficial)
 

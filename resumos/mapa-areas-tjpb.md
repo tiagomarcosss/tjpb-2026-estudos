@@ -131,6 +131,6 @@ Não há tabela de incidência das específicas, então não há coluna de %. Se
 |---|---|---|---|---|
 | **Português** | A–I | 10 questões | ▱▱▱▱▱▱▱▱▱▱ 0% | A. Morfologia (Módulo 0, parte 1), em andamento |
 | **RLM** | 1–6 | 10 questões | ▰▰▱▱▱▱▱▱▱▱ ~20% | 1. Lógica proposicional concluída · próximo: 2 e 3 |
-| **Específicas** | T1–T13 | 40 questões (+ discursiva) | ▱▱▱▱▱▱▱▱▱▱ ~3% | T1. Engenharia de Software e Ágil (33%), em andamento |
+| **Específicas** | T1–T13 | 40 questões (+ discursiva: estudo de caso sobre estas áreas, mín. 24/40) | ▱▱▱▱▱▱▱▱▱▱ ~3% | T1. Engenharia de Software e Ágil (33%), em andamento |
 
 - Estamos na Semana 1 de 13 (cerca de 8% do tempo até a prova). Específicas e Português estão abaixo desse ritmo; RLM está acima.

@@ -6,6 +6,8 @@
 >
 > ⚠️ **Já traz avisos da 1ª Retificação (23/10/2026)** — ver `2026-10-23_1a-retificacao-edital-TJPB.md`. Itens alterados: 3.1 (carga horária 40h → 30h semanais), 5.2 (isenção até 16h de 27/10/2026, não mais 18/11) e 10.12 (corrige "60% (cinquenta por cento)" para "60% (sessenta por cento)").
 >
+> ⚠️ **Já traz avisos da 2ª Retificação (29/10/2026)** — ver `2026-10-29_2a-retificacao-edital-TJPB.md`. Itens alterados: 3.1 ("Remuneração" → "Vencimento"), 6.1 (diabetes tipo 1), **10.7 (discursiva vira Estudo de Caso sobre Conhecimentos Específicos) + 10.7.1 a 10.7.3 (formato e nota zero)**, **10.13.1 (mínimo de 60% na discursiva)**, 10.13.2 e 10.3.3 (correção garantida a cotistas e PcD aprovados), 11.10.2, 13.2 e 13.3 (referências corrigidas), Anexo II (fim da exigência de 2 anos de experiência em Governança, Segurança, IA e Ciência de Dados) e Anexo IV (isenção: renda per capita até ½ salário mínimo).
+>
 > Abaixo, o texto original do edital; as notas ⚠️ marcam os pontos retificados.
 
 O Desembargador Frederico Martinho da Nóbrega Coutinho, Presidente do Tribunal de Justiça do Estado da Paraíba, em cumprimento ao que determina o artigo 37, inciso II, da Constituição, torna pública a realização e a abertura de inscrições para o Concurso Público destinado ao provimento de 50 (cinquenta) cargos efetivos de Analista Judiciário (Especialidades: Área Judiciária – Direito; Área de TI -Desenvolvimento de Sistemas, Banco de Dados, Infraestrutura de TI, Gestão de Governança de TI, Segurança da Informação, Inteligência Artificial, Ciência e Análise de Dados; Contabilidade), que se regerá de acordo com o disposto no presente Edital.
@@ -64,6 +66,8 @@ Remuneração: R$ 7.526,14 *
 > Legenda (não consta do edital, inferida das siglas): AC = ampla concorrência; PCD = pessoas com deficiência; PN = pretos e pardos; PI = indígenas; PQ = quilombolas.
 >
 > ⚠️ **1ª Retificação (23/10/2026):** a carga horária passou de 40 para **30 horas semanais**; vagas e remuneração mantidas.
+>
+> ⚠️ **2ª Retificação (29/10/2026):** onde se lê "Remuneração", leia-se **"Vencimento"** (R$ 7.526,14). Vagas, carga de 30h e auxílios iguais.
 
 **3.2** Os requisitos e as atribuições dos cargos estão definidos no Anexo II deste Edital.
 
@@ -254,6 +258,8 @@ a)Cadastrado nos hemocentros estaduais, desde que apresente documento expedido p
 ## 6. DAS VAGAS DESTINADAS ÀS PESSOAS COM DEFICIÊNCIA
 
 **6.1** Serão consideradas pessoas com deficiência para fins de inscrição no presente Concurso Público aquelas que se enquadrem nas categorias discriminadas no art. 4º do Decreto Federal n. 3.298/1999, com as alterações introduzidas pelo Decreto Federal n. 5.296/2004, no § 1º do art. 1º da Lei Federal n. 12.764/2012 (transtorno do espectro autista), no parágrafo único do art. 1º da Lei Federal n. 14.126/2021 (visão monocular), Lei Federal n. 14.768/2023 (deficiência auditiva) no art. 1º da Lei nº 15.176/2025 (fibromialgia), observando, os dispositivos da convenção sobre os Direitos da Pessoa com Deficiência e seu protocolo facultativo, ratificados, pelo Decreto Federal n. 6.949/2009.
+
+> ⚠️ **2ª Retificação (29/10/2026):** inclui no 6.1 o **art. 1º da Lei Estadual n. 14.707/2026 (diabetes mellitus tipo 1)**.
 
 6.1.2Ficam reservadas aos candidatos com deficiência 5% (cinco por cento) das vagas que forem providas durante o prazo de validade do Concurso, na forma da Lei Estadual nº 5.556/1992, desde que os candidatos assim se declarem com base em atestado médico (imagem do documento original), no qual deve constar com nitidez, no mínimo, a identificação do candidato e do emissor (com respectivo registro no Conselho Regional de Profissional e assinatura), que comprove a deficiência alegada e que contenha a espécie, o grau ou nível da deficiência de que é portador, a CID (Classificação Internacional de Doenças) e a provável causa dessa deficiência.
 
@@ -489,6 +495,11 @@ a)Declaração que comprova o seu pertencimento étnico, assinada por 3 (três) 
 
 **10.7** Para todos os cargos, a Prova Discursiva consistirá de 1(uma) questão discursiva com 30 (trinta) linhas, valendo 40 (quarenta) pontos.
 
+> ⚠️ **2ª Retificação (29/10/2026):** leia-se: 1 Questão Discursiva **na modalidade Estudo de Caso**, 30 linhas, 40 pontos, **sobre conteúdo da área de Conhecimentos Específicos do cargo** (Anexo I).
+> - **10.7.1 (novo):** situação-problema hipotética ou baseada em situações reais, contextualizada nas atribuições do cargo e ligada aos conhecimentos técnicos específicos.
+> - **10.7.2 (novo):** o candidato deve fazer análise crítica do contexto, identificar os problemas, aplicar os conhecimentos teóricos **e normativos** pertinentes e propor soluções ou encaminhamentos.
+> - **10.7.3 (novo) · nota zero:** a) sem texto; b) tema diverso; c) fora do padrão do 10.7.1; d) ilegível, desenhos, números, versos, espaçamento excessivo, códigos alheios à língua escrita ou outro idioma; e) caneta que não seja azul ou preta; f) cópia ou plágio; g) marca que identifique o candidato; h) conteúdo técnico plenamente incorreto.
+
 **10.8** Cada questão de múltipla escolha das áreas de Conhecimentos Gerais e Conhecimentos Específicos valerá 1 (um) ponto, totalizando o máximo de 60 (sessenta) pontos para fins de cálculo da pontuação da Prova Objetiva.
 
 > **10.8.1** A Prova Objetiva e Discursiva não admitem consulta de qualquer natureza.
@@ -558,6 +569,11 @@ a)Declaração que comprova o seu pertencimento étnico, assinada por 3 (três) 
 
 Analista – Área Judiciária Até 300ª Analista – Desenvolvimento de Sistemas Até 100ª Até 50ª Analista Banco de Dados Até 100ª Analista Infraestrutura de TI Até 50ª Analista de Gestão de Governança de TI Até 50ª Analista Segurança da Informação Até 100ª Analista Inteligência Artificial Até 50ª Analista Ciência e Análise de Dados Até 50ª Analista Judiciário – Contabilidade
 
+> ⚠️ **2ª Retificação (29/10/2026):** incluídos:
+> - **10.13.1:** aprovado na discursiva quem tiver **nota ≥ 60% (24 de 40 pontos)**; para vagas reservadas, o mesmo critério do 10.12.1.
+> - **10.13.2:** o limite do 10.13 **não se aplica** a PcD, negros, indígenas e quilombolas que atingirem a nota mínima da sua modalidade: a discursiva deles é sempre corrigida (Res. CNJ 203/2015).
+> - **10.3.3:** para o 10.13.2, contam os candidatos dessas modalidades aprovados na objetiva pelo 10.12.1. (A numeração "10.3.3" está no documento oficial; pelo contexto, parece referir-se ao 10.13.)
+
 ## 11. DA REALIZAÇÃO DA PROVA
 
 **11.1** O candidato deverá comparecer ao local designado para a realização das provas com antecedência mínima de 1 (uma) hora e 30 (trinta) minutos do horário fixado para o seu início, de acordo com o horário oficial de Brasília/DF, munido de caneta esferográfica de tinta azul ou preta em material transparente, do documento de identidade original e do comprovante de inscrição ou do comprovante de pagamento da taxa de inscrição.
@@ -592,7 +608,7 @@ Analista – Área Judiciária Até 300ª Analista – Desenvolvimento de Sistem
 
 > **11.10.1** A inobservância do item anterior acarretará a não correção da prova e, consequentemente, a eliminação do candidato.
 
-> **11.10.2** O candidato que insistir em sair do recinto de realização da prova, descumprindo o disposto no subitem 12.7, deverá assinar o Termo de Ocorrência, lavrado pelo Coordenador Local, declarando sua desistência do Concurso.
+> **11.10.2** O candidato que insistir em sair do recinto de realização da prova, descumprindo o disposto no subitem 12.7 *(⚠️ 2ª Retificação: leia-se **11.10**)*, deverá assinar o Termo de Ocorrência, lavrado pelo Coordenador Local, declarando sua desistência do Concurso.
 
 > **11.10.3** Os 03 (três) últimos candidatos que terminarem a prova deverão permanecer juntos no recinto, sendo liberados somente após os 03 (três) terem entregado o material utilizado e terem seus nomes registrados na Ata, além de estabelecidas suas respectivas assinaturas.
 
@@ -706,9 +722,9 @@ Analista – Área Judiciária Até 300ª Analista – Desenvolvimento de Sistem
 
 - c) tiver exercido efetivamente a função de jurado, de acordo com a Lei n. 11.689/2008; e d)persistindo o empate, terá preferência o candidato mais velho.
 
-**13.2** Para fins de comprovação da função a que se refere a alínea “c” do subitem 13.16, serão aceitas certidões, declarações, atestados ou outros documentos públicos (original ou cópia autenticada em cartório) emitidos pelos tribunais de justiça estaduais e regionais federais do país, relativos à função de jurado, nos termos do art. 440 do Código de Processo Penal, a partir de 10 de agosto de 2008, data de entrada em vigor da Lei n. 11.689/2008.
+**13.2** Para fins de comprovação da função a que se refere a alínea “c” do subitem 13.16 *(⚠️ 2ª Retificação: leia-se **13.1**)*, serão aceitas certidões, declarações, atestados ou outros documentos públicos (original ou cópia autenticada em cartório) emitidos pelos tribunais de justiça estaduais e regionais federais do país, relativos à função de jurado, nos termos do art. 440 do Código de Processo Penal, a partir de 10 de agosto de 2008, data de entrada em vigor da Lei n. 11.689/2008.
 
-**13.3** Para fins de verificação do critério mencionado no subitem anterior, os candidatos deverão fazer o upload do documento comprobatório descrito no subitem 13.16, alínea “c” no link de inscrição, no endereço eletrônico https://conhecimento.fgv.br/concursos/tjpb26.
+**13.3** Para fins de verificação do critério mencionado no subitem anterior, os candidatos deverão fazer o upload do documento comprobatório descrito no subitem 13.16 *(⚠️ 2ª Retificação: leia-se **13.1**)*, alínea “c” no link de inscrição, no endereço eletrônico https://conhecimento.fgv.br/concursos/tjpb26.
 
 **13.4** O gabarito oficial preliminar e o resultado preliminar da endereço eletrônico Prova Objetiva serão divulgados no https://conhecimento.fgv.br/concursos/tjpb26.
 
@@ -1050,11 +1066,15 @@ subconsultas e funções de agregação (GROUP BY e HAVING); consultas com junç
 
 **Requisitos para investidura no cargo:** Diploma de conclusão de curso superior na área de Tecnologia da Informação ou de curso de pós-graduação na área de Tecnologia da Informação, devidamente reconhecido pelo Ministério da Educação (MEC), acrescido de comprovação de experiência profissional de, no mínimo, 2 (dois) anos no exercício de atividades pertinentes às atribuições do cargo.
 
+> ⚠️ **2ª Retificação (29/10/2026):** exigência de experiência **retirada**: basta o diploma de TI (graduação ou pós) reconhecido pelo MEC.
+
 **Descrição sumária das atribuições da categoria:** Atuar na elaboração, revisão e acompanhamento do Plano Diretor de Tecnologia da Informação e Comunicação - PDTIC e do Plano de Contratações Anual de Tecnologia da Informação; elaborar, revisar e acompanhar documentos de oficialização de demanda, estudos técnicos preliminares, termos de referência e demais artefatos de planejamento das contratações de tecnologia da informação; apoiar o monitoramento da execução contratual, a definição de níveis de serviço e o acompanhamento de indicadores de desempenho de fornecedores de tecnologia da informação; contribuir para a implementação e o monitoramento de práticas de governança de tecnologia da informação, gestão de serviços, gestão de riscos, gestão de ativos, conformidade normativa e melhoria contínua; assegurar o alinhamento dos processos de aquisição e contratação de tecnologia da informação às normas do Tribunal de Justiça, do Conselho Nacional de Justiça e à legislação federal aplicável; elaborar, acompanhar e revisar políticas, planos, normas e procedimentos de tecnologia da informação; desenvolver outras atividades correlatas.
 
 **SEGURANÇA DA INFORMAÇÃO**
 
 **Requisitos para investidura no cargo:** Diploma de conclusão de curso superior na área de Tecnologia da Informação ou de curso de pós-graduação na área de Tecnologia da Informação, devidamente reconhecido pelo Ministério da Educação (MEC), acrescido de comprovação de experiência profissional de, no mínimo, 2 (dois) anos no exercício de atividades pertinentes às atribuições do cargo.
+
+> ⚠️ **2ª Retificação (29/10/2026):** exigência de experiência **retirada**: basta o diploma de TI (graduação ou pós) reconhecido pelo MEC.
 
 **Descrição sumária das atribuições da categoria:** Monitorar, prevenir, detectar e responder a incidentes de segurança da informação; aplicar medidas de proteção contra ameaças cibernéticas, inclusive ataques de ransomware, phishing, invasões, vazamentos e outras formas de comprometimento de ativos de informação; garantir a integridade, a disponibilidade, a autenticidade e a confidencialidade das informações institucionais e processuais; implementar, acompanhar e revisar controles de segurança em sistemas, redes, bases de dados, aplicações, serviços e infraestrutura tecnológica; atuar na recuperação de sistemas e serviços após incidentes de segurança, buscando reduzir impactos à continuidade dos serviços judiciais e administrativos; assegurar o alinhamento das práticas de segurança da informação às normas do Conselho Nacional de Justiça, à Lei Geral de Proteção de Dados Pessoais e às políticas institucionais do Tribunal;
 
@@ -1062,11 +1082,15 @@ subconsultas e funções de agregação (GROUP BY e HAVING); consultas com junç
 
 **Requisitos para investidura no cargo:** Diploma de conclusão de curso superior na área de Tecnologia da Informação ou de curso de pós-graduação na área de Tecnologia da Informação, devidamente reconhecido pelo Ministério da Educação (MEC), acrescido de comprovação de experiência profissional de, no mínimo, 2 (dois) anos no exercício de atividades pertinentes às atribuições do cargo.
 
+> ⚠️ **2ª Retificação (29/10/2026):** exigência de experiência **retirada**: basta o diploma de TI (graduação ou pós) reconhecido pelo MEC.
+
 **Descrição sumária das atribuições da categoria:** Desenvolver, manter, avaliar e aperfeiçoar soluções baseadas em inteligência artificial aplicadas às atividades judiciais e administrativas; aplicar técnicas de aprendizado de máquina, processamento de linguagem natural, mineração de dados, automação inteligente e outras tecnologias correlatas; apoiar a triagem, classificação, análise e organização de processos judiciais e administrativos por meio de soluções tecnológicas; automatizar rotinas judiciais e administrativas, respeitadas as diretrizes de governança, segurança, auditabilidade, transparência, proteção de dados e supervisão humana; pesquisar, testar e propor novas tecnologias voltadas ao apoio à gestão, à prestação jurisdicional e à eficiência administrativa; colaborar com unidades técnicas e finalísticas na construção, validação e monitoramento de modelos de inteligência artificial; desenvolver outras atividades correlatas.
 
 **CIÊNCIA E ANÁLISE DE DADOS**
 
 **Requisitos para investidura no cargo:** Diploma de conclusão de curso superior na área de Tecnologia da Informação ou de curso de pós-graduação na área de Tecnologia da Informação, devidamente reconhecido pelo Ministério da Educação (MEC), acrescido de comprovação de experiência profissional de, no mínimo, 2 (dois) anos no exercício de atividades pertinentes às atribuições do cargo.
+
+> ⚠️ **2ª Retificação (29/10/2026):** exigência de experiência **retirada**: basta o diploma de TI (graduação ou pós) reconhecido pelo MEC.
 
 **Descrição sumária das atribuições da categoria:** Desenvolver, manter e aperfeiçoar fluxos de extração, transformação, integração, armazenamento e disponibilização de dados; aplicar métodos estatísticos, modelos preditivos e técnicas analíticas para identificação de tendências, padrões, gargalos, riscos e oportunidades de melhoria; criar painéis, relatórios dinâmicos, indicadores, estudos jurimétricos e ferramentas de apoio à decisão para a alta gestão e unidades do Poder Judiciário; implementar rotinas de saneamento, higienização, validação e qualificação de bases de dados institucionais e processuais;
 
@@ -1118,6 +1142,8 @@ ____________(cidade/UF),____(dia) de ___________de 2026
 ASSINATURA DO CANDIDATO
 
 ## ANEXO IV - MODELO DE DECLARAÇÃO CANDIDATO DESEMPREGADO OU COM RENDA MENSAL QUE NÃO ULTRAPASSA 2 (DOIS) SALÁRIOS-MÍNIMOS
+
+> ⚠️ **2ª Retificação (29/10/2026):** título e declaração passam a ser "desempregado ou com **renda familiar mensal per capita de até meio salário mínimo**".
 
 Eu, , CPF nº , RG nº , UF do RG , Data de nascimento / / , Nome da mãe , venho requerer a isenção do valor da Taxa de Inscrição do Concurso Público do Tribunal de Justiça do Estado da Paraíba, de acordo com o subitem 5.3 do Edital de Abertura. Envio, também, os demais documentos indicados no Edital, assumindo, sob as penas da lei, que essa é verdadeira e idônea.
 
