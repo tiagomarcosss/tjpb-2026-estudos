@@ -14,23 +14,23 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Sexta, 30/10/2026 · Semana 1 (Engenharia de Software e Ágil) · faltam 86 dias para a prova**
+**Terça, 03/11/2026 · Semana 2 (APF, SAFe e Testes) · faltam 82 dias para a prova**
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Almoço | Português · Módulo 0 A2: verbo, advérbio, locução verbal e **locução adverbial** (fecha os erros de Q7 e Q8 de 28/10) + bloco autoral básico | [[mapa-areas-tjpb]] · [[Português]] |
-| 19h · Bloco 1 | Estimativa ágil (adiada de 29/10): Planning Poker, story points, T-shirt · SDD (leitura leve) | [[mapa-engenharia-de-software]] |
-| 20h · Bloco 2 | Bloco de questões de estimativa ágil | [[Engenharia de Software e Ágil]] |
-| 22:40 · Revisão | Anki (fila do dia) · regras 📌 de 29/10 (1 dia) e de 23/10 (7 dias) · refazer Q10 e Q14 do bloco RLM de 29/10 sem olhar | [[regras-tjpb]] |
+| Almoço/tarde | **RLM · Conjuntos e diagramas de Venn** (2 e 3 conjuntos, "no mínimo/no máximo", operações de conjunto). Pendente desde 31/10; ficou em branco 2/2 em 29/10 | [[RLM]] |
+| 19h · Bloco 1 | 🔴 APF/IFPUG: funções de dados (ALI, AIE) e de transação (EE, SE, CE), complexidade por DER/RLR/TR | [[APF, SAFe e Testes]] |
+| 20h · Bloco 2 | Questões de APF com contagem (fazer as contas) | [[APF, SAFe e Testes]] |
+| 22:40 · Revisão | Anki (fila do dia) · regras 📌 de 30/10 (mais recentes) e de 27/10 (7 dias) · 5 frases com "em anexo" | [[regras-tjpb]] |
 
-**Pendente:** sincronizar AnkiWeb (upload do PC de casa, Linux, download nos novos) · cartões de estimativa ágil depois do bloco · confirmar a inscrição (até 18/11, 16h; boleto até 19/11). **Dom 01/11, 13h: 1º simulado oficial** (TJ-MS 2024 ou TJ-AP 2024, cronometrado e sem consulta).
+**Pendente:** registrar o que foi feito de 31/10 a 02/11 (Português A3 e B1 e o **1º simulado de 01/11**: mandar placar e gabarito para correção) · confirmar a inscrição (até 18/11, 16h; boleto até 19/11).
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias. Hoje: as de ontem (29/10) e as de 23/10 (7 dias). Sem regras de 30/09.
+Regras de `regras-tjpb` com ~1, 7 e 30 dias. Não há regras de 02/11 nem de 04/10: usar as mais recentes (30/10) e as de 27/10 (7 dias).
 
 ```query
-path:regras-tjpb ("[29/10]" OR "[23/10]")
+path:regras-tjpb ("[30/10]" OR "[27/10]")
 ```
 
 ---
