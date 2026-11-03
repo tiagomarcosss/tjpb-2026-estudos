@@ -82,12 +82,21 @@
 - [29/10] "Conclui-se necessariamente" só aceita o obrigatório: o que é só possível está errado. "Não pode ser garantida" = procurar a única que falha.
 - [29/10] Palavras em Boole: ou = + · e/mas/porém/embora = · · nem A nem B = A'·B' · A somente se B = A → B · A a menos que B = A + B · A é suficiente para B / B é necessário para A = A → B.
 - [29/10] Falácias: ad hominem (ataca a pessoa) · ad populum (a maioria usa) · apelo à autoridade · generalização (poucos → todos) · falsa causa (depois → por causa) · falso dilema (só 2 opções) · ladeira escorregadia · petição de princípio · espantalho (distorce o argumento) · apelo à ignorância.
+- [03/11] Premissa é sempre verdade, mesmo absurda: "se…, então", "sabe-se que", "considere", "a partir das proposições" e "do ponto de vista da lógica" mandam usar só o que foi dado, sem o mundo real.
+- [03/11] Nome próprio (Pedro, Roberto) = ficha, nunca seta (Roberto: D·N, não R → D·N). Para testar "há pessoas A que são B": criar uma ficha (um carioca), empurrar o V pelas setas e ver se A e B aparecem na mesma ficha.
+- [03/11] Cada "algum" ganha sua própria ficha (x, y…). Duas linhas que dividem uma letra (M·R·F e F·P) não são as mesmas pessoas: "algum M é P" só sai se M e P estiverem na mesma ficha.
+- [03/11] Seta tem direção (A → S não volta: quem tem S não ganha A); ponto não tem (S·G = G·S: "algumas pessoas gordas têm boa saúde" sai direto de "algumas saudáveis são gordas").
+- [03/11] "Nem todo x é y" = algum x não é y = x·y' (ponto, nunca x → y', que seria "nenhum"). Não diz nada sobre os y: "algum y não é x" não decorre (a FGV deu V em Abreu e Lima 2024, gabarito discutível).
+- [03/11] "Todo B é C" = B dentro de C, podendo ser igual: não garante "nem todo C é B". "Pode ser que…" = basta um desenho em que as premissas valem; afirmação direta = tem que valer em todos.
+- [03/11] "Quem é X faz Y" = todo X faz Y = seta. Antes de marcar, traduzir a alternativa para símbolo e procurar a mesma seta (ou o mesmo ponto) na lista: "alguns" nunca vira "todos".
 
 ### Matemática
 
 - [21/10] Porcentagem com mudança no grupo: montar "parte = % × total" com os valores depois da mudança.
 - [21/10] Divisão proporcional: somar as proporções → dividir o total → multiplicar pela parte pedida.
 - [29/10] Venn com 2 conjuntos: Total − nenhum = A + B − ambos. Com 3: preencher do centro para fora (só C = C − AC − BC + ABC). Conferir somando todas as regiões. Isca: esquecer o "nenhum".
+- [03/11] Venn com 3: "X e Y" no enunciado já inclui o centro. Faixa só de dois = par − centro. Exatamente dois = soma dos pares − 3 × centro · pelo menos dois = exatamente dois + centro.
+- [03/11] Mínimo/máximo ("sugar"): mínimo do meio = A + B − total (ou 0), com os círculos separados, e aí o fora é o mínimo. Máximo do meio = círculo menor inteiro, com o maior sugando o menor; quem estava só no menor vai para fora: fora máx = total − maior. Meio e fora sobem juntos.
 
 ### Raciocínio sequencial
 

@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 30/10/2026 · **Semana do plano:** 1 (Engenharia de Software e Ágil)
+**Atualizado em:** 03/11/2026 · **Semana do plano:** 2 (APF, SAFe e Testes)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -102,6 +102,21 @@
   - Comparação: user stories (28/10) 13/15 → estimativa 10/15.
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-10-30_Semana-01_Bloco-02_Estimativa-Agil_CORRECAO.pdf` (+ .md)
 
+### Semana 2 (02–08/11) · APF, SAFe e Testes
+
+- **31/10 a 02/11:** sem registro (A3, B1 e o 1º simulado de 01/11 não foram informados).
+- **03/11 (tarde) · RLM Conjuntos e Venn (bloco 15 autorais, respostas pendentes):** feito com ajuda no chat.
+  - Q3 assistida ("exatamente dois"): lançou os pares (20, 15, 18) direto nas faixas, sem descontar o centro. Entendeu: faixa = par − centro; exatamente dois = soma dos pares − 3 × centro.
+  - Q4 e Q5 assistidas (mínimo/máximo): **não entendeu** pelas explicações de "arrumação" nem pela tabela. Entendeu pela imagem dele do **"sugar"**: o círculo maior engole o menor, e quem estava só no menor vai para fora (fora máx = 5 + 45 = 120 − 70). Simulador de Venn criado como artefato. Q15 (mínimo dos três) não feita.
+  - Ainda falta enviar as respostas do bloco para a correção em PDF.
+- **03/11 (tarde) · Silogismos com todo/algum (4 questões de videoaula, resolvidas no chat):** Pedro biólogo ✅, pedreiros/carpinteiros ✅ (a E também decorre), militares ❌ (juntou fichas de "alguns" diferentes, C × D), cariocas ✅ por eliminação. Travou porque o enunciado não dizia "considere verdadeiro" (o "se… então" já diz).
+  - Método que funcionou: setas + ficha da pessoa (criar um carioca e empurrar o V pelas setas). Explicar com a **listinha dele** (`C → F`, `C · B`), não com notação nova. "Ajustar" uma anotação equivalente à certa confunde: só corrigir quando estiver errada.
+- **03/11 (tarde) · 7 questões FGV oficiais (diagramas lógicos 2023–2024 + TJ-MT 2024):** 4/6 respondidas
+  - ✅ Niterói 2023 (algum é simétrico; assistida), Abreu e Lima 2024 Q3 (V-F-F pela lógica; a fonte dá B = V-V-F, gabarito divergente, não conta como erro), Macaé 2024 (contrapositiva com "ou"), TJ-MT Q24 (p ∨ q → r falsa).
+  - ❌ PM-SP 2023 (marcou "quem é ciclista joga basquete": leu "alguns" como "todos"; a anotação `C · B · F` estava certa, faltou traduzir a alternativa) e Abreu e Lima Q4 (achou que "todo B é C" garante "nem todo C é B"; B pode ser igual a C).
+  - Pendente: TJ-MT Q29 (B − A).
+  - Padrão dos erros: **ler a premissa mais forte do que ela é**. Contrapositivas 2/2.
+
 ---
 
 ## Pontos fracos (prioridade)
@@ -112,8 +127,8 @@
 2. Sintaxe (base): termos da oração, predicação verbal, AA × CN, orações subordinadas
 3. Locução adjetiva × adverbial (28/10): errou 2/2 (Q7, Q8) e deixou em branco locução → adjetivo erudito. Em 30/10: classificou certo pelas setas, mas na contagem esqueceu a locução do início da frase (Q9). Valor semântico acertado com dúvida (Q8)
 4. Morfologia A2 (novo, 30/10): o que o advérbio de intensidade modifica ("muito bem"), "-mente" coordenado (rápida e justamente), voz passiva (não sabia: SER + particípio), conjugação de derivados (reouve, intervier, mantiver), particípio de tempo composto não é adjetivo
-5. Lógica da argumentação (atualizado 29/10): silogismos com todo/algum/nenhum 2/5 (erros de anotação: letras parecidas, "S' = V", contrapositiva sem negar os dois lados, recíproca aceita) · validade × verdade (achou que conclusão V torna válido) · formas da condicional ok (tollens, afirmar consequente). Falácias 2/2 em 29/10 (1/2 para sair)
-6. Conjuntos e Venn (novo, 29/10): em branco 2/2 (contagem com "nenhum" e operações de conjunto em Python). Não estudado
+5. Lógica da argumentação (atualizado 03/11): silogismos com todo/algum/nenhum. Em 03/11, FGV oficiais: errou "quem é X faz Y" (= todo, seta) lido a partir de um "alguns", e "todo B é C" tomado como "C maior que B" (podem ser iguais); juntou fichas de "alguns" diferentes (militares). Contrapositiva 2/2. Antes (29/10): letras parecidas, "S' = V", recíproca aceita · validade × verdade. Falácias 2/2 em 29/10 (1/2 para sair)
+6. Conjuntos e Venn (atualizado 03/11): **mínimo/máximo** é o ponto mais fraco (3 assistidas; entendeu só pela imagem do "sugar"; refazer sem ajuda). "Exatamente dois" com 3 conjuntos: assistido (esqueceu de descontar o centro). Respostas do bloco de 03/11 ainda não corrigidas
 7. Lógica proposicional (novo, 27/10): bicondicional com F ↔ F, contagem de linhas 2ⁿ, tautologia, condicional dada como falsa, "ou… ou" na dedução. Negações e equivalências: 4/4 em 27/10 (1/2 para sair; foram assistidas)
 8. Regência verbal e pronomes relativos (lembrar/lembrar-se, obedecer a, cujo, onde/aonde)
 9. Interpretação: rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto. Opinião × fato: acertou em 28/10 (1/2 para sair)
@@ -151,6 +166,7 @@
 | Sex 30/10 | ✅ Videoaulas + bloco Português A2 (8/15) e bloco estimativa ágil (10/15). Revisão 22:40: regras 📌 de hoje (Q5, Q6, Q9, Q10 e Q14 do A2; Q5, Q6, Q8, Q11 e Q15 de estimativa), 5 frases com "em anexo" e 5 com "anexo(s)/anexa(s)", refazer as contas da Q5 e da Q6 sem olhar |
 | Sáb 31/10 | Almoço: Módulo 0 A3 (pronome, preposição, conjunção); abrir o bloco A3 com 1 questão de "em anexo" e 1 de voz passiva. Bloco 1: SDD (leitura leve). Bloco 2: **RLM conjuntos e Venn** (2 e 3 conjuntos, "no mínimo/no máximo"; ficou em branco em 29/10). Noite: Anki de estimativa ágil + Português A2 |
 | Dom 01/11 · 13h | **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva **autoral do Claude** sobre assunto já estudado (Eng. Software/Ágil), entregue fechada e corrigida com rigor de banca (combinado em 28/10; não usar a discursiva da prova). Objetiva 13h–16h, discursiva 16h–17h. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
+| Ter 03/11 | ✅ Tarde: RLM conjuntos e Venn (bloco 15 autorais, respostas pendentes) + silogismos (4 de videoaula) + 7 FGV oficiais (4/6). Criado o bloco 02 de Venn (15 autorais, foco em mínimo/máximo) para outro dia. Noite: APF/IFPUG. 22:40: regras 📌 de 03/11 + refazer Q4 e Q5 do bloco 01 sem olhar, com o "sugar" |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10):** qua 28/10 A1 ✅ · sex 30/10 A2 (verbo, advérbio, locuções) · sáb 31/10 A3 (pronome, preposição, conjunção) · seg 02/11 B1 (sujeito e predicado) · qua 04/11 B2 (verbo e complementos) · sex 06/11 B3 (termos acessórios) + revisão. Depois: D concordância (09–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só a partir de 09/11; até lá, autorais básicas.
 
