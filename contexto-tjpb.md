@@ -104,7 +104,7 @@
 
 ### Semana 2 (02–08/11) · APF, SAFe e Testes
 
-- **31/10 a 02/11:** sem registro (A3, B1 e o 1º simulado de 01/11 não foram informados).
+- **31/10 a 02/11:** pausa por esgotamento (burnout), sem estudo. A3, B1 e o 1º simulado ficaram para depois. **1º simulado remarcado para dom 08/11, 13h.**
 - **03/11 (tarde) · RLM Conjuntos e Venn (bloco 15 autorais, respostas pendentes):** feito com ajuda no chat.
   - Q3 assistida ("exatamente dois"): lançou os pares (20, 15, 18) direto nas faixas, sem descontar o centro. Entendeu: faixa = par − centro; exatamente dois = soma dos pares − 3 × centro.
   - Q4 e Q5 assistidas (mínimo/máximo): **não entendeu** pelas explicações de "arrumação" nem pela tabela. Entendeu pela imagem dele do **"sugar"**: o círculo maior engole o menor, e quem estava só no menor vai para fora (fora máx = 5 + 45 = 120 − 70). Simulador de Venn criado como artefato. Q15 (mínimo dos três) não feita.
@@ -165,8 +165,9 @@
 | Qui 29/10 | ✅ Almoço/tarde: em vez de negações (já feitas em 27/10), RLM argumentação e diagramas (item 2 do mapa de RLM): teoria + 11 exemplos + bloco (9/15). Noite: cansado, só Anki ✅ (41 cartões de 28/10 e 29/10 criados). Estimativa ágil adiada para sexta |
 | Sex 30/10 | ✅ Videoaulas + bloco Português A2 (8/15) e bloco estimativa ágil (10/15). Revisão 22:40: regras 📌 de hoje (Q5, Q6, Q9, Q10 e Q14 do A2; Q5, Q6, Q8, Q11 e Q15 de estimativa), 5 frases com "em anexo" e 5 com "anexo(s)/anexa(s)", refazer as contas da Q5 e da Q6 sem olhar |
 | Sáb 31/10 | Almoço: Módulo 0 A3 (pronome, preposição, conjunção); abrir o bloco A3 com 1 questão de "em anexo" e 1 de voz passiva. Bloco 1: SDD (leitura leve). Bloco 2: **RLM conjuntos e Venn** (2 e 3 conjuntos, "no mínimo/no máximo"; ficou em branco em 29/10). Noite: Anki de estimativa ágil + Português A2 |
-| Dom 01/11 · 13h | **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva **autoral do Claude** sobre assunto já estudado (Eng. Software/Ágil), entregue fechada e corrigida com rigor de banca (combinado em 28/10; não usar a discursiva da prova). Objetiva 13h–16h, discursiva 16h–17h. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
+| Dom 01/11 · 13h | ⏸️ Não feito (pausa por burnout, 31/10–02/11). Remarcado para dom 08/11. **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva **autoral do Claude** sobre assunto já estudado (Eng. Software/Ágil), entregue fechada e corrigida com rigor de banca (combinado em 28/10; não usar a discursiva da prova). Objetiva 13h–16h, discursiva 16h–17h. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
 | Ter 03/11 | ✅ Tarde: RLM conjuntos e Venn (bloco 15 autorais, respostas pendentes) + silogismos (4 de videoaula) + 7 FGV oficiais (4/6). Criado o bloco 02 de Venn (15 autorais, foco em mínimo/máximo) para outro dia. Noite: APF/IFPUG. 22:40: regras 📌 de 03/11 + refazer Q4 e Q5 do bloco 01 sem olhar, com o "sugar" |
+| Dom 08/11 · 13h | **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10):** qua 28/10 A1 ✅ · sex 30/10 A2 (verbo, advérbio, locuções) · sáb 31/10 A3 (pronome, preposição, conjunção) · seg 02/11 B1 (sujeito e predicado) · qua 04/11 B2 (verbo e complementos) · sex 06/11 B3 (termos acessórios) + revisão. Depois: D concordância (09–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só a partir de 09/11; até lá, autorais básicas.
 
