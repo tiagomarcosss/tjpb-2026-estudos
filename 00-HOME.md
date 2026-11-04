@@ -22,8 +22,8 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 |---|---|---|
 | Manhã | ✅ RLM · Conjuntos e Venn sem mín/máx: 4/8 | [[RLM]] |
 | Almoço | **Português B1 + B2** (fila nº 1): teoria de sujeito, objeto e transitividade dada; falta tipos de sujeito + bloco | [[Português]] |
-| 19h · Bloco 1 | 🔴 **Requisitos** (fila nº 4, pendente da Semana 1): elicitação → análise → especificação → validação + RF × RNF × regras de negócio | [[Engenharia de Software e Ágil]] |
-| 20h · Bloco 2 | Bloco de questões de requisitos | [[Engenharia de Software e Ágil]] |
+| 19h · Bloco 1 | 🔴 **Tipos de teste** (fila nº 5): níveis (unitário → aceitação), caixa-branca × preta, funcional × não funcional, regressão, carga/estresse + TDD e automação. Requisitos (nº 4) adiado para sábado, a pedido | [[Engenharia de Software e Ágil]] |
+| 20h · Bloco 2 | Bloco de questões de tipos de teste | [[Engenharia de Software e Ágil]] |
 | 22:40 · Revisão | Anki · regras 📌 de 04/11 (conjuntos) e de 03/11 (APF) · refazer Q2, Q3, Q5 e Q7 do Venn sem olhar | [[regras-tjpb]] |
 
 **Pendente:** 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de 03/11 e 04/11.

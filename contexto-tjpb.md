@@ -187,7 +187,7 @@
 
 | # | Item | Nível | Situação |
 |---|---|---|---|
-| 4 | **Requisitos:** engenharia de requisitos (elicitação → análise → especificação → validação) + RF × RNF × regras de negócio | 🔴 | Pendente da Semana 1 (era 26–27/10). Teoria no [[mapa-engenharia-de-software]] 5.1; falta bloco |
+| 4 | **Requisitos:** engenharia de requisitos (elicitação → análise → especificação → validação) + RF × RNF × regras de negócio | 🔴 | Teoria vista (Semana 1; não tinha sido registrada). **Adiado a pedido em 04/11** (diz lembrar RF × RNF, TDD/ATDD e user stories). Falta bloco: sábado 07/11. Nunca cobrado: processo de ER, técnicas de elicitação, validação, regras de negócio |
 | 5 | **Tipos de teste** (unitário → aceitação, carga) + TDD e automação | 🔴 / 🟡 | Semana 2 |
 | 6 | **SAFe** (níveis, ART, PI Planning, RTE) | 🟡 | Semana 2 |
 | 7 | **SAST × DAST × IAST, SonarQube** | 🟡 | Semana 2. Primeiro a ir para o fim da fila se apertar |
@@ -209,10 +209,10 @@
 | Sáb 31/10 | Almoço: Módulo 0 A3 (pronome, preposição, conjunção); abrir o bloco A3 com 1 questão de "em anexo" e 1 de voz passiva. Bloco 1: SDD (leitura leve). Bloco 2: **RLM conjuntos e Venn** (2 e 3 conjuntos, "no mínimo/no máximo"; ficou em branco em 29/10). Noite: Anki de estimativa ágil + Português A2 |
 | Dom 01/11 · 13h | ⏸️ Não feito (pausa por burnout, 31/10–02/11). Remarcado para dom 08/11. **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva **autoral do Claude** sobre assunto já estudado (Eng. Software/Ágil), entregue fechada e corrigida com rigor de banca (combinado em 28/10; não usar a discursiva da prova). Objetiva 13h–16h, discursiva 16h–17h. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
 | Ter 03/11 | ✅ Tarde: RLM conjuntos e Venn (bloco 15 autorais, respostas pendentes) + silogismos (4 de videoaula) + 7 FGV oficiais (4/6). Criado o bloco 02 de Venn (15 autorais, foco em mínimo/máximo) para outro dia. ✅ Noite: APF/IFPUG (teoria no chat + bloco 3/8). 22:40: regras 📌 de APF de 03/11 (refazer Q4 do VAF e Q2 das telas sem olhar) + regras de Venn e Q4/Q5 do bloco 01 com o "sugar" |
-| Qua 04/11 | ✅ Manhã: bloco curto de Venn sem mín/máx (4/8). ✅ Regra da fila criada (`CLAUDE.md`) e mapas ajustados. Almoço: B1 + B2 (teoria dada; falta tipos de sujeito + bloco). Noite: **Requisitos** (item 4 da fila). 22:40: regras 📌 de conjuntos de 04/11 + refazer Q2, Q3, Q5 e Q7 sem olhar. Bloco 01 de Venn (03/11): opcional, pulando Q4, Q5 e Q15. APF volta no sábado: 5 a 10 questões reais FGV/Cebraspe só de funções de dados (ALI, AIE, RLR) |
-| Qui 05/11 | Almoço: próximo item de Português da fila. Noite: **Tipos de teste + TDD** (item 5) |
-| Sex 06/11 | Almoço: próximo item de Português da fila (A3, se o B1 + B2 tiver fechado). Noite: **SAFe** (item 6) + SAST/DAST se der |
-| Sáb 07/11 | Dia de recuperação: zerar o que sobrou da fila → APF real (item 8) → leitura ⚪ (item 9). Sem passar do horário normal |
+| Qua 04/11 | ✅ Manhã: bloco curto de Venn sem mín/máx (4/8). ✅ Regra da fila criada (`CLAUDE.md`) e mapas ajustados. Almoço: B1 + B2 (teoria dada; falta tipos de sujeito + bloco). Noite: Requisitos adiado para sábado (a pedido) → **Tipos de teste** (item 5): teoria + bloco. 22:40: regras 📌 de conjuntos de 04/11 + refazer Q2, Q3, Q5 e Q7 sem olhar. Bloco 01 de Venn (03/11): opcional, pulando Q4, Q5 e Q15. APF volta no sábado: 5 a 10 questões reais FGV/Cebraspe só de funções de dados (ALI, AIE, RLR) |
+| Qui 05/11 | Almoço: próximo item de Português da fila. Noite: **SAFe** (item 6), ou terminar Tipos de teste se não fechar hoje |
+| Sex 06/11 | Almoço: próximo item de Português da fila (A3, se o B1 + B2 tiver fechado). Noite: **SAST × DAST × IAST, SonarQube** (item 7) |
+| Sáb 07/11 | Dia de recuperação: zerar o que sobrou da fila → **bloco de Requisitos** (item 4, adiado) → APF real (item 8) → leitura ⚪ (item 9). Sem passar do horário normal |
 | Dom 08/11 · 13h | **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · depois, pela fila: B1 + B2 → A3 → B3 + revisão. Depois: D concordância (previsão 10–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
