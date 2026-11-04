@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["RLM"]
 assunto: "Conjuntos e diagramas de Venn (sem mínimo e máximo)"
 semana: 2

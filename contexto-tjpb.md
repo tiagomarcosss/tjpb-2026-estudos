@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 03/11/2026 · **Semana do plano:** 2 (APF, SAFe e Testes)
+**Atualizado em:** 04/11/2026 · **Semana do plano:** 2 (APF, SAFe e Testes)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -124,6 +124,12 @@
   - Analogias que funcionaram: SE = GET com service/cálculo, CE = GET puro, EE = POST/PUT/DELETE, ALI = tabelas do próprio banco, AIE = API de outro sistema, RLR = classe dentro do agregado, DER = atributos.
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-03_Semana-02_Bloco-03_APF_CORRECAO.pdf` (+ .md)
   - Depois da correção: desânimo forte ("não vou passar", "acho que vou desistir"), no fim de um dia pesado e um dia após a pausa por esgotamento. Decidiu continuar. Combinado: não decidir nada cansado à noite. Se o cansaço voltar, reduzir a carga (1 bloco por noite, cortar assuntos ⚪) em vez de parar. Retoma em 04/11.
+- **04/11 · Decisão: mínimo/máximo de Venn fora do estudo** (aposta do Tiago: não está escrito no edital; no máximo 1 questão). Fica só a fórmula de emergência (meio mín = A + B − total · meio máx = o menor). Bloco 02 de 03/11 (15 questões, metade de mín/máx) **apagado a pedido dele** e trocado por um bloco curto. No bloco 01 de 03/11, pular Q4, Q5 e Q15.
+- **04/11 (manhã) · Bloco RLM Conjuntos e Venn sem mín/máx (8 autorais, PDF anotado):** 4/8 (50%) · 2 erros · 2 "não sabia" ("?")
+  - Acertos: nenhum com 2 conjuntos, (A ∩ B) − C (com pontinho; anotação certa), **3 conjuntos "exatamente uma" sozinho** (em 03/11 foi assistido) e **conjuntos em Python** (em branco em 29/10).
+  - Erros, os dois pelo mesmo motivo: **respondeu o meio ou um dado do enunciado quando pediam o "somente"**. Q2: achou o meio (25%) e parou (somente site = 20%). Q3: não montou a equação do "dobro" e marcou o 10 dado (certo: 3y = 72 → X = 48 → somente X = 38).
+  - "?": pertinência × inclusão (∈ × ⊂ com elemento {1}) e "exatamente um/dois/três" (fatias separadas: total = nenhum + exat. 1 + exat. 2 + exat. 3).
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-04_Semana-02_Bloco-01_RLM-Conjuntos-e-Venn-8q_CORRECAO.pdf` (+ .md)
 
 ---
 
@@ -136,7 +142,7 @@
 3. Locução adjetiva × adverbial (28/10): errou 2/2 (Q7, Q8) e deixou em branco locução → adjetivo erudito. Em 30/10: classificou certo pelas setas, mas na contagem esqueceu a locução do início da frase (Q9). Valor semântico acertado com dúvida (Q8)
 4. Morfologia A2 (novo, 30/10): o que o advérbio de intensidade modifica ("muito bem"), "-mente" coordenado (rápida e justamente), voz passiva (não sabia: SER + particípio), conjugação de derivados (reouve, intervier, mantiver), particípio de tempo composto não é adjetivo
 5. Lógica da argumentação (atualizado 03/11): silogismos com todo/algum/nenhum. Em 03/11, FGV oficiais: errou "quem é X faz Y" (= todo, seta) lido a partir de um "alguns", e "todo B é C" tomado como "C maior que B" (podem ser iguais); juntou fichas de "alguns" diferentes (militares). Contrapositiva 2/2. Antes (29/10): letras parecidas, "S' = V", recíproca aceita · validade × verdade. Falácias 2/2 em 29/10 (1/2 para sair)
-6. Conjuntos e Venn (atualizado 03/11): **mínimo/máximo** é o ponto mais fraco (3 assistidas; entendeu só pela imagem do "sugar"; refazer sem ajuda). "Exatamente dois" com 3 conjuntos: assistido (esqueceu de descontar o centro). Respostas do bloco de 03/11 ainda não corrigidas
+6. Conjuntos e Venn (atualizado 04/11): bloco de 04/11 4/8. Pergunta com **"somente"** respondida com o meio ou com o dado (2 erros) · equação do "dobro" não montada · ∈ × ⊂ ("?") · "exatamente um/dois/três" como fatias ("?"). 3 conjuntos "exatamente uma" e conjuntos em Python: acertos (1/2 para sair). Mínimo/máximo **fora do estudo** (decisão de 04/11)
 7. Lógica proposicional (novo, 27/10): bicondicional com F ↔ F, contagem de linhas 2ⁿ, tautologia, condicional dada como falsa, "ou… ou" na dedução. Negações e equivalências: 4/4 em 27/10 (1/2 para sair; foram assistidas)
 8. Regência verbal e pronomes relativos (lembrar/lembrar-se, obedecer a, cujo, onde/aonde)
 9. Interpretação: rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto. Opinião × fato: acertou em 28/10 (1/2 para sair)
@@ -176,7 +182,7 @@
 | Sáb 31/10 | Almoço: Módulo 0 A3 (pronome, preposição, conjunção); abrir o bloco A3 com 1 questão de "em anexo" e 1 de voz passiva. Bloco 1: SDD (leitura leve). Bloco 2: **RLM conjuntos e Venn** (2 e 3 conjuntos, "no mínimo/no máximo"; ficou em branco em 29/10). Noite: Anki de estimativa ágil + Português A2 |
 | Dom 01/11 · 13h | ⏸️ Não feito (pausa por burnout, 31/10–02/11). Remarcado para dom 08/11. **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva **autoral do Claude** sobre assunto já estudado (Eng. Software/Ágil), entregue fechada e corrigida com rigor de banca (combinado em 28/10; não usar a discursiva da prova). Objetiva 13h–16h, discursiva 16h–17h. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
 | Ter 03/11 | ✅ Tarde: RLM conjuntos e Venn (bloco 15 autorais, respostas pendentes) + silogismos (4 de videoaula) + 7 FGV oficiais (4/6). Criado o bloco 02 de Venn (15 autorais, foco em mínimo/máximo) para outro dia. ✅ Noite: APF/IFPUG (teoria no chat + bloco 3/8). 22:40: regras 📌 de APF de 03/11 (refazer Q4 do VAF e Q2 das telas sem olhar) + regras de Venn e Q4/Q5 do bloco 01 com o "sugar" |
-| Qua 04/11 | Almoço: Português B2 (verbo e complementos). Noite: próximo assunto da semana 2 (SAFe ou testes). Enviar respostas dos blocos 01 e 02 de Venn. APF volta no sábado: 5 a 10 questões reais FGV/Cebraspe só de funções de dados (ALI, AIE, RLR) |
+| Qua 04/11 | ✅ Manhã: bloco curto de Venn sem mín/máx (4/8). Almoço: Português B2 (verbo e complementos). Noite: próximo assunto da semana 2 (SAFe ou testes). 22:40: regras 📌 de conjuntos de 04/11 + refazer Q2, Q3, Q5 e Q7 sem olhar. Bloco 01 de Venn (03/11): opcional, pulando Q4, Q5 e Q15. APF volta no sábado: 5 a 10 questões reais FGV/Cebraspe só de funções de dados (ALI, AIE, RLR) |
 | Dom 08/11 · 13h | **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10):** qua 28/10 A1 ✅ · sex 30/10 A2 (verbo, advérbio, locuções) · sáb 31/10 A3 (pronome, preposição, conjunção) · seg 02/11 B1 (sujeito e predicado) · qua 04/11 B2 (verbo e complementos) · sex 06/11 B3 (termos acessórios) + revisão. Depois: D concordância (09–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só a partir de 09/11; até lá, autorais básicas.
