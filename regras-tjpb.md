@@ -97,8 +97,8 @@
 - [29/10] Venn com 2 conjuntos: Total − nenhum = A + B − ambos. Com 3: preencher do centro para fora (só C = C − AC − BC + ABC). Conferir somando todas as regiões. Isca: esquecer o "nenhum".
 - [03/11] Venn com 3: "X e Y" no enunciado já inclui o centro. Faixa só de dois = par − centro. Exatamente dois = soma dos pares − 3 × centro · pelo menos dois = exatamente dois + centro.
 - [03/11] Mínimo/máximo ("sugar"): mínimo do meio = A + B − total (ou 0), com os círculos separados, e aí o fora é o mínimo. Máximo do meio = círculo menor inteiro, com o maior sugando o menor; quem estava só no menor vai para fora: fora máx = total − maior. Meio e fora sobem juntos.
-- [04/11] Venn "somente": "usa B" = círculo inteiro · "somente B" = B − meio. Achar o meio é o penúltimo passo, não a resposta (com "somente/apenas" sempre há mais uma conta).
-- [04/11] Venn com "o dobro/o triplo": a relação é entre os círculos inteiros. Chamar o menor de y, total = X + Y − meio, resolver e só no fim fazer somente X = X − meio.
+- [04/11] Venn "somente": "usa B" = círculo inteiro · "somente B" = B − meio. Achar o meio é o penúltimo passo, não a resposta (com "somente/apenas" sempre há mais uma conta). Escrever o nome do conjunto pedido ao lado da última conta ("só site = 45 − 25") para não tirar o meio do círculo errado.
+- [04/11] Venn com "o dobro/o triplo": a relação é entre os círculos inteiros (Y = x, X = 2x). Pelas regiões: (x − meio) + meio + (2x − meio) = total, e regiões **sempre se somam**, nunca se subtraem. Pelos círculos: 2x + x − meio = total. x negativo ou quebrado = equação errada.
 - [04/11] "Exatamente um/dois/três" e "nenhum" são fatias que não se repetem: total = nenhum + exat. 1 + exat. 2 + exat. 3, sem fórmula de pares. Já "A e B" (sem "exatamente") inclui o centro.
 - [04/11] ∈ liga elemento a conjunto: procurar o objeto igualzinho na lista ({1} ∈ {0, {1}, 2}, mas 1 ∉). ⊂ liga conjunto a conjunto: tirar as chaves de fora e conferir cada item ({{1}} ⊂ A e {0, 2} ⊂ A).
 - [04/11] Operações com conjuntos: resolver o parêntese primeiro. A − C = elementos de A que não estão em C (o que está só em C é ignorado).

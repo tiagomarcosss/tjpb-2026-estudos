@@ -38,7 +38,7 @@ total: 8
 | Operações e notação (∩, −, ∈, ⊂) | 4, 5 | 1/2 (com dúvida) |
 | Conjuntos em Python | 8 | 1/1 |
 
-**Comparação:** primeiro bloco de conjuntos corrigido (o bloco 01 de 03/11 ainda está sem respostas). Em 29/10, conjuntos (Q9) e conjuntos em Python (Q15) ficaram em branco. Hoje você **acertou o Python** e **acertou o Venn de 3 conjuntos sozinho** (em 03/11, o "exatamente dois" foi assistido). Os dois erros são o mesmo engano: **responder a interseção ou o círculo inteiro quando a pergunta pede o "somente"**.
+**Comparação:** primeiro bloco de conjuntos corrigido (o bloco 01 de 03/11 ainda está sem respostas). Em 29/10, conjuntos (Q9) e conjuntos em Python (Q15) ficaram em branco. Hoje você **acertou o Python** e **acertou o Venn de 3 conjuntos sozinho** (em 03/11, o "exatamente dois" foi assistido). Nos dois erros o método estava certo e a execução falhou: na Q2, o meio foi tirado do **círculo errado**; na Q3, as regiões foram montadas certo, mas uma foi **subtraída** em vez de somada.
 
 ---
 
@@ -92,9 +92,11 @@ O percentual de usuários que usam **somente o site** é
 | 2. Os dois (meio) | 50 + 45 − 70 | 25% |
 | 3. **Somente o site** (lua do site) | 45 − 25 | **20%** |
 
-**Onde você se confundiu:** 25% é o **meio** (os dois). Você fez certo o passo 2 e parou ali. A pergunta pedia o passo 3. (Coincidência que ajudou a enganar: "somente o aplicativo" também dá 25%, 50 − 25.)
+**Onde você se confundiu (segundo você):** o método estava todo certo, inclusive o meio de 25%. No último passo você tirou o meio do **círculo errado**: fez 50 − 25 = 25%, que é **somente o aplicativo**, quando a pergunta pedia somente o **site** (45 − 25). Foi erro de atenção, não de conteúdo. E a banca sabe disso: 25% está nas alternativas justamente para pegar quem pega o círculo do lado errado (e também quem para no meio, porque o meio também é 25%).
 
-📌 **"Usa o site" = círculo inteiro (45%) · "somente o site" = círculo menos o meio (20%).** Quando a pergunta tiver "somente" ou "apenas", a conta sempre tem mais um passo depois de achar o meio.
+**Como evitar:** antes do último passo, circule no enunciado a palavra que vem depois de "somente" (aqui, **site**) e escreva a conta já com o nome: "só site = 45 − 25". Com o rótulo escrito, fica difícil usar o 50.
+
+📌 **"Somente B" = círculo de B − meio.** No último passo, escreva o nome do conjunto pedido ao lado da conta, para não usar o número do outro círculo.
 
 ---
 
@@ -121,13 +123,43 @@ O número de advogados que peticionam **somente** pelo sistema X é
 
 | Passo | Conta | Resultado |
 |---|---|---|
-| 1. Nomear | Y = y · X = 2y (círculos inteiros, com o meio dentro) | — |
-| 2. Fórmula da união | 62 = 2y + y − 10 → 3y = 72 | y = 24 · X = 48 |
+| 1. Nomear | Y = x · X = 2x (círculos inteiros, com o meio dentro) | — |
+| 2. Fórmula da união | 62 = 2x + x − 10 → 3x = 72 | x = 24 · X = 48 |
 | 3. **Somente X** | 48 − 10 | **38** |
 
-**Onde você se confundiu:** não há conta anotada e você marcou o 10, que é um número dado no próprio enunciado (os que usam os dois). Parece que faltou o caminho para montar a equação. As outras alternativas são exatamente as paradas no meio do caminho: (A) 24 = Y inteiro · (B) 48 = X inteiro · (C) 14 = somente Y · (D) 10 = meio.
+**Onde você se confundiu (segundo você):** você montou `x − 1 + 10 − 2(2x − 10) = 62`. A ideia de somar as **regiões** do Venn está certa, e esse é um caminho ótimo. O problema está nos **sinais**: as regiões não se descontam, elas **se somam**.
 
-📌 **"O dobro/o triplo" fala do círculo inteiro.** Chamar o menor de y, escrever total = X + Y − ambos, resolver e **só no fim** tirar o meio para achar o "somente".
+**O seu caminho, consertado (método das regiões):**
+
+| Região | Quanto vale | Por quê |
+|---|---|---|
+| Somente Y | **x − 10** | Y inteiro (x) menos o meio |
+| Meio (os dois) | **10** | dado |
+| Somente X | **2x − 10** | X inteiro (2x) menos o meio |
+
+Como todos usam pelo menos um sistema, as três regiões juntas são o total:
+
+**(x − 10) + 10 + (2x − 10) = 62** → 3x − 10 = 62 → 3x = 72 → **x = 24**
+
+E a resposta sai direto da região pedida: somente X = 2x − 10 = 48 − 10 = **38**.
+
+**O que deu errado na sua equação:**
+
+- O "**− 2(2x − 10)**": as regiões do Venn **não se sobrepõem**, então cada uma entra **uma vez e com sinal de mais**. Nada se subtrai aqui. Com o −2(…), a conta vira x − 1 + 10 − 4x + 20 = 62 → −3x = 33 → x negativo. Isso é sinal de que a equação está errada.
+- O "**x − 1**": deve ter sido o **x − 10** (somente Y) escrito pela metade.
+
+**A fórmula da união é a mesma coisa, só que pelos círculos inteiros:**
+
+| Método | Equação | Quando usar |
+|---|---|---|
+| **Regiões** (o seu) | somente Y + meio + somente X = total → (x − 10) + 10 + (2x − 10) = 62 | Quando a pergunta pede um "somente": a resposta já sai pronta |
+| **União** | círculo X + círculo Y − meio = total → 2x + x − 10 = 62 | Quando a pergunta pede um círculo inteiro |
+
+As duas dão 3x − 10 = 62. O "− meio" da fórmula da união existe porque, somando os círculos inteiros, o meio é contado duas vezes (uma em X e outra em Y), e você tira uma. No método das regiões, o meio só aparece uma vez, então não se tira nada.
+
+Iscas da questão: (A) 24 = Y inteiro · (B) 48 = X inteiro · \(C) 14 = somente Y · (D) 10 = meio.
+
+📌 **Regiões do Venn se somam, nunca se subtraem: somente Y + meio + somente X (+ nenhum) = total.** Só na fórmula pelos círculos inteiros aparece o "− meio". Se o x der negativo ou quebrado, a equação está errada.
 
 ---
 
@@ -306,8 +338,8 @@ A saída exibida pelo programa é
 
 | Assunto | Por que errei | Regra certa |
 |---|---|---|
-| Venn · "somente" (Q2) | Achei o meio (25%) e parei | Somente B = B − meio. "Somente/apenas" = mais um passo depois do meio |
-| Venn com equação (Q3) | Não montei a equação e marquei o 10 do enunciado | "O dobro" é do círculo inteiro: total = X + Y − meio → resolve → somente X = X − meio |
+| Venn · "somente" (Q2) | Método certo, mas tirei o meio do círculo errado (50 − 25 = só aplicativo) | Somente B = B − meio. Escrever o nome do conjunto pedido ao lado da última conta |
+| Venn com equação (Q3) | Montei as regiões, mas subtraí uma delas: −2(2x − 10) | Regiões se somam: (x − 10) + 10 + (2x − 10) = 62. "− meio" só na fórmula dos círculos inteiros |
 | Pertinência × inclusão (Q5) | Não sabia (?) | ∈ = elemento (procure igualzinho na lista) · ⊂ = conjunto (tire as chaves de fora e confira cada item) |
 | Exatamente um/dois/três (Q7) | Não sabia (?) | Fatias separadas: total = nenhum + exat. 1 + exat. 2 + exat. 3 |
 
