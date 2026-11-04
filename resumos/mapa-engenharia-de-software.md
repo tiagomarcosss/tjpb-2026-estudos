@@ -352,7 +352,7 @@ Princípios que mais caem: entregar software funcionando **com frequência** (se
 
 ## Grupo 5 · Áreas transversais (valem para qualquer modelo)
 
-### 5.1 Engenharia de requisitos (26 e 27/10)
+### 5.1 Engenharia de requisitos (26 e 27/10 · bloco pendente na fila desde 04/11)
 
 | | |
 |---|---|

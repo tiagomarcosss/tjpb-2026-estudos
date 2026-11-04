@@ -3,7 +3,7 @@ tipo: resumo
 disciplina: ["RLM"]
 assunto: "Prioridades de RLM pelo edital"
 data: 2026-10-26
-atualizado: 2026-10-26
+atualizado: 2026-11-04
 ---
 
 # Mapa de RLM · Prioridades de estudo (TJPB 2026 · FGV · Analista de TI)
@@ -41,7 +41,7 @@ Fonte: [Edital TJPB 2026 – FGV, p. 34](https://conhecimento.fgv.br/sites/defau
 | 6 | Análise combinatória (PFC, permutação, arranjo, combinação) | 11 | Antes de probabilidade |
 | 7 | Probabilidade | 10 | Depende da combinatória |
 | 8 | Equações, inequações e sistemas | 6 | Ferramenta para os problemas da P1 |
-| 9 | Conjuntos (numéricos e operações, "no mínimo") | 1 | Rápido |
+| 9 | Conjuntos (numéricos e operações) | 1 | ✅ Visto em 04/11 (4/8). "No mínimo/no máximo" fora do estudo (decisão de 04/11): só a fórmula de emergência |
 
 ### 🟢 Prioridade 3 · Média
 
@@ -80,6 +80,6 @@ Arquivo: `PROVAS OFICIAIS (estudo)/Provas/2026-10-26_FGV-RLM_Aula04-Problemas-de
 | 9 | Sequências numéricas por regra/recorrência | 3, 6, 7, 8 | 4 | Calcular termo a termo; em recorrência, isolar o termo anterior |
 | 10 | Disposição circular | 19, 22, 52 | 3 | Fixar uma pessoa; esquerda/direita **de quem está sentado**, olhando o centro |
 | 11 | Contagem em códigos (letra + número) | 4, 47 | 2 | Código → número absoluto: (letra − 1) × bloco + número |
-| 12 | Conjuntos e "no mínimo/no máximo" | 39, 56 | 2 | Interseção mínima = A + B − Total; caso extremo |
+| 12 | Conjuntos e "no mínimo/no máximo" | 39, 56 | 2 | Interseção mínima = A + B − Total; caso extremo. Fora do estudo desde 04/11; se quiser, só testar a fórmula nessas 2 |
 
 Mistos: Q33 (calendário + soma de PA), Q34 e Q46 (verdade/mentira com calendário).

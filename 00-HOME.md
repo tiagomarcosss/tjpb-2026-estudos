@@ -14,23 +14,26 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Terça, 03/11/2026 · Semana 2 (APF, SAFe e Testes) · faltam 82 dias para a prova**
+**Quarta, 04/11/2026 · Semana 2 (APF, SAFe e Testes) · faltam 81 dias para a prova**
+
+> **Fila primeiro (regra de 04/11):** o assunto do dia é o primeiro pendente da "Fila de pendências" do [[contexto-tjpb]], não o do calendário.
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Almoço/tarde | **RLM · Conjuntos e diagramas de Venn** (2 e 3 conjuntos, "no mínimo/no máximo", operações de conjunto). Pendente desde 31/10; ficou em branco 2/2 em 29/10 | [[RLM]] |
-| 19h · Bloco 1 | 🔴 APF/IFPUG: funções de dados (ALI, AIE) e de transação (EE, SE, CE), complexidade por DER/RLR/TR | [[APF, SAFe e Testes]] |
-| 20h · Bloco 2 | Questões de APF com contagem (fazer as contas) | [[APF, SAFe e Testes]] |
-| 22:40 · Revisão | Anki (fila do dia) · regras 📌 de 30/10 (mais recentes) e de 27/10 (7 dias) · 5 frases com "em anexo" | [[regras-tjpb]] |
+| Manhã | ✅ RLM · Conjuntos e Venn sem mín/máx: 4/8 | [[RLM]] |
+| Almoço | **Português B1 + B2** (fila nº 1): teoria de sujeito, objeto e transitividade dada; falta tipos de sujeito + bloco | [[Português]] |
+| 19h · Bloco 1 | 🔴 **Requisitos** (fila nº 4, pendente da Semana 1): elicitação → análise → especificação → validação + RF × RNF × regras de negócio | [[Engenharia de Software e Ágil]] |
+| 20h · Bloco 2 | Bloco de questões de requisitos | [[Engenharia de Software e Ágil]] |
+| 22:40 · Revisão | Anki · regras 📌 de 04/11 (conjuntos) e de 03/11 (APF) · refazer Q2, Q3, Q5 e Q7 do Venn sem olhar | [[regras-tjpb]] |
 
-**Pendente:** registrar o que foi feito de 31/10 a 02/11 (Português A3 e B1 e o **1º simulado de 01/11**: mandar placar e gabarito para correção) · confirmar a inscrição (até 18/11, 16h; boleto até 19/11).
+**Pendente:** 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de 03/11 e 04/11.
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias. Não há regras de 02/11 nem de 04/10: usar as mais recentes (30/10) e as de 27/10 (7 dias).
+Regras de `regras-tjpb` com ~1, 7 e 30 dias: 03/11 (1 dia) e 28/10 (7 dias). Não há regras de 05/10 (30 dias).
 
 ```query
-path:regras-tjpb ("[30/10]" OR "[27/10]")
+path:regras-tjpb ("[03/11]" OR "[28/10]")
 ```
 
 ---

@@ -37,7 +37,28 @@ Você é meu professor e corretor. Responda sempre em português do Brasil, dire
 - Etiquetas: `tjpb`, `bloco::AAAA-MM-DD`, `formato::fgv`, `erro` ou `acerto`, `assunto::nome`. Sem duplicar cartões (conferir com `canAddNotes`).
 - Foco: erros e acertos por chute; um cartão por regra 📌. Nunca apagar cartão que já tenha revisão (perde o histórico); se precisar trocar, perguntar antes.
 
-Calcule a semana do plano pela data de hoje e use a seção 4.1 do `plano-tjpb.md` para saber o assunto.
+O assunto do dia sai da **"Fila de pendências"** do `contexto-tjpb.md` (ver "Fila de estudo"), não só da data. A semana do plano (seção 4.1 do `plano-tjpb.md`) é calculada pela data de hoje e serve para dar **ordem e ritmo**: o assunto novo da semana só entra depois que a fila estiver vazia.
+
+---
+
+## Fila de estudo (regra de 04/11)
+
+Vai ter dia em que não dá para estudar, e conteúdo de base não pode ser pulado, porque os assuntos seguintes dependem dele.
+
+| # | Regra | Na prática |
+|---|---|---|
+| 1 | **Fila, não calendário** | O plano define a **ordem**. Dia perdido = a fila não anda. O próximo assunto é sempre o primeiro pendente, nunca "o do dia" |
+| 2 | **Conferir antes de ensinar** | No início de cada sessão, ler a "Fila de pendências" do contexto e começar por ela. Se eu pedir assunto novo com base pendente, avisar antes de seguir |
+| 3 | **Base nunca é pulada** | Módulo 0 de Português, lógica proposicional e todo assunto 🔴 só saem da fila feitos (teoria + bloco corrigido). Nada que dependa deles começa antes |
+| 4 | **Sábado é dia de recuperação** | A "revisão da semana" de sábado serve primeiro para zerar a fila. Só depois vira revisão |
+| 5 | **Atraso se absorve cortando** | Se o sábado não der conta: 1º o ⚪ da semana vira leitura de 1 página ou sai; 2º o 🟡 vai para o fim da fila. 🔴 e base nunca são cortados |
+| 6 | **Atraso grande = replanejar junto** | Se a fila passar de **1 semana de atraso**, avisar e replanejar comigo. A data da prova é fixa: nunca redistribuir em silêncio |
+| 7 | **Dia ruim: só o mínimo** | Dia sem condição = 15–20 min de Anki. Não avança a fila, mas não é dia perdido. Sem culpa |
+| 8 | **Nunca dobrar** | O dia seguinte tem a carga normal, nunca "a de ontem + a de hoje". O sábado também não passa do horário normal. Atraso se paga com corte, nunca com hora extra |
+
+- A fila fica no `contexto-tjpb.md`, seção "Fila de pendências", em ordem. Ao concluir um item (bloco corrigido), tirar da fila; ao perder um dia, o item continua lá.
+- Um item só sai da fila com **teoria + bloco corrigido**. Ter o resumo pronto não basta.
+- Se perder 2+ dias por semana virar rotina, avisar: os cortes vão começar a atingir os 🟡 e a meta precisa ser conversada.
 
 ---
 
@@ -62,7 +83,7 @@ A pasta também é um vault do Obsidian. Os painéis leem as **propriedades** (f
 - Usar os modelos de `modelos/` como base. Datas sempre ISO na propriedade (no texto pode ser DD/MM).
 - Resumo novo: acrescentar o link na seção "Material" da nota da disciplina.
 - Links internos em wikilink (`[[nome-do-arquivo]]`). Não renomear nem mover arquivos fora do Obsidian sem avisar, porque quebra links.
-- **Seção "📍 Hoje" do `00-HOME.md`:** no início de cada sessão, reescrever com data, semana, dias até a prova, tabela almoço/Bloco 1/Bloco 2/revisão (pelo plano e pelo contexto), pendências e a busca `query` da revisão espaçada (datas de `regras-tjpb.md` com ~1, 7 e 30 dias; se não houver regra nessas datas, usar a mais recente).
+- **Seção "📍 Hoje" do `00-HOME.md`:** no início de cada sessão, reescrever com data, semana, dias até a prova, tabela almoço/Bloco 1/Bloco 2/revisão (pela fila de pendências do contexto e, com a fila vazia, pelo plano), pendências e a busca `query` da revisão espaçada (datas de `regras-tjpb.md` com ~1, 7 e 30 dias; se não houver regra nessas datas, usar a mais recente).
 
 ---
 
@@ -86,7 +107,7 @@ Estudo em dois PCs, cada um com uma conta GitHub diferente. Commits e pushes sae
 ## Fluxo de uma sessão
 
 0. **Sincronizar:** esta pasta é o repositório GitHub `tiagomarcosss/tjpb-2026-estudos` (uso nos dois PCs e no celular via claude.ai/code). No início, `git pull`; ao final de cada sessão que alterar arquivos, `git add -A`, commit com mensagem curta (ex.: "Correção bloco 2026-10-26 + contexto/regras"), `git pull` de novo e `git push` com a conta da máquina (ver "Máquinas e contas GitHub").
-1. **Ler** `contexto-tjpb.md` e `regras-tjpb.md`. Atualizar a seção "📍 Hoje" do `00-HOME.md`.
+1. **Ler** `contexto-tjpb.md` (começando pela "Fila de pendências") e `regras-tjpb.md`. Atualizar a seção "📍 Hoje" do `00-HOME.md` pela fila (ver "Fila de estudo").
 2. **Teoria (quando eu pedir):** explicar o assunto do dia em tabelas curtas, com as pegadinhas FGV e a regra destacada com 📌.
 3. **Questões:** gerar o bloco e salvar em
    `QUESTÕES NÃO OFICIAIS/Provas/AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md`
@@ -140,7 +161,7 @@ Após cada correção, sem precisar eu pedir:
 - Atualizar a data e a semana no topo.
 - Acrescentar a sessão no **Histórico semanal** (data · assunto · placar · acertos · erros).
 - Reordenar **Pontos fracos**: subir o que errei de novo; remover o que acertei em 2 sessões seguidas (avisar no chat quando remover).
-- Ajustar **Próximos passos**.
+- Atualizar a **Fila de pendências** (tirar o item concluído; manter o que não foi feito) e ajustar **Próximos passos** pela fila.
 - Manter o arquivo com no máximo ~2 páginas. A partir da semana 6, resumir semanas antigas em 1 linha cada e manter detalhadas só as 3 últimas.
 
 Se eu disser "sem atualizar", pular esta etapa.
