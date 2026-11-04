@@ -123,6 +123,7 @@
   - Erros, todos em **funções de dados**: "armazenados na base" virou ALI em vez de EE (Q1) · aba dependente contada como 2º ALI e EE dobradas (Q2) · cadastro só lido virou ALI por estar no "mesmo banco corporativo", riscando a certa (Q6) · índice e backup contados como ALI (Q8).
   - Analogias que funcionaram: SE = GET com service/cálculo, CE = GET puro, EE = POST/PUT/DELETE, ALI = tabelas do próprio banco, AIE = API de outro sistema, RLR = classe dentro do agregado, DER = atributos.
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-03_Semana-02_Bloco-03_APF_CORRECAO.pdf` (+ .md)
+  - Depois da correção: desânimo forte ("não vou passar", "acho que vou desistir"), no fim de um dia pesado e um dia após a pausa por esgotamento. Decidiu continuar. Combinado: não decidir nada cansado à noite. Se o cansaço voltar, reduzir a carga (1 bloco por noite, cortar assuntos ⚪) em vez de parar. Retoma em 04/11.
 
 ---
 
