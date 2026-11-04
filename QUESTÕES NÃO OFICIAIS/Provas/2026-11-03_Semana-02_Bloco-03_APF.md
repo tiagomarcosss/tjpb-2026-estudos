@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["APF, SAFe e Testes"]
 assunto: "APF/IFPUG (classificação de funções, telas, VAF e conceitos)"
 semana: 2

@@ -179,6 +179,14 @@
 
 ## APF, SAFe e Testes
 
+- [03/11] APF: "funcionalidade" é sempre transação (EE, SE, CE). Grava dado vindo de fora = EE; ALI/AIE são os dados guardados, nunca a ação.
+- [03/11] APF: direção do dado primeiro: vem de fora → EE; vai para fora com cálculo/dado derivado → SE; vai para fora só recuperando → CE. "Processar" não é pista.
+- [03/11] APF: ALI × AIE se decide por quem mantém, nunca por onde o dado fica (mesmo banco corporativo não importa). Só lê = AIE. "Utilizado" ≠ "mantido".
+- [03/11] APF: dado que "só existe vinculado a" outro é RLR do mesmo ALI, não ALI novo. Cada botão Incluir/Alterar/Excluir = 1 EE; aba gravada pelos mesmos botões não gera EE nova.
+- [03/11] APF: não são ALI: tabela temporária, índice, backup, log técnico, arquivo de ordenação. Só conta dado de negócio reconhecido pelo usuário.
+- [03/11] APF: PF ajustado = PF não ajustado × (0,65 + 0,01 × soma das 14 características gerais, cada uma de 0 a 5). VAF de 0,65 a 1,35. Contratos públicos usam o não ajustado.
+- [03/11] APF mede tamanho funcional (visão do usuário), independente de linguagem e tecnologia. Não é LOC nem produtividade: esforço = PF × produtividade.
+
 ## Algoritmos, POO, SOLID e GoF
 
 - [28/10] Leitura de código: anotar as variáveis a cada volta do laço. `continue` pula o resto da volta sem imprimir nada; `>=` inclui o zero.

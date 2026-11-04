@@ -116,6 +116,13 @@
   - ❌ PM-SP 2023 (marcou "quem é ciclista joga basquete": leu "alguns" como "todos"; a anotação `C · B · F` estava certa, faltou traduzir a alternativa) e Abreu e Lima Q4 (achou que "todo B é C" garante "nem todo C é B"; B pode ser igual a C).
   - Pendente: TJ-MT Q29 (B − A).
   - Padrão dos erros: **ler a premissa mais forte do que ela é**. Contrapositivas 2/2.
+- **03/11 (noite) · Bloco APF/IFPUG padrão FGV (8 autorais, PDF anotado):** 3/8 (38%) · 4 erros · 1 em branco ("?")
+  - Antes do bloco: pesquisa em 10 provas FGV de TI. APF aparece em ~1 questão por prova (TJ-RJ 2026, MPU 2025, TJ-PI 2015), sempre **classificação em cenário, telas e VAF**, nunca tabela DER/RLR. Decisão: estudar conceito, não decorar tabelas.
+  - Acertos: transações SE × CE 2/2 (definição de SE; "dias calculados" = SE e "como armazenado" = CE) e propriedades da APF (I/II/III).
+  - Em branco ("?"): VAF (não sabia a fórmula: 0,65 + 0,01 × soma).
+  - Erros, todos em **funções de dados**: "armazenados na base" virou ALI em vez de EE (Q1) · aba dependente contada como 2º ALI e EE dobradas (Q2) · cadastro só lido virou ALI por estar no "mesmo banco corporativo", riscando a certa (Q6) · índice e backup contados como ALI (Q8).
+  - Analogias que funcionaram: SE = GET com service/cálculo, CE = GET puro, EE = POST/PUT/DELETE, ALI = tabelas do próprio banco, AIE = API de outro sistema, RLR = classe dentro do agregado, DER = atributos.
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-03_Semana-02_Bloco-03_APF_CORRECAO.pdf` (+ .md)
 
 ---
 
@@ -139,18 +146,19 @@
 
 ### Técnico
 
-1. Estratégia "INCORRETA" (voltou em 30/10): na Q8 de estimativa riscou a afirmação falsa (que era a resposta) e circulou uma verdadeira. Antes: 3/3 em 28/10. Escrever V/F e circular a F; nunca riscar a F
-2. Estimativa ágil · velocidade (novo, 30/10): conta da média (63 ÷ 3 = 32), velocidade não compara equipes, item parcial não conta, Delphi = estimativas independentes, Cone da Incerteza (em branco). Conceitos de story points e Planning Poker: 7/7
-3. Leitura de código (voltou em 30/10): ignorou `[-3:]` (fatiamento) e chutou. Rastrear linha a linha numa tabela, como em 28/10
-4. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
-5. Scaling up × out: errou 24 e 26/10
-6. TDD × ATDD × BDD (novo, 28/10): em branco. Inseguro no ATDD
-7. Modelos de processo: espiral × prototipação e prototipação na elicitação (erros de 26/10, ainda não recobrados). Modelo em V: acertou em 28/10 (1/2 para sair)
-8. Scrum · responsabilidades: errou 22 e 26/10; acertou o dono do Sprint Backlog em 28/10 (1/2 para sair). Artefatos × compromissos: acertou em 26/10 por chute (não conta)
-9. Kanban · lead × cycle time: acertou em 28/10 (1/2 para sair)
-10. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
-11. XP · práticas: acertou em 26/10 (1/2 para sair)
-12. Estratégia de prova: nunca deixar em branco (Q6 em 28/10 manhã e Q8 em 28/10 noite: em I/II/III, julgar os itens que sabe e eliminar) e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10). "Incorreta" com V/F: 3/3 em 28/10
+1. APF · funções de dados (novo, 03/11): 0/3. Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. VAF em branco. Transações SE × CE: 2/2
+2. Estratégia "INCORRETA" (voltou em 30/10): na Q8 de estimativa riscou a afirmação falsa (que era a resposta) e circulou uma verdadeira. Antes: 3/3 em 28/10. Escrever V/F e circular a F; nunca riscar a F
+3. Estimativa ágil · velocidade (novo, 30/10): conta da média (63 ÷ 3 = 32), velocidade não compara equipes, item parcial não conta, Delphi = estimativas independentes, Cone da Incerteza (em branco). Conceitos de story points e Planning Poker: 7/7
+4. Leitura de código (voltou em 30/10): ignorou `[-3:]` (fatiamento) e chutou. Rastrear linha a linha numa tabela, como em 28/10
+5. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
+6. Scaling up × out: errou 24 e 26/10
+7. TDD × ATDD × BDD (novo, 28/10): em branco. Inseguro no ATDD
+8. Modelos de processo: espiral × prototipação e prototipação na elicitação (erros de 26/10, ainda não recobrados). Modelo em V: acertou em 28/10 (1/2 para sair)
+9. Scrum · responsabilidades: errou 22 e 26/10; acertou o dono do Sprint Backlog em 28/10 (1/2 para sair). Artefatos × compromissos: acertou em 26/10 por chute (não conta)
+10. Kanban · lead × cycle time: acertou em 28/10 (1/2 para sair)
+11. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
+12. XP · práticas: acertou em 26/10 (1/2 para sair)
+13. Estratégia de prova: nunca deixar em branco (Q6 em 28/10 manhã e Q8 em 28/10 noite: em I/II/III, julgar os itens que sabe e eliminar) e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10). "Incorreta" com V/F: 3/3 em 28/10
 - Leitura de código saiu da lista em 28/10 e **voltou em 30/10** (Q6 de estimativa).
 
 ---
@@ -166,7 +174,8 @@
 | Sex 30/10 | ✅ Videoaulas + bloco Português A2 (8/15) e bloco estimativa ágil (10/15). Revisão 22:40: regras 📌 de hoje (Q5, Q6, Q9, Q10 e Q14 do A2; Q5, Q6, Q8, Q11 e Q15 de estimativa), 5 frases com "em anexo" e 5 com "anexo(s)/anexa(s)", refazer as contas da Q5 e da Q6 sem olhar |
 | Sáb 31/10 | Almoço: Módulo 0 A3 (pronome, preposição, conjunção); abrir o bloco A3 com 1 questão de "em anexo" e 1 de voz passiva. Bloco 1: SDD (leitura leve). Bloco 2: **RLM conjuntos e Venn** (2 e 3 conjuntos, "no mínimo/no máximo"; ficou em branco em 29/10). Noite: Anki de estimativa ágil + Português A2 |
 | Dom 01/11 · 13h | ⏸️ Não feito (pausa por burnout, 31/10–02/11). Remarcado para dom 08/11. **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva **autoral do Claude** sobre assunto já estudado (Eng. Software/Ágil), entregue fechada e corrigida com rigor de banca (combinado em 28/10; não usar a discursiva da prova). Objetiva 13h–16h, discursiva 16h–17h. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
-| Ter 03/11 | ✅ Tarde: RLM conjuntos e Venn (bloco 15 autorais, respostas pendentes) + silogismos (4 de videoaula) + 7 FGV oficiais (4/6). Criado o bloco 02 de Venn (15 autorais, foco em mínimo/máximo) para outro dia. Noite: APF/IFPUG. 22:40: regras 📌 de 03/11 + refazer Q4 e Q5 do bloco 01 sem olhar, com o "sugar" |
+| Ter 03/11 | ✅ Tarde: RLM conjuntos e Venn (bloco 15 autorais, respostas pendentes) + silogismos (4 de videoaula) + 7 FGV oficiais (4/6). Criado o bloco 02 de Venn (15 autorais, foco em mínimo/máximo) para outro dia. ✅ Noite: APF/IFPUG (teoria no chat + bloco 3/8). 22:40: regras 📌 de APF de 03/11 (refazer Q4 do VAF e Q2 das telas sem olhar) + regras de Venn e Q4/Q5 do bloco 01 com o "sugar" |
+| Qua 04/11 | Almoço: Português B2 (verbo e complementos). Noite: próximo assunto da semana 2 (SAFe ou testes). Enviar respostas dos blocos 01 e 02 de Venn. APF volta no sábado: 5 a 10 questões reais FGV/Cebraspe só de funções de dados (ALI, AIE, RLR) |
 | Dom 08/11 · 13h | **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10):** qua 28/10 A1 ✅ · sex 30/10 A2 (verbo, advérbio, locuções) · sáb 31/10 A3 (pronome, preposição, conjunção) · seg 02/11 B1 (sujeito e predicado) · qua 04/11 B2 (verbo e complementos) · sex 06/11 B3 (termos acessórios) + revisão. Depois: D concordância (09–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só a partir de 09/11; até lá, autorais básicas.
