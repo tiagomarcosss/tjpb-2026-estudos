@@ -20,10 +20,10 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Almoço | 🔴 **Português B1 + B2** (fila nº 1, base): teoria de sujeito, objeto e transitividade já dada; falta **tipos de sujeito** (simples, composto, oculto, indeterminado, oração sem sujeito) + **bloco**. Só sai da fila corrigido | [[Português]] |
+| Almoço/tarde | ✅ **Português B1 + B2**: bloco 7/15, corrigido e fora da fila (predicativo e OD × OI ficam como ponto fraco) | [[Português]] |
 | 19h · Bloco 1 | Aquecimento de 10 min: refazer Q9 e Q13 de testes de cabeça. Depois, 🟡 **SAFe** (fila nº 6): níveis (Essential, Large Solution, Portfolio, Full), ART, PI Planning, RTE. Requisitos (nº 4) segue adiado para sábado, a pedido | [[APF, SAFe e Testes]] |
 | 20h · Bloco 2 | Bloco de questões só de SAFe | [[APF, SAFe e Testes]] |
-| 22:40 · Revisão | Anki (inclui o lote de testes de 04/11) · regras 📌 de 04/11 (conjuntos e testes) e de 29/10 (argumentação) · refazer Q3/Q4 de testes com a faixa [18, 70] sem olhar | [[regras-tjpb]] |
+| 22:40 · Revisão | Anki (inclui o lote de testes de 04/11) · regras 📌 de 04/11 (conjuntos e testes), de 29/10 (argumentação) e do B1 + B2 de hoje · refazer Q12, Q13 e Q14 do B1 + B2 (Q14 com V/F) | [[regras-tjpb]] |
 
 **Pendente:** 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11, sem lote em `anki/`) · sábado 07/11: bloco de Requisitos + APF real (funções de dados).
 

@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["Português"]
 assunto: "Sintaxe B1 + B2: sujeito (tipos) e verbo e complementos (transitividade, objetos, predicativo)"
 semana: 2

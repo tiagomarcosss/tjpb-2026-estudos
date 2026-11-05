@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 04/11/2026 · **Semana do plano:** 2 (APF, SAFe e Testes)
+**Atualizado em:** 05/11/2026 · **Semana do plano:** 2 (APF, SAFe e Testes)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -143,6 +143,12 @@
 - **05/11 · Decisão: conta do VAF fora do treino.** Pesquisa: APF FGV 2026 (MPE-ES, TCE-SC, TJ-SC, TCE-PE) cobrou classificação e conceito, não a conta. Conta do VAF achada em FCC (TRE-PI 2009, TJ-CE 2022); uma FGV TCE-SC 2026 com conta foi citada, mas não confirmada. SISP e contratos usam PF não ajustado. Fica só a regra de emergência: **soma 35 = neutro, ±1% por ponto**. Tempo de APF vai para ALI × AIE e EE × SE × CE.
 - **05/11 · Guia de estilo FGV criado** (`resumos/guia-estilo-fgv.md`, regra no `CLAUDE.md`): levantamento em cadernos FGV 2022–2026 (TI: TJ-RJ 2026 e MPU 2025; Português: 67 questões; RLM: 40 oficiais + 56 do PDF). Achados que podem mexer no plano (**conversar antes de mudar**): RLM recente ≈ 70% matemática e só ≈ 12% lógica formal (porcentagem é o assunto nº 1) · Português de tribunal quase sem texto longo, forte em coesão, argumentação e linguística textual; gramática pura rara · TI no modelo Tribunal sem INCORRETA nem I/II/III, SQL é o código mais cobrado, contar RF/RNF num depoimento caiu no TJ-RJ e no MPU. Simulados: TRT-24 2025, TJ-MS 2024 e TJ-AP 2024 seguem inéditos.
 - **05/11 · Pact e mutation testing (⚪) cortados da fila** a pedido (cansado de testes; nenhuma questão FGV achada em 04/11). Único assunto de teste restante: SAST × DAST (sexta).
+- **05/11 (tarde) · Bloco Português B1 + B2 · sujeito e complementos (15 autorais, PDF anotado):** 7/15 (47%) · 7 erros · 1 em branco
+  - Acertos: sujeito posposto, sujeito na passiva, oculto ("nós"), haver sem sujeito (com dúvida), VTI, verbo de ligação × lugar, núcleo do sujeito (**riscou os adjuntos: técnica certa**).
+  - Erros: composto × adjuntos com "e" ("servidores da vara e do cartório") · "expedem-se certidões" (passiva) tomado como indeterminado · "parecia tranquila" (ligação) como intransitivo, com a certa no pontinho · OD × OI invertidos ("aos advogados") · predicativo do sujeito como adjunto de modo (sublinhou a ligação com o sujeito) · predicativo do objeto como objeto direto.
+  - **"INCORRETA" 0/2 de novo** (Q7 em branco com pontinho numa verdadeira; Q14 circulou a verdadeira), sem V/F escrito. 3ª sessão seguida com esse erro.
+  - Por tipo: sujeito 5/8 · complementos 2/7 · predicativo 0/2. Comparação: A1 9/15 → A2 8/15 → B1 + B2 7/15. **B1 + B2 sai da fila** (teoria + bloco corrigido).
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-05_Semana-02_Bloco-01_Portugues-Sujeito-e-Complementos-B1B2_CORRECAO.pdf` (+ .md). Bloco feito no formato antigo (antes do guia FGV); os próximos seguem o guia.
 
 ---
 
@@ -151,7 +157,7 @@
 ### Português / RLM
 
 1. Concordância nominal pela norma-padrão (≈50% do Português FGV): errada **4×** (23/10, 28/10 manhã, 28/10 noite e 30/10), sempre pelo uso comum. "Em anexo" errado 3 vezes seguidas: em 30/10 fez "anexo" concordar até com o "em". Regra-gatilho: **tem EM = advérbio = não varia**. Olhar primeiro se há "em" e se há artigo. "Bastante" acertou em 30/10 (com dúvida)
-2. Sintaxe (base): termos da oração, predicação verbal, AA × CN, orações subordinadas
+2. Sintaxe (base), atualizado 05/11: B1 + B2 7/15, complementos 2/7. **Predicativo** (do sujeito × adjunto de modo; do objeto × objeto direto) 0/2 · OD × OI com "aos" · intransitivo × ligação · composto × adjuntos com "e" · "se" passiva × indeterminado · existir × haver. Ainda pendentes: AA × CN (B3) e orações subordinadas (C)
 3. Locução adjetiva × adverbial (28/10): errou 2/2 (Q7, Q8) e deixou em branco locução → adjetivo erudito. Em 30/10: classificou certo pelas setas, mas na contagem esqueceu a locução do início da frase (Q9). Valor semântico acertado com dúvida (Q8)
 4. Morfologia A2 (novo, 30/10): o que o advérbio de intensidade modifica ("muito bem"), "-mente" coordenado (rápida e justamente), voz passiva (não sabia: SER + particípio), conjugação de derivados (reouve, intervier, mantiver), particípio de tempo composto não é adjetivo
 5. Lógica da argumentação (atualizado 05/11): **setas certas, trava ao traduzir a alternativa** (palavra comum a todos virando letra, emenda sem fim = começo, "algum" = ficha). Silogismos com todo/algum/nenhum. Em 03/11, FGV oficiais: errou "quem é X faz Y" (= todo, seta) lido a partir de um "alguns", e "todo B é C" tomado como "C maior que B" (podem ser iguais); juntou fichas de "alguns" diferentes (militares). Contrapositiva 2/2. Antes (29/10): letras parecidas, "S' = V", recíproca aceita · validade × verdade. Falácias 2/2 em 29/10 (1/2 para sair)
@@ -166,9 +172,10 @@
 
 ### Técnico
 
+0. **Estratégia "INCORRETA" (vale para todas as disciplinas; subiu em 05/11):** errada em 3 sessões seguidas (30/10 estimativa, 04/11 testes, 05/11 Português Q7 e Q14). Sempre marca ou deixa candidata uma alternativa **verdadeira**, sem V/F escrito. Pela pesquisa de 05/11, ~25% do Português FGV é negativo. Regra: V/F ao lado das 5 e circular a F
 1. Testes · técnicas de projeto de casos (novo, 04/11): 0/4. Valor-limite, partição de equivalência, caixa-branca × preta e estático × dinâmico com "?"; cobertura de decisões errada (1 caso True ≠ 100% de decisões). Também: confirmação × regressão invertidos e princípio "presença, não ausência" julgado falso. Níveis, alfa/beta, carga/estresse, stub/driver, ciclomática e pirâmide: ok
 2. APF · funções de dados (novo, 03/11): 0/3. Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. Transações SE × CE: 2/2. VAF: conta fora do treino (05/11), só a regra dos 35
-3. Estratégia "INCORRETA" (voltou em 30/10 e em 04/11: na Q12 de testes deu ✓ em B e C, mas circulou a A, que era verdadeira; "certamente" na D era a pista): na Q8 de estimativa riscou a afirmação falsa (que era a resposta) e circulou uma verdadeira. Antes: 3/3 em 28/10. Escrever V/F e circular a F; nunca riscar a F
+3. (Ver item 0.) Histórico da estratégia "INCORRETA" (voltou em 30/10 e em 04/11: na Q12 de testes deu ✓ em B e C, mas circulou a A, que era verdadeira; "certamente" na D era a pista): na Q8 de estimativa riscou a afirmação falsa (que era a resposta) e circulou uma verdadeira. Antes: 3/3 em 28/10. Escrever V/F e circular a F; nunca riscar a F
 4. Estimativa ágil · velocidade (novo, 30/10): conta da média (63 ÷ 3 = 32), velocidade não compara equipes, item parcial não conta, Delphi = estimativas independentes, Cone da Incerteza (em branco). Conceitos de story points e Planning Poker: 7/7
 5. Leitura de código (voltou em 30/10): ignorou `[-3:]` (fatiamento) e chutou. Rastrear linha a linha numa tabela, como em 28/10
 6. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
@@ -192,10 +199,11 @@
 
 | # | Item | Nível | Situação |
 |---|---|---|---|
-| 1 | **B1 + B2:** sujeito e predicado (tipos de sujeito) + verbo e complementos (VI, VTD, VTI, VTDI, VL, OD, OI, predicativo) | 🔴 base | Teoria dada em 04/11 (sujeito × objeto, transitividade). Falta: tipos de sujeito + bloco |
-| 2 | **A3:** pronome, preposição, conjunção + locuções | 🟡 base | Pendente desde 31/10 |
+| 2 | **A3:** pronome, preposição, conjunção + locuções | 🟡 base | **Próximo** (sex 06/11). Abrir com 10 min de predicativo × adjunto e OD × OI (erros do B1 + B2) |
 | 3 | **B3:** termos acessórios (adjuntos, aposto, vocativo, complemento nominal) + revisão do Módulo 0 | 🔴 base | — |
-| → | Depois: **D. Concordância** (previsão: a partir de 10/11) | 🔴 | — |
+| → | Depois: **D. Concordância** (previsão: a partir de 10/11) | 🔴 | Ordem em discussão (05/11): a pesquisa FGV sugere coesão (G) e texto/argumentação (H) antes de concordância. Decidir com o Tiago |
+
+- ✅ **B1 + B2 saiu da fila em 05/11** (bloco 7/15; predicativo e OD × OI ficam como ponto fraco).
 
 **Específicas · noite**
 
@@ -223,8 +231,8 @@
 | Dom 01/11 · 13h | ⏸️ Não feito (pausa por burnout, 31/10–02/11). Remarcado para dom 08/11. **1º simulado oficial** (cronometrado, sem consulta, prova FGV inédita) + discursiva **autoral do Claude** sobre assunto já estudado (Eng. Software/Ágil), entregue fechada e corrigida com rigor de banca (combinado em 28/10; não usar a discursiva da prova). Objetiva 13h–16h, discursiva 16h–17h. Meta: zero questões em branco, "?" nos chutes e reler cada alternativa de lógica antes de marcar. Enviar respostas e gabarito para correção |
 | Ter 03/11 | ✅ Tarde: RLM conjuntos e Venn (bloco 15 autorais, respostas pendentes) + silogismos (4 de videoaula) + 7 FGV oficiais (4/6). Criado o bloco 02 de Venn (15 autorais, foco em mínimo/máximo) para outro dia. ✅ Noite: APF/IFPUG (teoria no chat + bloco 3/8). 22:40: regras 📌 de APF de 03/11 (refazer Q4 do VAF e Q2 das telas sem olhar) + regras de Venn e Q4/Q5 do bloco 01 com o "sugar" |
 | Qua 04/11 | ✅ Manhã: bloco curto de Venn sem mín/máx (4/8). ✅ Regra da fila criada (`CLAUDE.md`) e mapas ajustados. Almoço: B1 + B2 (teoria dada; falta tipos de sujeito + bloco). ✅ Noite: Requisitos adiado para sábado (a pedido) → **Tipos de teste**: videoaula + bloco (8/15); saiu da fila. 22:40: regras 📌 de testes (Q3, Q4, Q5, Q6, Q9, Q12, Q13) + refazer Q3/Q4 com a faixa [18, 70] e o 2º caso da Q6 sem olhar + Anki de testes; regras de conjuntos de 04/11. Bloco 01 de Venn (03/11): opcional, pulando Q4, Q5 e Q15. APF volta no sábado: 5 a 10 questões reais FGV/Cebraspe só de funções de dados (ALI, AIE, RLR) |
-| Qui 05/11 | Almoço: próximo item de Português da fila. Noite: **SAFe** (item 6). Antes, 10 min: refazer Q9 e Q13 de testes de cabeça |
-| Sex 06/11 | Almoço: próximo item de Português da fila (A3, se o B1 + B2 tiver fechado). Noite: **SAST × DAST × IAST, SonarQube** (item 7): liga com estático × dinâmico (Q13 de testes) |
+| Qui 05/11 | ✅ Manhã: Anki de silogismos + autoral no chat. ✅ Tarde: Anki zerado (AnkiWeb), guia de estilo FGV, **bloco Português B1 + B2 (7/15)**; saiu da fila. Noite: **SAFe** (item 6). Antes, 10 min: refazer Q9 e Q13 de testes de cabeça. 22:40: regras 📌 do B1 + B2 (Q3, Q5, Q7, Q8, Q10, Q12, Q13, Q14) + refazer Q12 (teste da concordância), Q13 (teste do pronome) e Q14 com V/F |
+| Sex 06/11 | Almoço: **A3** (pronome, preposição, conjunção), abrindo com 10 min de predicativo × adjunto e OD × OI. Noite: **SAST × DAST × IAST, SonarQube** (item 7): liga com estático × dinâmico (Q13 de testes) |
 | Sáb 07/11 | Dia de recuperação: zerar o que sobrou da fila → **bloco de Requisitos** (item 4, adiado) → APF real (item 8) → se sobrar, 5 FGV reais de técnicas de teste (valor-limite, partição, cobertura) → leitura ⚪ (item 9). Sem passar do horário normal |
 | Dom 08/11 · 13h | **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco |
 

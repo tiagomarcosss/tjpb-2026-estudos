@@ -25,12 +25,12 @@ atualizado: 2026-11-05
 
 ## Língua Portuguesa (10 questões)
 
-**Progresso em Português: ~7%** · Módulo 0: A1 (28/10, 9/15) e A2 (30/10, 8/15) vistos · B1 + B2: bloco de 05/11 aguardando correção
+**Progresso em Português: ~9%** · Módulo 0: A1 (28/10, 9/15), A2 (30/10, 8/15) e B1 + B2 (05/11, 7/15) vistos · próximo: A3
 
 | Área | O que engloba | Edital | % | Questões | Nível | Progresso |
 |---|---|---|---|---|---|---|
 | **A. MORFOLOGIA** (classes de palavras) | <ins>Substantivo, adjetivo, artigo, numeral</ins>, pronome, <ins>verbo (tempos e modos), advérbio</ins>, preposição, conjunção, interjeição + <ins>locuções (adjetiva, verbal, adverbial)</ins> | 5.1, 4.2 | 11,3% | ~1 | 🟡 base | 7/11 · 64% (falta A3: pronome, preposição, conjunção, interjeição) |
-| **B. SINTAXE DA ORAÇÃO** (termos) | <ins>*Sujeito e predicado, tipos de verbo, objeto direto e indireto, predicativo*</ins>, complemento nominal, adjuntos, aposto, vocativo | 5.2, 5.3 | junto com C | — | 🔴 base | 0/8 · 0% (B1 + B2: bloco de 05/11 aguardando correção) |
+| **B. SINTAXE DA ORAÇÃO** (termos) | <ins>Sujeito e predicado, tipos de verbo, objeto direto e indireto, predicativo</ins>, complemento nominal, adjuntos, aposto, vocativo | 5.2, 5.3 | junto com C | — | 🔴 base | 4/8 · 50% (B1 + B2 em 05/11: 7/15; predicativo 0/2 e OD × OI fracos) |
 | **C. SINTAXE DO PERÍODO** | Coordenação, orações subordinadas (substantivas, adjetivas, adverbiais), conectivos | 5.2, 5.3 | 5,2% (B+C) | ~0,5 | 🟡 | 0/3 · 0% |
 | **D. CONCORDÂNCIA** | Verbal (sujeito posposto e composto, haver/fazer, "se", "um dos que") e nominal ("é proibido", anexo, meio, bastante) | 5.5 | 49,7% | ~5 ⚠️ | 🔴 | 0/2 · 0% |
 | **E. REGÊNCIA, CRASE E COLOCAÇÃO** | Regência verbal e nominal, crase, colocação pronominal (próclise, ênclise, mesóclise) | 5.6–5.8 | 7,8% | ~0,8 | 🔴 | 0/3 · 0% |
@@ -52,8 +52,8 @@ atualizado: 2026-11-05
 |---|---|---|---|
 | 1 | **A. Morfologia** · parte 1 | **Palavras que nomeiam e caracterizam:** substantivo, adjetivo, artigo, numeral + locução adjetiva | ✅ 28/10 (9/15) |
 | 2 | **A. Morfologia** · parte 2 | **Palavras de ação e circunstância:** verbo, advérbio + locução verbal e adverbial | ✅ 30/10 (8/15) |
-| 3 | **B. Sintaxe da oração** · partes 1 e 2 | **Sujeito e predicado** (como achar o sujeito e os tipos) + **verbo e complementos** (VI, VTD, VTI, VTDI, VL + objetos e predicativo) | ⏳ bloco gerado em 05/11 (15 questões), aguardando respostas e correção |
-| 4 | **A. Morfologia** · parte 3 | **Palavras que ligam e substituem:** pronome, preposição, conjunção + locuções | ⏳ pendente (era 31/10) |
+| 3 | **B. Sintaxe da oração** · partes 1 e 2 | **Sujeito e predicado** (como achar o sujeito e os tipos) + **verbo e complementos** (VI, VTD, VTI, VTDI, VL + objetos e predicativo) | ✅ 05/11 (7/15) · sujeito 5/8, complementos 2/7 |
+| 4 | **A. Morfologia** · parte 3 | **Palavras que ligam e substituem:** pronome, preposição, conjunção + locuções | ⏳ próxima (sex 06/11) |
 | 5 | **B. Sintaxe da oração** · parte 3 | **Termos acessórios:** adjuntos, aposto, vocativo, complemento nominal + revisão do Módulo 0 | ⏳ |
 
 B1 foi junto com B2 porque os dois dependem um do outro (achar o sujeito → achar o complemento). Método: explicação com analogia de programação + questões autorais básicas. Questões FGV só depois do Módulo 0.
@@ -130,7 +130,7 @@ Não há tabela de incidência das específicas, então não há coluna de %. Se
 
 | Disciplina | Áreas | Peso | Progresso | Onde estou (05/11) |
 |---|---|---|---|---|
-| **Português** | A–I | 10 questões | ▰▱▱▱▱▱▱▱▱▱ ~7% | Módulo 0: A1 e A2 vistos · B1 + B2 aguardando correção → A3 → B3 |
+| **Português** | A–I | 10 questões | ▰▱▱▱▱▱▱▱▱▱ ~9% | Módulo 0: A1, A2 e B1 + B2 vistos → A3 → B3 |
 | **RLM** | 1–6 | 10 questões | ▰▰▰▱▱▱▱▱▱▱ ~32% | Áreas 1 e 2 (lógica, argumentação, diagramas) + conjuntos vistos · próximo: porcentagem e proporção |
 | **Específicas** | T1–T13 | 40 questões (+ discursiva: estudo de caso sobre estas áreas, mín. 24/40) | ▰▱▱▱▱▱▱▱▱▱ ~10% | T1 (67%): SAFe hoje, requisitos sábado · T2 (60%): só SAST/DAST (sexta) |
 

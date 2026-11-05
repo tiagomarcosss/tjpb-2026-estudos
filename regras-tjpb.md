@@ -43,6 +43,15 @@
 - [30/10] Advérbio de dúvida (provavelmente, talvez) × afirmação (certamente) muda o grau de certeza do autor (modalização).
 - [30/10] Vai + infinitivo = futuro do presente (vai divulgar = divulgará) · ia + infinitivo = futuro do pretérito (divulgaria). Se + -sse → -ria.
 - [30/10] Derivado conjuga como o primitivo: manter → mantiver · intervir → intervier · reaver → reouve ("reaveu" não existe). Futuro do subjuntivo: ver → quando eu vir · vir → quando ele vier.
+- [05/11] Sujeito composto = dois ou mais núcleos que fazem a ação. Termo com "de" que especifica o núcleo é adjunto, mesmo com "e": "os servidores da vara e do cartório" = sujeito simples (núcleo "servidores").
+- [05/11] VTD + SE = voz passiva sintética: o sujeito existe e o verbo concorda (expedem-se certidões = certidões são expedidas). VTI/VI + SE = sujeito indeterminado, verbo no singular (necessita-se de, precisa-se de).
+- [05/11] "Haver" = existir/acontecer → oração sem sujeito, sempre no singular (houve duas audiências). Existir, faltar e ocorrer têm sujeito e concordam (existem falhas, faltaram dois jurados).
+- [05/11] Intransitivo = sentido completo sozinho (morreu, saiu). Verbo de ligação é classe à parte: liga o sujeito a uma característica (parecia tranquila) e não é chamado de intransitivo.
+- [05/11] "Ao/aos/à/às" no início do termo = preposição A = objeto indireto; sem preposição = objeto direto ("enviou aos advogados [OI] as intimações [OD]"). "Respectivamente" segue a ordem do enunciado.
+- [05/11] Predicativo do sujeito: palavra que concorda com o sujeito ("Os jurados saíram cansados"). Advérbio de modo não varia. Teste: troque o sujeito para o feminino singular e veja se a palavra muda.
+- [05/11] Predicativo do objeto: característica dada ao objeto direto por considerar, julgar, achar, tornar, nomear, eleger. Teste do pronome: "considerou-o intempestivo"; o que sobra depois do "o" é o predicativo.
+- [05/11] Advérbio (cedo, ontem, aqui, bem) nunca é objeto: objeto é substantivo ou pronome. "Saiu cedo" = VI + adjunto adverbial de tempo.
+- [05/11] Núcleo do sujeito em frase longa: riscar os termos com "de" e o que está entre vírgulas; sobra o núcleo, e o verbo concorda com ele.
 
 ## Raciocínio Lógico-Matemático
 
@@ -243,5 +252,5 @@
 - [28/10] Marcas na prova: pontinho ao lado = candidata sem certeza (não reler o que já descartei) · risco = eliminada · "?" = chute. Entre duas candidatas, decidir por uma regra concreta, nunca pelo uso comum.
 - [28/10] Itens I/II/III com dúvida em um item: julgar os que sei e eliminar as alternativas incompatíveis antes de pensar em deixar em branco (Q8: I = V e III = F deixavam só 2 opções).
 - [29/10] Silogismo no papel: letras bem diferentes para cada conjunto (F, J, E; nunca P_F e P_e), "algum" com ponto (P·S), "nenhum" com o não só no segundo e valor da letra positiva na ficha (S = F).
-- [30/10] "INCORRETA": não riscar a alternativa falsa, porque ela é a resposta. Escrever V/F ao lado de cada letra e circular a F (errei a Q8 de estimativa riscando a certa).
+- [30/10] "INCORRETA": não riscar a alternativa falsa, porque ela é a resposta. Escrever V/F ao lado de cada letra e circular a F (errei a Q8 de estimativa riscando a certa). Errada de novo em 04/11 (Q12 de testes) e em 05/11 (Português B1 + B2, Q7 e Q14: pontinho e círculo em alternativas verdadeiras, sem V/F escrito).
 - [30/10] Se duas alternativas que marquei como verdadeiras se contradizem ("tinha terminado" é locução × "terminado" é adjetivo), uma delas está errada.
