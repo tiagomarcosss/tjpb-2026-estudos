@@ -189,7 +189,7 @@
 - [03/11] APF: ALI × AIE se decide por quem mantém, nunca por onde o dado fica (mesmo banco corporativo não importa). Só lê = AIE. "Utilizado" ≠ "mantido".
 - [03/11] APF: dado que "só existe vinculado a" outro é RLR do mesmo ALI, não ALI novo. Cada botão Incluir/Alterar/Excluir = 1 EE; aba gravada pelos mesmos botões não gera EE nova.
 - [03/11] APF: não são ALI: tabela temporária, índice, backup, log técnico, arquivo de ordenação. Só conta dado de negócio reconhecido pelo usuário.
-- [03/11] APF: PF ajustado = PF não ajustado × (0,65 + 0,01 × soma das 14 características gerais, cada uma de 0 a 5). VAF de 0,65 a 1,35. Contratos públicos usam o não ajustado.
+- [03/11] APF: PF ajustado = PF não ajustado × (0,65 + 0,01 × soma das 14 características gerais, cada uma de 0 a 5). VAF de 0,65 a 1,35. Contratos públicos usam o não ajustado. Atalho: soma 35 = neutro (VAF 1); cada ponto acima/abaixo = ±1% no PF (conta fora do treino desde 05/11).
 - [03/11] APF mede tamanho funcional (visão do usuário), independente de linguagem e tecnologia. Não é LOC nem produtividade: esforço = PF × produtividade.
 - [04/11] Níveis de teste: unitário = isolado, pelo dev · integração = interface entre módulos · sistema = sistema completo, pela equipe de QA, inclui RNF · aceitação = usuário final valida a necessidade.
 - [04/11] Alfa = usuário testa no ambiente do desenvolvedor, observado · beta = usuário testa no próprio ambiente, sem a equipe.

@@ -14,26 +14,25 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Quarta, 04/11/2026 · Semana 2 (APF, SAFe e Testes) · faltam 81 dias para a prova**
+**Quinta, 05/11/2026 · Semana 2 (APF, SAFe e Testes) · faltam 80 dias para a prova**
 
 > **Fila primeiro (regra de 04/11):** o assunto do dia é o primeiro pendente da "Fila de pendências" do [[contexto-tjpb]], não o do calendário.
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Manhã | ✅ RLM · Conjuntos e Venn sem mín/máx: 4/8 | [[RLM]] |
-| Almoço | **Português B1 + B2** (fila nº 1): teoria de sujeito, objeto e transitividade dada; falta tipos de sujeito + bloco | [[Português]] |
-| 19h · Bloco 1 | 🔴 **Tipos de teste** (fila nº 5): níveis (unitário → aceitação), caixa-branca × preta, funcional × não funcional, regressão, carga/estresse + TDD e automação. Requisitos (nº 4) adiado para sábado, a pedido | [[Engenharia de Software e Ágil]] |
-| 20h · Bloco 2 | Bloco de questões de tipos de teste | [[Engenharia de Software e Ágil]] |
-| 22:40 · Revisão | Anki · regras 📌 de 04/11 (conjuntos) e de 03/11 (APF) · refazer Q2, Q3, Q5 e Q7 do Venn sem olhar | [[regras-tjpb]] |
+| Almoço | 🔴 **Português B1 + B2** (fila nº 1, base): teoria de sujeito, objeto e transitividade já dada; falta **tipos de sujeito** (simples, composto, oculto, indeterminado, oração sem sujeito) + **bloco**. Só sai da fila corrigido | [[Português]] |
+| 19h · Bloco 1 | Aquecimento de 10 min: refazer Q9 e Q13 de testes de cabeça. Depois, 🟡 **SAFe** (fila nº 6): níveis (Essential, Large Solution, Portfolio, Full), ART, PI Planning, RTE. Requisitos (nº 4) segue adiado para sábado, a pedido | [[APF, SAFe e Testes]] |
+| 20h · Bloco 2 | Bloco de questões só de SAFe | [[APF, SAFe e Testes]] |
+| 22:40 · Revisão | Anki (inclui o lote de testes de 04/11) · regras 📌 de 04/11 (conjuntos e testes) e de 29/10 (argumentação) · refazer Q3/Q4 de testes com a faixa [18, 70] sem olhar | [[regras-tjpb]] |
 
-**Pendente:** 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de 03/11 e 04/11.
+**Pendente:** 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11, sem lote em `anki/`) · sábado 07/11: bloco de Requisitos + APF real (funções de dados).
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias: 03/11 (1 dia) e 28/10 (7 dias). Não há regras de 05/10 (30 dias).
+Regras de `regras-tjpb` com ~1, 7 e 30 dias: 04/11 (1 dia, 20 regras) e 29/10 (7 dias, 14 regras). Não há regras de 06/10 (30 dias).
 
 ```query
-path:regras-tjpb ("[03/11]" OR "[28/10]")
+path:regras-tjpb ("[04/11]" OR "[29/10]")
 ```
 
 ---
