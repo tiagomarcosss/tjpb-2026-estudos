@@ -3,7 +3,7 @@ tipo: resumo
 disciplina: ["Engenharia de Software e Ágil"]
 assunto: "Mapa geral de Engenharia de Software"
 data: 2026-10-24
-atualizado: 2026-10-26
+atualizado: 2026-11-05
 ---
 
 # Mapa geral · Engenharia de Software
@@ -421,7 +421,7 @@ Cenário: Petição sem assinatura digital
 | 🔧 **Story points** | Medida **relativa** que junta esforço + complexidade + incerteza · **velocidade** = pontos entregues por Sprint (serve para o próprio time; não compara times) |
 | 🔧 **Planning Poker** | Cada um escolhe uma carta (sequência de Fibonacci modificada: 1, 2, 3, 5, 8, 13, 20, 40, 100) · **revelam ao mesmo tempo** (evita a **ancoragem**) · os extremos explicam e votam de novo até convergir · baseado no Wideband Delphi |
 | 🔧 **T-shirt sizing** | PP, P, M, G, GG: estimativa grosseira para itens grandes ou backlog inicial |
-| 🔧 **APF** (Semana 2) | Mede o **tamanho funcional** pela visão do usuário, independente da tecnologia. Muito usada em **contratos públicos** de software (paga-se por ponto de função) |
+| 🔧 **APF** (Semana 2) | Mede o **tamanho funcional** pela visão do usuário, independente da tecnologia. Muito usada em **contratos públicos** de software (paga-se por ponto de função) · a FGV cobra **classificação** (ALI, AIE, EE, SE, CE) e conceito; a **conta do VAF ficou fora do treino** (05/11): só a regra dos 35 (soma 35 = neutro, ±1% por ponto) |
 
 📌 Por que Fibonacci? Os intervalos crescem: quanto maior o item, **maior a incerteza**, então não faz sentido discutir 20 × 21.
 

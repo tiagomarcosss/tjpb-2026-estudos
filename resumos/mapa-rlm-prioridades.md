@@ -3,7 +3,7 @@ tipo: resumo
 disciplina: ["RLM"]
 assunto: "Prioridades de RLM pelo edital"
 data: 2026-10-26
-atualizado: 2026-11-04
+atualizado: 2026-11-05
 ---
 
 # Mapa de RLM · Prioridades de estudo (TJPB 2026 · FGV · Analista de TI)
@@ -29,7 +29,7 @@ Fonte: [Edital TJPB 2026 – FGV, p. 34](https://conhecimento.fgv.br/sites/defau
 | # | Assunto | Item | Por quê |
 |---|---|---|---|
 | 1 | Lógica proposicional: proposições, conectivos, tabela-verdade, **equivalências e negações** | 13–16 | Núcleo FGV; errei "se… então" em 21/10 |
-| 2 | Argumentação lógica e diagramas lógicos (todo/algum/nenhum, silogismos, validade, falácias) | 17, 18 | Ponto fraco nº 3 |
+| 2 | Argumentação lógica e diagramas lógicos (todo/algum/nenhum, silogismos, validade, falácias) | 17, 18 | Ponto fraco. Em 05/11: setas certas, trava ao traduzir a alternativa (emendar fim = começo, "algum" = ficha) |
 | 3 | Porcentagem, razões e proporções, regra de três (divisão proporcional) | 2, 3, 4 | Ponto fraco nº 6; base da matemática |
 | 4 | Problemas de raciocínio: associação, verdades/mentiras, ordenação/filas, mesas circulares, casa dos pombos | 19 | 30 das 56 questões da Aula 04; filas = ponto fraco nº 8 |
 | 5 | Sequências: periódicas, numéricas/recorrência, calendário | 8 | 17 das 56 questões da Aula 04; técnica fixa |
