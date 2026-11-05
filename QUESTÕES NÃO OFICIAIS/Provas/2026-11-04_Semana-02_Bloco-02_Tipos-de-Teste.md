@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["APF, SAFe e Testes"]
 assunto: "Tipos de teste (níveis, técnicas, tipos, princípios, automação e TDD)"
 semana: 2

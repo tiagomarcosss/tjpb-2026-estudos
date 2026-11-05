@@ -191,6 +191,21 @@
 - [03/11] APF: não são ALI: tabela temporária, índice, backup, log técnico, arquivo de ordenação. Só conta dado de negócio reconhecido pelo usuário.
 - [03/11] APF: PF ajustado = PF não ajustado × (0,65 + 0,01 × soma das 14 características gerais, cada uma de 0 a 5). VAF de 0,65 a 1,35. Contratos públicos usam o não ajustado.
 - [03/11] APF mede tamanho funcional (visão do usuário), independente de linguagem e tecnologia. Não é LOC nem produtividade: esforço = PF × produtividade.
+- [04/11] Níveis de teste: unitário = isolado, pelo dev · integração = interface entre módulos · sistema = sistema completo, pela equipe de QA, inclui RNF · aceitação = usuário final valida a necessidade.
+- [04/11] Alfa = usuário testa no ambiente do desenvolvedor, observado · beta = usuário testa no próprio ambiente, sem a equipe.
+- [04/11] Valor-limite com 2 valores: em cada borda, a borda e o vizinho de fora. Faixa [1, 300] → 0, 1, 300, 301. Com 3 valores, soma o vizinho de dentro (2 e 299).
+- [04/11] Partição de equivalência: faixa [mín, máx] = 3 classes (abaixo inválida, dentro válida, acima inválida) → 1 caso por classe = 3 casos. Valor do meio = partição; borda = valor-limite.
+- [04/11] Caixa-branca = estrutura do código (cobertura de comandos/decisões, complexidade ciclomática) · caixa-preta = especificação, sem ver o código (valor-limite, partição, tabela de decisão, transição de estados).
+- [04/11] Cobertura de decisões exige cada if pelo True E pelo False. 1 caso True num if sem else = 100% de comandos e 50% de decisões. Decisões 100% ⇒ comandos 100%, nunca o contrário; não garante caminhos.
+- [04/11] Complexidade ciclomática = decisões + 1 (cada if, elif, while e for conta 1) = mínimo de caminhos independentes.
+- [04/11] Carga = volume esperado (cumpre o requisito?) · estresse = além da capacidade (como falha e se recupera).
+- [04/11] Confirmação (reteste) = rodar de novo o mesmo caso que achou o defeito · regressão = rodar as outras funções para ver se a mudança quebrou o que já funcionava.
+- [04/11] Erro (engano humano) → defeito (no código ou documento) → falha (comportamento errado observado na execução).
+- [04/11] Integração top-down usa stub (substitui quem é chamado) · bottom-up usa driver (substitui quem chama).
+- [04/11] Teste mostra a presença de defeitos, nunca prova a ausência (V). "Sem defeitos = atende ao usuário" é a falácia da ausência de erros (F). Em "incorreta", desconfiar de "certamente", "sempre", "garante".
+- [04/11] Teste estático = sem executar (inspeção de requisitos, revisão de código/PR, análise estática por ferramenta) · executou = dinâmico, mesmo automatizado.
+- [04/11] Pirâmide: muitos unitários na base, poucos E2E no topo · regressão é a melhor candidata à automação · na CI os testes rodam a cada commit · automação não substitui o exploratório.
+- [04/11] Stub = respostas prontas (verifica estado) · mock = verifica as chamadas (comportamento). Teste com dublê continua unitário. No TDD o teste vem antes da classe e começa vermelho.
 
 ## Algoritmos, POO, SOLID e GoF
 
