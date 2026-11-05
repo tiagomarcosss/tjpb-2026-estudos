@@ -213,7 +213,8 @@ atualizado: 2026-11-05
 
 | Situação | Regra |
 |---|---|
-| **Módulo 0 de Português** (A1–B3, base) | Exceção: autorais **básicas**, focadas no conceito. Já usar comandos e distratores FGV, sem exigir o estímulo de citação |
+| **Vale para tudo** | Blocos, provas, questões avulsas no chat, simulados autorais e cartões Anki. Só muda se o Tiago pedir **explicitamente** outro formato (regra de 05/11) |
+| **Módulo 0 de Português** (A1–B3, base) | Conteúdo básico, **formato FGV**: comando com ":", distratores do uso popular, estímulo curto próprio (frase ou citação) |
 | **Bloco de assunto novo** | Só o assunto (regra de 28/10), no formato FGV da disciplina |
 | **Específicas** | ~80% modelo Tribunal (cenário + nome + sistema fictício + ":"; alternativas minúsculas com ";") · ~20% I/II/III, "respectivamente" ou V/F · INCORRETA só excepcionalmente |
 | **Português** | Estímulo próprio por questão · ~25% negativas · 1 "frase / rótulo" · 1 "mesmo processo" |
