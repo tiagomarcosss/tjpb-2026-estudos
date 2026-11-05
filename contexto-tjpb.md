@@ -141,6 +141,7 @@
   - Método que destravou: setas soltas com "/" → emendar onde a letra se repete igual → **"Sl → Pp · Ti'" = tudo o que o Sl carrega** (forma dele) → "algum" = ficha (um "Carlos") empurrada pelas setas. Prefere V/F com as setas originais a virar contrapositiva. A seta só obriga quando o começo é V (F → V é verdadeiro). Premissa vale como V mesmo sem "considere verdadeiro" (dúvida repetida de 03/11).
 - **05/11 (tarde) · Anki zerado no AnkiWeb** (revisão geral, muita Eng. Software e RLM). Sub-baralho `04 APF, SAFe e Testes::02 Testes` **não aparece no AnkiWeb**: lote de 04/11 (`anki/2026-11-04_Tipos-de-Teste_formato-FGV.tsv`) não sincronizado/importado. Resolver no PC de casa (sincronizar ou importar o .tsv).
 - **05/11 · Decisão: conta do VAF fora do treino.** Pesquisa: APF FGV 2026 (MPE-ES, TCE-SC, TJ-SC, TCE-PE) cobrou classificação e conceito, não a conta. Conta do VAF achada em FCC (TRE-PI 2009, TJ-CE 2022); uma FGV TCE-SC 2026 com conta foi citada, mas não confirmada. SISP e contratos usam PF não ajustado. Fica só a regra de emergência: **soma 35 = neutro, ±1% por ponto**. Tempo de APF vai para ALI × AIE e EE × SE × CE.
+- **05/11 · Pact e mutation testing (⚪) cortados da fila** a pedido (cansado de testes; nenhuma questão FGV achada em 04/11). Único assunto de teste restante: SAST × DAST (sexta).
 
 ---
 
@@ -203,7 +204,7 @@
 | 6 | **SAFe** (níveis, ART, PI Planning, RTE) | 🟡 | Semana 2 |
 | 7 | **SAST × DAST × IAST, SonarQube** | 🟡 | Semana 2. Primeiro a ir para o fim da fila se apertar |
 | 8 | **APF:** 5 a 10 questões reais só de funções de dados (ALI, AIE, RLR) | 🔴 reforço | Sábado 07/11 |
-| 9 | ⚪ SDD · Pact e mutation testing · agilidade organizacional | ⚪ | Leitura de 1 página cada, ou corta |
+| 9 | ⚪ SDD · agilidade organizacional | ⚪ | Leitura de 1 página cada, ou corta. **Pact e mutation testing cortados em 05/11** (a pedido; nenhuma questão FGV achada) |
 
 - **Revisão da Semana 1** (era 31/10): absorvida pelo simulado de 08/11. Não dobrar.
 - **RLM:** conjuntos e Venn fechados em 04/11 (sem mín/máx). Próximo pelo mapa: porcentagem, razão e proporção (ter/qui no almoço, depois do Módulo 0).
