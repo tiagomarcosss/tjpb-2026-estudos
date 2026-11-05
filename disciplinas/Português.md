@@ -12,6 +12,7 @@ Voltar: [[00-HOME]] · Conteúdo detalhado: [[plano-tjpb]], seção 4.1
 
 ## Material
 
+- Guia de estilo FGV (como a banca pergunta): [[guia-estilo-fgv]]
 - Regras estudadas: [[regras-tjpb#Português]]
 - Prova oficial: [[2026-10-23_Semana-00_FGV-DATAPREV_Portugues_PROVA]] · correção: [[2026-10-23_Semana-00_FGV-DATAPREV_Portugues_CORRECAO_v3]]
 

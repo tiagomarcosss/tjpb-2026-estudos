@@ -123,6 +123,7 @@ Estudo em dois PCs, cada um com uma conta GitHub diferente. Commits e pushes sae
 
 - Estilo FGV: enunciado contextualizado ("Sabe-se que...", "Considere verdadeira..."), preferencialmente em cenário do Judiciário, alternativas de (A) a (E), pegadinhas típicas da banca.
 - Basear o formato em provas FGV reais de TI (TRT-16 2022, TJ-MS 2024, TJ-AP 2024, TJ-RR) quando possível.
+- **Guia de estilo FGV (05/11):** seguir `resumos/guia-estilo-fgv.md` (formato de comando, alternativas, distratores e proporções por disciplina) e passar pelo checklist dele antes de entregar o bloco. Em resumo: Específicas ~80% no modelo Tribunal (cenário com nome + sistema fictício + comando com ":", alternativas minúsculas com ";", quase sem INCORRETA); Português com estímulo curto próprio por questão e ~25% negativas; RLM com cotidiano e nomes (sem caso jurídico) e alternativas numéricas em progressão. Exceção: Módulo 0 de Português (autorais básicas).
 - Cada questão com título `## Questão N`, alternativas separadas por linha em branco e `---` entre questões.
 - Sempre avisar no topo: questões autorais no estilo FGV, não oficiais. Nunca apresentar como oficiais.
 - **Nunca colocar o gabarito junto.** Nem no arquivo, nem no chat, até eu responder.

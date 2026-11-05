@@ -12,6 +12,7 @@ Voltar: [[00-HOME]] · Conteúdo detalhado: [[plano-tjpb]], seção 4.1
 
 ## Material
 
+- Guia de estilo FGV (como a banca pergunta): [[guia-estilo-fgv]]
 - Regras estudadas: [[regras-tjpb#Raciocínio Lógico-Matemático]]
 - Prioridades: [[mapa-rlm-prioridades]]
 - 56 questões FGV com gabarito: [[2026-10-26_FGV-RLM_Aula04-Problemas-de-Raciocinio_56-questoes.pdf]]
