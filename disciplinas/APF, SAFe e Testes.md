@@ -13,6 +13,7 @@ Voltar: [[00-HOME]] · Conteúdo detalhado: [[plano-tjpb]], seção 4.1
 ## Material
 
 - Regras estudadas: [[regras-tjpb#APF, SAFe e Testes]]
+- Mapa de SAFe (ART, PI, papéis, backlog, PI Planning, WSJF, configurações): [[mapa-safe]]
 
 ## Desempenho e arquivos
 
