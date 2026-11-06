@@ -155,6 +155,14 @@
   - Leitura de código (Q6, Python com `sorted(..., reverse=True)`): rastreou certo na margem, mas com pontinho (não conta para tirar dos pontos fracos).
   - **SAFe sai da fila** (teoria + bloco corrigido).
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-05_Semana-02_Bloco-02_SAFe_CORRECAO.pdf` (+ .md)
+- **06/11 (tarde) · Bloco Português A3 · pronome, preposição e conjunção + locuções (15 autorais, modelo do guia FGV, PDF anotado):** 8/15 (53%) · 7 erros · 0 em branco
+  - Antes do bloco: teoria das locuções (pronominal, prepositiva, conjuntiva) no chat. Fez a prova à tarde para liberar a noite.
+  - Acertos: relativo × outros "que" (eliminação certa), valor da preposição (teste "por quê?" anotado), concessiva, prepositiva × conjuntiva ("INCORRETA"), este × aquele (setas certas), **"de modo que" = consequência** (era erro em 23/10), "como" causa × conformidade (com pontinho), "toda" × "toda a".
+  - Erros, quase todos pelo **uso comum**: "Vossa Excelência… vosso" · "viu-lhe" aceito e "os recebeu" rejeitado (OD × OI de novo) · "e" adversativo tomado como aditivo · "o sistema que eu te falei" (faltou "de que") · **"para mim assinar" aceito e "para eu revisar" riscado** · ambiguidade do "seu" não vista (uma seta só) · "pois" posposto tomado como "porque" (**com certeza**).
+  - **"Cujo" parece errado para ele** (Q10 e Q14), mas estava certo nas duas.
+  - **V/F escrito nas negativas (Q4, Q8, Q11)**: primeira vez desde 28/10. Negativas 2/4, e os dois erros foram de conteúdo.
+  - Por tipo: preposição e locuções 2/2 · conjunções 3/5 · **pronomes 3/8**. Comparação: A1 9/15 → A2 8/15 → B1 + B2 7/15 → A3 8/15. **A3 sai da fila** (teoria + bloco corrigido; a correção cobre a teoria dos pronomes).
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-06_Semana-02_Bloco-01_Portugues-Pronome-Preposicao-Conjuncao-A3_CORRECAO.pdf` (+ .md)
 
 ---
 
@@ -163,22 +171,24 @@
 ### Português / RLM
 
 1. Concordância nominal pela norma-padrão (≈50% do Português FGV): errada **4×** (23/10, 28/10 manhã, 28/10 noite e 30/10), sempre pelo uso comum. "Em anexo" errado 3 vezes seguidas: em 30/10 fez "anexo" concordar até com o "em". Regra-gatilho: **tem EM = advérbio = não varia**. Olhar primeiro se há "em" e se há artigo. "Bastante" acertou em 30/10 (com dúvida)
-2. Sintaxe (base), atualizado 05/11: B1 + B2 7/15, complementos 2/7. **Predicativo** (do sujeito × adjunto de modo; do objeto × objeto direto) 0/2 · OD × OI com "aos" · intransitivo × ligação · composto × adjuntos com "e" · "se" passiva × indeterminado · existir × haver. Ainda pendentes: AA × CN (B3) e orações subordinadas (C)
-3. Locução adjetiva × adverbial (28/10): errou 2/2 (Q7, Q8) e deixou em branco locução → adjetivo erudito. Em 30/10: classificou certo pelas setas, mas na contagem esqueceu a locução do início da frase (Q9). Valor semântico acertado com dúvida (Q8)
-4. Morfologia A2 (novo, 30/10): o que o advérbio de intensidade modifica ("muito bem"), "-mente" coordenado (rápida e justamente), voz passiva (não sabia: SER + particípio), conjugação de derivados (reouve, intervier, mantiver), particípio de tempo composto não é adjetivo
-5. Lógica da argumentação (atualizado 05/11): **setas certas, trava ao traduzir a alternativa** (palavra comum a todos virando letra, emenda sem fim = começo, "algum" = ficha). Silogismos com todo/algum/nenhum. Em 03/11, FGV oficiais: errou "quem é X faz Y" (= todo, seta) lido a partir de um "alguns", e "todo B é C" tomado como "C maior que B" (podem ser iguais); juntou fichas de "alguns" diferentes (militares). Contrapositiva 2/2. Antes (29/10): letras parecidas, "S' = V", recíproca aceita · validade × verdade. Falácias 2/2 em 29/10 (1/2 para sair)
-6. Conjuntos e Venn (atualizado 04/11): bloco de 04/11 4/8. "Somente": meio tirado do círculo errado (escrever o nome do conjunto na conta) · equação do "dobro" com região subtraída (regiões sempre se somam) · ∈ × ⊂ ("?") · "exatamente um/dois/três" como fatias ("?"). 3 conjuntos "exatamente uma" e conjuntos em Python: acertos (1/2 para sair). Mínimo/máximo **fora do estudo** (decisão de 04/11)
-7. Lógica proposicional (novo, 27/10): bicondicional com F ↔ F, contagem de linhas 2ⁿ, tautologia, condicional dada como falsa, "ou… ou" na dedução. Negações e equivalências: 4/4 em 27/10 (1/2 para sair; foram assistidas)
-8. Regência verbal e pronomes relativos (lembrar/lembrar-se, obedecer a, cujo, onde/aonde)
-9. Interpretação: rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto. Opinião × fato: acertou em 28/10 (1/2 para sair)
-10. Numeração de artigos de lei (novo, 28/10): ordinal até o 9º, cardinal do 10 em diante
-11. Porcentagem e divisão proporcional
-12. Semântica: conectivos ("de modo que"), vocabulário erudito (irascível, indelével)
-13. Raciocínio sequencial (filas, trocas, calendários)
+2. **Pronomes pela norma (novo, 06/11): 3/8 no A3, sempre pelo uso comum.** "Para mim + infinitivo" aceito (é "para eu revisar") · o × lhe ("viu-lhe" aceito; ligado ao OD × OI do B1 + B2) · Vossa Excelência + "vosso" (é "seu") · relativo sem a preposição do verbo ("que eu te falei" → "de que") · ambiguidade do "seu" (desenhar duas setas) · "cujo" parece errado e não é (Q10 e Q14). Firmes: relativo × outros "que", este × aquele, "toda" × "toda a"
+3. Sintaxe (base), atualizado 05/11: B1 + B2 7/15, complementos 2/7. **Predicativo** (do sujeito × adjunto de modo; do objeto × objeto direto) 0/2 · OD × OI com "aos" · intransitivo × ligação · composto × adjuntos com "e" · "se" passiva × indeterminado · existir × haver. Ainda pendentes: AA × CN (B3) e orações subordinadas (C)
+4. Locução adjetiva × adverbial (28/10): errou 2/2 (Q7, Q8) e deixou em branco locução → adjetivo erudito. Em 30/10: classificou certo pelas setas, mas na contagem esqueceu a locução do início da frase (Q9). Valor semântico acertado com dúvida (Q8)
+5. Morfologia A2 (novo, 30/10): o que o advérbio de intensidade modifica ("muito bem"), "-mente" coordenado (rápida e justamente), voz passiva (não sabia: SER + particípio), conjugação de derivados (reouve, intervier, mantiver), particípio de tempo composto não é adjetivo
+6. Lógica da argumentação (atualizado 05/11): **setas certas, trava ao traduzir a alternativa** (palavra comum a todos virando letra, emenda sem fim = começo, "algum" = ficha). Silogismos com todo/algum/nenhum. Em 03/11, FGV oficiais: errou "quem é X faz Y" (= todo, seta) lido a partir de um "alguns", e "todo B é C" tomado como "C maior que B" (podem ser iguais); juntou fichas de "alguns" diferentes (militares). Contrapositiva 2/2. Antes (29/10): letras parecidas, "S' = V", recíproca aceita · validade × verdade. Falácias 2/2 em 29/10 (1/2 para sair)
+7. Conjuntos e Venn (atualizado 04/11): bloco de 04/11 4/8. "Somente": meio tirado do círculo errado (escrever o nome do conjunto na conta) · equação do "dobro" com região subtraída (regiões sempre se somam) · ∈ × ⊂ ("?") · "exatamente um/dois/três" como fatias ("?"). 3 conjuntos "exatamente uma" e conjuntos em Python: acertos (1/2 para sair). Mínimo/máximo **fora do estudo** (decisão de 04/11)
+8. Lógica proposicional (novo, 27/10): bicondicional com F ↔ F, contagem de linhas 2ⁿ, tautologia, condicional dada como falsa, "ou… ou" na dedução. Negações e equivalências: 4/4 em 27/10 (1/2 para sair; foram assistidas)
+9. Regência verbal (lembrar/lembrar-se, obedecer a). Relativos (cujo, onde/aonde) passaram para o item 2 em 06/11
+10. Conjunções pelo sentido (novo, 06/11): "e" adversativo (= mas) tomado como aditivo · "pois" posposto = conclusivo, errado **com certeza**. "De modo que" = consequência: acertou em 06/11 (era erro em 23/10; 1/2 para sair)
+11. Interpretação: rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto. Opinião × fato: acertou em 28/10 (1/2 para sair)
+12. Numeração de artigos de lei (novo, 28/10): ordinal até o 9º, cardinal do 10 em diante
+13. Porcentagem e divisão proporcional
+14. Semântica: vocabulário erudito (irascível, indelével). Conectivos passaram para o item 10
+15. Raciocínio sequencial (filas, trocas, calendários)
 
 ### Técnico
 
-0. **Estratégia "INCORRETA" (vale para todas as disciplinas; subiu em 05/11):** errada em 3 sessões seguidas (30/10 estimativa, 04/11 testes, 05/11 Português Q7 e Q14). Sempre marca ou deixa candidata uma alternativa **verdadeira**, sem V/F escrito. Pela pesquisa de 05/11, ~25% do Português FGV é negativo. Regra: V/F ao lado das 5 e circular a F
+0. **Estratégia "INCORRETA" (vale para todas as disciplinas; subiu em 05/11):** errada em 3 sessões seguidas (30/10 estimativa, 04/11 testes, 05/11 Português Q7 e Q14). Sempre marca ou deixa candidata uma alternativa **verdadeira**, sem V/F escrito. Pela pesquisa de 05/11, ~25% do Português FGV é negativo. Regra: V/F ao lado das 5 e circular a F. **06/11 (A3): voltou a escrever V/F (✓) em 3 das 4 negativas; 2/4, e os erros foram de conteúdo.** Manter no simulado de 08/11
 1. Testes · técnicas de projeto de casos (novo, 04/11): 0/4. Valor-limite, partição de equivalência, caixa-branca × preta e estático × dinâmico com "?"; cobertura de decisões errada (1 caso True ≠ 100% de decisões). Também: confirmação × regressão invertidos e princípio "presença, não ausência" julgado falso. Níveis, alfa/beta, carga/estresse, stub/driver, ciclomática e pirâmide: ok
 2. SAFe (novo, 06/11): 9/12, mas 7 acertos com dúvida. **Papéis RTE × Product Management** (facilita × prioriza) · **voto de confiança baixo** = os times retrabalham o plano no evento · **CD Pipeline** (Exploration = o quê; Deployment = produção) e deploy × release · System × Solution Demo ("?"). Firmes: hierarquia do backlog e ART
 3. APF · funções de dados (novo, 03/11): 0/3. Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. Transações SE × CE: 2/2. VAF: conta fora do treino (05/11), só a regra dos 35
@@ -206,11 +216,11 @@
 
 | # | Item | Nível | Situação |
 |---|---|---|---|
-| 2 | **A3:** pronome, preposição, conjunção + locuções | 🟡 base | **Próximo** (sex 06/11). Abrir com 10 min de predicativo × adjunto e OD × OI (erros do B1 + B2) |
-| 3 | **B3:** termos acessórios (adjuntos, aposto, vocativo, complemento nominal) + revisão do Módulo 0 | 🔴 base | — |
+| 3 | **B3:** termos acessórios (adjuntos, aposto, vocativo, complemento nominal) + revisão do Módulo 0 | 🔴 base | **Próximo** (seg 09/11, almoço). Na revisão do Módulo 0, incluir pronomes (para eu × para mim, o × lhe, relativo + preposição) |
 | → | Depois: **D. Concordância** (previsão: a partir de 10/11) | 🔴 | Ordem em discussão (05/11): a pesquisa FGV sugere coesão (G) e texto/argumentação (H) antes de concordância. Decidir com o Tiago |
 
 - ✅ **B1 + B2 saiu da fila em 05/11** (bloco 7/15; predicativo e OD × OI ficam como ponto fraco).
+- ✅ **A3 saiu da fila em 06/11** (bloco 8/15; pronomes e conjunções pelo sentido ficam como ponto fraco).
 
 **Específicas · noite**
 
@@ -239,11 +249,11 @@
 | Ter 03/11 | ✅ Tarde: RLM conjuntos e Venn (bloco 15 autorais, respostas pendentes) + silogismos (4 de videoaula) + 7 FGV oficiais (4/6). Criado o bloco 02 de Venn (15 autorais, foco em mínimo/máximo) para outro dia. ✅ Noite: APF/IFPUG (teoria no chat + bloco 3/8). 22:40: regras 📌 de APF de 03/11 (refazer Q4 do VAF e Q2 das telas sem olhar) + regras de Venn e Q4/Q5 do bloco 01 com o "sugar" |
 | Qua 04/11 | ✅ Manhã: bloco curto de Venn sem mín/máx (4/8). ✅ Regra da fila criada (`CLAUDE.md`) e mapas ajustados. Almoço: B1 + B2 (teoria dada; falta tipos de sujeito + bloco). ✅ Noite: Requisitos adiado para sábado (a pedido) → **Tipos de teste**: videoaula + bloco (8/15); saiu da fila. 22:40: regras 📌 de testes (Q3, Q4, Q5, Q6, Q9, Q12, Q13) + refazer Q3/Q4 com a faixa [18, 70] e o 2º caso da Q6 sem olhar + Anki de testes; regras de conjuntos de 04/11. Bloco 01 de Venn (03/11): opcional, pulando Q4, Q5 e Q15. APF volta no sábado: 5 a 10 questões reais FGV/Cebraspe só de funções de dados (ALI, AIE, RLR) |
 | Qui 05/11 | ✅ Manhã: Anki de silogismos + autoral no chat. ✅ Tarde: Anki zerado (AnkiWeb), guia de estilo FGV, **bloco Português B1 + B2 (7/15)**; saiu da fila. Noite: **SAFe** (item 6). Antes, 10 min: refazer Q9 e Q13 de testes de cabeça. 22:40: regras 📌 do B1 + B2 (Q3, Q5, Q7, Q8, Q10, Q12, Q13, Q14) + refazer Q12 (teste da concordância), Q13 (teste do pronome) e Q14 com V/F |
-| Sex 06/11 | ✅ Bloco SAFe corrigido (9/12). Almoço: **A3** (pronome, preposição, conjunção), abrindo com 10 min de predicativo × adjunto e OD × OI. Noite: **SAST × DAST × IAST, SonarQube** (item 7): liga com estático × dinâmico (Q13 de testes); antes, 5 min no mapa SAFe (papéis e CD Pipeline). 22:40: regras 📌 de SAFe (06/11) + refazer Q1, Q3 e Q11 sem olhar |
+| Sex 06/11 | ✅ Bloco SAFe corrigido (9/12). ✅ Tarde: **A3** (8/15); saiu da fila. Ainda à tarde (para liberar a noite): **SAST × DAST × IAST, SonarQube** (item 7): liga com estático × dinâmico (Q13 de testes); antes, 5 min no mapa SAFe (papéis e CD Pipeline). 22:40: regras 📌 de SAFe e do A3 (06/11) + refazer Q1, Q3 e Q11 de SAFe e Q8, Q13 e Q15 do A3 sem olhar |
 | Sáb 07/11 | Dia de recuperação: zerar o que sobrou da fila → **bloco de Requisitos** (item 4, adiado) → APF real (item 8) → se sobrar, 5 FGV reais de técnicas de teste (valor-limite, partição, cobertura) → leitura ⚪ (item 9). Sem passar do horário normal |
 | Dom 08/11 · 13h | **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco |
 
-- **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · depois, pela fila: B1 + B2 → A3 → B3 + revisão. Depois: D concordância (previsão 10–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
+- **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · B1 + B2 ✅ 05/11 · A3 ✅ 06/11 · falta B3 + revisão. Depois: D concordância (previsão 10–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
 
 - **Ter e qui no almoço:** alternar argumentação/falácias e porcentagem/proporção.
 - **Anki (29/10, noite):** ✅ 41 cartões criados no PC de casa (25 de 28/10 + 16 de 29/10; cópias em `anki/`). Total no Anki: 102. Faltam os cartões de 30/10 (Português A2 e estimativa ágil): criar no sábado. Ao criar a conta AnkiWeb: **enviar (upload) do PC de casa; nos aparelhos novos, baixar (download)**, para não apagar o histórico.

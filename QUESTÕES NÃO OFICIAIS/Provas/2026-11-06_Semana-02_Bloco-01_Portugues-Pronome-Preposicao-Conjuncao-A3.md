@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["Português"]
 assunto: "Morfologia A3: pronome, preposição e conjunção + locuções (pronominal, prepositiva e conjuntiva)"
 semana: 2

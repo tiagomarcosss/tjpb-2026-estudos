@@ -21,10 +21,9 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 | Horário | O que fazer | Onde |
 |---|---|---|
 | Manhã | ✅ **Bloco SAFe corrigido: 9/12** (7 acertos com dúvida). SAFe saiu da fila | [[APF, SAFe e Testes]] |
-| Almoço/tarde | **A3** (fila de Português nº 2): pronome, preposição, conjunção + locuções. Abrir com 10 min de predicativo × adjunto e OD × OI | [[Português]] |
-| 19h · Bloco 1 | 5 min no [[mapa-safe]] (papéis e CD Pipeline). Depois, 🟡 **SAST × DAST × IAST e SonarQube** (fila nº 7). Liga com estático × dinâmico de testes | [[APF, SAFe e Testes]] |
-| 20h · Bloco 2 | Bloco de questões só de SAST/DAST | [[APF, SAFe e Testes]] |
-| 22:40 · Revisão | Anki · regras 📌 de SAFe (06/11), do B1 + B2 (05/11) e de estimativa/A2 (30/10) · refazer Q1, Q3 e Q11 de SAFe sem olhar | [[regras-tjpb]] |
+| Tarde | ✅ **A3: 8/15** (pronomes 3/8; saiu da fila) | [[Português]] |
+| Tarde (no lugar da noite) | 5 min no [[mapa-safe]] (papéis e CD Pipeline). Depois, 🟡 **SAST × DAST × IAST e SonarQube** (fila nº 7): teoria + bloco. Liga com estático × dinâmico de testes | [[APF, SAFe e Testes]] |
+| 22:40 · Revisão | Anki · regras 📌 de SAFe e do A3 (06/11), do B1 + B2 (05/11) e de estimativa/A2 (30/10) · refazer Q1, Q3 e Q11 de SAFe e Q8, Q13 e Q15 do A3 sem olhar | [[regras-tjpb]] |
 
 **Pendente:** 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11) e de SAFe · sábado 07/11: bloco de Requisitos + APF real (funções de dados).
 

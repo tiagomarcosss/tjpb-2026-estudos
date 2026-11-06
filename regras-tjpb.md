@@ -52,6 +52,18 @@
 - [05/11] Predicativo do objeto: característica dada ao objeto direto por considerar, julgar, achar, tornar, nomear, eleger. Teste do pronome: "considerou-o intempestivo"; o que sobra depois do "o" é o predicativo.
 - [05/11] Advérbio (cedo, ontem, aqui, bem) nunca é objeto: objeto é substantivo ou pronome. "Saiu cedo" = VI + adjunto adverbial de tempo.
 - [05/11] Núcleo do sujeito em frase longa: riscar os termos com "de" e o que está entre vírgulas; sobra o núcleo, e o verbo concorda com ele.
+- [06/11] Pronome relativo: teste "o qual / a qual". Se a troca funciona, é relativo; troca por "isso" = integrante; "tão... que" = consecutiva; "= pois" = explicativa.
+- [06/11] Locução prepositiva termina em preposição e vem antes de substantivo ou infinitivo (a fim de evitar) · + "que" e verbo conjugado = locução conjuntiva (a fim de que evitasse).
+- [06/11] Vossa Excelência / Vossa Senhoria → verbo e possessivo na 3ª pessoa ("Vossa Excelência está ciente de seu prazo"). "Vosso" e "estais" estão errados. Vossa = falando com a autoridade · Sua = falando dela. Magistrado = Excelência.
+- [06/11] o/a/os/as = objeto direto (vi-o, recebeu-os, dispensou-a) · lhe/lhes = objeto indireto, com "a alguém" (entregou-lhe, agradou-lhe, pagou-lhe). "Viu-lhe" e "encontrei-lhe" estão errados. Teste: "alguém" ou "a alguém"?
+- [06/11] "E" com ideia contrária à esperada = adversativo (= mas): "Estudou a noite toda e não achou a falha". Na FGV vale o sentido no contexto, não o rótulo.
+- [06/11] Relativo leva a preposição do verbo que vem depois: o sistema DE que falei, o cargo A que aspiro, a lei EM que me baseei. Onde = lugar fixo · aonde = movimento (ir a) · tempo = "em que" (momento em que). Cujo está certo entre o dono e a coisa (a juíza cuja sentença).
+- [06/11] Para EU + infinitivo (eu faço a ação: "para eu revisar") · para MIM sem verbo depois ("é para mim") · entre mim e ela (nunca "entre eu") · encontrei-o (não "encontrei ele") · deixe-me explicar (não "deixe eu").
+- [06/11] Este = o termo mais próximo (o último citado) · aquele = o mais distante (o primeiro). O gênero confirma.
+- [06/11] "Seu/sua" com dois donos possíveis na 3ª pessoa = ambiguidade ("disse ao assessor que seu voto..."). Teste: se dá para desenhar duas setas, é ambíguo. Correção: "dele", "do desembargador".
+- [06/11] "Pois" antes do verbo, abrindo a oração = explicativo (= porque) · depois do verbo, entre vírgulas = conclusivo (= portanto): "A petição é, pois, intempestiva". A oração do "pois" posposto é a conclusão, não a causa.
+- [06/11] Todo/toda sem artigo = qualquer (toda decisão) · com artigo = inteiro (toda a decisão).
+- [06/11] "Como" no início, antes da principal = causa (= já que) · "como" = conforme = conformidade (agiu como determina o protocolo) · "tão... como" = comparação.
 
 ## Raciocínio Lógico-Matemático
 
