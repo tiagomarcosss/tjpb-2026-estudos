@@ -249,6 +249,14 @@
 - [06/11] Teste do dobro: conte as voltas com n = 8 e n = 16. Iguais = O(1) · +1 = O(log n) · dobram = O(n) · quadruplicam = O(n²).
 - [06/11] Recursão: 1 chamada por nível com n − 1 = O(n) (fatorial) · 1 chamada com n/2 = O(log n) (busca binária) · 2 chamadas com n − 1 = O(2ⁿ) (Fibonacci ingênuo). 2n ≠ 2ⁿ: 2n é O(n). Não é a recursão que torna exponencial, é abrir duas chamadas.
 - [06/11] Big-O sem indicação = pior caso. Quick sort: O(n log n) no caso médio e O(n²) no pior. Busca binária exige vetor ordenado. Base do log não importa.
+- [06/11] Blocos em sequência SOMAM (O(n) + O(n) = O(n)); só multiplica o que está dentro de outro laço. Na margem, escrever "+" entre blocos de fora e "×" entre laço e laço interno (errei a Q1 do bloco multiplicando dois O(n) em sequência).
+- [06/11] Tempo estimado: entrada k vezes maior → O(n) multiplica o tempo por k, O(n²) por k², O(n³) por k³ (Θ(n²), 4 s com 10 mil → 36 s com 30 mil).
+- [06/11] Hash (set/dict): O(1) no caso MÉDIO, O(n) no PIOR (colisões), e gasta memória extra. Vetor ordenado + "pior caso" + "sem memória adicional" = busca binária, O(log n). Sublinhar a restrição do cenário antes das alternativas.
+- [06/11] O = teto ("no máximo") · Ω = piso ("no mínimo") · Θ = exato. Se é O(n²), também é O(n³) (teto mais alto vale). Polinômio: fica o maior expoente, constantes caem (3n² + 50n + 1000 = O(n²)).
+- [06/11] Trocar busca em lista (O(n)) por consulta em set/dict (O(1) médio) tira um nível de laço: duplicados O(n²) → O(n).
+- [06/11] Dois ponteiros (i no início, j no fim, um anda por volta até se encontrarem) = O(n). Duas variáveis e soma no laço não são recursão.
+- [06/11] Merge sort: 2 chamadas com n/2 + junta de n em cada nível = log n níveis × n = O(n log n). 2 chamadas com n − 1 = O(2ⁿ) · 1 chamada com n/2 = O(log n) · 1 chamada com n − 1 e laço de n dentro = O(n²).
+- [06/11] Busca linear: melhor caso O(1), pior O(n). Vetor ordenado não melhora a busca linear (TJ-RN 2023). Constante grande (100n) perde para n² só em entradas pequenas (n < 100); para n grande vence a classe menor.
 
 ## Banco de Dados e SQL
 

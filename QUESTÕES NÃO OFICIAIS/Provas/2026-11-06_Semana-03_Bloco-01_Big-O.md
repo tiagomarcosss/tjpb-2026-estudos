@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["Algoritmos, POO, SOLID e GoF"]
 assunto: "Big-O: análise de laços e recursão, notação assintótica, melhor × pior caso, tempo estimado e escolha de busca"
 semana: 3

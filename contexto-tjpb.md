@@ -168,6 +168,12 @@
   - **6 questões autorais no chat (modelo FGV):** respondeu 5. ✅ Q3 triângulo O(n²) e Q6 recursão com 2 chamadas O(2ⁿ) (escreveu "2N": cuidado com 2n × 2ⁿ) · ✅ Q2 `×3` = O(log n), **mas pelo motivo errado** ("passo diferente de 1") · ❌ Q1 `i += 2` marcada O(log n) com "?" · ❌ Q4 laço interno `j *= 2` contado como n (marcou O(n²); certo O(n log n)).
   - **Padrão:** inverteu soma × multiplicação (Q1 e Q4 são espelhos). Regra: a operação na variável decide, não o tamanho do passo.
   - **Q5 pendente** (`range(5)` sobre lista de n itens; gabarito guardado até responder).
+- **06/11 (noite) · Bloco Big-O (12 autorais, modelo Tribunal, PDF anotado):** 7/12 (58%) · 3 erros · 2 "não sabia" ("?")
+  - Acertos firmes: recursão com laço = O(n²) (Q5), m · n (Q8), melhor × pior caso da busca linear (Q9). Com pontinho: n log n com laço que multiplica (Q2, **soma × multiplicação agora certa**), tempo estimado Θ(n²) com conta certa (Q3), duplicados lista × set (Q7), 100n × n² (Q11).
+  - Erros: **sequência multiplicada** (Q1: escreveu O(n) e O(n) na margem, certo, e marcou O(n²)) · hash "O(1) no pior caso" aceita, ignorando "sem memória adicional" (Q4, ficou entre A e C) · dois ponteiros tomado como Fibonacci → O(2ⁿ) (Q10).
+  - "?": O × Ω × Θ (Q6; achou que precisava de Bhaskara e que O(n²) não é O(n³)) e merge sort (Q12).
+  - Método: escreveu a complexidade de cada laço ao lado do código (Q1, Q2, Q7, Q8). Comparação: chat 3/5 → bloco 7/12.
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-06_Semana-03_Bloco-01_Big-O_CORRECAO.pdf` (+ .md). **Big-O sai da fila** (teoria + bloco corrigido).
 
 ---
 
@@ -194,7 +200,7 @@
 ### Técnico
 
 0. **Estratégia "INCORRETA" (vale para todas as disciplinas; subiu em 05/11):** errada em 3 sessões seguidas (30/10 estimativa, 04/11 testes, 05/11 Português Q7 e Q14). Sempre marca ou deixa candidata uma alternativa **verdadeira**, sem V/F escrito. Pela pesquisa de 05/11, ~25% do Português FGV é negativo. Regra: V/F ao lado das 5 e circular a F. **06/11 (A3): voltou a escrever V/F (✓) em 3 das 4 negativas; 2/4, e os erros foram de conteúdo.** Manter no simulado de 08/11
-1. **Big-O (novo, 06/11):** soma × multiplicação invertidas (`i += 2` tomado como log; `j *= 2` interno contado como n). Acerto da Q2 com motivo errado. Q5 (limite fixo) pendente. Firmes: triângulo O(n²) e recursão com 2 chamadas
+1. **Big-O (novo, 06/11):** bloco 7/12. **Sequência × aninhado** (multiplicou dois O(n) em sequência) · hash O(1) só no caso médio · O × Ω × Θ ("?") · dois ponteiros = O(n) (tomou por Fibonacci) · merge sort O(n log n) ("?"). Soma × multiplicação: errou no chat, acertou no bloco (Q2, com dúvida; 1/2 para sair). Firmes: triângulo, recursão com laço, m · n, melhor × pior caso
 1. Testes · técnicas de projeto de casos (novo, 04/11): 0/4. Valor-limite, partição de equivalência, caixa-branca × preta e estático × dinâmico com "?"; cobertura de decisões errada (1 caso True ≠ 100% de decisões). Também: confirmação × regressão invertidos e princípio "presença, não ausência" julgado falso. Níveis, alfa/beta, carga/estresse, stub/driver, ciclomática e pirâmide: ok
 2. SAFe (novo, 06/11): 9/12, mas 7 acertos com dúvida. **Papéis RTE × Product Management** (facilita × prioriza) · **voto de confiança baixo** = os times retrabalham o plano no evento · **CD Pipeline** (Exploration = o quê; Deployment = produção) e deploy × release · System × Solution Demo ("?"). Firmes: hierarquia do backlog e ART
 3. APF · funções de dados (novo, 03/11): 0/3. Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. Transações SE × CE: 2/2. VAF: conta fora do treino (05/11), só a regra dos 35
@@ -233,13 +239,13 @@
 | # | Item | Nível | Situação |
 |---|---|---|---|
 | 8 | **APF:** funções de dados (ALI, AIE, RLR) | 🔴 reforço | **Bloco criado em 06/11** (`2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados`, 8 autorais). Falta responder e corrigir. Não trava a Semana 3 (Algoritmos não depende de APF) |
-| 10 | **Big-O** (Semana 3): laços e recursão | 🔴 | Teoria ✅ 06/11 + 6 questões no chat (Q5 pendente). **Falta o bloco** (com leitura de código Python/Java) |
-| 11 | Listas, pilhas, filas, árvores, hash (Semana 3) | 🔴 | Depois do bloco de Big-O |
+| 11 | **Listas, pilhas, filas, árvores, hash** (Semana 3) | 🔴 | **Próximo de Específicas** |
 
 - ✅ **Requisitos saiu da fila em 06/11, a pedido** (teoria na Semana 1 e questões nos blocos corrigidos de 24/10 e 26/10: RF × RNF, usuário × sistema, subtipos de RNF, prototipação na elicitação, V&V). Treinado pouco: técnicas de elicitação, regras de negócio e **contagem de RF/RNF num depoimento** (caiu no TJ-RJ 2026 e no MPU 2025). Cobrar nos blocos de revisão e nos simulados.
 - ✅ **SAST × DAST × IAST e SonarQube saiu da fila em 06/11, a pedido**: visto hoje, sem bloco (diz já conhecer). Cobrar em revisão e simulado.
 - ✂️ **SDD e agilidade organizacional (⚪) cortados em 06/11, a pedido** (regra 5 da fila). Pact e mutation testing já tinham sido cortados em 05/11.
 - ▶️ **Semana 3 (Algoritmos, POO, SOLID e GoF) começa em 06/11**, adiantada, com a APF pendente só de resposta.
+- ✅ **Big-O saiu da fila em 06/11** (teoria + bloco 7/12; sequência × aninhado, hash, O × Ω e merge sort ficam como ponto fraco). Q5 do chat ainda sem resposta.
 - ✅ **SAFe saiu da fila em 06/11** (bloco 9/12; papéis, voto de confiança e CD Pipeline ficam como ponto fraco).
 - **Revisão da Semana 1** (era 31/10): absorvida pelo simulado de 08/11. Não dobrar.
 - **RLM:** conjuntos e Venn fechados em 04/11 (sem mín/máx). Próximo pelo mapa: porcentagem, razão e proporção (ter/qui no almoço, depois do Módulo 0).
