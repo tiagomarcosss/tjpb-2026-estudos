@@ -256,6 +256,7 @@
 - [06/11] Trocar busca em lista (O(n)) por consulta em set/dict (O(1) médio) tira um nível de laço: duplicados O(n²) → O(n).
 - [06/11] Dois ponteiros (i no início, j no fim, um anda por volta até se encontrarem) = O(n). Duas variáveis e soma no laço não são recursão.
 - [06/11] Merge sort: 2 chamadas com n/2 + junta de n em cada nível = log n níveis × n = O(n log n). 2 chamadas com n − 1 = O(2ⁿ) · 1 chamada com n/2 = O(log n) · 1 chamada com n − 1 e laço de n dentro = O(n²).
+- [06/11] Laço escondido em função pronta: toda linha que procura, ordena, copia ou fatia algo de tamanho n conta como laço. `x in lista` = O(n) · `x in set/dict` = O(1) médio · `sorted(v)` = O(n log n) · `v[:meio]` = O(n) · `lista.index(x)` = O(n). `for` + `x in lista` dentro = O(n²).
 - [06/11] Busca linear: melhor caso O(1), pior O(n). Vetor ordenado não melhora a busca linear (TJ-RN 2023). Constante grande (100n) perde para n² só em entradas pequenas (n < 100); para n grande vence a classe menor.
 
 ## Banco de Dados e SQL

@@ -26,7 +26,9 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 | Tarde/noite | ▶️ **Semana 3 adiantada: Big-O**: ✅ teoria + 6 questões no chat + **bloco 7/12** (saiu da fila). Próximo: listas, pilhas, filas, árvores e hash | [[Algoritmos, POO, SOLID e GoF]] |
 | 22:40 · Revisão | Anki · regras 📌 de SAFe e do A3 (06/11), do B1 + B2 (05/11) e de estimativa/A2 (30/10) · refazer Q1, Q3 e Q11 de SAFe e Q8, Q13 e Q15 do A3 sem olhar | [[regras-tjpb]] |
 
-**Pendente:** 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11) e de SAFe · sábado 07/11: bloco de Requisitos + APF real (funções de dados).
+**Dia encerrado (06/11):** SAFe corrigido (9/12) · A3 (8/15) · Big-O teoria + bloco (7/12) · fila de Semana 2 fechada. Só falta a revisão das 22:40 (leve).
+
+**Pendente:** bloco de APF funções de dados e Q5 do chat de Big-O (sábado 07/11) · 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11) e de SAFe · sábado 07/11: bloco de Requisitos + APF real (funções de dados).
 
 ### 🔁 Revisão espaçada de hoje
 
