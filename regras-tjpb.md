@@ -244,6 +244,11 @@
 - [28/10] Leitura de código: anotar as variáveis a cada volta do laço. `continue` pula o resto da volta sem imprimir nada; `>=` inclui o zero.
 - [29/10] Conjuntos em Python: `A & B` = interseção · `A | B` = união sem repetir · `A - B` = só A · `A ^ B` = só um dos dois. len(A | B) = len(A) + len(B) − len(A & B). `x in A` testa pertinência (∈) e devolve True/False.
 - [30/10] Python: `lista[-3:]` = os 3 últimos · `lista[:3]` = os 3 primeiros · `math.ceil` arredonda para cima e devolve inteiro (nunca imprime 4.75).
+- [06/11] Big-O pela variável de controle: SOMA ou subtrai (+1, +2, +100) = O(n) · MULTIPLICA ou divide (×2, ×3, ÷2) = O(log n) · limite fixo (range(5), j < 50) = O(1). O tamanho do passo não muda a classe; a operação muda (errei a Q1 e a Q4 do chat invertendo isso).
+- [06/11] Big-O: aninhado multiplica, em sequência soma, fica o maior termo e as constantes caem (O(2n) = O(n), O(n² + n) = O(n²)). Laço interno dependente (j de i+1 até n) = triângulo ≈ n²/2 = O(n²). n × (laço que multiplica) = O(n log n).
+- [06/11] Teste do dobro: conte as voltas com n = 8 e n = 16. Iguais = O(1) · +1 = O(log n) · dobram = O(n) · quadruplicam = O(n²).
+- [06/11] Recursão: 1 chamada por nível com n − 1 = O(n) (fatorial) · 1 chamada com n/2 = O(log n) (busca binária) · 2 chamadas com n − 1 = O(2ⁿ) (Fibonacci ingênuo). 2n ≠ 2ⁿ: 2n é O(n). Não é a recursão que torna exponencial, é abrir duas chamadas.
+- [06/11] Big-O sem indicação = pior caso. Quick sort: O(n log n) no caso médio e O(n²) no pior. Busca binária exige vetor ordenado. Base do log não importa.
 
 ## Banco de Dados e SQL
 

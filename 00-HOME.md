@@ -23,7 +23,7 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 | Manhã | ✅ **Bloco SAFe corrigido: 9/12** (7 acertos com dúvida). SAFe saiu da fila | [[APF, SAFe e Testes]] |
 | Tarde | ✅ **A3: 8/15** (pronomes 3/8; saiu da fila) | [[Português]] |
 | Tarde | ✅ SAST × DAST visto (sem bloco, a pedido) · Requisitos marcado como feito · ⚪ cortados · **bloco APF funções de dados criado** (responder depois) | [[APF, SAFe e Testes]] |
-| Tarde/noite | ▶️ **Semana 3 adiantada: Big-O** (análise de laços e recursão) | [[Algoritmos, POO, SOLID e GoF]] |
+| Tarde/noite | ▶️ **Semana 3 adiantada: Big-O**: ✅ teoria + 6 questões no chat (3/5 respondidas; Q5 pendente). Falta o bloco de Big-O | [[Algoritmos, POO, SOLID e GoF]] |
 | 22:40 · Revisão | Anki · regras 📌 de SAFe e do A3 (06/11), do B1 + B2 (05/11) e de estimativa/A2 (30/10) · refazer Q1, Q3 e Q11 de SAFe e Q8, Q13 e Q15 do A3 sem olhar | [[regras-tjpb]] |
 
 **Pendente:** 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11) e de SAFe · sábado 07/11: bloco de Requisitos + APF real (funções de dados).

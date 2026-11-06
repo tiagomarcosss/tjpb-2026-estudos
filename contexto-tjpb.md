@@ -163,6 +163,11 @@
   - **V/F escrito nas negativas (Q4, Q8, Q11)**: primeira vez desde 28/10. Negativas 2/4, e os dois erros foram de conteúdo.
   - Por tipo: preposição e locuções 2/2 · conjunções 3/5 · **pronomes 3/8**. Comparação: A1 9/15 → A2 8/15 → B1 + B2 7/15 → A3 8/15. **A3 sai da fila** (teoria + bloco corrigido; a correção cobre a teoria dos pronomes).
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-06_Semana-02_Bloco-01_Portugues-Pronome-Preposicao-Conjuncao-A3_CORRECAO.pdf` (+ .md)
+- **06/11 (tarde) · Fila fechada a pedido:** Requisitos marcado como feito (blocos de 24 e 26/10), SAST × DAST visto sem bloco, ⚪ cortados. Bloco APF funções de dados criado (8 autorais, responder depois).
+- **06/11 (tarde) · ▶️ Semana 3 adiantada · Big-O:** teoria no chat (classes, regras, técnica de "contar as voltas" em 3 passos + teste do dobro, 11 exemplos do simples à recursão). Pediu a técnica prática porque na faculdade viu só a teoria.
+  - **6 questões autorais no chat (modelo FGV):** respondeu 5. ✅ Q3 triângulo O(n²) e Q6 recursão com 2 chamadas O(2ⁿ) (escreveu "2N": cuidado com 2n × 2ⁿ) · ✅ Q2 `×3` = O(log n), **mas pelo motivo errado** ("passo diferente de 1") · ❌ Q1 `i += 2` marcada O(log n) com "?" · ❌ Q4 laço interno `j *= 2` contado como n (marcou O(n²); certo O(n log n)).
+  - **Padrão:** inverteu soma × multiplicação (Q1 e Q4 são espelhos). Regra: a operação na variável decide, não o tamanho do passo.
+  - **Q5 pendente** (`range(5)` sobre lista de n itens; gabarito guardado até responder).
 
 ---
 
@@ -189,6 +194,7 @@
 ### Técnico
 
 0. **Estratégia "INCORRETA" (vale para todas as disciplinas; subiu em 05/11):** errada em 3 sessões seguidas (30/10 estimativa, 04/11 testes, 05/11 Português Q7 e Q14). Sempre marca ou deixa candidata uma alternativa **verdadeira**, sem V/F escrito. Pela pesquisa de 05/11, ~25% do Português FGV é negativo. Regra: V/F ao lado das 5 e circular a F. **06/11 (A3): voltou a escrever V/F (✓) em 3 das 4 negativas; 2/4, e os erros foram de conteúdo.** Manter no simulado de 08/11
+1. **Big-O (novo, 06/11):** soma × multiplicação invertidas (`i += 2` tomado como log; `j *= 2` interno contado como n). Acerto da Q2 com motivo errado. Q5 (limite fixo) pendente. Firmes: triângulo O(n²) e recursão com 2 chamadas
 1. Testes · técnicas de projeto de casos (novo, 04/11): 0/4. Valor-limite, partição de equivalência, caixa-branca × preta e estático × dinâmico com "?"; cobertura de decisões errada (1 caso True ≠ 100% de decisões). Também: confirmação × regressão invertidos e princípio "presença, não ausência" julgado falso. Níveis, alfa/beta, carga/estresse, stub/driver, ciclomática e pirâmide: ok
 2. SAFe (novo, 06/11): 9/12, mas 7 acertos com dúvida. **Papéis RTE × Product Management** (facilita × prioriza) · **voto de confiança baixo** = os times retrabalham o plano no evento · **CD Pipeline** (Exploration = o quê; Deployment = produção) e deploy × release · System × Solution Demo ("?"). Firmes: hierarquia do backlog e ART
 3. APF · funções de dados (novo, 03/11): 0/3. Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. Transações SE × CE: 2/2. VAF: conta fora do treino (05/11), só a regra dos 35
@@ -227,6 +233,8 @@
 | # | Item | Nível | Situação |
 |---|---|---|---|
 | 8 | **APF:** funções de dados (ALI, AIE, RLR) | 🔴 reforço | **Bloco criado em 06/11** (`2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados`, 8 autorais). Falta responder e corrigir. Não trava a Semana 3 (Algoritmos não depende de APF) |
+| 10 | **Big-O** (Semana 3): laços e recursão | 🔴 | Teoria ✅ 06/11 + 6 questões no chat (Q5 pendente). **Falta o bloco** (com leitura de código Python/Java) |
+| 11 | Listas, pilhas, filas, árvores, hash (Semana 3) | 🔴 | Depois do bloco de Big-O |
 
 - ✅ **Requisitos saiu da fila em 06/11, a pedido** (teoria na Semana 1 e questões nos blocos corrigidos de 24/10 e 26/10: RF × RNF, usuário × sistema, subtipos de RNF, prototipação na elicitação, V&V). Treinado pouco: técnicas de elicitação, regras de negócio e **contagem de RF/RNF num depoimento** (caiu no TJ-RJ 2026 e no MPU 2025). Cobrar nos blocos de revisão e nos simulados.
 - ✅ **SAST × DAST × IAST e SonarQube saiu da fila em 06/11, a pedido**: visto hoje, sem bloco (diz já conhecer). Cobrar em revisão e simulado.
