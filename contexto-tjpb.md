@@ -226,11 +226,11 @@
 
 | # | Item | Nível | Situação |
 |---|---|---|---|
-| 4 | **Requisitos:** engenharia de requisitos (elicitação → análise → especificação → validação) + RF × RNF × regras de negócio | 🔴 | Teoria vista (Semana 1; não tinha sido registrada). **Adiado a pedido em 04/11** (diz lembrar RF × RNF, TDD/ATDD e user stories). Falta bloco: sábado 07/11. Nunca cobrado: processo de ER, técnicas de elicitação, validação, regras de negócio |
-| 7 | **SAST × DAST × IAST, SonarQube** | 🟡 | **Próximo da noite** (sex 06/11). Primeiro a ir para o fim da fila se apertar |
+| 7 | **SAST × DAST × IAST, SonarQube** | 🟡 | **06/11: sem bloco, a pedido** (diz já conhecer o assunto). Fica pendente como leitura para revisar (mapa curto ou 5 FGV reais quando sobrar tempo). Primeiro a ir para o fim da fila se apertar |
 | 8 | **APF:** 5 a 10 questões reais só de funções de dados (ALI, AIE, RLR) | 🔴 reforço | Sábado 07/11 |
 | 9 | ⚪ SDD · agilidade organizacional | ⚪ | Leitura de 1 página cada, ou corta. **Pact e mutation testing cortados em 05/11** (a pedido; nenhuma questão FGV achada) |
 
+- ✅ **Requisitos saiu da fila em 06/11, a pedido** (teoria na Semana 1 e questões nos blocos corrigidos de 24/10 e 26/10: RF × RNF, usuário × sistema, subtipos de RNF, prototipação na elicitação, V&V). Treinado pouco: técnicas de elicitação, regras de negócio e **contagem de RF/RNF num depoimento** (caiu no TJ-RJ 2026 e no MPU 2025). Cobrar nos blocos de revisão e nos simulados.
 - ✅ **SAFe saiu da fila em 06/11** (bloco 9/12; papéis, voto de confiança e CD Pipeline ficam como ponto fraco).
 - **Revisão da Semana 1** (era 31/10): absorvida pelo simulado de 08/11. Não dobrar.
 - **RLM:** conjuntos e Venn fechados em 04/11 (sem mín/máx). Próximo pelo mapa: porcentagem, razão e proporção (ter/qui no almoço, depois do Módulo 0).
