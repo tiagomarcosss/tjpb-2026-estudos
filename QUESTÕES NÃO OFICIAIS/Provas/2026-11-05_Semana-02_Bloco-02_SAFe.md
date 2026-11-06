@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["APF, SAFe e Testes"]
 assunto: "SAFe (ART, PI, papéis, backlog, PI Planning, ROAM, WSJF, IP Iteration, configurações)"
 semana: 2

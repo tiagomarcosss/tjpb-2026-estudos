@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 05/11/2026 · **Semana do plano:** 2 (APF, SAFe e Testes)
+**Atualizado em:** 06/11/2026 · **Semana do plano:** 2 (APF, SAFe e Testes)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -149,6 +149,12 @@
   - **"INCORRETA" 0/2 de novo** (Q7 em branco com pontinho numa verdadeira; Q14 circulou a verdadeira), sem V/F escrito. 3ª sessão seguida com esse erro.
   - Por tipo: sujeito 5/8 · complementos 2/7 · predicativo 0/2. Comparação: A1 9/15 → A2 8/15 → B1 + B2 7/15. **B1 + B2 sai da fila** (teoria + bloco corrigido).
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-05_Semana-02_Bloco-01_Portugues-Sujeito-e-Complementos-B1B2_CORRECAO.pdf` (+ .md). Bloco feito no formato antigo (antes do guia FGV); os próximos seguem o guia.
+- **05/11 (noite) → corrigido em 06/11 · Bloco SAFe (12 autorais, 1º no modelo do guia FGV, PDF anotado):** **9/12 (75%)**, melhor placar da Semana 2 · 3 erros · 0 em branco
+  - Acertos firmes (sem pontinho): feature × story × épico × capability e ART (I/II/III com V/F escrito). **Acertos com dúvida (pontinho): 7 de 9** → ROAM (B × C), WSJF conta e código (contas certas na margem), IP Iteration, objetivo não comprometido (C × D), eventos do ART ("?" em Solution Demo) e Large Solution (B × D).
+  - Erros: **RTE × Product Management** (Q1: ignorou "não define nem prioriza o backlog") · **voto de confiança baixo** (Q3: entre B e E, aceitou Business Owners refazendo o plano sem os times) · **CD Pipeline** (Q11: Continuous Exploration tomada como "levar à produção"; o cenário era deploy × release com feature toggle).
+  - Leitura de código (Q6, Python com `sorted(..., reverse=True)`): rastreou certo na margem, mas com pontinho (não conta para tirar dos pontos fracos).
+  - **SAFe sai da fila** (teoria + bloco corrigido).
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-05_Semana-02_Bloco-02_SAFe_CORRECAO.pdf` (+ .md)
 
 ---
 
@@ -174,19 +180,20 @@
 
 0. **Estratégia "INCORRETA" (vale para todas as disciplinas; subiu em 05/11):** errada em 3 sessões seguidas (30/10 estimativa, 04/11 testes, 05/11 Português Q7 e Q14). Sempre marca ou deixa candidata uma alternativa **verdadeira**, sem V/F escrito. Pela pesquisa de 05/11, ~25% do Português FGV é negativo. Regra: V/F ao lado das 5 e circular a F
 1. Testes · técnicas de projeto de casos (novo, 04/11): 0/4. Valor-limite, partição de equivalência, caixa-branca × preta e estático × dinâmico com "?"; cobertura de decisões errada (1 caso True ≠ 100% de decisões). Também: confirmação × regressão invertidos e princípio "presença, não ausência" julgado falso. Níveis, alfa/beta, carga/estresse, stub/driver, ciclomática e pirâmide: ok
-2. APF · funções de dados (novo, 03/11): 0/3. Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. Transações SE × CE: 2/2. VAF: conta fora do treino (05/11), só a regra dos 35
-3. (Ver item 0.) Histórico da estratégia "INCORRETA" (voltou em 30/10 e em 04/11: na Q12 de testes deu ✓ em B e C, mas circulou a A, que era verdadeira; "certamente" na D era a pista): na Q8 de estimativa riscou a afirmação falsa (que era a resposta) e circulou uma verdadeira. Antes: 3/3 em 28/10. Escrever V/F e circular a F; nunca riscar a F
-4. Estimativa ágil · velocidade (novo, 30/10): conta da média (63 ÷ 3 = 32), velocidade não compara equipes, item parcial não conta, Delphi = estimativas independentes, Cone da Incerteza (em branco). Conceitos de story points e Planning Poker: 7/7
-5. Leitura de código (voltou em 30/10): ignorou `[-3:]` (fatiamento) e chutou. Rastrear linha a linha numa tabela, como em 28/10
-6. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
-7. Scaling up × out: errou 24 e 26/10
-8. TDD × ATDD × BDD (novo, 28/10): em branco. Inseguro no ATDD
-9. Modelos de processo: espiral × prototipação e prototipação na elicitação (erros de 26/10, ainda não recobrados). Modelo em V: acertou em 28/10 (1/2 para sair)
-10. Scrum · responsabilidades: errou 22 e 26/10; acertou o dono do Sprint Backlog em 28/10 (1/2 para sair). Artefatos × compromissos: acertou em 26/10 por chute (não conta)
-11. Kanban · lead × cycle time: acertou em 28/10 (1/2 para sair)
-12. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
-13. XP · práticas: acertou em 26/10 (1/2 para sair)
-14. Estratégia de prova: nunca deixar em branco (Q6 em 28/10 manhã e Q8 em 28/10 noite: em I/II/III, julgar os itens que sabe e eliminar) e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10). "Incorreta" com V/F: 3/3 em 28/10
+2. SAFe (novo, 06/11): 9/12, mas 7 acertos com dúvida. **Papéis RTE × Product Management** (facilita × prioriza) · **voto de confiança baixo** = os times retrabalham o plano no evento · **CD Pipeline** (Exploration = o quê; Deployment = produção) e deploy × release · System × Solution Demo ("?"). Firmes: hierarquia do backlog e ART
+3. APF · funções de dados (novo, 03/11): 0/3. Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. Transações SE × CE: 2/2. VAF: conta fora do treino (05/11), só a regra dos 35
+4. (Ver item 0.) Histórico da estratégia "INCORRETA" (voltou em 30/10 e em 04/11: na Q12 de testes deu ✓ em B e C, mas circulou a A, que era verdadeira; "certamente" na D era a pista): na Q8 de estimativa riscou a afirmação falsa (que era a resposta) e circulou uma verdadeira. Antes: 3/3 em 28/10. Escrever V/F e circular a F; nunca riscar a F
+5. Estimativa ágil · velocidade (novo, 30/10): conta da média (63 ÷ 3 = 32), velocidade não compara equipes, item parcial não conta, Delphi = estimativas independentes, Cone da Incerteza (em branco). Conceitos de story points e Planning Poker: 7/7
+6. Leitura de código (voltou em 30/10): ignorou `[-3:]` (fatiamento) e chutou. Rastrear linha a linha numa tabela, como em 28/10
+7. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
+8. Scaling up × out: errou 24 e 26/10
+9. TDD × ATDD × BDD (novo, 28/10): em branco. Inseguro no ATDD
+10. Modelos de processo: espiral × prototipação e prototipação na elicitação (erros de 26/10, ainda não recobrados). Modelo em V: acertou em 28/10 (1/2 para sair)
+11. Scrum · responsabilidades: errou 22 e 26/10; acertou o dono do Sprint Backlog em 28/10 (1/2 para sair). Artefatos × compromissos: acertou em 26/10 por chute (não conta)
+12. Kanban · lead × cycle time: acertou em 28/10 (1/2 para sair)
+13. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
+14. XP · práticas: acertou em 26/10 (1/2 para sair)
+15. Estratégia de prova: nunca deixar em branco (Q6 em 28/10 manhã e Q8 em 28/10 noite: em I/II/III, julgar os itens que sabe e eliminar) e **reler a alternativa antes de marcar** (2 erros de atenção em RLM em 27/10). "Incorreta" com V/F: 3/3 em 28/10
 - Leitura de código saiu da lista em 28/10 e **voltou em 30/10** (Q6 de estimativa).
 
 ---
@@ -210,11 +217,11 @@
 | # | Item | Nível | Situação |
 |---|---|---|---|
 | 4 | **Requisitos:** engenharia de requisitos (elicitação → análise → especificação → validação) + RF × RNF × regras de negócio | 🔴 | Teoria vista (Semana 1; não tinha sido registrada). **Adiado a pedido em 04/11** (diz lembrar RF × RNF, TDD/ATDD e user stories). Falta bloco: sábado 07/11. Nunca cobrado: processo de ER, técnicas de elicitação, validação, regras de negócio |
-| 6 | **SAFe** (níveis, ART, PI Planning, RTE) | 🟡 | Semana 2 |
-| 7 | **SAST × DAST × IAST, SonarQube** | 🟡 | Semana 2. Primeiro a ir para o fim da fila se apertar |
+| 7 | **SAST × DAST × IAST, SonarQube** | 🟡 | **Próximo da noite** (sex 06/11). Primeiro a ir para o fim da fila se apertar |
 | 8 | **APF:** 5 a 10 questões reais só de funções de dados (ALI, AIE, RLR) | 🔴 reforço | Sábado 07/11 |
 | 9 | ⚪ SDD · agilidade organizacional | ⚪ | Leitura de 1 página cada, ou corta. **Pact e mutation testing cortados em 05/11** (a pedido; nenhuma questão FGV achada) |
 
+- ✅ **SAFe saiu da fila em 06/11** (bloco 9/12; papéis, voto de confiança e CD Pipeline ficam como ponto fraco).
 - **Revisão da Semana 1** (era 31/10): absorvida pelo simulado de 08/11. Não dobrar.
 - **RLM:** conjuntos e Venn fechados em 04/11 (sem mín/máx). Próximo pelo mapa: porcentagem, razão e proporção (ter/qui no almoço, depois do Módulo 0).
 
@@ -232,7 +239,7 @@
 | Ter 03/11 | ✅ Tarde: RLM conjuntos e Venn (bloco 15 autorais, respostas pendentes) + silogismos (4 de videoaula) + 7 FGV oficiais (4/6). Criado o bloco 02 de Venn (15 autorais, foco em mínimo/máximo) para outro dia. ✅ Noite: APF/IFPUG (teoria no chat + bloco 3/8). 22:40: regras 📌 de APF de 03/11 (refazer Q4 do VAF e Q2 das telas sem olhar) + regras de Venn e Q4/Q5 do bloco 01 com o "sugar" |
 | Qua 04/11 | ✅ Manhã: bloco curto de Venn sem mín/máx (4/8). ✅ Regra da fila criada (`CLAUDE.md`) e mapas ajustados. Almoço: B1 + B2 (teoria dada; falta tipos de sujeito + bloco). ✅ Noite: Requisitos adiado para sábado (a pedido) → **Tipos de teste**: videoaula + bloco (8/15); saiu da fila. 22:40: regras 📌 de testes (Q3, Q4, Q5, Q6, Q9, Q12, Q13) + refazer Q3/Q4 com a faixa [18, 70] e o 2º caso da Q6 sem olhar + Anki de testes; regras de conjuntos de 04/11. Bloco 01 de Venn (03/11): opcional, pulando Q4, Q5 e Q15. APF volta no sábado: 5 a 10 questões reais FGV/Cebraspe só de funções de dados (ALI, AIE, RLR) |
 | Qui 05/11 | ✅ Manhã: Anki de silogismos + autoral no chat. ✅ Tarde: Anki zerado (AnkiWeb), guia de estilo FGV, **bloco Português B1 + B2 (7/15)**; saiu da fila. Noite: **SAFe** (item 6). Antes, 10 min: refazer Q9 e Q13 de testes de cabeça. 22:40: regras 📌 do B1 + B2 (Q3, Q5, Q7, Q8, Q10, Q12, Q13, Q14) + refazer Q12 (teste da concordância), Q13 (teste do pronome) e Q14 com V/F |
-| Sex 06/11 | Almoço: **A3** (pronome, preposição, conjunção), abrindo com 10 min de predicativo × adjunto e OD × OI. Noite: **SAST × DAST × IAST, SonarQube** (item 7): liga com estático × dinâmico (Q13 de testes) |
+| Sex 06/11 | ✅ Bloco SAFe corrigido (9/12). Almoço: **A3** (pronome, preposição, conjunção), abrindo com 10 min de predicativo × adjunto e OD × OI. Noite: **SAST × DAST × IAST, SonarQube** (item 7): liga com estático × dinâmico (Q13 de testes); antes, 5 min no mapa SAFe (papéis e CD Pipeline). 22:40: regras 📌 de SAFe (06/11) + refazer Q1, Q3 e Q11 sem olhar |
 | Sáb 07/11 | Dia de recuperação: zerar o que sobrou da fila → **bloco de Requisitos** (item 4, adiado) → APF real (item 8) → se sobrar, 5 FGV reais de técnicas de teste (valor-limite, partição, cobertura) → leitura ⚪ (item 9). Sem passar do horário normal |
 | Dom 08/11 · 13h | **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco |
 

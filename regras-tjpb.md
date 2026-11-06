@@ -215,6 +215,17 @@
 - [04/11] Teste estático = sem executar (inspeção de requisitos, revisão de código/PR, análise estática por ferramenta) · executou = dinâmico, mesmo automatizado.
 - [04/11] Pirâmide: muitos unitários na base, poucos E2E no topo · regressão é a melhor candidata à automação · na CI os testes rodam a cada commit · automação não substitui o exploratório.
 - [04/11] Stub = respostas prontas (verifica estado) · mock = verifica as chamadas (comportamento). Teste com dublê continua unitário. No TDD o teste vem antes da classe e começa vermelho.
+- [06/11] SAFe: RTE = Scrum Master do trem (facilita PI Planning, sincronizações, riscos e impedimentos entre times; líder-servidor; não define escopo) · Product Management = PO do trem (define e prioriza as features do ART Backlog). "Não prioriza o backlog" elimina o Product Management.
+- [06/11] SAFe: Épico (> 1 PI, Lean Business Case, portfólio) > Capability (vários ARTs, Large Solution) > Feature (1 PI, hipótese de benefício + critérios de aceite, ART Backlog, Product Management) > Story (1 iteração, PO).
+- [06/11] SAFe: voto de confiança (1 a 5 dedos, fim do PI Planning) com média baixa → os times retrabalham o plano ainda no evento. Não é só informativo, não vai para o I&A e os Business Owners não reescrevem o plano sem os times.
+- [06/11] ROAM: Resolved = deixou de ser risco · Owned = alguém assume acompanhar · Accepted = nada a fazer, segue o plano · Mitigated = há ação para reduzir probabilidade ou impacto.
+- [06/11] WSJF = custo do atraso (valor + criticidade de tempo + redução de risco/oportunidade) ÷ tamanho; maior primeiro. Distrator clássico: ordenar só pelo custo do atraso (sem dividir) ou só pelo menor tamanho.
+- [06/11] IP Iteration (última do PI) = inovação, capacitação, I&A, planejamento do próximo PI e margem de estimativa. Nunca se planejam features nela. Existe em todas as configurações.
+- [06/11] Objetivo do PI não comprometido: está no plano, consome capacidade e recebe valor de negócio, mas não conta como compromisso se não for entregue. Nada volta ao backlog "automaticamente, sem nova priorização".
+- [06/11] Eventos do ART: System Demo = sistema integrado do ART a cada iteração · Solution Demo = vários ARTs (Large Solution) · Coach Sync = RTE + Scrum Masters · PO Sync = Product Management + POs · I&A = fim do PI (PI System Demo + métricas + workshop de causa raiz).
+- [06/11] Large Solution SAFe = vários ARTs + fornecedores → Solution Train, STE, Solution Management (prioriza capabilities), Solution Demo. RTE → STE · Product Management → Solution Management · feature → capability. ART = 50 a 125 pessoas.
+- [06/11] Deploy ≠ release: deploy = em produção (pode ficar oculto por feature toggle) · release = liberar ao usuário quando o negócio quiser ("develop on cadence, release on demand"). CD Pipeline: Continuous Exploration (o que construir) → Continuous Integration → Continuous Deployment (produção) → Release on Demand.
+- [06/11] ART = equipe de equipes (50 a 125), permanente, em torno de um fluxo de valor, iterações sincronizadas e PI Planning conjunto. SAFe financia fluxo de valor, não projeto.
 
 ## Algoritmos, POO, SOLID e GoF
 
@@ -254,3 +265,4 @@
 - [29/10] Silogismo no papel: letras bem diferentes para cada conjunto (F, J, E; nunca P_F e P_e), "algum" com ponto (P·S), "nenhum" com o não só no segundo e valor da letra positiva na ficha (S = F).
 - [30/10] "INCORRETA": não riscar a alternativa falsa, porque ela é a resposta. Escrever V/F ao lado de cada letra e circular a F (errei a Q8 de estimativa riscando a certa). Errada de novo em 04/11 (Q12 de testes) e em 05/11 (Português B1 + B2, Q7 e Q14: pontinho e círculo em alternativas verdadeiras, sem V/F escrito).
 - [30/10] Se duas alternativas que marquei como verdadeiras se contradizem ("tinha terminado" é locução × "terminado" é adjetivo), uma delas está errada.
+- [06/11] Frase do enunciado que diz o que a pessoa NÃO faz ("não define o conteúdo nem prioriza o backlog") é pista de eliminação: riscar na hora a alternativa que faz isso (errei a Q1 de SAFe).

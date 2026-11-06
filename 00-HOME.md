@@ -14,25 +14,26 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Quinta, 05/11/2026 · Semana 2 (APF, SAFe e Testes) · faltam 80 dias para a prova**
+**Sexta, 06/11/2026 · Semana 2 (APF, SAFe e Testes) · faltam 79 dias para a prova**
 
 > **Fila primeiro (regra de 04/11):** o assunto do dia é o primeiro pendente da "Fila de pendências" do [[contexto-tjpb]], não o do calendário.
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Almoço/tarde | ✅ **Português B1 + B2**: bloco 7/15, corrigido e fora da fila (predicativo e OD × OI ficam como ponto fraco) | [[Português]] |
-| 19h · Bloco 1 | Aquecimento de 10 min: refazer Q9 e Q13 de testes de cabeça. Depois, 🟡 **SAFe** (fila nº 6): níveis (Essential, Large Solution, Portfolio, Full), ART, PI Planning, RTE. Requisitos (nº 4) segue adiado para sábado, a pedido | [[APF, SAFe e Testes]] |
-| 20h · Bloco 2 | Bloco de questões só de SAFe | [[APF, SAFe e Testes]] |
-| 22:40 · Revisão | Anki (inclui o lote de testes de 04/11) · regras 📌 de 04/11 (conjuntos e testes), de 29/10 (argumentação) e do B1 + B2 de hoje · refazer Q12, Q13 e Q14 do B1 + B2 (Q14 com V/F) | [[regras-tjpb]] |
+| Manhã | ✅ **Bloco SAFe corrigido: 9/12** (7 acertos com dúvida). SAFe saiu da fila | [[APF, SAFe e Testes]] |
+| Almoço/tarde | **A3** (fila de Português nº 2): pronome, preposição, conjunção + locuções. Abrir com 10 min de predicativo × adjunto e OD × OI | [[Português]] |
+| 19h · Bloco 1 | 5 min no [[mapa-safe]] (papéis e CD Pipeline). Depois, 🟡 **SAST × DAST × IAST e SonarQube** (fila nº 7). Liga com estático × dinâmico de testes | [[APF, SAFe e Testes]] |
+| 20h · Bloco 2 | Bloco de questões só de SAST/DAST | [[APF, SAFe e Testes]] |
+| 22:40 · Revisão | Anki · regras 📌 de SAFe (06/11), do B1 + B2 (05/11) e de estimativa/A2 (30/10) · refazer Q1, Q3 e Q11 de SAFe sem olhar | [[regras-tjpb]] |
 
-**Pendente:** 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11, sem lote em `anki/`) · sábado 07/11: bloco de Requisitos + APF real (funções de dados).
+**Pendente:** 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11) e de SAFe · sábado 07/11: bloco de Requisitos + APF real (funções de dados).
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias: 04/11 (1 dia, 20 regras) e 29/10 (7 dias, 14 regras). Não há regras de 06/10 (30 dias).
+Regras de `regras-tjpb` com ~1, 7 e 30 dias: 05/11 (1 dia, 9 regras), 30/10 (7 dias, 20 regras) e as novas de SAFe (06/11). Não há regras de 07/10 (30 dias).
 
 ```query
-path:regras-tjpb ("[04/11]" OR "[29/10]")
+path:regras-tjpb ("[06/11]" OR "[05/11]" OR "[30/10]")
 ```
 
 ---
