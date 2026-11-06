@@ -226,11 +226,12 @@
 
 | # | Item | Nível | Situação |
 |---|---|---|---|
-| 7 | **SAST × DAST × IAST, SonarQube** | 🟡 | **06/11: sem bloco, a pedido** (diz já conhecer o assunto). Fica pendente como leitura para revisar (mapa curto ou 5 FGV reais quando sobrar tempo). Primeiro a ir para o fim da fila se apertar |
-| 8 | **APF:** 5 a 10 questões reais só de funções de dados (ALI, AIE, RLR) | 🔴 reforço | Sábado 07/11 |
-| 9 | ⚪ SDD · agilidade organizacional | ⚪ | Leitura de 1 página cada, ou corta. **Pact e mutation testing cortados em 05/11** (a pedido; nenhuma questão FGV achada) |
+| 8 | **APF:** funções de dados (ALI, AIE, RLR) | 🔴 reforço | **Bloco criado em 06/11** (`2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados`, 8 autorais). Falta responder e corrigir. Não trava a Semana 3 (Algoritmos não depende de APF) |
 
 - ✅ **Requisitos saiu da fila em 06/11, a pedido** (teoria na Semana 1 e questões nos blocos corrigidos de 24/10 e 26/10: RF × RNF, usuário × sistema, subtipos de RNF, prototipação na elicitação, V&V). Treinado pouco: técnicas de elicitação, regras de negócio e **contagem de RF/RNF num depoimento** (caiu no TJ-RJ 2026 e no MPU 2025). Cobrar nos blocos de revisão e nos simulados.
+- ✅ **SAST × DAST × IAST e SonarQube saiu da fila em 06/11, a pedido**: visto hoje, sem bloco (diz já conhecer). Cobrar em revisão e simulado.
+- ✂️ **SDD e agilidade organizacional (⚪) cortados em 06/11, a pedido** (regra 5 da fila). Pact e mutation testing já tinham sido cortados em 05/11.
+- ▶️ **Semana 3 (Algoritmos, POO, SOLID e GoF) começa em 06/11**, adiantada, com a APF pendente só de resposta.
 - ✅ **SAFe saiu da fila em 06/11** (bloco 9/12; papéis, voto de confiança e CD Pipeline ficam como ponto fraco).
 - **Revisão da Semana 1** (era 31/10): absorvida pelo simulado de 08/11. Não dobrar.
 - **RLM:** conjuntos e Venn fechados em 04/11 (sem mín/máx). Próximo pelo mapa: porcentagem, razão e proporção (ter/qui no almoço, depois do Módulo 0).
