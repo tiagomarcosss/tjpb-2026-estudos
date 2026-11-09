@@ -3,7 +3,7 @@ tipo: resumo
 disciplina: ["Engenharia de Software e Ágil"]
 assunto: "Mapa geral de Engenharia de Software"
 data: 2026-10-24
-atualizado: 2026-11-05
+atualizado: 2026-11-09
 ---
 
 # Mapa geral · Engenharia de Software
@@ -337,7 +337,7 @@ Princípios que mais caem: entregar software funcionando **com frequência** (se
 
 📌 A lista tem versões diferentes conforme o livro/edição (a da Toyota é: superprodução, espera, transporte, processamento extra, estoque, movimentação, defeitos). Na prova, reconheça a **ideia de desperdício**, não decore uma única lista.
 
-### 4.6 SAFe (Scaled Agile Framework) · detalhar na Semana 2
+### 4.6 SAFe (Scaled Agile Framework) · detalhado em [[mapa-safe]] (bloco 06/11: 9/12)
 
 | | |
 |---|---|
@@ -352,7 +352,9 @@ Princípios que mais caem: entregar software funcionando **com frequência** (se
 
 ## Grupo 5 · Áreas transversais (valem para qualquer modelo)
 
-### 5.1 Engenharia de requisitos (26 e 27/10 · bloco pendente na fila desde 04/11)
+### 5.1 Engenharia de requisitos (26 e 27/10 · fechado em 06/11, a pedido, sem bloco próprio)
+
+> Treinado pouco: técnicas de elicitação, regras de negócio e **contar RF/RNF num depoimento** (caiu no TJ-RJ 2026 e no MPU 2025). Cobrar em revisão e simulado.
 
 | | |
 |---|---|
@@ -429,8 +431,8 @@ Cenário: Petição sem assinatura digital
 
 | Área | Pra que serve | Assuntos | No plano |
 |---|---|---|---|
-| **Testes e qualidade** | Achar defeitos cedo e dar segurança para mudar | Níveis e tipos de teste, TDD, SAST/DAST, SonarQube | Semana 2 |
-| **Projeto e arquitetura** | Organizar o código para ser fácil de mudar | UML, GoF, SOLID, arquitetura | Semanas seguintes |
+| **Testes e qualidade** | Achar defeitos cedo e dar segurança para mudar | Níveis e tipos de teste, TDD, SAST/DAST, SonarQube | Semana 2 ✅ (tipos de teste 04/11: 8/15 · SAST/DAST 06/11, sem bloco) |
+| **Projeto e arquitetura** | Organizar o código para ser fácil de mudar | UML, GoF, SOLID, arquitetura | Semana 3 (em andamento: Big-O ✅ 06/11) e seguintes |
 | **Evolução e DevOps** | Entregar mudanças com frequência e segurança | Manutenção, CI/CD, gestão de configuração | Semana 10 |
 
 ---

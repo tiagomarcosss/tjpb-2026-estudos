@@ -3,12 +3,14 @@ tipo: resumo
 disciplina: ["APF, SAFe e Testes"]
 assunto: "Mapa de SAFe (ART, PI, papéis, backlog, PI Planning, WSJF, configurações)"
 data: 2026-11-05
-atualizado: 2026-11-05
+atualizado: 2026-11-09
 ---
 
 # Mapa · SAFe (Scaled Agile Framework)
 
 **Criado em:** 05/11/2026 · **Nível no plano:** 🟡 (Semana 2) · **Base:** SAFe 6.0 (framework.scaledagile.com), com as diferenças da versão 5 indicadas.
+
+> **Bloco de 06/11: 9/12**, mas 7 dos 9 acertos com dúvida. Reler primeiro: **RTE × Product Management** (RTE facilita, não define nem prioriza o backlog) · **voto de confiança baixo** (os próprios times refazem o plano no evento) · **CD Pipeline** (Exploration = o quê; Deployment = produção; Release = liberar ao usuário, ex.: feature toggle) · System Demo × Solution Demo.
 
 > **Como ler cada ficha:**
 > 🎯 **Pra que serve** · 🏛️ **Onde é usado** · 🤔 **Por que é assim** · 🔧 **Conceitos técnicos** · 📌 **Regra/pegadinha FGV**
