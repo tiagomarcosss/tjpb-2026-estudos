@@ -14,28 +14,27 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Sexta, 06/11/2026 · Semana 2 (APF, SAFe e Testes) · faltam 79 dias para a prova**
+**Segunda, 09/11/2026 · Semana 3 (Algoritmos, POO, SOLID e GoF) · faltam 76 dias para a prova**
 
 > **Fila primeiro (regra de 04/11):** o assunto do dia é o primeiro pendente da "Fila de pendências" do [[contexto-tjpb]], não o do calendário.
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Manhã | ✅ **Bloco SAFe corrigido: 9/12** (7 acertos com dúvida). SAFe saiu da fila | [[APF, SAFe e Testes]] |
-| Tarde | ✅ **A3: 8/15** (pronomes 3/8; saiu da fila) | [[Português]] |
-| Tarde | ✅ SAST × DAST visto (sem bloco, a pedido) · Requisitos marcado como feito · ⚪ cortados · **bloco APF funções de dados criado** (responder depois) | [[APF, SAFe e Testes]] |
-| Tarde/noite | ▶️ **Semana 3 adiantada: Big-O**: ✅ teoria + 6 questões no chat + **bloco 7/12** (saiu da fila). Próximo: listas, pilhas, filas, árvores e hash | [[Algoritmos, POO, SOLID e GoF]] |
-| 22:40 · Revisão | Anki · regras 📌 de SAFe e do A3 (06/11), do B1 + B2 (05/11) e de estimativa/A2 (30/10) · refazer Q1, Q3 e Q11 de SAFe e Q8, Q13 e Q15 do A3 sem olhar | [[regras-tjpb]] |
+| Almoço | **B3:** termos acessórios (adjuntos, aposto, vocativo, complemento nominal) + revisão do Módulo 0 (incluir pronomes: para eu × para mim, o × lhe, relativo + preposição). Teoria + bloco | [[Português]] |
+| Noite · 19h | **1º simulado** (remarcado de dom 08/11): [[2026-11-08_Semana-02_Simulado-01_FGV-60q_PROVA]]. Cronometrado, sem consulta, "?" nos chutes, nada em branco, V/F escrito nas "INCORRETA". **Recomendado hoje: só a objetiva** (60 questões, ~3h30 + 15 min de marcação → até ~22h45) | `PROVAS OFICIAIS (estudo)/Provas/` |
+| Ter 10/11 | Discursiva *e-CUSTAS* (1h15, cronometrada; não ler o estudo de caso antes) + envio das respostas para a correção em PDF | [[Discursiva]] |
+| 22:40 · Revisão | Hoje não: o simulado ocupa a noite (regra 8, nunca dobrar). Se sobrar fôlego, 15 min de Anki | [[regras-tjpb]] |
 
-**Dia encerrado (06/11):** SAFe corrigido (9/12) · A3 (8/15) · Big-O teoria + bloco (7/12) · fila de Semana 2 fechada. Só falta a revisão das 22:40 (leve).
+**Fim de semana (07–08/11):** revisões por conta própria, fora do Claude. Simulado ficou para hoje à noite.
 
-**Pendente:** bloco de APF funções de dados e Q5 do chat de Big-O (sábado 07/11) · 1º simulado no **dom 08/11, 13h** · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11) e de SAFe · sábado 07/11: bloco de Requisitos + APF real (funções de dados).
+**Pendente:** bloco de APF funções de dados (responder e corrigir) e Q5 do chat de Big-O · próximo de Específicas: listas, pilhas, filas, árvores e hash · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11), SAFe e Big-O.
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias: 05/11 (1 dia, 9 regras), 30/10 (7 dias, 20 regras) e as novas de SAFe (06/11). Não há regras de 07/10 (30 dias).
+Regras de `regras-tjpb` com ~1, 7 e 30 dias: não há regras de 08/11, 02/11 nem 10/10. Pela regra, usar a mais recente: 06/11 (38 regras: SAFe, A3 e Big-O). Fica para amanhã, já que hoje a noite é do simulado.
 
 ```query
-path:regras-tjpb ("[06/11]" OR "[05/11]" OR "[30/10]")
+path:regras-tjpb "[06/11]"
 ```
 
 ---

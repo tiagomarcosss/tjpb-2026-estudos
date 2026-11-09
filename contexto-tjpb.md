@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 06/11/2026 · **Semana do plano:** 2 (APF, SAFe e Testes)
+**Atualizado em:** 09/11/2026 · **Semana do plano:** 3 (Algoritmos, POO, SOLID e GoF)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -15,7 +15,7 @@
 - Estudo sem cursinho: fontes oficiais + banco de questões (QConcursos/TEC) + Claude como professor e corretor de discursiva. Pacotes pós-edital ainda não lançados.
 - Questões autorais salvas em .md na pasta "QUESTÕES NÃO OFICIAIS" (blocos em `Provas/`: `AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md`; correções em `Correções/`: `_CORRECAO.md`). Provas oficiais seguem a mesma divisão.
 - Simulados: todo domingo, 13h–17h, + 1 discursiva + 1h de correção. Em janeiro, 13h–18h.
-- **1º simulado oficial: domingo 01/11, 13h**, cronometrado e sem consulta. Prova FGV inédita: TJ-MS 2024 ou TJ-AP 2024 (recomendadas) ou outro caderno da DATAPREV (não o ATI Desenvolvimento de Software · tarde, cujo Português já foi resolvido em 23/10). Marcar "?" nos chutes. É o ponto de partida da evolução. O TRT-16 de 25/10 foi desconsiderado.
+- **1º simulado oficial: remarcado para seg 09/11, noite** (era 01/11, depois 08/11). Caderno montado em 08/11: [[2026-11-08_Semana-02_Simulado-01_FGV-60q_PROVA]]. Cronometrado e sem consulta. Prova FGV inédita: TJ-MS 2024 ou TJ-AP 2024 (recomendadas) ou outro caderno da DATAPREV (não o ATI Desenvolvimento de Software · tarde, cujo Português já foi resolvido em 23/10). Marcar "?" nos chutes. É o ponto de partida da evolução. O TRT-16 de 25/10 foi desconsiderado.
 
 ---
 
@@ -174,6 +174,7 @@
   - "?": O × Ω × Θ (Q6; achou que precisava de Bhaskara e que O(n²) não é O(n³)) e merge sort (Q12).
   - Método: escreveu a complexidade de cada laço ao lado do código (Q1, Q2, Q7, Q8). Comparação: chat 3/5 → bloco 7/12.
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-06_Semana-03_Bloco-01_Big-O_CORRECAO.pdf` (+ .md). **Big-O sai da fila** (teoria + bloco corrigido).
+- **07–08/11 (sáb e dom) · Revisões por conta própria, fora do Claude** (sem registro de assunto nem placar). Não feitos: bloco de APF funções de dados e Q5 do chat de Big-O (seguem pendentes). Simulado 01 montado em 08/11 (tarde, PC de casa), mas **não feito: remarcado para seg 09/11, noite**.
 
 ---
 
@@ -265,8 +266,10 @@
 | Qua 04/11 | ✅ Manhã: bloco curto de Venn sem mín/máx (4/8). ✅ Regra da fila criada (`CLAUDE.md`) e mapas ajustados. Almoço: B1 + B2 (teoria dada; falta tipos de sujeito + bloco). ✅ Noite: Requisitos adiado para sábado (a pedido) → **Tipos de teste**: videoaula + bloco (8/15); saiu da fila. 22:40: regras 📌 de testes (Q3, Q4, Q5, Q6, Q9, Q12, Q13) + refazer Q3/Q4 com a faixa [18, 70] e o 2º caso da Q6 sem olhar + Anki de testes; regras de conjuntos de 04/11. Bloco 01 de Venn (03/11): opcional, pulando Q4, Q5 e Q15. APF volta no sábado: 5 a 10 questões reais FGV/Cebraspe só de funções de dados (ALI, AIE, RLR) |
 | Qui 05/11 | ✅ Manhã: Anki de silogismos + autoral no chat. ✅ Tarde: Anki zerado (AnkiWeb), guia de estilo FGV, **bloco Português B1 + B2 (7/15)**; saiu da fila. Noite: **SAFe** (item 6). Antes, 10 min: refazer Q9 e Q13 de testes de cabeça. 22:40: regras 📌 do B1 + B2 (Q3, Q5, Q7, Q8, Q10, Q12, Q13, Q14) + refazer Q12 (teste da concordância), Q13 (teste do pronome) e Q14 com V/F |
 | Sex 06/11 | ✅ Bloco SAFe corrigido (9/12). ✅ Tarde: **A3** (8/15); saiu da fila. Ainda à tarde (para liberar a noite): **SAST × DAST × IAST, SonarQube** (item 7): liga com estático × dinâmico (Q13 de testes); antes, 5 min no mapa SAFe (papéis e CD Pipeline). 22:40: regras 📌 de SAFe e do A3 (06/11) + refazer Q1, Q3 e Q11 de SAFe e Q8, Q13 e Q15 do A3 sem olhar |
-| Sáb 07/11 | Dia de recuperação: zerar o que sobrou da fila → **bloco de Requisitos** (item 4, adiado) → APF real (item 8) → se sobrar, 5 FGV reais de técnicas de teste (valor-limite, partição, cobertura) → leitura ⚪ (item 9). Sem passar do horário normal |
-| Dom 08/11 · 13h | **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco. **Montado em 08/11 (tarde):** [[2026-11-08_Semana-02_Simulado-01_FGV-60q_PROVA]] = 60 oficiais FGV no formato TJPB (Português 10 da TJ-AP 2024 · RLM 6 da DATAPREV 2024 + 4 da DPE-RS 2023 · Específicas 30 da DATAPREV 2024 + 10 da TJ-AP 2024) + estudo de caso autoral *e-CUSTAS* (testes, requisitos, SAST/DAST). Caderno no modelo FGV + cartão de respostas e folha de texto definitivo em PDF; gabarito em `Correções/` (não abrir). A Discursiva 01 (Scrum, 04/11) fica para o próximo simulado. Ainda inéditas: TJ-MS 2024, TRT-24 2025, as outras 15 de Português e 28 de Específicas da TJ-AP |
+| Sáb 07/11 | ⏸️ Revisões por conta própria (fora do Claude, sem registro). Requisitos já tinha saído da fila em 06/11; APF funções de dados segue pendente |
+| Dom 08/11 · 13h | ⏸️ Não feito: **remarcado para seg 09/11, noite**. **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco. **Montado em 08/11 (tarde):** [[2026-11-08_Semana-02_Simulado-01_FGV-60q_PROVA]] = 60 oficiais FGV no formato TJPB (Português 10 da TJ-AP 2024 · RLM 6 da DATAPREV 2024 + 4 da DPE-RS 2023 · Específicas 30 da DATAPREV 2024 + 10 da TJ-AP 2024) + estudo de caso autoral *e-CUSTAS* (testes, requisitos, SAST/DAST). Caderno no modelo FGV + cartão de respostas e folha de texto definitivo em PDF; gabarito em `Correções/` (não abrir). A Discursiva 01 (Scrum, 04/11) fica para o próximo simulado. Ainda inéditas: TJ-MS 2024, TRT-24 2025, as outras 15 de Português e 28 de Específicas da TJ-AP |
+| Seg 09/11 | Almoço: **B3** (termos acessórios + revisão do Módulo 0 com pronomes). Noite: **1º simulado** (o caderno prevê 5h: objetiva ~3h30, discursiva ~1h15, marcação ~15 min). Recomendado: só a objetiva hoje (até ~22h45), sem revisão das 22:40 |
+| Ter 10/11 | Discursiva *e-CUSTAS* cronometrada (1h15) → enviar respostas + foto da discursiva → correção em PDF. Revisão espaçada das regras de 06/11. Depois: responder o bloco de APF funções de dados e seguir para listas, pilhas, filas, árvores e hash |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · B1 + B2 ✅ 05/11 · A3 ✅ 06/11 · falta B3 + revisão. Depois: D concordância (previsão 10–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
 
