@@ -64,6 +64,14 @@
 - [06/11] "Pois" antes do verbo, abrindo a oração = explicativo (= porque) · depois do verbo, entre vírgulas = conclusivo (= portanto): "A petição é, pois, intempestiva". A oração do "pois" posposto é a conclusão, não a causa.
 - [06/11] Todo/toda sem artigo = qualquer (toda decisão) · com artigo = inteiro (toda a decisão).
 - [06/11] "Como" no início, antes da principal = causa (= já que) · "como" = conforme = conformidade (agiu como determina o protocolo) · "tão... como" = comparação.
+- [09/11] Aposto = o mesmo ser de um termo da frase (dá para trocar um pelo outro) · vocativo = com quem se fala, fora da oração, sempre entre vírgulas · adjunto adverbial = circunstância do verbo (onde, quando, como, por quê). "Pedro, o assessor, chegou" = aposto · "Pedro, o assessor chegou" = vocativo + sujeito: a vírgula muda a função.
+- [09/11] Tipos de aposto: explicativo entre vírgulas (Ana, a juíza, …) · especificativo sem vírgula (o juiz Carlos, a cidade de João Pessoa) · enumerativo depois de dois-pontos, detalhando um termo anterior (exigiu dois documentos: a procuração e o RG). Ache primeiro o objeto; a lista que o explica é aposto.
+- [09/11] Quem pede o termo decide: verbo pede = objeto ("confia na equipe" = OI) · nome (substantivo, adjetivo, advérbio) pede = complemento nominal ("certa da versão", "favorável à mudança"). Apontar a palavra que exige o termo antes de classificar.
+- [09/11] "De + nome" colado a um substantivo, respondendo "qual?" = adjunto adnominal, mesmo indicando lugar ou tempo ("a reunião de terça", "a servidora de Patos") · ligado ao verbo, respondendo onde/quando/como = adjunto adverbial ("voltou de Campina Grande"). Decide a ligação, não o sentido.
+- [09/11] Substantivo de ação com dois sentidos ("a avaliação do juiz"): juiz que avalia = agente = adjunto adnominal · juiz avaliado = paciente = complemento nominal.
+- [09/11] Predicativo × adjunto adnominal: troque o nome pelo pronome. A característica sobra = predicativo ("elegeu-a presidente") · vai junto e some = adjunto adnominal ("comprou-o", de "comprou um carro novo"). Verbo de ação também pode ter predicativo ("chegaram atrasados").
+- [09/11] A preposição do verbo vem antes do relativo, inclusive do "cujo": "o sistema de que preciso" (precisar de) · "o servidor de cujo trabalho todos gostam" (gostar de). Teste: desfazer a frase ("preciso do sistema") e ver se a preposição sumiu.
+- [09/11] O × lhe não depende de ser pessoa: termo sem preposição = o/a (informou-o sobre o prazo, convidou-os, intimou-as, cumprimentou-o) · termo com "a/ao" = lhe (respondeu-lhe, agradeceu-lhes, informou-lhe o prazo). Errado pela 3ª sessão (05, 06 e 09/11).
 
 ## Raciocínio Lógico-Matemático
 

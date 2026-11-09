@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["Português"]
 assunto: "Sintaxe B3: termos acessórios (adjunto adnominal, adjunto adverbial, aposto, vocativo) e complemento nominal + revisão do Módulo 0"
 semana: 3

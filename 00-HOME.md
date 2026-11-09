@@ -20,7 +20,7 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Almoço | **B3:** termos acessórios (adjuntos, aposto, vocativo, complemento nominal) + revisão do Módulo 0 (incluir pronomes: para eu × para mim, o × lhe, relativo + preposição). Teoria + bloco | [[Português]] |
+| Tarde | ✅ **B3: 7/12** (assunto novo 7/9; revisão 0/3). **Módulo 0 concluído** · ✅ Anki: regra da emenda de setas (09/11) | [[Português]] |
 | Noite · 19h | **1º simulado** (remarcado de dom 08/11): [[2026-11-08_Semana-02_Simulado-01_FGV-60q_PROVA]]. Cronometrado, sem consulta, "?" nos chutes, nada em branco, V/F escrito nas "INCORRETA". **Recomendado hoje: só a objetiva** (60 questões, ~3h30 + 15 min de marcação → até ~22h45) | `PROVAS OFICIAIS (estudo)/Provas/` |
 | Ter 10/11 | Discursiva *e-CUSTAS* (1h15, cronometrada; não ler o estudo de caso antes) + envio das respostas para a correção em PDF | [[Discursiva]] |
 | 22:40 · Revisão | Hoje não: o simulado ocupa a noite (regra 8, nunca dobrar). Se sobrar fôlego, 15 min de Anki | [[regras-tjpb]] |

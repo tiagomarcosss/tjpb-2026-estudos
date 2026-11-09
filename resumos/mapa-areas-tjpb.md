@@ -25,12 +25,12 @@ atualizado: 2026-11-09
 
 ## Língua Portuguesa (10 questões)
 
-**Progresso em Português: ~12%** · Módulo 0: A1 (28/10, 9/15), A2 (30/10, 8/15), B1 + B2 (05/11, 7/15) e A3 (06/11, 8/15) vistos · próximo: B3 (seg 09/11)
+**Progresso em Português: ~14%** · **Módulo 0 concluído (09/11):** A1 (28/10, 9/15), A2 (30/10, 8/15), B1 + B2 (05/11, 7/15), A3 (06/11, 8/15) e B3 (09/11, 7/12) · próximo: D concordância ou G/H (ordem a decidir)
 
 | Área | O que engloba | Edital | % | Questões | Nível | Progresso |
 |---|---|---|---|---|---|---|
 | **A. MORFOLOGIA** (classes de palavras) | <ins>Substantivo, adjetivo, artigo, numeral, pronome, verbo (tempos e modos), advérbio, preposição, conjunção</ins>, interjeição + <ins>locuções (adjetiva, verbal, adverbial, pronominal, prepositiva, conjuntiva)</ins> | 5.1, 4.2 | 11,3% | ~1 | 🟡 base | 10/11 · 91% (A3 em 06/11: 8/15; pronomes 3/8 fracos · interjeição não vista, ⚪) |
-| **B. SINTAXE DA ORAÇÃO** (termos) | <ins>Sujeito e predicado, tipos de verbo, objeto direto e indireto, predicativo</ins>, complemento nominal, adjuntos, aposto, vocativo | 5.2, 5.3 | junto com C | — | 🔴 base | 4/8 · 50% (B1 + B2 em 05/11: 7/15; predicativo 0/2 e OD × OI fracos) |
+| **B. SINTAXE DA ORAÇÃO** (termos) | <ins>Sujeito e predicado, tipos de verbo, objeto direto e indireto, predicativo, complemento nominal, adjuntos, aposto, vocativo</ins> | 5.2, 5.3 | junto com C | — | 🔴 base | 8/8 · 100% (B1 + B2 em 05/11: 7/15 · B3 em 09/11: 7/12, vocativo × aposto 4/4; predicativo 0/3, CN × OI e OD × OI fracos) |
 | **C. SINTAXE DO PERÍODO** | Coordenação, orações subordinadas (substantivas, adjetivas, adverbiais), conectivos | 5.2, 5.3 | 5,2% (B+C) | ~0,5 | 🟡 | 0/3 · 0% |
 | **D. CONCORDÂNCIA** | Verbal (sujeito posposto e composto, haver/fazer, "se", "um dos que") e nominal ("é proibido", anexo, meio, bastante) | 5.5 | 49,7% | ~5 ⚠️ | 🔴 | 0/2 · 0% |
 | **E. REGÊNCIA, CRASE E COLOCAÇÃO** | Regência verbal e nominal, crase, colocação pronominal (próclise, ênclise, mesóclise) | 5.6–5.8 | 7,8% | ~0,8 | 🔴 | 0/3 · 0% |
@@ -54,7 +54,7 @@ atualizado: 2026-11-09
 | 2 | **A. Morfologia** · parte 2 | **Palavras de ação e circunstância:** verbo, advérbio + locução verbal e adverbial | ✅ 30/10 (8/15) |
 | 3 | **B. Sintaxe da oração** · partes 1 e 2 | **Sujeito e predicado** (como achar o sujeito e os tipos) + **verbo e complementos** (VI, VTD, VTI, VTDI, VL + objetos e predicativo) | ✅ 05/11 (7/15) · sujeito 5/8, complementos 2/7 |
 | 4 | **A. Morfologia** · parte 3 | **Palavras que ligam e substituem:** pronome, preposição, conjunção + locuções | ✅ 06/11 (8/15) · pronomes 3/8, conjunções 3/5, preposição e locuções 2/2 |
-| 5 | **B. Sintaxe da oração** · parte 3 | **Termos acessórios:** adjuntos, aposto, vocativo, complemento nominal + revisão do Módulo 0 (com pronomes) | ⏳ próxima (seg 09/11, almoço) |
+| 5 | **B. Sintaxe da oração** · parte 3 | **Termos acessórios:** adjuntos, aposto, vocativo, complemento nominal + revisão do Módulo 0 (com pronomes) | ✅ 09/11 (7/12) · assunto novo 7/9, revisão 0/3 |
 
 B1 foi junto com B2 porque os dois dependem um do outro (achar o sujeito → achar o complemento). Método: explicação com analogia de programação + questões autorais básicas. Questões FGV só depois do Módulo 0.
 
@@ -132,9 +132,9 @@ Não há tabela de incidência das específicas, então não há coluna de %. Se
 
 | Disciplina | Áreas | Peso | Progresso | Onde estou (09/11) |
 |---|---|---|---|---|
-| **Português** | A–I | 10 questões | ▰▱▱▱▱▱▱▱▱▱ ~12% | Módulo 0: A1, A2, B1 + B2 e A3 vistos → B3 (hoje, almoço) → D concordância |
+| **Português** | A–I | 10 questões | ▰▱▱▱▱▱▱▱▱▱ ~14% | Módulo 0 concluído (A e B) → D concordância ou G/H (ordem a decidir) |
 | **RLM** | 1–6 | 10 questões | ▰▰▰▱▱▱▱▱▱▱ ~32% | Áreas 1 e 2 (lógica, argumentação, diagramas) + conjuntos vistos · próximo: porcentagem e proporção |
 | **Específicas** | T1–T13 | 40 questões (+ discursiva: estudo de caso sobre estas áreas, mín. 24/40) | ▰▰▱▱▱▱▱▱▱▱ ~17% | T1 e T2 fechadas (100%) · T3 (17%): Big-O visto → listas, pilhas, filas, árvores e hash |
 
 - Estamos na Semana 3 de 13 (cerca de 20% do tempo até a prova). RLM está acima desse ritmo; Português está abaixo (o Módulo 0 é base e não pode ser pulado) e Específicas está um pouco abaixo. O simulado 01 (seg 09/11, noite) vai mostrar se o "visto" está virando acerto.
-- Cálculo de Português: A 91% × 11,3% + B 4 de 11 assuntos de B + C × 5,2% ≈ 10,3 + 1,9 ≈ 12%.
+- Cálculo de Português: A 91% × 11,3% + B 8 de 11 assuntos de B + C × 5,2% ≈ 10,3 + 3,8 ≈ 14%. O % sobe pouco porque o Módulo 0 (A e B) pesa só ~16% da prova; a concordância (D) sozinha vale ~50% pela tabela do Estratégia.
