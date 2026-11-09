@@ -110,6 +110,7 @@
 - [03/11] "Nem todo x é y" = algum x não é y = x·y' (ponto, nunca x → y', que seria "nenhum"). Não diz nada sobre os y: "algum y não é x" não decorre (a FGV deu V em Abreu e Lima 2024, gabarito discutível).
 - [03/11] "Todo B é C" = B dentro de C, podendo ser igual: não garante "nem todo C é B". "Pode ser que…" = basta um desenho em que as premissas valem; afirmação direta = tem que valer em todos.
 - [03/11] "Quem é X faz Y" = todo X faz Y = seta. Antes de marcar, traduzir a alternativa para símbolo e procurar a mesma seta (ou o mesmo ponto) na lista: "alguns" nunca vira "todos".
+- [09/11] Emenda só no encaixe: o FIM de uma seta idêntico (letra + apóstrofo) ao COMEÇO da outra, como baldeação de ônibus (só se pega a linha na parada onde desceu). Começo com começo não emenda; Dj e Dj' são opostos (trocar = trocar de documento). Chegar no mesmo destino não basta: a alternativa é partida + chegada (Dj' → E' ≠ Dj → E').
 
 ### Matemática
 
