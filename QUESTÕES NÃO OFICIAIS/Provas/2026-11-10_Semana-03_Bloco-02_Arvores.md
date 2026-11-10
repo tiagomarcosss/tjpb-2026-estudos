@@ -3,7 +3,7 @@ tipo: bloco
 fonte: autoral
 status: pendente
 disciplina: ["Algoritmos, POO, SOLID e GoF"]
-assunto: "Estruturas de dados: árvores (terminologia, n-ária, binária, BST, percursos, AVL, heap) (diagnóstico)"
+assunto: "Estruturas de dados: árvores (terminologia, n-ária, binária, BST, percursos, AVL no conceito) (diagnóstico)"
 semana: 3
 data: 2026-11-10
 ---
@@ -98,19 +98,19 @@ A explicação correta e uma solução adequada são:
 
 ## Questão 5
 
-A analista Patrícia inseriu as chaves 30, 20 e 10, nessa ordem, em uma árvore AVL inicialmente vazia, no módulo de agendamento do sistema e-AUDIÊNCIA. Após a terceira inserção, a árvore ficou desbalanceada.
+A equipe da analista Patrícia avalia usar uma árvore AVL como índice em memória do módulo de agendamento do sistema e-AUDIÊNCIA, em que há muitas inserções e buscas.
 
-A operação que restaura o balanceamento e a nova raiz da árvore são, respectivamente:
+Sobre a árvore AVL, é correto afirmar que:
 
-(A) rotação simples à esquerda e 10;
+(A) o fator de balanceamento de cada nó pode assumir qualquer valor, desde que o fator de balanceamento da raiz seja 0;
 
-(B) rotação dupla esquerda-direita e 20;
+(B) ela dispensa a regra da árvore binária de busca, pois a posição de cada nó é definida apenas pelo balanceamento;
 
-\(C) nenhuma operação, pois o fator de balanceamento da raiz é 1, e 30;
+\(C) ela garante busca em O(1), pois todas as suas folhas ficam sempre no mesmo nível;
 
-(D) rotação simples à direita e 20;
+(D) em todo nó, a diferença entre as alturas das subárvores esquerda e direita é −1, 0 ou 1, o que mantém busca, inserção e remoção em O(log n);
 
-(E) rotação simples à esquerda e 20.
+(E) ela só se rebalanceia nas remoções, e, nas inserções, comporta-se como uma árvore binária de busca comum.
 
 ---
 
@@ -152,23 +152,19 @@ Após a remoção, a nova raiz da árvore será:
 
 ## Questão 8
 
-O sistema e-URGENTE organiza os pedidos de liminar em uma max-heap armazenada em vetor, com índices a partir de 0, em que os filhos do nó de índice i ficam nos índices 2i + 1 e 2i + 2. O vetor atual é:
+O sistema e-URGENTE guarda os códigos dos pedidos de liminar em uma árvore binária de busca, sem balanceamento. A árvore foi montada com a inserção, nesta ordem, das chaves 60, 40, 80, 20, 50, 70, 90, 45 e 55. A analista Débora fez uma busca pela chave 55.
 
-[90, 70, 80, 40, 50, 60]
+A sequência de nós visitados pela busca, da raiz até encontrar a chave, é:
 
-A analista Débora inseriu um pedido com prioridade 85, usando o procedimento padrão de inserção em heap.
+(A) 20, 40, 45, 50, 55;
 
-Após a inserção, o vetor será:
+(B) 60, 40, 80, 20, 50, 70, 90, 45, 55;
 
-(A) [90, 70, 80, 40, 50, 60, 85];
+\(C) 60, 40, 20, 50, 45, 55;
 
-(B) [85, 90, 80, 40, 50, 60, 70];
+(D) 60, 40, 50, 45, 55;
 
-\(C) [90, 85, 80, 70, 60, 50, 40];
-
-(D) [90, 85, 80, 40, 50, 60, 70];
-
-(E) [90, 70, 85, 40, 50, 60, 80].
+(E) 60, 40, 50, 55.
 
 ---
 
@@ -214,7 +210,7 @@ O valor retornado e o que o método calcula são, respectivamente:
 
 Em um treinamento sobre estruturas de dados para a equipe de desenvolvimento de um Tribunal de Justiça, foram apresentadas as afirmativas a seguir.
 
-I\. Toda árvore é um grafo conexo e sem ciclos; uma árvore com n nós tem exatamente n − 1 arestas.
+I\. Uma árvore com n nós tem exatamente n − 1 arestas, pois cada nó, exceto a raiz, tem exatamente um pai.
 
 II. Em uma árvore binária de busca, o menor valor está sempre armazenado em uma folha.
 

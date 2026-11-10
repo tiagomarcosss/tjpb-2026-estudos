@@ -221,19 +221,33 @@ As complexidades de tempo das operações de inserir um processo no início da l
 
 ## Questão 9
 
-O analista Márcio executou, em ambiente de homologação do sistema e-PROC, um método recursivo em Java que, por erro de implementação, não tinha caso base. Após alguns instantes, a aplicação lançou java.lang.StackOverflowError.
+O analista Márcio revisa o trecho a seguir, em Python, do sistema e-REMESSA, que reorganiza a fila de lotes a serem enviados ao tribunal superior. Na lista, append empilha e pop desempilha:
 
-A explicação correta para o erro é que:
+```python
+from collections import deque
 
-(A) a fila de mensagens do sistema encheu, pois as chamadas recursivas são atendidas por ordem de chegada (FIFO);
+fila = deque([4, 7, 1, 9])
+pilha = []
+while fila:
+    pilha.append(fila.popleft())
+pilha.pop()
+while pilha:
+    fila.append(pilha.pop())
+fila.append(fila.popleft())
+print(list(fila))
+```
 
-(B) a pilha de execução encheu, pois cada chamada empilha um registro de ativação que só é desempilhado quando a chamada termina;
+Ao final da execução, será impresso:
 
-\(C) o heap da JVM encheu, pois cada chamada recursiva cria um novo objeto da classe que contém o método;
+(A) [1, 7, 4];
 
-(D) a lista encadeada de variáveis locais tornou-se circular, o que impede o coletor de lixo de liberá-la;
+(B) [7, 4, 1];
 
-(E) a pilha de execução encheu, pois a primeira chamada a ser empilhada é a primeira a ser desempilhada (FIFO).
+\(C) [1, 7, 9];
+
+(D) [7, 1, 4];
+
+(E) [1, 7, 4, 9].
 
 ---
 
