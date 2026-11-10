@@ -266,6 +266,7 @@
 - [06/11] Large Solution SAFe = vários ARTs + fornecedores → Solution Train, STE, Solution Management (prioriza capabilities), Solution Demo. RTE → STE · Product Management → Solution Management · feature → capability. ART = 50 a 125 pessoas.
 - [06/11] Deploy ≠ release: deploy = em produção (pode ficar oculto por feature toggle) · release = liberar ao usuário quando o negócio quiser ("develop on cadence, release on demand"). CD Pipeline: Continuous Exploration (o que construir) → Continuous Integration → Continuous Deployment (produção) → Release on Demand.
 - [06/11] ART = equipe de equipes (50 a 125), permanente, em torno de um fluxo de valor, iterações sincronizadas e PI Planning conjunto. SAFe financia fluxo de valor, não projeto.
+- [09/11] Pirâmide de testes: base = unitário (função isolada) · meio = integração (módulos/componentes conversando, ex.: serviço + banco) · topo = ponta a ponta/E2E (fluxo inteiro do usuário). "Testar o fluxo inteiro" é E2E, não integração (errei a Q32 do simulado trocando os nomes).
 - [09/11] PF mede o requisito funcional; o não funcional (custos que a análise das funcionalidades não pega) se mede com SNAP (IFPUG).
 
 ## Algoritmos, POO, SOLID e GoF
@@ -339,6 +340,6 @@
 - [30/10] "INCORRETA": não riscar a alternativa falsa, porque ela é a resposta. Escrever V/F ao lado de cada letra e circular a F (errei a Q8 de estimativa riscando a certa). Errada de novo em 04/11 (Q12 de testes) e em 05/11 (Português B1 + B2, Q7 e Q14: pontinho e círculo em alternativas verdadeiras, sem V/F escrito).
 - [30/10] Se duas alternativas que marquei como verdadeiras se contradizem ("tinha terminado" é locução × "terminado" é adjetivo), uma delas está errada.
 - [06/11] Frase do enunciado que diz o que a pessoa NÃO faz ("não define o conteúdo nem prioriza o backlog") é pista de eliminação: riscar na hora a alternativa que faz isso (errei a Q1 de SAFe).
-- [09/11] Para marcar uma afirmativa como F (ou riscar uma alternativa), apontar a palavra exata que erra. Sem a palavra, é V. No simulado de 09/11, risquei a certa 5 vezes e pus X numa definição de livro.
+- [09/11] Para marcar uma afirmativa como F (ou riscar uma alternativa), apontar a palavra exata que erra. Sem a palavra, é V. No simulado de 09/11, risquei a certa 4 vezes (Q10, Q21, Q27, Q29).
 - [09/11] Antes de marcar, procurar no enunciado a palavra que contradiz a alternativa ("ciclos incrementais" × "sem ciclos"; "interno" × "acessado publicamente"). Contradição = alternativa fora.
 - [09/11] Quando o enunciado descreve um espectro ("desde os bem definidos até os que exigem intuição"), a resposta costuma cobrir o espectro inteiro. Quando traz uma sigla (ETL), traduzir a sigla.

@@ -898,9 +898,15 @@ Está correto o que se afirma em
 
 **Depende de:** tipos de teste e TDD (**estudado na Semana 2**; regra de 04/11: "integração = interface entre módulos").
 
-**Por que errou:** você deu ✔️ em I, III e IV e **X no II**. Mas o II é a definição de livro do teste de integração, a mesma da sua regra de 04/11. Não há palavra errada nele. O X veio de excesso de desconfiança ("deve ter pegadinha").
+**Por que errou (pela sua explicação, 09/11):** você deu ✔️ em I, III e IV e **X no II** porque, na hora, **trocou o nome dos níveis da pirâmide**: pensou que "integração" era o topo, o teste que percorre o fluxo inteiro. Esse é o **ponta a ponta (E2E)**. O teste de integração fica no **meio** da pirâmide e verifica a conversa entre módulos ou componentes (ex.: o serviço de custas gravando no banco, uma API chamando outra), exatamente como diz o item II e a sua regra de 04/11.
 
-📌 **Para marcar uma afirmativa como FALSA, aponte a palavra exata que erra (exclusivamente, sempre, nunca, troca de conceito). Se não achar a palavra, ela é VERDADEIRA. Definição de livro dita de forma direta é verdadeira.**
+| Nível da pirâmide | Nome | O que testa | Exemplo no e-CUSTAS |
+|---|---|---|---|
+| Topo (poucos, lentos) | **Ponta a ponta (E2E)** / UI | O fluxo inteiro, como o usuário faz | Abrir a tela, preencher o processo, emitir a guia e baixar o PDF |
+| Meio | **Integração** | A interação entre módulos/componentes | O módulo de cálculo chamando o banco de tabelas de custas |
+| Base (muitos, rápidos) | **Unitário** | Uma função ou método isolado | `calcularCustas(valor, nReus)` com 1 e com 3 réus |
+
+📌 **Pirâmide de testes: base = unitário (função isolada) · meio = integração (módulos conversando) · topo = ponta a ponta/E2E (fluxo inteiro do usuário). "Fluxo inteiro" é E2E, não integração.**
 
 ---
 
@@ -1613,7 +1619,7 @@ Só o que cai no TJPB. Os erros em assunto já estudado (⚠️) vêm primeiro.
 | Assunto | Q | Por que errei | Regra certa |
 |---|---|---|---|
 | ⚠️ Estimativa: PF × story points | 27 | Achei que story points padronizam entre times (mesmo erro de 30/10) | PF = objetivo e independente do time; story point é relativo ao time |
-| ⚠️ Testes: afirmativas I a IV | 32 | Marquei F numa definição de livro (integração) sem achar a palavra errada | Sem palavra errada apontada, é V |
+| ⚠️ Testes: pirâmide (I a IV) | 32 | Troquei integração por ponta a ponta (achei que integração testava o fluxo inteiro) | Integração = módulos conversando (meio); E2E = fluxo inteiro (topo) |
 | ⚠️ Scrum × Kanban | 33 | Sublinhei "ciclos incrementais" e marquei "sem ciclos" | Ciclos + revisão + valor = Scrum; fluxo contínuo = Kanban |
 | ⚠️ Catáfora × anáfora | 5 | Achei o pronome, mas não vi a direção | Catáfora = pronome ANTES do referente |
 | ⚠️ Relação lógica entre frases | 7 | Aceitei "causa e consequência" onde há explicação | Teste o conector; "prefiro X. Eles são Y" = explicação |
@@ -1657,7 +1663,7 @@ Só o que cai no TJPB. Os erros em assunto já estudado (⚠️) vêm primeiro.
 
 **5. Estratégia de prova (vale para todas as disciplinas):**
 - **11 erros convictos.** Antes de marcar, releia o enunciado e procure uma palavra que contradiga a sua alternativa (Q33: "ciclos" × "sem ciclos"; Q24: "interno" × "publicamente").
-- **Você riscou a alternativa certa 5 vezes** (Q10, Q21, Q27, Q29 e Q32, nesta no item II). Riscar exige apontar a palavra errada; se não achar, não risque.
+- **Você riscou a alternativa certa 4 vezes** (Q10, Q21, Q27 e Q29). Riscar exige apontar a palavra errada; se não achar, não risque.
 - **Leitura de código:** conte as voltas do laço antes de calcular (Q51).
 
 **6. Discursiva:** treinar a **estrutura do estudo de caso** aos sábados (como você propôs). Quando quiser, eu preparo um roteiro de estrutura (contexto → problemas → teoria e norma → solução) com um caso curto para treinar só o esqueleto, e depois você refaz o e-CUSTAS completo.
