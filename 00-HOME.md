@@ -14,27 +14,28 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Segunda, 09/11/2026 · Semana 3 (Algoritmos, POO, SOLID e GoF) · faltam 76 dias para a prova**
+**Terça, 10/11/2026 · Semana 3 (Algoritmos, POO, SOLID e GoF) · faltam 75 dias para a prova**
 
 > **Fila primeiro (regra de 04/11):** o assunto do dia é o primeiro pendente da "Fila de pendências" do [[contexto-tjpb]], não o do calendário.
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Tarde | ✅ **B3: 7/12** (assunto novo 7/9; revisão 0/3). **Módulo 0 concluído** · ✅ Anki: regra da emenda de setas (09/11) | [[Português]] |
-| Noite · 19h | ✅ **1º simulado: 27/60 (45%)** · Português 2/10 · RLM 6/10 · Específicas 19/40 · sem os chutes, 19/60 (meta da objetiva: 36). Correção: [[2026-11-09_Semana-03_Simulado-01_FGV-60q_CORRECAO]] (PDF) · registro: [[2026-11-09_Simulado-01_FGV-60q]] | `PROVAS OFICIAIS (estudo)/Correções/` |
-| Ter 10/11 | Ler a correção, começando pelos 6 erros em assunto já estudado (Q5, Q7, Q27, Q32, Q33, Q56). Almoço: começar **G. Semântica e reescrita** (ordem nova: G → H → D). Discursiva *e-CUSTAS*: não feita; treino de estrutura aos sábados | [[Discursiva]] |
-| 22:40 · Revisão | Hoje não: o simulado ocupa a noite (regra 8, nunca dobrar). Se sobrar fôlego, 15 min de Anki | [[regras-tjpb]] |
+| Antes do almoço (15 min) | Ler na correção do simulado só os 6 erros em assunto já estudado: Q5, Q7 (Português), Q27 (velocidade × PF), Q32 (pirâmide de testes), Q33 (Scrum × Kanban), Q56 (SNAP) | [[2026-11-09_Semana-03_Simulado-01_FGV-60q_CORRECAO]] |
+| Almoço · Português | 🔴 **G. Semântica e reescrita, parte 1: coesão e referenciação** (anáfora × catáfora, pronome com referente escrito, termo-síntese, coesão × coerência). Teoria + bloco só de G | [[Português]] |
+| 19h · Bloco 1 | 🔴 **APF funções de dados:** responder o bloco de 06/11 (8 questões, ~20 min) e mandar para correção. Depois, teoria de **listas, pilhas e filas** | [[APF, SAFe e Testes]] · [[Algoritmos, POO, SOLID e GoF]] |
+| 20h · Bloco 2 | 🔴 Bloco de **listas, pilhas e filas** (com leitura de código). Árvores e hash ficam para amanhã | [[Algoritmos, POO, SOLID e GoF]] |
+| 22:40 · Revisão | Revisão espaçada abaixo (09/11 e 03/11) + 15 min de Anki | [[regras-tjpb]] |
 
-**Fim de semana (07–08/11):** revisões por conta própria, fora do Claude. Simulado ficou para hoje à noite.
+**Fila hoje:** Português → G (1º item) · Específicas → APF funções de dados (só falta responder) → listas, pilhas, filas, árvores e hash. A revisão de 06/11, adiada ontem, **não se soma** à de hoje (regra 8): vai pelo Anki.
 
-**Pendente:** bloco de APF funções de dados (responder e corrigir) e Q5 do chat de Big-O · próximo de Específicas: listas, pilhas, filas, árvores e hash · confirmar a inscrição (até 18/11, 16h; boleto até 19/11) · Anki dos erros de conjuntos (04/11), SAFe e Big-O.
+**Pendente:** Q5 do chat de Big-O · confirmar a inscrição (**até 18/11, 16h**; boleto até 19/11) · Anki dos erros de conjuntos (04/11), SAFe e Big-O · discursiva *e-CUSTAS* fica para o treino de estrutura de sábado.
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias: não há regras de 08/11, 02/11 nem 10/10. Pela regra, usar a mais recente: 06/11 (38 regras: SAFe, A3 e Big-O). Fica para amanhã, já que hoje a noite é do simulado.
+Regras de `regras-tjpb` com ~1, 7 e 30 dias: **09/11** (51 regras: B3, texto e as do simulado) e **03/11** (16 regras: silogismos, Venn e APF, que casa com o bloco de hoje). Não há regras de 11/10. Como 09/11 é grande, priorizar as de texto (catáfora, referente, termo-síntese, coerência), que são a base do G, e as do simulado em assunto já estudado.
 
 ```query
-path:regras-tjpb "[06/11]"
+path:regras-tjpb ("[09/11]" OR "[03/11]")
 ```
 
 ---
