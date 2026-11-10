@@ -72,6 +72,15 @@
 - [09/11] Predicativo × adjunto adnominal: troque o nome pelo pronome. A característica sobra = predicativo ("elegeu-a presidente") · vai junto e some = adjunto adnominal ("comprou-o", de "comprou um carro novo"). Verbo de ação também pode ter predicativo ("chegaram atrasados").
 - [09/11] A preposição do verbo vem antes do relativo, inclusive do "cujo": "o sistema de que preciso" (precisar de) · "o servidor de cujo trabalho todos gostam" (gostar de). Teste: desfazer a frase ("preciso do sistema") e ver se a preposição sumiu.
 - [09/11] O × lhe não depende de ser pessoa: termo sem preposição = o/a (informou-o sobre o prazo, convidou-os, intimou-as, cumprimentou-o) · termo com "a/ao" = lhe (respondeu-lhe, agradeceu-lhes, informou-lhe o prazo). Errado pela 3ª sessão (05, 06 e 09/11).
+- [09/11] Catáfora = o pronome vem ANTES do termo a que se refere ("Ainda que a expulses, a natureza volta") · anáfora = vem DEPOIS ("o dinheiro como ele merece"). Teste: quando o pronome aparece, o referente já foi dito? Se sim, é anáfora.
+- [09/11] Pronome pessoal precisa de referente ESCRITO no texto e de mesmo número. "Eles" para pessoas não citadas (fabricantes, artistas, o professor) = construção inadequada. Achado o defeito numa alternativa, procurar o mesmo defeito nas outras.
+- [09/11] Termo-síntese (encapsulador) = palavra geral que resume a ideia anterior ("essa situação", "tal atitude", "essa solução"). Retomar por um termo MAIS específico (espetáculo → revista musical) é especificação, não síntese.
+- [09/11] Exemplo = caso particular e concreto (nome próprio, fato, data) que ilustra · argumento = afirmação geral que sustenta a tese. Estatística e dado oficial = argumento objetivo, que apoia a tese.
+- [09/11] "Finalidade do texto" = para que foi escrito (alertar, convencer, informar). Alternativa que explica a causa de algo que o texto não discute é extrapolação.
+- [09/11] Relação entre duas frases separadas por ponto: testar o conector no lugar do ponto. "Prefiro X. Eles são Y" = explicação/justificativa · "pode não ser bonita. É esperança de pérola" = oposição (cabe "mas").
+- [09/11] DE ENCONTRO A = choque, colisão, oposição (o caminhão foi de encontro ao poste) · AO ENCONTRO DE = a favor, concordância (veio ao encontro das expectativas).
+- [09/11] Oração adverbial antecipada = oração com conjunção (quando, se, embora, como = causa) ANTES da principal, com vírgula. "Como" + adjetivo em frase exclamativa ("Como seriam felizes!") é advérbio de intensidade, não conjunção.
+- [09/11] Coerência = faz sentido lógico e no mundo real · coesão = partes amarradas por palavras. Dois períodos soltos, sem relação entre si, não têm coesão.
 
 ## Raciocínio Lógico-Matemático
 
@@ -132,6 +141,14 @@
 - [04/11] "Exatamente um/dois/três" e "nenhum" são fatias que não se repetem: total = nenhum + exat. 1 + exat. 2 + exat. 3, sem fórmula de pares. Já "A e B" (sem "exatamente") inclui o centro.
 - [04/11] ∈ liga elemento a conjunto: procurar o objeto igualzinho na lista ({1} ∈ {0, {1}, 2}, mas 1 ∉). ⊂ liga conjunto a conjunto: tirar as chaves de fora e conferir cada item ({{1}} ⊂ A e {0, 2} ⊂ A).
 - [04/11] Operações com conjuntos: resolver o parêntese primeiro. A − C = elementos de A que não estão em C (o que está só em C é ignorado).
+- [09/11] Aumentos sucessivos multiplicam os fatores (1,3 × 1,1 = 1,43 → 43%). Taxa média por período = raiz do fator total (média geométrica), sempre abaixo da média simples: √1,43 ≈ 1,196 → 19,6%.
+- [09/11] Aumento seguido de desconto: multiplicar os fatores (1,10 × 0,95 = 1,045). Nunca somar nem subtrair as porcentagens.
+- [09/11] Divisão proporcional: parte de cada um = total × (cota dele ÷ soma das cotas).
+- [09/11] Com soma e soma dos quadrados: (a + b)² = a² + 2ab + b² dá o produto; com o produto, (a − b)² = a² − 2ab + b² dá a diferença. Quadrado de negativo é positivo (soma dos quadrados nunca tem sinal de menos).
+- [09/11] Ligações entre n pontos, cada par uma vez = n(n − 1)/2 = C(n, 2). Pontos novos: cada novo liga-se a todos os antigos, mais as ligações entre os novos (2 novos: 2x + 1).
+- [09/11] Casa dos pombos ("ter certeza") = pior caso: retirar primeiro TUDO o que não completa a exigência mais difícil e só depois o que falta; comparar os cenários e ficar com o maior. O total da urna quase nunca é o mínimo.
+- [09/11] "Sabe-se que..." = probabilidade condicional: o novo total é só o que satisfaz a condição. Dados lançados em sequência: contar as ordens ({4,3,1} = 6 casos, {3,3,2} = 3).
+- [09/11] Média ponderada com "necessariamente": testar a pior nota em cada posição, com o melhor arranjo possível das outras.
 
 ### Raciocínio sequencial
 
@@ -185,6 +202,7 @@
 ### Kanban e Lean
 
 - [26/10] Lead time = pedido → entrega (visão do cliente, inclui a fila) · Cycle time = início do trabalho → entrega (visão do time). Lead ≥ cycle.
+- [09/11] Pistas do enunciado: "ciclos / iterações / sprints + revisão com o cliente + priorizar valor" = Scrum · "fluxo contínuo, sem timebox, limite de WIP" = Kanban · "par, TDD, integração contínua" = XP · "eliminar desperdício" = Lean.
 
 ### Requisitos e user stories
 
@@ -211,6 +229,7 @@
 - [30/10] Cone da Incerteza (Boehm/McConnell): a estimativa é muito imprecisa no início e fica mais precisa à medida que o projeto avança. Por isso não se promete prazo exato no começo.
 
 ---
+- [09/11] Ponto de função = medida objetiva e padronizada (IFPUG), independente do time e da tecnologia → serve para contrato e para comparar projetos. Story point é relativo ao time → não padroniza entre times (reforça a regra de 30/10).
 
 ## APF, SAFe e Testes
 
@@ -247,6 +266,7 @@
 - [06/11] Large Solution SAFe = vários ARTs + fornecedores → Solution Train, STE, Solution Management (prioriza capabilities), Solution Demo. RTE → STE · Product Management → Solution Management · feature → capability. ART = 50 a 125 pessoas.
 - [06/11] Deploy ≠ release: deploy = em produção (pode ficar oculto por feature toggle) · release = liberar ao usuário quando o negócio quiser ("develop on cadence, release on demand"). CD Pipeline: Continuous Exploration (o que construir) → Continuous Integration → Continuous Deployment (produção) → Release on Demand.
 - [06/11] ART = equipe de equipes (50 a 125), permanente, em torno de um fluxo de valor, iterações sincronizadas e PI Planning conjunto. SAFe financia fluxo de valor, não projeto.
+- [09/11] PF mede o requisito funcional; o não funcional (custos que a análise das funcionalidades não pega) se mede com SNAP (IFPUG).
 
 ## Algoritmos, POO, SOLID e GoF
 
@@ -267,22 +287,40 @@
 - [06/11] Merge sort: 2 chamadas com n/2 + junta de n em cada nível = log n níveis × n = O(n log n). 2 chamadas com n − 1 = O(2ⁿ) · 1 chamada com n/2 = O(log n) · 1 chamada com n − 1 e laço de n dentro = O(n²).
 - [06/11] Laço escondido em função pronta: toda linha que procura, ordena, copia ou fatia algo de tamanho n conta como laço. `x in lista` = O(n) · `x in set/dict` = O(1) médio · `sorted(v)` = O(n log n) · `v[:meio]` = O(n) · `lista.index(x)` = O(n). `for` + `x in lista` dentro = O(n²).
 - [06/11] Busca linear: melhor caso O(1), pior O(n). Vetor ordenado não melhora a busca linear (TJ-RN 2023). Constante grande (100n) perde para n² só em entradas pequenas (n < 100); para n grande vence a classe menor.
+- [09/11] Liskov: a subclasse pode sobrescrever e especializar (é polimorfismo). Só viola quando quebra o contrato da mãe: exceção nova, exige mais, entrega menos, efeito inesperado (Quadrado × Retângulo, Pinguim.voar()).
+- [09/11] UML: triângulo vazado + linha cheia = generalização (herança) · triângulo vazado + tracejado = realização (interface) · losango vazado = agregação · losango cheio = composição · seta tracejada aberta = dependência.
+- [09/11] Abstract Factory no diagrama: interface de fábrica com create…() que devolve outra interface + fábrica concreta com "return new …". Singleton = construtor privado + getInstance(); Prototype = clone().
 
 ## Banco de Dados e SQL
+- [09/11] Chave primária determina todos os demais atributos (a → b, a → c, a → d). Dependência entre não chave (b → c) é transitiva e viola a 3FN.
+- [09/11] ON DELETE: CASCADE = apaga os filhos junto (sem órfão, sem erro) · RESTRICT / NO ACTION = impedem a exclusão (geram erro) · SET NULL = exige coluna que aceite NULL. "Evitar erro ao remover o pai" = CASCADE.
+- [09/11] ETL = Extract, Transform, Load (extrair das fontes, padronizar e carregar no DW) · ELT = carrega bruto e transforma dentro do destino (grande volume, nuvem). Relacional = OLTP · multidimensional = OLAP (cubos, dimensões, agregações).
 
 ## Arquitetura e System Design
+- [09/11] Microsserviços = cada serviço com seu banco, implantação independente, baixo acoplamento. "Compartilham o mesmo banco" e "maior acoplamento" descrevem monolito. Hexagonal = portas e adaptadores (núcleo de negócio isolado de banco, tela e API).
+- [09/11] REST: PUT = atualizar/substituir · 200 OK · 201 Created · 204 No Content (sucesso, sem corpo). Servidor web = recebe HTTP e entrega conteúdo · servidor de aplicação = lógica de negócio e banco.
+- [09/11] SPA = uma página sem recarregar · PWA = site com recursos de app (offline via Service Worker, ícone, push), mas continua web: não vira app nativo.
 
 ## Linguagens e Frameworks
+- [09/11] Spring Boot = autoconfiguração + servidor embutido (jar que roda sozinho) · Spring Cloud = sistemas distribuídos · Hibernate = ORM/JPA · JUnit = teste. Anotações: @RestController na classe · @PostMapping no método · @RequestBody no parâmetro (corpo JSON) · @PathVariable (pedaço da URL).
+- [09/11] Python: range(início, fim, passo) nunca inclui o fim; range(4, -4, -1) para em −3 (8 voltas). Contar as voltas antes de calcular. L[-1] = último; -1 % 5 = 4.
 
 ## Mobile e UI/UX
+- [09/11] TLS substituiu o SSL (todas as versões do SSL estão obsoletas). HTTPS = HTTP + TLS. Não existe divisão "SSL autentica, TLS cifra".
 
 ## DevOps e Nuvem
+- [09/11] CI = integrar e testar a cada commit · entrega contínua = sempre pronto para produção · implantação contínua = vai sozinho para produção.
+- [09/11] Internet = pública · intranet = privada, só para os de dentro · extranet = parte da rede aberta, com controle de acesso, a parceiros externos autorizados.
 
 ## Segurança
+- [09/11] Rótulo de segurança × habilitação = MAC (mandatório) · o dono decide = DAC (discricionário) · pelo cargo = RBAC. Privilégio mínimo é princípio, não modelo de controle.
+- [09/11] OAuth2: response_type=code → authorization code (depois troca o code pelo token, com PKCE) · response_type=token → implícito (obsoleto) · client_credentials é grant_type.
+- [09/11] OWASP Top 10:2021 tem SSRF como A10 ("falsificação de solicitação do lado do servidor"). Conferir na Semana 11 a edição vigente em owasp.org/Top10.
 
 ## IA
 
 ## Judiciário, LGPD e Governança
+- [09/11] PDPJ-Br (Res. CNJ 335/2020) = plataforma pública, nacional, colaborativa, código aberto, microsserviços, nuvem e preparada para IA. Alternativa com "privada", "código fechado" ou "alto acoplamento" está errada.
 
 ---
 
@@ -301,3 +339,6 @@
 - [30/10] "INCORRETA": não riscar a alternativa falsa, porque ela é a resposta. Escrever V/F ao lado de cada letra e circular a F (errei a Q8 de estimativa riscando a certa). Errada de novo em 04/11 (Q12 de testes) e em 05/11 (Português B1 + B2, Q7 e Q14: pontinho e círculo em alternativas verdadeiras, sem V/F escrito).
 - [30/10] Se duas alternativas que marquei como verdadeiras se contradizem ("tinha terminado" é locução × "terminado" é adjetivo), uma delas está errada.
 - [06/11] Frase do enunciado que diz o que a pessoa NÃO faz ("não define o conteúdo nem prioriza o backlog") é pista de eliminação: riscar na hora a alternativa que faz isso (errei a Q1 de SAFe).
+- [09/11] Para marcar uma afirmativa como F (ou riscar uma alternativa), apontar a palavra exata que erra. Sem a palavra, é V. No simulado de 09/11, risquei a certa 5 vezes e pus X numa definição de livro.
+- [09/11] Antes de marcar, procurar no enunciado a palavra que contradiz a alternativa ("ciclos incrementais" × "sem ciclos"; "interno" × "acessado publicamente"). Contradição = alternativa fora.
+- [09/11] Quando o enunciado descreve um espectro ("desde os bem definidos até os que exigem intuição"), a resposta costuma cobrir o espectro inteiro. Quando traz uma sigla (ETL), traduzir a sigla.

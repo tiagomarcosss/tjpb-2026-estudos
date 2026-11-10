@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 09/11/2026 · **Semana do plano:** 3 (Algoritmos, POO, SOLID e GoF)
+**Atualizado em:** 09/11/2026 (noite, após o Simulado 01) · **Semana do plano:** 3 (Algoritmos, POO, SOLID e GoF)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -15,7 +15,7 @@
 - Estudo sem cursinho: fontes oficiais + banco de questões (QConcursos/TEC) + Claude como professor e corretor de discursiva. Pacotes pós-edital ainda não lançados.
 - Questões autorais salvas em .md na pasta "QUESTÕES NÃO OFICIAIS" (blocos em `Provas/`: `AAAA-MM-DD_Semana-XX_Bloco-XX_Assunto.md`; correções em `Correções/`: `_CORRECAO.md`). Provas oficiais seguem a mesma divisão.
 - Simulados: todo domingo, 13h–17h, + 1 discursiva + 1h de correção. Em janeiro, 13h–18h.
-- **1º simulado oficial: remarcado para seg 09/11, noite** (era 01/11, depois 08/11). Caderno montado em 08/11: [[2026-11-08_Semana-02_Simulado-01_FGV-60q_PROVA]]. Cronometrado e sem consulta. Prova FGV inédita: TJ-MS 2024 ou TJ-AP 2024 (recomendadas) ou outro caderno da DATAPREV (não o ATI Desenvolvimento de Software · tarde, cujo Português já foi resolvido em 23/10). Marcar "?" nos chutes. É o ponto de partida da evolução. O TRT-16 de 25/10 foi desconsiderado.
+- **1º simulado oficial: feito em seg 09/11, noite → 27/60 (45%)** · Português 2/10 · RLM 6/10 · Específicas 19/40 · sem os chutes, 19/60. Meta da objetiva: 36. Discursiva não feita (só a conclusão; treinar a estrutura aos sábados). Registro: [[2026-11-09_Simulado-01_FGV-60q]]. (Era 01/11, depois 08/11.) Caderno montado em 08/11: [[2026-11-08_Semana-02_Simulado-01_FGV-60q_PROVA]]. Cronometrado e sem consulta. Prova FGV inédita: TJ-MS 2024 ou TJ-AP 2024 (recomendadas) ou outro caderno da DATAPREV (não o ATI Desenvolvimento de Software · tarde, cujo Português já foi resolvido em 23/10). Marcar "?" nos chutes. É o ponto de partida da evolução. O TRT-16 de 25/10 foi desconsiderado.
 
 ---
 
@@ -183,6 +183,15 @@
   - "?": predicativo × adjunto adnominal (Q11, ao lado do predicativo do objeto e do "chegaram atrasados").
   - Por tipo: assunto novo **7/9 (78%)**, melhor do Módulo 0 · revisão do Módulo 0 **0/3**. Comparação: A1 9/15 → A2 8/15 → B1 + B2 7/15 → A3 8/15 → B3 7/12.
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-09_Semana-03_Bloco-01_Portugues-Termos-Acessorios-B3_CORRECAO.pdf` (+ .md). **B3 sai da fila; Módulo 0 concluído** (teoria + bloco corrigido).
+- **09/11 (noite) · 1º SIMULADO (60 oficiais FGV no formato TJPB, cronometrado, caderno anotado à caneta, 10 fotos):** **27/60 (45%)** · Português 2/10 · RLM 6/10 · Específicas 19/40 · só o que cai no TJPB 26/58 (fora: Q36 blockchain e Q44 X.800)
+  - Confiança: 5 acertos firmes · 14 com dúvida · 8 chutes certos ("?") → **sabia de verdade: 19/60**. Erros: 18 com "?" · 4 com pontinho · **11 convictos** (sem marca de dúvida).
+  - **Assunto já estudado: 5/11.** Erros nele: catáfora (Q5), relação lógica entre frases (Q7), **PF × story points de novo** (Q27, mesmo erro de 30/10), **testes I a IV com X numa definição verdadeira** (Q32), **Scrum × Kanban** (Q33: sublinhou "ciclos incrementais" e marcou "sem ciclos"), SNAP (Q56, não visto).
+  - **Português: 8 das 10 foram de coesão, referenciação, argumentação e interpretação** (Módulos G e H, não estudados). Gramática pura: 2 (vírgula da adverbial antecipada, ao encontro × de encontro).
+  - **Riscou a alternativa certa 5 vezes** (Q10, Q21, Q27, Q29, Q32 no item II). Acertou uma "INCORRETA" com firmeza (Q47).
+  - RLM: firmes média ponderada, contrapositiva e PA; erros em taxa média (dividiu 43% por 2), soma e soma dos quadrados, casa dos pombos (marcou a urna inteira) e probabilidade condicional (não reduziu o espaço nem contou ordens).
+  - Leitura de código (Q51, Python): contas certas, mas incluiu o fim do `range` (9 valores em vez de 8).
+  - Discursiva *e-CUSTAS*: **não feita**, só a conclusão ("não soube nem começar a estrutura"). Decisão dele: treinar a estrutura do estudo de caso **aos sábados**, à parte.
+  - Arquivo: `PROVAS OFICIAIS (estudo)/Correções/2026-11-09_Semana-03_Simulado-01_FGV-60q_CORRECAO.pdf` (+ .md), com o assunto de origem de cada questão e a semana do plano em que ele entra.
 
 ---
 
@@ -190,6 +199,7 @@
 
 ### Português / RLM
 
+0. **Texto: coesão, referenciação, argumentação e interpretação (novo, 09/11, simulado):** 8 das 10 de Português do simulado, **1 acerto sem chute**. Catáfora × anáfora (achou o pronome, não viu a direção) · pronome sem referente escrito ("eles" = fabricantes) · termo-síntese × especificação · finalidade do texto (marcou a causa, que o texto não discute) · coesão e coerência ("?") · relação lógica entre frases (explicação × causa e consequência). Acertos: tese e argumentos (com dúvida), exemplo × argumento (chute). Base dos Módulos G e H
 1. Concordância nominal pela norma-padrão (≈50% do Português FGV): errada **4×** (23/10, 28/10 manhã, 28/10 noite e 30/10), sempre pelo uso comum. "Em anexo" errado 3 vezes seguidas: em 30/10 fez "anexo" concordar até com o "em". Regra-gatilho: **tem EM = advérbio = não varia**. Olhar primeiro se há "em" e se há artigo. "Bastante" acertou em 30/10 (com dúvida)
 2. **Pronomes pela norma (06/11; errou de novo em 09/11): 3/8 no A3 e 0/2 na revisão do B3, sempre pelo uso comum.** **O × lhe: 3ª sessão seguida** (05, 06 e 09/11; em 09/11, "informou-lhe" porque o termo é pessoa: olhar a preposição, não a pessoa) · **relativo sem a preposição do verbo** ("que eu te falei", "que eu preciso" → "de que") · **"cujo" certo parece errado: 3ª vez** ("de cujo trabalho gostam") · "para mim + infinitivo" · Vossa Excelência + "vosso" · ambiguidade do "seu". Firmes: relativo × outros "que", este × aquele, "toda" × "toda a"
 3. Sintaxe (base), atualizado 09/11: B1 + B2 7/15; B3 7/9 no assunto novo. **Predicativo 0/3** (do sujeito × adjunto de modo; do objeto × objeto direto; em 09/11, "?" em predicativo × adjunto adnominal: teste do pronome) · **CN × OI** ("confia na equipe": quem pede o termo, verbo ou nome?) · OD × OI com "aos" · intransitivo × ligação · composto × adjuntos com "e" · "se" passiva × indeterminado · existir × haver. Firmes: **vocativo × aposto (4/4)**, AA × CN pela regra agente/paciente (2/2 em 09/11, uma com dúvida). Pendente: orações subordinadas (C)
@@ -202,25 +212,27 @@
 10. Conjunções pelo sentido (novo, 06/11): "e" adversativo (= mas) tomado como aditivo · "pois" posposto = conclusivo, errado **com certeza**. "De modo que" = consequência: acertou em 06/11 (era erro em 23/10; 1/2 para sair)
 11. Interpretação: rótulo acrescentado pela alternativa, paradoxo, discurso direto × indireto. Opinião × fato: acertou em 28/10 (1/2 para sair)
 12. Numeração de artigos de lei (novo, 28/10): ordinal até o 9º, cardinal do 10 em diante
-13. Porcentagem e divisão proporcional
+13. **Porcentagem e divisão proporcional (subiu em 09/11, simulado):** taxa média de aumentos sucessivos errada (dividiu 43% por 2; é a raiz de 1,43) · divisão proporcional acertada por chute · aumento e desconto certo, com dúvida. **Próximo do mapa de RLM**
+13b. **Matemática do simulado (novo, 09/11):** soma e soma dos quadrados (escreveu x − y e x² − y²; faltam produtos notáveis) · casa dos pombos (marcou o total da urna) · probabilidade condicional ("sabe-se que" não reduziu o espaço; contou combinações, não ordens) · combinatória C(n, 2) acertada por chute. Firmes: média ponderada e PA
 14. Semântica: vocabulário erudito (irascível, indelével). Conectivos passaram para o item 10
 15. Raciocínio sequencial (filas, trocas, calendários)
 
 ### Técnico
 
+0a. **Erros convictos e riscar a certa (novo, 09/11, simulado):** 11 erros sem nenhuma marca de dúvida e **5 alternativas certas riscadas** (Q10, Q21, Q27, Q29 e o item II da Q32). Regra: só riscar com a palavra errada apontada; reler o enunciado procurando a palavra que contradiz a alternativa ("ciclos" × "sem ciclos"). INCORRETA do simulado (Q47): acertou firme
 0. **Estratégia "INCORRETA" (vale para todas as disciplinas; subiu em 05/11):** errada em 3 sessões seguidas (30/10 estimativa, 04/11 testes, 05/11 Português Q7 e Q14). Sempre marca ou deixa candidata uma alternativa **verdadeira**, sem V/F escrito. Pela pesquisa de 05/11, ~25% do Português FGV é negativo. Regra: V/F ao lado das 5 e circular a F. **06/11 (A3): voltou a escrever V/F (✓) em 3 das 4 negativas; 2/4, e os erros foram de conteúdo.** Manter no simulado de 08/11
 1. **Big-O (novo, 06/11):** bloco 7/12. **Sequência × aninhado** (multiplicou dois O(n) em sequência) · hash O(1) só no caso médio · O × Ω × Θ ("?") · dois ponteiros = O(n) (tomou por Fibonacci) · merge sort O(n log n) ("?"). Soma × multiplicação: errou no chat, acertou no bloco (Q2, com dúvida; 1/2 para sair). Firmes: triângulo, recursão com laço, m · n, melhor × pior caso
-1. Testes · técnicas de projeto de casos (novo, 04/11): 0/4. Valor-limite, partição de equivalência, caixa-branca × preta e estático × dinâmico com "?"; cobertura de decisões errada (1 caso True ≠ 100% de decisões). Também: confirmação × regressão invertidos e princípio "presença, não ausência" julgado falso. Níveis, alfa/beta, carga/estresse, stub/driver, ciclomática e pirâmide: ok
+1. Testes · técnicas de projeto de casos (novo, 04/11): 0/4. **Simulado 09/11 (Q32):** pôs X na definição verdadeira de teste de integração (I/II/III/IV todas certas). Valor-limite, partição de equivalência, caixa-branca × preta e estático × dinâmico com "?"; cobertura de decisões errada (1 caso True ≠ 100% de decisões). Também: confirmação × regressão invertidos e princípio "presença, não ausência" julgado falso. Níveis, alfa/beta, carga/estresse, stub/driver, ciclomática e pirâmide: ok
 2. SAFe (novo, 06/11): 9/12, mas 7 acertos com dúvida. **Papéis RTE × Product Management** (facilita × prioriza) · **voto de confiança baixo** = os times retrabalham o plano no evento · **CD Pipeline** (Exploration = o quê; Deployment = produção) e deploy × release · System × Solution Demo ("?"). Firmes: hierarquia do backlog e ART
-3. APF · funções de dados (novo, 03/11): 0/3. Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. Transações SE × CE: 2/2. VAF: conta fora do treino (05/11), só a regra dos 35
+3. APF · funções de dados (novo, 03/11): 0/3. **SNAP** (mede o não funcional) não era conhecido: errou no simulado (Q56). Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. Transações SE × CE: 2/2. VAF: conta fora do treino (05/11), só a regra dos 35
 4. (Ver item 0.) Histórico da estratégia "INCORRETA" (voltou em 30/10 e em 04/11: na Q12 de testes deu ✓ em B e C, mas circulou a A, que era verdadeira; "certamente" na D era a pista): na Q8 de estimativa riscou a afirmação falsa (que era a resposta) e circulou uma verdadeira. Antes: 3/3 em 28/10. Escrever V/F e circular a F; nunca riscar a F
-5. Estimativa ágil · velocidade (novo, 30/10): conta da média (63 ÷ 3 = 32), velocidade não compara equipes, item parcial não conta, Delphi = estimativas independentes, Cone da Incerteza (em branco). Conceitos de story points e Planning Poker: 7/7
-6. Leitura de código (voltou em 30/10): ignorou `[-3:]` (fatiamento) e chutou. Rastrear linha a linha numa tabela, como em 28/10
+5. **Estimativa ágil · velocidade (novo, 30/10; errou de novo em 09/11):** no simulado (Q27), marcou "story points padronizam entre times" e riscou "PF é objetivo e independente do time". Mesmo erro de "velocidade não compara equipes". Antes: conta da média (63 ÷ 3 = 32), velocidade não compara equipes, item parcial não conta, Delphi = estimativas independentes, Cone da Incerteza (em branco). Conceitos de story points e Planning Poker: 7/7
+6. Leitura de código (voltou em 30/10; de novo em 09/11): ignorou `[-3:]` (fatiamento) e chutou. Em 09/11 (simulado, Q51), contas certas, mas **incluiu o fim do `range(4, -4, -1)`** (9 valores em vez de 8): contar as voltas antes. Rastrear linha a linha numa tabela, como em 28/10
 7. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
 8. Scaling up × out: errou 24 e 26/10
 9. TDD × ATDD × BDD (novo, 28/10): em branco. Inseguro no ATDD
 10. Modelos de processo: espiral × prototipação e prototipação na elicitação (erros de 26/10, ainda não recobrados). Modelo em V: acertou em 28/10 (1/2 para sair)
-11. Scrum · responsabilidades: errou 22 e 26/10; acertou o dono do Sprint Backlog em 28/10 (1/2 para sair). Artefatos × compromissos: acertou em 26/10 por chute (não conta)
+11. **Scrum × Kanban × XP pelo enunciado (novo, 09/11, simulado, Q33):** marcou Kanban ("sem ciclos") num cenário de "ciclos incrementais + feedback + valor" (= Scrum). Scrum · responsabilidades **saiu em 09/11** (acertou 2 seguidas: Sprint Backlog em 28/10 e papel do SM no simulado, Q48). Artefatos × compromissos: acertou em 26/10 por chute (não conta)
 12. Kanban · lead × cycle time: acertou em 28/10 (1/2 para sair)
 13. Subtipos de RNF: acertou em 26/10 (1/2 para sair)
 14. XP · práticas: acertou em 26/10 (1/2 para sair)
@@ -242,6 +254,8 @@
 - ✅ **B3 saiu da fila em 09/11 → Módulo 0 concluído** (bloco 7/12; assunto novo 7/9; revisão 0/3: o × lhe, relativo com preposição/cujo e predicativo continuam como ponto fraco).
 - ✅ **B1 + B2 saiu da fila em 05/11** (bloco 7/15; predicativo e OD × OI ficam como ponto fraco).
 - ✅ **A3 saiu da fila em 06/11** (bloco 8/15; pronomes e conjunções pelo sentido ficam como ponto fraco).
+
+- **Simulado 01 (09/11) reforça a recomendação:** 8 das 10 de Português foram de coesão/argumentação. Sugestão do Claude: **G e H antes de D**. Aguardando o Tiago decidir.
 
 **Específicas · noite**
 
@@ -277,7 +291,8 @@
 | Sáb 07/11 | ⏸️ Revisões por conta própria (fora do Claude, sem registro). Requisitos já tinha saído da fila em 06/11; APF funções de dados segue pendente |
 | Dom 08/11 · 13h | ⏸️ Não feito: **remarcado para seg 09/11, noite**. **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco. **Montado em 08/11 (tarde):** [[2026-11-08_Semana-02_Simulado-01_FGV-60q_PROVA]] = 60 oficiais FGV no formato TJPB (Português 10 da TJ-AP 2024 · RLM 6 da DATAPREV 2024 + 4 da DPE-RS 2023 · Específicas 30 da DATAPREV 2024 + 10 da TJ-AP 2024) + estudo de caso autoral *e-CUSTAS* (testes, requisitos, SAST/DAST). Caderno no modelo FGV + cartão de respostas e folha de texto definitivo em PDF; gabarito em `Correções/` (não abrir). A Discursiva 01 (Scrum, 04/11) fica para o próximo simulado. Ainda inéditas: TJ-MS 2024, TRT-24 2025, as outras 15 de Português e 28 de Específicas da TJ-AP |
 | Seg 09/11 | ✅ Tarde: **B3** (7/12); Módulo 0 concluído. Noite: **1º simulado** (o caderno prevê 5h: objetiva ~3h30, discursiva ~1h15, marcação ~15 min). Recomendado: só a objetiva hoje (até ~22h45), sem revisão das 22:40 |
-| Ter 10/11 | Discursiva *e-CUSTAS* cronometrada (1h15) → enviar respostas + foto da discursiva → correção em PDF. Revisão espaçada das regras de 06/11 e de 09/11 (B3). Decidir a ordem do Português (D concordância × G/H coesão e argumentação). Depois: responder o bloco de APF funções de dados e seguir para listas, pilhas, filas, árvores e hash |
+| Seg 09/11 · noite | ✅ **Simulado 01 feito e corrigido: 27/60** (Português 2/10 · RLM 6/10 · Específicas 19/40). Discursiva não feita (vai treinar estrutura aos sábados) |
+| Ter 10/11 | ~~Discursiva e-CUSTAS~~ (fica para os sábados de treino de estrutura). Ler a correção do simulado em PDF, começando pelos 6 erros em assunto já estudado (Q5, Q7, Q27, Q32, Q33, Q56). Revisão espaçada das regras de 06/11 e de 09/11 (B3). Decidir a ordem do Português (D concordância × G/H coesão e argumentação). Depois: responder o bloco de APF funções de dados e seguir para listas, pilhas, filas, árvores e hash |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · B1 + B2 ✅ 05/11 · A3 ✅ 06/11 · B3 ✅ 09/11 (Módulo 0 concluído). Depois: D concordância (previsão 10–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
 

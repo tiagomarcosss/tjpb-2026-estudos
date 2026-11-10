@@ -21,8 +21,8 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 | Horário | O que fazer | Onde |
 |---|---|---|
 | Tarde | ✅ **B3: 7/12** (assunto novo 7/9; revisão 0/3). **Módulo 0 concluído** · ✅ Anki: regra da emenda de setas (09/11) | [[Português]] |
-| Noite · 19h | **1º simulado** (remarcado de dom 08/11): [[2026-11-08_Semana-02_Simulado-01_FGV-60q_PROVA]]. Cronometrado, sem consulta, "?" nos chutes, nada em branco, V/F escrito nas "INCORRETA". **Recomendado hoje: só a objetiva** (60 questões, ~3h30 + 15 min de marcação → até ~22h45) | `PROVAS OFICIAIS (estudo)/Provas/` |
-| Ter 10/11 | Discursiva *e-CUSTAS* (1h15, cronometrada; não ler o estudo de caso antes) + envio das respostas para a correção em PDF | [[Discursiva]] |
+| Noite · 19h | ✅ **1º simulado: 27/60 (45%)** · Português 2/10 · RLM 6/10 · Específicas 19/40 · sem os chutes, 19/60 (meta da objetiva: 36). Correção: [[2026-11-09_Semana-03_Simulado-01_FGV-60q_CORRECAO]] (PDF) · registro: [[2026-11-09_Simulado-01_FGV-60q]] | `PROVAS OFICIAIS (estudo)/Correções/` |
+| Ter 10/11 | Ler a correção, começando pelos 6 erros em assunto já estudado (Q5, Q7, Q27, Q32, Q33, Q56). Decidir a ordem do Português (recomendado: G e H antes de D). Discursiva *e-CUSTAS*: não feita; treino de estrutura aos sábados | [[Discursiva]] |
 | 22:40 · Revisão | Hoje não: o simulado ocupa a noite (regra 8, nunca dobrar). Se sobrar fôlego, 15 min de Anki | [[regras-tjpb]] |
 
 **Fim de semana (07–08/11):** revisões por conta própria, fora do Claude. Simulado ficou para hoje à noite.
