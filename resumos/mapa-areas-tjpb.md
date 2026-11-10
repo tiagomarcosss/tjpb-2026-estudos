@@ -25,7 +25,7 @@ atualizado: 2026-11-09
 
 ## Língua Portuguesa (10 questões)
 
-**Progresso em Português: ~14%** · **Módulo 0 concluído (09/11):** A1 (28/10, 9/15), A2 (30/10, 8/15), B1 + B2 (05/11, 7/15), A3 (06/11, 8/15) e B3 (09/11, 7/12) · próximo: D concordância ou G/H (ordem a decidir)
+**Progresso em Português: ~14%** · **Módulo 0 concluído (09/11):** A1 (28/10, 9/15), A2 (30/10, 8/15), B1 + B2 (05/11, 7/15), A3 (06/11, 8/15) e B3 (09/11, 7/12) · próximo: **G. Semântica e reescrita**, depois H (ordem decidida em 09/11: G → H → D → F → C → E)
 
 | Área | O que engloba | Edital | % | Questões | Nível | Progresso |
 |---|---|---|---|---|---|---|
@@ -62,12 +62,15 @@ B1 foi junto com B2 porque os dois dependem um do outro (achar o sujeito → ach
 
 | Semana | Área |
 |---|---|
-| 10–13/11 (previsão, depende da fila) | **D. Concordância** (verbal → nominal) · começam as questões FGV |
-| 16–20/11 | **F. Pontuação** |
-| 23–27/11 | **C. Sintaxe do período** |
-| 30/11–04/12 | **E. Regência, crase e colocação** |
-| Dezembro | Revisão alternando D, F, C e E |
-| Sempre | **G. Semântica** e **H. Texto**, em toda questão com texto |
+| 10–13/11 (previsão, depende da fila) | **G. Semântica e reescrita** (coesão, referenciação, conectores, significado, reescrita) · começam as questões FGV |
+| 16–20/11 | **H. Texto** (interpretação, finalidade, tese × argumento × exemplo, inferência) |
+| 23–27/11 | **D. Concordância** (verbal → nominal) |
+| 30/11–04/12 | **F. Pontuação** |
+| 07–11/12 | **C. Sintaxe do período** |
+| 14–18/12 | **E. Regência, crase e colocação** |
+| Fim de dezembro | Revisão alternando G, H, D, F, C e E |
+
+> **Ordem mudada em 09/11** (aprovada pelo Tiago): G e H subiram para antes de D. Motivo: no Simulado 01, 8 das 10 de Português foram de coesão, referenciação e argumentação (1 acerto sem chute), e as provas reais já não batiam com o peso de D e H (aviso acima).
 | Janeiro | **I. Ortografia e Redação Oficial** (só o conceito) |
 
 ---
@@ -132,7 +135,7 @@ Não há tabela de incidência das específicas, então não há coluna de %. Se
 
 | Disciplina | Áreas | Peso | Progresso | Onde estou (09/11) |
 |---|---|---|---|---|
-| **Português** | A–I | 10 questões | ▰▱▱▱▱▱▱▱▱▱ ~14% | Módulo 0 concluído (A e B) → D concordância ou G/H (ordem a decidir) |
+| **Português** | A–I | 10 questões | ▰▱▱▱▱▱▱▱▱▱ ~14% | Módulo 0 concluído (A e B) → G → H → D (ordem decidida em 09/11) |
 | **RLM** | 1–6 | 10 questões | ▰▰▰▱▱▱▱▱▱▱ ~32% | Áreas 1 e 2 (lógica, argumentação, diagramas) + conjuntos vistos · próximo: porcentagem e proporção |
 | **Específicas** | T1–T13 | 40 questões (+ discursiva: estudo de caso sobre estas áreas, mín. 24/40) | ▰▰▱▱▱▱▱▱▱▱ ~17% | T1 e T2 fechadas (100%) · T3 (17%): Big-O visto → listas, pilhas, filas, árvores e hash |
 

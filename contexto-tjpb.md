@@ -249,13 +249,15 @@
 
 | # | Item | Nível | Situação |
 |---|---|---|---|
-| → | **Próximo: D. Concordância** (previsão: a partir de 10/11) | 🔴 | **Decidir com o Tiago antes de começar** (pendente desde 05/11): a pesquisa FGV sugere coesão (G) e texto/argumentação (H) antes de concordância |
+| → | **Próximo: G. Semântica e reescrita** (coesão, referenciação, conectores, significado, reescrita) · previsão 10–13/11 | 🔴 | **Ordem decidida em 09/11** (Tiago aprovou): G → H → D → F → C → E |
+| 2 | **H. Texto** (interpretação, finalidade, tese × argumento × exemplo, inferência) · previsão 16–20/11 | 🔴 | |
+| 3 | **D. Concordância** · previsão 23–27/11 | 🔴 | Desceu 2 posições; não sai da fila (errada 4× nos blocos) |
 
 - ✅ **B3 saiu da fila em 09/11 → Módulo 0 concluído** (bloco 7/12; assunto novo 7/9; revisão 0/3: o × lhe, relativo com preposição/cujo e predicativo continuam como ponto fraco).
 - ✅ **B1 + B2 saiu da fila em 05/11** (bloco 7/15; predicativo e OD × OI ficam como ponto fraco).
 - ✅ **A3 saiu da fila em 06/11** (bloco 8/15; pronomes e conjunções pelo sentido ficam como ponto fraco).
 
-- **Simulado 01 (09/11) reforça a recomendação:** 8 das 10 de Português foram de coesão/argumentação. Sugestão do Claude: **G e H antes de D**. Aguardando o Tiago decidir.
+- **09/11 · Decisão: G e H antes de D** (aprovada pelo Tiago após o Simulado 01: 8 das 10 de Português foram de coesão, referenciação e argumentação, com 1 acerto sem chute).
 
 **Específicas · noite**
 
@@ -292,9 +294,9 @@
 | Dom 08/11 · 13h | ⏸️ Não feito: **remarcado para seg 09/11, noite**. **1º simulado oficial** (remarcado de 01/11): prova FGV inédita (TJ-MS 2024 ou TJ-AP 2024), cronometrada e sem consulta, + discursiva autoral (estudo de caso) entregue fechada. "?" nos chutes, nada em branco. **Montado em 08/11 (tarde):** [[2026-11-08_Semana-02_Simulado-01_FGV-60q_PROVA]] = 60 oficiais FGV no formato TJPB (Português 10 da TJ-AP 2024 · RLM 6 da DATAPREV 2024 + 4 da DPE-RS 2023 · Específicas 30 da DATAPREV 2024 + 10 da TJ-AP 2024) + estudo de caso autoral *e-CUSTAS* (testes, requisitos, SAST/DAST). Caderno no modelo FGV + cartão de respostas e folha de texto definitivo em PDF; gabarito em `Correções/` (não abrir). A Discursiva 01 (Scrum, 04/11) fica para o próximo simulado. Ainda inéditas: TJ-MS 2024, TRT-24 2025, as outras 15 de Português e 28 de Específicas da TJ-AP |
 | Seg 09/11 | ✅ Tarde: **B3** (7/12); Módulo 0 concluído. Noite: **1º simulado** (o caderno prevê 5h: objetiva ~3h30, discursiva ~1h15, marcação ~15 min). Recomendado: só a objetiva hoje (até ~22h45), sem revisão das 22:40 |
 | Seg 09/11 · noite | ✅ **Simulado 01 feito e corrigido: 27/60** (Português 2/10 · RLM 6/10 · Específicas 19/40). Discursiva não feita (vai treinar estrutura aos sábados) |
-| Ter 10/11 | ~~Discursiva e-CUSTAS~~ (fica para os sábados de treino de estrutura). Ler a correção do simulado em PDF, começando pelos 6 erros em assunto já estudado (Q5, Q7, Q27, Q32, Q33, Q56). Revisão espaçada das regras de 06/11 e de 09/11 (B3). Decidir a ordem do Português (D concordância × G/H coesão e argumentação). Depois: responder o bloco de APF funções de dados e seguir para listas, pilhas, filas, árvores e hash |
+| Ter 10/11 | ~~Discursiva e-CUSTAS~~ (fica para os sábados de treino de estrutura). Ler a correção do simulado em PDF, começando pelos 6 erros em assunto já estudado (Q5, Q7, Q27, Q32, Q33, Q56). Revisão espaçada das regras de 06/11 e de 09/11 (B3). Almoço: começar **G. Semântica e reescrita** (coesão e referenciação; ordem decidida em 09/11). Depois: responder o bloco de APF funções de dados e seguir para listas, pilhas, filas, árvores e hash |
 
-- **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · B1 + B2 ✅ 05/11 · A3 ✅ 06/11 · B3 ✅ 09/11 (Módulo 0 concluído). Depois: D concordância (previsão 10–13/11) → F pontuação (16–20/11) → C período (23–27/11) → E regência, crase e colocação (30/11–04/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
+- **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · B1 + B2 ✅ 05/11 · A3 ✅ 06/11 · B3 ✅ 09/11 (Módulo 0 concluído). Depois (ordem decidida em 09/11): **G semântica e reescrita (10–13/11) → H texto (16–20/11)** → D concordância (23–27/11) → F pontuação (30/11–04/12) → C período (07–11/12) → E regência, crase e colocação (14–18/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
 
 - **Ter e qui no almoço:** alternar argumentação/falácias e porcentagem/proporção.
 - **Anki (29/10, noite):** ✅ 41 cartões criados no PC de casa (25 de 28/10 + 16 de 29/10; cópias em `anki/`). Total no Anki: 102. Faltam os cartões de 30/10 (Português A2 e estimativa ágil): criar no sábado. Ao criar a conta AnkiWeb: **enviar (upload) do PC de casa; nos aparelhos novos, baixar (download)**, para não apagar o histórico.
