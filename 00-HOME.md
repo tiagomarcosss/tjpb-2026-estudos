@@ -24,7 +24,7 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 | Almoço · Português | 🔴 **G. Semântica e reescrita, parte 1: coesão e referenciação** (anáfora × catáfora, pronome com referente escrito, termo-síntese, coesão × coerência). Teoria + bloco só de G | [[Português]] |
 | 19h · Bloco 1 | 🔴 **APF funções de dados:** responder o bloco de 06/11 (8 questões, ~20 min) e mandar para correção | [[APF, SAFe e Testes]] |
 | Agora (15 min) | ✅ Diagnóstico de árvores corrigido: **5/10**. Ler a teoria mínima e refazer **Q7, Q8 e Q9 desenhando a árvore** | [[2026-11-10_Semana-03_Bloco-02_Arvores_CORRECAO]] |
-| 20h · Bloco 2 | 🔴 **Bloco de treino de árvores** (6–8 questões: buscar, remover, folhas, recursão; pedir ao Claude). Árvores só sai da fila com ele corrigido. Hash fica para amanhã | [[Algoritmos, POO, SOLID e GoF]] |
+| 20h · Bloco 2 | 🔴 **Árvores · treino** (15 questões, já pronto: 11 dos pontos errados + 4 de revisão). Desenhar a árvore antes. Árvores só sai da fila com ele corrigido. Se sobrar fôlego: diagnóstico de **hash** (8 questões) | [[2026-11-11_Semana-03_Bloco-01_Arvores-Treino]] |
 | 22:40 · Revisão | Regras de hoje (11/11) + revisão espaçada abaixo + 15 min de Anki | [[regras-tjpb]] |
 
 **Fila hoje:** Português → G (1º item) · Específicas → APF funções de dados (só falta responder) → árvores (falta bloco de treino) → hash. Listas, pilhas e filas saiu da fila hoje; árvores teve o diagnóstico corrigido (5/10).

@@ -283,7 +283,7 @@
 | # | Item | Nível | Situação |
 |---|---|---|---|
 | 8 | **APF:** funções de dados (ALI, AIE, RLR) | 🔴 reforço | **Bloco criado em 06/11** (`2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados`, 8 autorais). Falta responder e corrigir. Não trava a Semana 3 (Algoritmos não depende de APF) |
-| 11 | **Árvores** (Semana 3) | 🔴 | **Próximo de Específicas.** Diagnóstico corrigido em 11/11 (5/10) + teoria mínima na correção. **Falta bloco de treino** (6–8 questões: buscar, remover com sucessor/antecessor, contar folhas, recursão em código) |
+| 11 | **Árvores** (Semana 3) | 🔴 | **Próximo de Específicas.** Diagnóstico corrigido em 11/11 (5/10) + teoria mínima na correção. **Bloco de treino criado em 11/11** (`2026-11-11_Semana-03_Bloco-01_Arvores-Treino`, 15 questões: 11 dos pontos errados + 4 do que já acertou). Falta responder e corrigir |
 | 12 | **Hash** (Semana 3) | 🔴 | Diagnóstico pronto (`2026-11-10_Semana-03_Bloco-03_Tabelas-Hash`, 8 questões). Falta responder e corrigir. Não depende de árvores |
 
 - ✅ **Listas, pilhas e filas saiu da fila em 11/11** (diagnóstico 8/10, todos os acertos firmes + teoria mínima na correção; `pop(0)` × deque e duas pilhas ficam como ponto fraco).
