@@ -325,7 +325,9 @@ A sequência de nós visitados pela busca, da raiz até encontrar a chave, é:
 
 ✅ **(E) 60, 40, 50, 55.**
 
-**Onde você se confundiu:** as suas marcas mostram o raciocínio: você riscou o "20" da (A) (não começa pela raiz), o "80" da (B) (foi para a direita) e o **"50" da (D) e da (E)**. Ou seja, depois do 40 você esperava o **20**, como se a busca passasse pelos dois filhos do 40, um de cada vez. Isso é **percorrer** a subárvore (como no percurso em nível), não **buscar**. Também não desenhou a árvore.
+**Onde você se confundiu:** as suas marcas mostram o raciocínio: você riscou o "20" da (A) (não começa pela raiz), o "80" da (B) (foi para a direita) e o **"50" da (D) e da (E)**. Depois do 40 você esperava o **20**. A sua (C) é **exatamente uma busca em profundidade em pré-ordem** (raiz, esquerda, direita, parando ao achar o 55), e a (B) é a busca em largura. As duas são buscas **corretas para uma árvore qualquer**, e você executou a sua sem erro. O que faltou foi usar a **ordenação** da árvore binária de busca, que é o motivo de ela existir.
+
+> **Nota sobre o enunciado (reclamação do Tiago em 11/11, procedente em parte):** o enunciado não nomeia o algoritmo. A convenção da área (e da FGV) é que "busca em árvore binária de busca" significa o algoritmo próprio dela, que compara e desce por um lado só. Por isso o gabarito continua (E), e um recurso dificilmente seria aceito. Mas a redação poderia fechar a porta: "utilizando o algoritmo de busca da árvore binária de busca". Como (B) e (C) são buscas genéricas válidas, a questão cobra justamente essa convenção. Na prova real, quando aparecer "árvore binária de busca" e "busca", **use a ordenação**: DFS e BFS só entram quando o enunciado falar em profundidade, largura ou numa árvore sem ordem.
 
 ```
             60
