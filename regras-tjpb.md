@@ -291,6 +291,10 @@
 - [09/11] Liskov: a subclasse pode sobrescrever e especializar (é polimorfismo). Só viola quando quebra o contrato da mãe: exceção nova, exige mais, entrega menos, efeito inesperado (Quadrado × Retângulo, Pinguim.voar()).
 - [09/11] UML: triângulo vazado + linha cheia = generalização (herança) · triângulo vazado + tracejado = realização (interface) · losango vazado = agregação · losango cheio = composição · seta tracejada aberta = dependência.
 - [09/11] Abstract Factory no diagrama: interface de fábrica com create…() que devolve outra interface + fábrica concreta com "return new …". Singleton = construtor privado + getInstance(); Prototype = clone().
+- [11/11] Lista do Python (e ArrayList) = vetor: `append` e `pop()` no FIM = O(1) · `pop(0)`, `insert(0, x)` e `add(0, x)` no INÍCIO = O(n), deslocam todos. Fila em Python = `collections.deque` (`append` + `popleft`, O(1)). n vezes `pop(0)` = O(n²) (errei a Q10 invertendo: achei o append caro e o pop(0) barato).
+- [11/11] Voltar/Avançar (navegador) e Desfazer/Refazer = DUAS PILHAS. Abrir nova: empilha a atual em Voltar e esvazia Avançar · Voltar: empilha a atual em Avançar e desempilha de Voltar. Pergunta-chave: "volta para qual?" → a mais recente = LIFO (Q6, "?").
+- [11/11] Lista simplesmente encadeada só com head: inserir no início O(1) · no fim O(n) (com tail, O(1)) · buscar O(n) sempre · índice O(n). Não ordenada nunca tem O(log n). Remover com o nó anterior em mãos (`ant.prox = ant.prox.prox`) = O(1) e tira o vizinho da frente, nunca o próprio `ant`.
+- [11/11] Escolha pelo cenário: desfazer/parênteses/recursão = pilha (LIFO) · ordem de chegada = fila (FIFO) · prioridade + empate pela chegada = fila de prioridade (heap) · duas pontas = deque · vetor fixo que dá a volta = fila circular com `(i + 1) % N` (próximo a sair = `fila[inicio]`). Passar uma fila por uma pilha inverte a ordem.
 
 ## Banco de Dados e SQL
 - [09/11] Chave primária determina todos os demais atributos (a → b, a → c, a → d). Dependência entre não chave (b → c) é transitiva e viola a 3FN.

@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["Algoritmos, POO, SOLID e GoF"]
 assunto: "Estruturas de dados: listas encadeadas, pilhas, filas, fila circular, fila de prioridade e deque (diagnóstico)"
 semana: 3

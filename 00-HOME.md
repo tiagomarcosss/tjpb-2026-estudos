@@ -14,28 +14,28 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Terça, 10/11/2026 · Semana 3 (Algoritmos, POO, SOLID e GoF) · faltam 75 dias para a prova**
+**Quarta, 11/11/2026 · Semana 3 (Algoritmos, POO, SOLID e GoF) · faltam 74 dias para a prova**
 
 > **Fila primeiro (regra de 04/11):** o assunto do dia é o primeiro pendente da "Fila de pendências" do [[contexto-tjpb]], não o do calendário.
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Antes do almoço (15 min) | Ler na correção do simulado só os 6 erros em assunto já estudado: Q5, Q7 (Português), Q27 (velocidade × PF), Q32 (pirâmide de testes), Q33 (Scrum × Kanban), Q56 (SNAP) | [[2026-11-09_Semana-03_Simulado-01_FGV-60q_CORRECAO]] |
+| Agora (10 min) | ✅ Diagnóstico de listas, pilhas e filas corrigido: **8/10**. Ler a teoria mínima e refazer **Q6 (duas pilhas) e Q10 (`pop(0)` × deque)** sem olhar | [[2026-11-10_Semana-03_Bloco-01_Listas-Pilhas-Filas_CORRECAO]] |
 | Almoço · Português | 🔴 **G. Semântica e reescrita, parte 1: coesão e referenciação** (anáfora × catáfora, pronome com referente escrito, termo-síntese, coesão × coerência). Teoria + bloco só de G | [[Português]] |
-| 19h · Bloco 1 | 🔴 **APF funções de dados:** responder o bloco de 06/11 (8 questões, ~20 min) e mandar para correção. Depois, teoria de **listas, pilhas e filas** | [[APF, SAFe e Testes]] · [[Algoritmos, POO, SOLID e GoF]] |
-| 20h · Bloco 2 | 🔴 Bloco de **listas, pilhas e filas** (com leitura de código). Árvores e hash ficam para amanhã | [[Algoritmos, POO, SOLID e GoF]] |
-| 22:40 · Revisão | Revisão espaçada abaixo (09/11 e 03/11) + 15 min de Anki | [[regras-tjpb]] |
+| 19h · Bloco 1 | 🔴 **APF funções de dados:** responder o bloco de 06/11 (8 questões, ~20 min) e mandar para correção | [[APF, SAFe e Testes]] |
+| 20h · Bloco 2 | 🔴 Diagnóstico de **árvores** (10 questões, já pronto). Hash fica para amanhã | [[2026-11-10_Semana-03_Bloco-02_Arvores]] |
+| 22:40 · Revisão | Regras de hoje (11/11) + revisão espaçada abaixo + 15 min de Anki | [[regras-tjpb]] |
 
-**Fila hoje:** Português → G (1º item) · Específicas → APF funções de dados (só falta responder) → listas, pilhas, filas, árvores e hash. A revisão de 06/11, adiada ontem, **não se soma** à de hoje (regra 8): vai pelo Anki.
+**Fila hoje:** Português → G (1º item) · Específicas → APF funções de dados (só falta responder) → árvores → hash. Listas, pilhas e filas saiu da fila hoje.
 
-**Pendente:** Q5 do chat de Big-O · confirmar a inscrição (**até 18/11, 16h**; boleto até 19/11) · Anki dos erros de conjuntos (04/11), SAFe e Big-O · discursiva *e-CUSTAS* fica para o treino de estrutura de sábado.
+**Pendente:** Q5 do chat de Big-O · confirmar a inscrição (**até 18/11, 16h**; boleto até 19/11) · Anki dos erros de conjuntos (04/11), SAFe, Big-O e listas/pilhas/filas · discursiva *e-CUSTAS* fica para o treino de estrutura de sábado.
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias: **09/11** (51 regras: B3, texto e as do simulado) e **03/11** (16 regras: silogismos, Venn e APF, que casa com o bloco de hoje). Não há regras de 11/10. Como 09/11 é grande, priorizar as de texto (catáfora, referente, termo-síntese, coerência), que são a base do G, e as do simulado em assunto já estudado.
+Regras de `regras-tjpb` com ~1, 7 e 30 dias: **11/11** (4 regras de listas, pilhas e filas) e **04/11** (20 regras: Venn e tipos de teste, que inclui a pirâmide errada no simulado). Não há regras de 10/11 nem de 12/10. Nas de 04/11, priorizar valor-limite, partição, caixa-branca × preta e pirâmide.
 
 ```query
-path:regras-tjpb ("[09/11]" OR "[03/11]")
+path:regras-tjpb ("[11/11]" OR "[04/11]")
 ```
 
 ---

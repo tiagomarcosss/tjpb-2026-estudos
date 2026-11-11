@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 09/11/2026 (noite, após o Simulado 01) · **Semana do plano:** 3 (Algoritmos, POO, SOLID e GoF)
+**Atualizado em:** 11/11/2026 (após a correção do diagnóstico de listas, pilhas e filas) · **Semana do plano:** 3 (Algoritmos, POO, SOLID e GoF)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -193,6 +193,17 @@
   - Discursiva *e-CUSTAS*: **não feita**, só a conclusão ("não soube nem começar a estrutura"). Decisão dele: treinar a estrutura do estudo de caso **aos sábados**, à parte.
   - Arquivo: `PROVAS OFICIAIS (estudo)/Correções/2026-11-09_Semana-03_Simulado-01_FGV-60q_CORRECAO.pdf` (+ .md), com o assunto de origem de cada questão e a semana do plano em que ele entra.
 
+### Semana 3 (09–15/11) · Algoritmos, POO, SOLID e GoF
+
+- **10/11 · Provas diagnósticas criadas** (antes da teoria, para medir o que ficou da faculdade): listas/pilhas/filas (10), árvores (10) e hash (8). Sem registro de G (Português) nem do bloco de APF neste dia.
+- **11/11 · Diagnóstico Listas, pilhas e filas (10 autorais, modelo Tribunal, PDF anotado):** **8/10 (80%)** · 1 erro (com pontinho) · 1 "não sabia" ("?") · **8 acertos firmes**, nenhum com pontinho
+  - Acertos: pilha em código, fila de prioridade (desempate por chegada), ArrayList × LinkedList no início, parênteses balanceados (anotou "HASH" no `dict`: certo), fila circular com `% N` (desenhou as 5 casas com I e F), remoção em lista encadeada Java, complexidade da encadeada só com head (escreveu O(1), O(n), O(n) antes das alternativas), fila + pilha em código.
+  - **Leitura de código 5/5** (Q1, Q4, Q5, Q7, Q9), dois dias depois do erro de `range` no simulado.
+  - Erro: **list.pop(0) × deque.popleft()** (Q10): inverteu, achou o `append` O(n) e o `pop(0)` O(1). É o mesmo princípio da Q3, que acertou (início do vetor desloca todos).
+  - "?": **Voltar/Avançar = duas pilhas** (Q6; desenhou um vetor com cursor).
+  - Comparação: Big-O 7/12 (06/11) → listas, pilhas e filas 8/10. **Listas, pilhas e filas sai da fila** (bloco corrigido + teoria mínima na correção, como no A3). Árvores e hash seguem pendentes.
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-10_Semana-03_Bloco-01_Listas-Pilhas-Filas_CORRECAO.pdf` (+ .md)
+
 ---
 
 ## Pontos fracos (prioridade)
@@ -221,13 +232,14 @@
 
 0a. **Erros convictos e riscar a certa (novo, 09/11, simulado):** 11 erros sem nenhuma marca de dúvida e **4 alternativas certas riscadas** (Q10, Q21, Q27 e Q29). Regra: só riscar com a palavra errada apontada; reler o enunciado procurando a palavra que contradiz a alternativa ("ciclos" × "sem ciclos"). INCORRETA do simulado (Q47): acertou firme
 0. **Estratégia "INCORRETA" (vale para todas as disciplinas; subiu em 05/11):** errada em 3 sessões seguidas (30/10 estimativa, 04/11 testes, 05/11 Português Q7 e Q14). Sempre marca ou deixa candidata uma alternativa **verdadeira**, sem V/F escrito. Pela pesquisa de 05/11, ~25% do Português FGV é negativo. Regra: V/F ao lado das 5 e circular a F. **06/11 (A3): voltou a escrever V/F (✓) em 3 das 4 negativas; 2/4, e os erros foram de conteúdo.** Manter no simulado de 08/11
+0b. **Listas, pilhas e filas (novo, 11/11):** diagnóstico 8/10, firme. Falta só: **lista do Python = vetor** (`pop(0)` e `insert(0, x)` = O(n); fila = `deque`) e **Voltar/Avançar = duas pilhas** ("?"). Acertou ArrayList × LinkedList, fila circular, fila de prioridade e complexidade da encadeada
 1. **Big-O (novo, 06/11):** bloco 7/12. **Sequência × aninhado** (multiplicou dois O(n) em sequência) · hash O(1) só no caso médio · O × Ω × Θ ("?") · dois ponteiros = O(n) (tomou por Fibonacci) · merge sort O(n log n) ("?"). Soma × multiplicação: errou no chat, acertou no bloco (Q2, com dúvida; 1/2 para sair). Firmes: triângulo, recursão com laço, m · n, melhor × pior caso
 1. Testes · técnicas de projeto de casos (novo, 04/11): 0/4. **Simulado 09/11 (Q32):** pôs X na definição verdadeira de teste de integração (I/II/III/IV todas certas). Causa, explicada por ele: **trocou o nome dos níveis da pirâmide** (achou que integração era o topo, o fluxo inteiro; isso é E2E). Não foi desconfiança de pegadinha. Valor-limite, partição de equivalência, caixa-branca × preta e estático × dinâmico com "?"; cobertura de decisões errada (1 caso True ≠ 100% de decisões). Também: confirmação × regressão invertidos e princípio "presença, não ausência" julgado falso. Níveis, alfa/beta, carga/estresse, stub/driver, ciclomática e pirâmide: ok
 2. SAFe (novo, 06/11): 9/12, mas 7 acertos com dúvida. **Papéis RTE × Product Management** (facilita × prioriza) · **voto de confiança baixo** = os times retrabalham o plano no evento · **CD Pipeline** (Exploration = o quê; Deployment = produção) e deploy × release · System × Solution Demo ("?"). Firmes: hierarquia do backlog e ART
 3. APF · funções de dados (novo, 03/11): 0/3. **SNAP** (mede o não funcional) não era conhecido: errou no simulado (Q56). Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. Transações SE × CE: 2/2. VAF: conta fora do treino (05/11), só a regra dos 35
 4. (Ver item 0.) Histórico da estratégia "INCORRETA" (voltou em 30/10 e em 04/11: na Q12 de testes deu ✓ em B e C, mas circulou a A, que era verdadeira; "certamente" na D era a pista): na Q8 de estimativa riscou a afirmação falsa (que era a resposta) e circulou uma verdadeira. Antes: 3/3 em 28/10. Escrever V/F e circular a F; nunca riscar a F
 5. **Estimativa ágil · velocidade (novo, 30/10; errou de novo em 09/11):** no simulado (Q27), marcou "story points padronizam entre times" e riscou "PF é objetivo e independente do time". Mesmo erro de "velocidade não compara equipes". Antes: conta da média (63 ÷ 3 = 32), velocidade não compara equipes, item parcial não conta, Delphi = estimativas independentes, Cone da Incerteza (em branco). Conceitos de story points e Planning Poker: 7/7
-6. Leitura de código (voltou em 30/10; de novo em 09/11): ignorou `[-3:]` (fatiamento) e chutou. Em 09/11 (simulado, Q51), contas certas, mas **incluiu o fim do `range(4, -4, -1)`** (9 valores em vez de 8): contar as voltas antes. Rastrear linha a linha numa tabela, como em 28/10
+6. Leitura de código (voltou em 30/10; de novo em 09/11): ignorou `[-3:]` (fatiamento) e chutou. Em 09/11 (simulado, Q51), contas certas, mas **incluiu o fim do `range(4, -4, -1)`** (9 valores em vez de 8): contar as voltas antes. Rastrear linha a linha numa tabela, como em 28/10. **11/11: 5/5 em código de pilha/fila/lista** (1/2 para sair)
 7. RUP · perspectivas dinâmica/estática/prática: em branco 2× (24 e 26/10). Fases: acertou em 26/10 (1/2)
 8. Scaling up × out: errou 24 e 26/10
 9. TDD × ATDD × BDD (novo, 28/10): em branco. Inseguro no ATDD
@@ -264,7 +276,9 @@
 | # | Item | Nível | Situação |
 |---|---|---|---|
 | 8 | **APF:** funções de dados (ALI, AIE, RLR) | 🔴 reforço | **Bloco criado em 06/11** (`2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados`, 8 autorais). Falta responder e corrigir. Não trava a Semana 3 (Algoritmos não depende de APF) |
-| 11 | **Listas, pilhas, filas, árvores, hash** (Semana 3) | 🔴 | **Próximo de Específicas** |
+| 11 | **Árvores e hash** (Semana 3) | 🔴 | **Próximo de Específicas.** Diagnósticos prontos (`2026-11-10_Semana-03_Bloco-02_Arvores`, 10 questões · `Bloco-03_Tabelas-Hash`, 8 questões). Falta responder e corrigir |
+
+- ✅ **Listas, pilhas e filas saiu da fila em 11/11** (diagnóstico 8/10, todos os acertos firmes + teoria mínima na correção; `pop(0)` × deque e duas pilhas ficam como ponto fraco).
 
 - ✅ **Requisitos saiu da fila em 06/11, a pedido** (teoria na Semana 1 e questões nos blocos corrigidos de 24/10 e 26/10: RF × RNF, usuário × sistema, subtipos de RNF, prototipação na elicitação, V&V). Treinado pouco: técnicas de elicitação, regras de negócio e **contagem de RF/RNF num depoimento** (caiu no TJ-RJ 2026 e no MPU 2025). Cobrar nos blocos de revisão e nos simulados.
 - ✅ **SAST × DAST × IAST e SonarQube saiu da fila em 06/11, a pedido**: visto hoje, sem bloco (diz já conhecer). Cobrar em revisão e simulado.
@@ -295,6 +309,7 @@
 | Seg 09/11 | ✅ Tarde: **B3** (7/12); Módulo 0 concluído. Noite: **1º simulado** (o caderno prevê 5h: objetiva ~3h30, discursiva ~1h15, marcação ~15 min). Recomendado: só a objetiva hoje (até ~22h45), sem revisão das 22:40 |
 | Seg 09/11 · noite | ✅ **Simulado 01 feito e corrigido: 27/60** (Português 2/10 · RLM 6/10 · Específicas 19/40). Discursiva não feita (vai treinar estrutura aos sábados) |
 | Ter 10/11 | ~~Discursiva e-CUSTAS~~ (fica para os sábados de treino de estrutura). Ler a correção do simulado em PDF, começando pelos 6 erros em assunto já estudado (Q5, Q7, Q27, Q32, Q33, Q56). Revisão espaçada das regras de 06/11 e de 09/11 (B3). Almoço: começar **G. Semântica e reescrita** (coesão e referenciação; ordem decidida em 09/11). Depois: responder o bloco de APF funções de dados e seguir para listas, pilhas, filas, árvores e hash |
+| Qua 11/11 | ✅ Diagnóstico de listas, pilhas e filas corrigido (8/10); saiu da fila. Agora: refazer Q6 e Q10 sem olhar. Almoço: **G. Semântica e reescrita** (1º de Português). 19h: **APF funções de dados** (responder o bloco de 06/11). 20h: diagnóstico de **árvores**. Hash fica para qui 12/11. 22:40: regras 📌 de 11/11 + revisão espaçada de 04/11 + Anki |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · B1 + B2 ✅ 05/11 · A3 ✅ 06/11 · B3 ✅ 09/11 (Módulo 0 concluído). Depois (ordem decidida em 09/11): **G semântica e reescrita (10–13/11) → H texto (16–20/11)** → D concordância (23–27/11) → F pontuação (30/11–04/12) → C período (07–11/12) → E regência, crase e colocação (14–18/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
 
