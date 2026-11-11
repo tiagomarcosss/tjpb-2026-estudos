@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 11/11/2026 (após a correção do diagnóstico de listas, pilhas e filas) · **Semana do plano:** 3 (Algoritmos, POO, SOLID e GoF)
+**Atualizado em:** 11/11/2026 (após a correção do diagnóstico de árvores) · **Semana do plano:** 3 (Algoritmos, POO, SOLID e GoF)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -203,6 +203,12 @@
   - "?": **Voltar/Avançar = duas pilhas** (Q6; desenhou um vetor com cursor).
   - Comparação: Big-O 7/12 (06/11) → listas, pilhas e filas 8/10. **Listas, pilhas e filas sai da fila** (bloco corrigido + teoria mínima na correção, como no A3). Árvores e hash seguem pendentes.
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-10_Semana-03_Bloco-01_Listas-Pilhas-Filas_CORRECAO.pdf` (+ .md)
+- **11/11 · Diagnóstico Árvores (10 autorais, modelo Tribunal, PDF anotado):** 5/10 (50%) · 5 erros · 0 "?" · **5 acertos firmes e 5 erros convictos** (nenhuma marca de dúvida)
+  - Acertos: pré-ordem com a BST desenhada certa (Q2), em ordem = crescente (Q3), BST degenerada × AVL (Q4, riscou a palavra errada de cada distratora), fator de balanceamento da AVL (Q5), 2^h e 2^(h+1) − 1 escritos na margem (Q6).
+  - Erros: **folhas** (Q1: contou B, C, P, Q e esqueceu o F no nível 1) · **sucessor em ordem** tomado como filho direito (Q7: 65 em vez de 50) · **busca na BST** passando pelos dois filhos do 40 (Q8: riscou o 50 da certa, esperava o 20) · **recursão que conta folhas** lida como "nós com dois filhos" (Q9: **riscou o caso base** `n == null` e não rastreou) · "o menor da BST está sempre numa folha" aceito (Q10, I/II/III).
+  - Padrão: desenhou a árvore em Q2 e Q6 (acertou); não desenhou em Q7, Q8 e Q9 (errou). Sabe o "desenho" (percursos, AVL, fórmulas); falta **operar** (buscar, remover, ler recursão).
+  - Comparação: Big-O 7/12 → listas 8/10 → árvores 5/10. **Árvores não sai da fila**: teoria mínima na correção, falta bloco de treino (6–8 questões de operações e recursão).
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-10_Semana-03_Bloco-02_Arvores_CORRECAO.pdf` (+ .md)
 
 ---
 
@@ -232,7 +238,8 @@
 
 0a. **Erros convictos e riscar a certa (novo, 09/11, simulado):** 11 erros sem nenhuma marca de dúvida e **4 alternativas certas riscadas** (Q10, Q21, Q27 e Q29). Regra: só riscar com a palavra errada apontada; reler o enunciado procurando a palavra que contradiz a alternativa ("ciclos" × "sem ciclos"). INCORRETA do simulado (Q47): acertou firme
 0. **Estratégia "INCORRETA" (vale para todas as disciplinas; subiu em 05/11):** errada em 3 sessões seguidas (30/10 estimativa, 04/11 testes, 05/11 Português Q7 e Q14). Sempre marca ou deixa candidata uma alternativa **verdadeira**, sem V/F escrito. Pela pesquisa de 05/11, ~25% do Português FGV é negativo. Regra: V/F ao lado das 5 e circular a F. **06/11 (A3): voltou a escrever V/F (✓) em 3 das 4 negativas; 2/4, e os erros foram de conteúdo.** Manter no simulado de 08/11
-0b. **Listas, pilhas e filas (novo, 11/11):** diagnóstico 8/10, firme. Falta só: **lista do Python = vetor** (`pop(0)` e `insert(0, x)` = O(n); fila = `deque`) e **Voltar/Avançar = duas pilhas** ("?"). Acertou ArrayList × LinkedList, fila circular, fila de prioridade e complexidade da encadeada
+0b. **Árvores · operações (novo, 11/11):** diagnóstico 5/10, **5 erros convictos**. Busca na BST desce por um lado só (passou pelos dois filhos) · sucessor em ordem = menor da direita (marcou o filho direito) · recursão em árvore: a linha da folha decide o que conta (riscou o caso base) · folha em qualquer nível · "menor sempre em folha" (falso: pode ter filho direito). Regra: **desenhar a árvore antes das alternativas**. Firmes: percursos, AVL, BST degenerada, 2^h e 2^(h+1) − 1
+0c. **Listas, pilhas e filas (novo, 11/11):** diagnóstico 8/10, firme. Falta só: **lista do Python = vetor** (`pop(0)` e `insert(0, x)` = O(n); fila = `deque`) e **Voltar/Avançar = duas pilhas** ("?"). Acertou ArrayList × LinkedList, fila circular, fila de prioridade e complexidade da encadeada
 1. **Big-O (novo, 06/11):** bloco 7/12. **Sequência × aninhado** (multiplicou dois O(n) em sequência) · hash O(1) só no caso médio · O × Ω × Θ ("?") · dois ponteiros = O(n) (tomou por Fibonacci) · merge sort O(n log n) ("?"). Soma × multiplicação: errou no chat, acertou no bloco (Q2, com dúvida; 1/2 para sair). Firmes: triângulo, recursão com laço, m · n, melhor × pior caso
 1. Testes · técnicas de projeto de casos (novo, 04/11): 0/4. **Simulado 09/11 (Q32):** pôs X na definição verdadeira de teste de integração (I/II/III/IV todas certas). Causa, explicada por ele: **trocou o nome dos níveis da pirâmide** (achou que integração era o topo, o fluxo inteiro; isso é E2E). Não foi desconfiança de pegadinha. Valor-limite, partição de equivalência, caixa-branca × preta e estático × dinâmico com "?"; cobertura de decisões errada (1 caso True ≠ 100% de decisões). Também: confirmação × regressão invertidos e princípio "presença, não ausência" julgado falso. Níveis, alfa/beta, carga/estresse, stub/driver, ciclomática e pirâmide: ok
 2. SAFe (novo, 06/11): 9/12, mas 7 acertos com dúvida. **Papéis RTE × Product Management** (facilita × prioriza) · **voto de confiança baixo** = os times retrabalham o plano no evento · **CD Pipeline** (Exploration = o quê; Deployment = produção) e deploy × release · System × Solution Demo ("?"). Firmes: hierarquia do backlog e ART
@@ -276,7 +283,8 @@
 | # | Item | Nível | Situação |
 |---|---|---|---|
 | 8 | **APF:** funções de dados (ALI, AIE, RLR) | 🔴 reforço | **Bloco criado em 06/11** (`2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados`, 8 autorais). Falta responder e corrigir. Não trava a Semana 3 (Algoritmos não depende de APF) |
-| 11 | **Árvores e hash** (Semana 3) | 🔴 | **Próximo de Específicas.** Diagnósticos prontos (`2026-11-10_Semana-03_Bloco-02_Arvores`, 10 questões · `Bloco-03_Tabelas-Hash`, 8 questões). Falta responder e corrigir |
+| 11 | **Árvores** (Semana 3) | 🔴 | **Próximo de Específicas.** Diagnóstico corrigido em 11/11 (5/10) + teoria mínima na correção. **Falta bloco de treino** (6–8 questões: buscar, remover com sucessor/antecessor, contar folhas, recursão em código) |
+| 12 | **Hash** (Semana 3) | 🔴 | Diagnóstico pronto (`2026-11-10_Semana-03_Bloco-03_Tabelas-Hash`, 8 questões). Falta responder e corrigir. Não depende de árvores |
 
 - ✅ **Listas, pilhas e filas saiu da fila em 11/11** (diagnóstico 8/10, todos os acertos firmes + teoria mínima na correção; `pop(0)` × deque e duas pilhas ficam como ponto fraco).
 
@@ -309,7 +317,7 @@
 | Seg 09/11 | ✅ Tarde: **B3** (7/12); Módulo 0 concluído. Noite: **1º simulado** (o caderno prevê 5h: objetiva ~3h30, discursiva ~1h15, marcação ~15 min). Recomendado: só a objetiva hoje (até ~22h45), sem revisão das 22:40 |
 | Seg 09/11 · noite | ✅ **Simulado 01 feito e corrigido: 27/60** (Português 2/10 · RLM 6/10 · Específicas 19/40). Discursiva não feita (vai treinar estrutura aos sábados) |
 | Ter 10/11 | ~~Discursiva e-CUSTAS~~ (fica para os sábados de treino de estrutura). Ler a correção do simulado em PDF, começando pelos 6 erros em assunto já estudado (Q5, Q7, Q27, Q32, Q33, Q56). Revisão espaçada das regras de 06/11 e de 09/11 (B3). Almoço: começar **G. Semântica e reescrita** (coesão e referenciação; ordem decidida em 09/11). Depois: responder o bloco de APF funções de dados e seguir para listas, pilhas, filas, árvores e hash |
-| Qua 11/11 | ✅ Diagnóstico de listas, pilhas e filas corrigido (8/10); saiu da fila. Agora: refazer Q6 e Q10 sem olhar. Almoço: **G. Semântica e reescrita** (1º de Português). 19h: **APF funções de dados** (responder o bloco de 06/11). 20h: diagnóstico de **árvores**. Hash fica para qui 12/11. 22:40: regras 📌 de 11/11 + revisão espaçada de 04/11 + Anki |
+| Qua 11/11 | ✅ Diagnóstico de listas, pilhas e filas corrigido (8/10); saiu da fila. ✅ Diagnóstico de árvores corrigido (5/10); continua na fila. Agora: ler a teoria mínima de árvores e refazer Q7, Q8 e Q9 desenhando. Almoço: **G. Semântica e reescrita** (1º de Português). 19h: **APF funções de dados** (responder o bloco de 06/11). 20h: **bloco de treino de árvores** (pedir ao Claude). Hash fica para qui 12/11. 22:40: regras 📌 de 11/11 + revisão espaçada de 04/11 + Anki |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · B1 + B2 ✅ 05/11 · A3 ✅ 06/11 · B3 ✅ 09/11 (Módulo 0 concluído). Depois (ordem decidida em 09/11): **G semântica e reescrita (10–13/11) → H texto (16–20/11)** → D concordância (23–27/11) → F pontuação (30/11–04/12) → C período (07–11/12) → E regência, crase e colocação (14–18/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
 

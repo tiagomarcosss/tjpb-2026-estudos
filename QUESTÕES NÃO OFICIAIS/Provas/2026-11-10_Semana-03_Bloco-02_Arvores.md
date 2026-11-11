@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["Algoritmos, POO, SOLID e GoF"]
 assunto: "Estruturas de dados: árvores (terminologia, n-ária, binária, BST, percursos, AVL no conceito) (diagnóstico)"
 semana: 3
