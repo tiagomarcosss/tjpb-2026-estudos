@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["Algoritmos, POO, SOLID e GoF"]
 assunto: "Estruturas de dados: árvores · treino pós-diagnóstico (busca, remoção, folhas, recursão + percursos, AVL, degeneração, limites)"
 semana: 3
