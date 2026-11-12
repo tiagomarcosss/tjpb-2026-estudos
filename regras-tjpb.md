@@ -104,6 +104,12 @@
 - [12/11] Citação, provérbio e aforismo = receptor indeterminado (qualquer leitor). "Sempre/predominantemente" na alternativa: testar com UM contraexemplo do próprio texto.
 - [12/11] "Meio de apoiar a argumentação" = dado que prova o argumento DO TEXTO (ciclo de 12 anos → 36 anos = 3 ciclos), não qualquer informação sobre o tema. Cuidado com a unidade trocada (36 meses).
 - [12/11] Definição = gênero (termo geral: "parte de", "ciência que") + diferença (especificação), em sentido literal. "X é [imagem poética]" = metáfora com cara de definição. Ironia = elogio que quer dizer crítica ("a bela música das buzinas"); texto irônico nunca é "imparcial".
+- [12/11] Narrador "eu/nós" = narrador-PERSONAGEM, nunca onisciente · onisciente = 3ª pessoa que sabe o que os personagens pensam, pretendem e esperam ("pretendia deixar como herança") · "talvez" sobre um personagem ("tem sete anos, talvez") = narrador que NÃO sabe tudo.
+- [12/11] Descrição que lista atrativos de um produto ("vem com…", "disponível na embalagem", adjetivos de elogio) = descrição ARGUMENTATIVA (propaganda). Descrição nem sempre é "informativa".
+- [12/11] "Destacada/indicada corretamente" = o RÓTULO tem que bater com o TRECHO entre aspas. Aposto = nome que equivale a outro nome (Ana, a juíza); explicação com "por isso" não é aposto; "e" é aditivo, não causa.
+- [12/11] "Marca essencial que distingue X de Y" = traço que só X tem. Situar no tempo e espaço vale para qualquer relato (notícia também) · personagens sem referente no mundo real ("ele", "Santina" logo na 1ª frase) = ficção.
+- [12/11] Sentido do observador = o que ELE percebe (não o frio que os outros "parecem" sentir). "Parecia", "não via mais que", "perdi de vista" = limitação pela distância.
+- [12/11] Fases do enredo: situação inicial (equilíbrio, nada aconteceu) → complicação (o fato que perturba) → clímax (maior tensão, decide o desfecho) → desfecho. Projeção futura = o narrador IMAGINA o que vem ("pensava no que estaria aguardando").
 - [12/11] "Conclusão mais coerente" = a que fecha a cadeia do próprio texto, mesmo contrariando o senso comum (light → sem saciedade → come mais ⇒ comida comum faz comer menos). Conceito novo (compulsão, naturais, saúde) = extrapolação.
 
 ## Raciocínio Lógico-Matemático
