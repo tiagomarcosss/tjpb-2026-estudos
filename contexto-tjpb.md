@@ -220,6 +220,7 @@
   - Erros: **ALI × AIE pela origem** (Q1: marcou AIE porque o cadastro "pertence ao SIGEP-PB"; não leu até o "permite que o conciliador atualize") · **tabela de código** (Q3: pôs UF e Situação como RLR e **riscou "Protocolos" na certa**) · **todo AIE é ALI de outra aplicação** (Q5: X no item I).
   - Comparação: funções de dados 0/3 (03/11) → 5/8. **APF funções de dados sai da fila** (teoria de 03/11 + bloco corrigido). Bizu dado no chat antes do bloco: 4 perguntas (dado ou ação? usuário reconhece? existe sozinho? quem mantém?).
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados_CORRECAO.pdf` (+ .md)
+- **11/11 (noite) · Anki:** os 5 lotes FGV feitos no PC do trabalho (158 cartões) ainda não estavam no Anki; importados pelo AnkiConnect no PC de casa (só faltavam os sub-baralhos, nenhuma duplicata) + lote novo `anki/2026-11-11_Arvores-APF-erros-do-dia_formato-FGV.tsv` (7: altura com −1, n − 1 em n-ária, altura mín./máx., ALI que altera um campo, tabela de código, definição de AIE, carga de arquivo). Total 165. Falta sincronizar com o AnkiWeb.
 
 ---
 
