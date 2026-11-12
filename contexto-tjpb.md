@@ -239,6 +239,7 @@
   - Erros: **afirmar o consequente aceito** (Q1, convicto: escreveu O → Ar e aceitou "Ar, logo O"; marcou o silogismo disjuntivo válido) · **descrição de propaganda = argumentativa**, riscou a certa (Q2) · rótulo × trecho (aceitou "aposto" para "por isso alcunhados imortais", Q4) · traço comum tomado como marca de ficção (Q5) · **narrador "nós" aceito como onisciente** (Q7, convicto, estava no mini-guia) · narrador do "talvez" tomado como onisciente (Q8) · frio dos estudantes tomado como tato do observador, riscou "distanciamento" (Q9).
   - Leitura: queda ao longo do dia (6/12 → 5/12 → 3/10) e erros no próprio mini-guia = **cansaço de leitura**. Português encerrado no dia.
   - Arquivo: `PROVAS OFICIAIS (estudo)/Correções/2026-11-12_Semana-03_Bloco-03_Portugues-Texto-H2-Tipologia_FGV-10q_CORRECAO.pdf` (+ .md). Com isso, **acabaram as questões de texto inéditas da DPE-RS 2023 e da TJ-AP 2024**: os próximos blocos precisam de outras provas FGV.
+  - Depois da correção: "desisto" (2ª vez; a 1ª foi em 03/11). Lembrado o combinado de 03/11 (não decidir cansado; reduzir a carga em vez de parar). Logo em seguida decidiu estudar à noite mesmo assim, "muito puto comigo mesmo". Plano da noite: **hash 19h** (bloco de 8) → **POO 20h** (só teoria) → Anki; parar sem culpa se travar. **Atenção nas próximas sessões:** 3 blocos de Português no mesmo dia derrubaram placar e ânimo. Limitar Português a 1 bloco por dia.
 
 ---
 
