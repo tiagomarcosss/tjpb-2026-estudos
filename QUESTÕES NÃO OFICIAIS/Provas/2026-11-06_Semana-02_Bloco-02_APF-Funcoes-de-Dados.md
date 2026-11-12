@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: autoral
-status: pendente
+status: corrigido
 disciplina: ["APF, SAFe e Testes"]
 assunto: "APF/IFPUG · funções de dados (ALI × AIE × RLR, o que não se conta) + transações ligadas a elas"
 semana: 2

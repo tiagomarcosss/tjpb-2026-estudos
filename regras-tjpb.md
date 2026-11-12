@@ -269,6 +269,10 @@
 - [09/11] Pirâmide de testes: base = unitário (função isolada) · meio = integração (módulos/componentes conversando, ex.: serviço + banco) · topo = ponta a ponta/E2E (fluxo inteiro do usuário). "Testar o fluxo inteiro" é E2E, não integração (errei a Q32 do simulado trocando os nomes).
 - [09/11] PF mede o requisito funcional; o não funcional (custos que a análise das funcionalidades não pega) se mede com SNAP (IFPUG).
 
+- [11/11] APF: ALI × AIE = a aplicação contada ALTERA o dado por funcionalidade própria? Basta incluir, alterar OU excluir, e basta um campo → ALI (o mesmo grupo pode ser ALI nas duas aplicações). "Foi criado por/pertence a outro" e "os dados se originam no banco" não decidem (errei a Q1 marcando AIE pela origem; li só até o "lê esse cadastro").
+- [11/11] APF: tabela de código (UF, situação, tipo, estado civil) carregada na implantação, nunca mantida pelo usuário, só para listas de seleção = NÃO CONTA: nem ALI, nem AIE, nem RLR. RLR é subgrupo de dado de negócio (como a deliberação dentro da ata). Errei a Q3 pondo as tabelas como RLR e risquei "Protocolos" na certa.
+- [11/11] APF: todo AIE é ALI de alguma OUTRA aplicação (não existe AIE sem dono; padrão do IBGE não é aplicação) · o mesmo grupo pode ser ALI numa e AIE noutra · AIE nunca é alterado pela aplicação contada: se alterar, vira ALI (marquei falso o item I na Q5).
+
 ## Algoritmos, POO, SOLID e GoF
 
 - [28/10] Leitura de código: anotar as variáveis a cada volta do laço. `continue` pula o resto da volta sem imprimir nada; `>=` inclui o zero.

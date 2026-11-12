@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 11/11/2026 (após a correção do treino de árvores) · **Semana do plano:** 3 (Algoritmos, POO, SOLID e GoF)
+**Atualizado em:** 11/11/2026 (após as correções do treino de árvores e do bloco de APF) · **Semana do plano:** 3 (Algoritmos, POO, SOLID e GoF)
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -215,6 +215,11 @@
   - Padrão: **desenhou a árvore nas 6 questões com chaves inseridas e acertou as 6.** Os 3 erros são de contagem/propriedade, não de operação.
   - Comparação: diagnóstico 5/10 → treino 12/15. **Árvores sai da fila** (teoria mínima + diagnóstico + treino corrigido).
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-11_Semana-03_Bloco-01_Arvores-Treino_CORRECAO.pdf` (+ .md)
+- **11/11 · APF funções de dados (bloco de 06/11, 8 autorais, PDF anotado):** **5/8 (62%)** · 3 erros convictos · 0 "?" · 4 acertos firmes + 1 com dúvida (Q4: pontinho em B e D)
+  - Acertos: **agrupamento lógico 2/2** (deliberação = RLR da ata; parte independente = ALI; 3 tabelas físicas = 1 ALI) · API de dado mantido só pelo outro = AIE e log técnico não conta (Q7) · EE, EE, SE + ALI escritos no enunciado (Q8) · carga de arquivo = EE + base própria = ALI (Q4, com dúvida: a (D) justificava AIE pela origem).
+  - Erros: **ALI × AIE pela origem** (Q1: marcou AIE porque o cadastro "pertence ao SIGEP-PB"; não leu até o "permite que o conciliador atualize") · **tabela de código** (Q3: pôs UF e Situação como RLR e **riscou "Protocolos" na certa**) · **todo AIE é ALI de outra aplicação** (Q5: X no item I).
+  - Comparação: funções de dados 0/3 (03/11) → 5/8. **APF funções de dados sai da fila** (teoria de 03/11 + bloco corrigido). Bizu dado no chat antes do bloco: 4 perguntas (dado ou ação? usuário reconhece? existe sozinho? quem mantém?).
+  - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados_CORRECAO.pdf` (+ .md)
 
 ---
 
@@ -249,7 +254,7 @@
 1. **Big-O (novo, 06/11):** bloco 7/12. **Sequência × aninhado** (multiplicou dois O(n) em sequência) · hash O(1) só no caso médio · O × Ω × Θ ("?") · dois ponteiros = O(n) (tomou por Fibonacci) · merge sort O(n log n) ("?"). Soma × multiplicação: errou no chat, acertou no bloco (Q2, com dúvida; 1/2 para sair). Firmes: triângulo, recursão com laço, m · n, melhor × pior caso
 1. Testes · técnicas de projeto de casos (novo, 04/11): 0/4. **Simulado 09/11 (Q32):** pôs X na definição verdadeira de teste de integração (I/II/III/IV todas certas). Causa, explicada por ele: **trocou o nome dos níveis da pirâmide** (achou que integração era o topo, o fluxo inteiro; isso é E2E). Não foi desconfiança de pegadinha. Valor-limite, partição de equivalência, caixa-branca × preta e estático × dinâmico com "?"; cobertura de decisões errada (1 caso True ≠ 100% de decisões). Também: confirmação × regressão invertidos e princípio "presença, não ausência" julgado falso. Níveis, alfa/beta, carga/estresse, stub/driver, ciclomática e pirâmide: ok
 2. SAFe (novo, 06/11): 9/12, mas 7 acertos com dúvida. **Papéis RTE × Product Management** (facilita × prioriza) · **voto de confiança baixo** = os times retrabalham o plano no evento · **CD Pipeline** (Exploration = o quê; Deployment = produção) e deploy × release · System × Solution Demo ("?"). Firmes: hierarquia do backlog e ART
-3. APF · funções de dados (novo, 03/11): 0/3. **SNAP** (mede o não funcional) não era conhecido: errou no simulado (Q56). Confunde "o sistema usa ou grava" com "é um ALI separado": ação de gravar ≠ ALI, dado lido de outro sistema = AIE (mesmo banco não importa), entidade dependente = RLR, índice/backup não contam. Transações SE × CE: 2/2. VAF: conta fora do treino (05/11), só a regra dos 35
+3. **APF · funções de dados (atualizado 11/11, bloco 5/8):** agrupamento lógico firme (RLR × ALI, tabelas físicas, 2/2). Continua: **ALI × AIE decidido pela origem** ("pertence a outro", "dados se originam no banco"): se a aplicação **altera** o dado (mesmo um campo), é ALI · **tabela de código** (UF, situação) não conta, nem como RLR · **todo AIE é ALI de outra aplicação** (X no item verdadeiro). **SNAP** (mede o não funcional): errou no simulado (Q56). Transações SE × CE: 2/2 em 03/11 e EE/EE/SE certo em 11/11. VAF: conta fora do treino (05/11), só a regra dos 35
 4. (Ver item 0.) Histórico da estratégia "INCORRETA" (voltou em 30/10 e em 04/11: na Q12 de testes deu ✓ em B e C, mas circulou a A, que era verdadeira; "certamente" na D era a pista): na Q8 de estimativa riscou a afirmação falsa (que era a resposta) e circulou uma verdadeira. Antes: 3/3 em 28/10. Escrever V/F e circular a F; nunca riscar a F
 5. **Estimativa ágil · velocidade (novo, 30/10; errou de novo em 09/11):** no simulado (Q27), marcou "story points padronizam entre times" e riscou "PF é objetivo e independente do time". Mesmo erro de "velocidade não compara equipes". Antes: conta da média (63 ÷ 3 = 32), velocidade não compara equipes, item parcial não conta, Delphi = estimativas independentes, Cone da Incerteza (em branco). Conceitos de story points e Planning Poker: 7/7
 6. Leitura de código (voltou em 30/10; de novo em 09/11): ignorou `[-3:]` (fatiamento) e chutou. Em 09/11 (simulado, Q51), contas certas, mas **incluiu o fim do `range(4, -4, -1)`** (9 valores em vez de 8): contar as voltas antes. Rastrear linha a linha numa tabela, como em 28/10. **11/11: 5/5 em código de pilha/fila/lista** (1/2 para sair)
@@ -288,9 +293,9 @@
 
 | # | Item | Nível | Situação |
 |---|---|---|---|
-| 8 | **APF:** funções de dados (ALI, AIE, RLR) | 🔴 reforço | **Bloco criado em 06/11** (`2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados`, 8 autorais). Falta responder e corrigir. Não trava a Semana 3 (Algoritmos não depende de APF) |
-| 12 | **Hash** (Semana 3) | 🔴 | **Próximo de Específicas, depois da APF.** Diagnóstico pronto (`2026-11-10_Semana-03_Bloco-03_Tabelas-Hash`, 8 questões). Falta responder e corrigir. Não depende de árvores |
+| 12 | **Hash** (Semana 3) | 🔴 | **Próximo de Específicas (último da fila).** Diagnóstico pronto (`2026-11-10_Semana-03_Bloco-03_Tabelas-Hash`, 8 questões). Falta responder e corrigir. Não depende de árvores |
 
+- ✅ **APF funções de dados saiu da fila em 11/11** (teoria de 03/11 + bloco 5/8; ALI × AIE pela origem, tabela de código e "todo AIE é ALI de outra aplicação" ficam como ponto fraco).
 - ✅ **Árvores saiu da fila em 11/11** (diagnóstico 5/10 + teoria mínima na correção + treino 12/15; busca e remoção 3/3 cada; folha no nível 1, n − 1 arestas em n-ária e altura com −1 ficam como ponto fraco).
 
 - ✅ **Listas, pilhas e filas saiu da fila em 11/11** (diagnóstico 8/10, todos os acertos firmes + teoria mínima na correção; `pop(0)` × deque e duas pilhas ficam como ponto fraco).
@@ -324,8 +329,8 @@
 | Seg 09/11 | ✅ Tarde: **B3** (7/12); Módulo 0 concluído. Noite: **1º simulado** (o caderno prevê 5h: objetiva ~3h30, discursiva ~1h15, marcação ~15 min). Recomendado: só a objetiva hoje (até ~22h45), sem revisão das 22:40 |
 | Seg 09/11 · noite | ✅ **Simulado 01 feito e corrigido: 27/60** (Português 2/10 · RLM 6/10 · Específicas 19/40). Discursiva não feita (vai treinar estrutura aos sábados) |
 | Ter 10/11 | ~~Discursiva e-CUSTAS~~ (fica para os sábados de treino de estrutura). Ler a correção do simulado em PDF, começando pelos 6 erros em assunto já estudado (Q5, Q7, Q27, Q32, Q33, Q56). Revisão espaçada das regras de 06/11 e de 09/11 (B3). Almoço: começar **G. Semântica e reescrita** (coesão e referenciação; ordem decidida em 09/11). Depois: responder o bloco de APF funções de dados e seguir para listas, pilhas, filas, árvores e hash |
-| Qua 11/11 | ✅ Diagnóstico de listas, pilhas e filas corrigido (8/10); saiu da fila. ✅ Diagnóstico de árvores (5/10) + **treino de árvores (12/15)**; árvores saiu da fila. 22:40: refazer Q1 e Q10 do treino sem olhar + regras 📌 de 11/11 + revisão espaçada de 04/11 + Anki. G (Português) e APF não registrados hoje |
-| Qui 12/11 | Almoço: 🔴 **G. Semântica e reescrita** (coesão e referenciação), se ainda não começou. 19h: 🔴 **APF funções de dados** (responder o bloco de 06/11). 20h: 🔴 **Hash** (diagnóstico pronto, 8 questões). 22:40: regras 📌 de 11/11 (revisão de 1 dia) + Anki |
+| Qua 11/11 | ✅ Diagnóstico de listas, pilhas e filas corrigido (8/10); saiu da fila. ✅ Diagnóstico de árvores (5/10) + **treino de árvores (12/15)**; árvores saiu da fila. 22:40: refazer Q1 e Q10 do treino de árvores e Q1, Q3 e Q5 de APF sem olhar + regras 📌 de 11/11 + revisão espaçada de 04/11 + Anki. ✅ **APF funções de dados corrigido (5/8)**; saiu da fila. G (Português) não registrado hoje |
+| Qui 12/11 | Almoço: 🔴 **G. Semântica e reescrita** (coesão e referenciação), se ainda não começou. 19h: 🔴 **Hash** (diagnóstico pronto, 8 questões; último item de Específicas da fila). 20h: com a fila de Específicas vazia, segue o plano da Semana 3: 🟡 busca e ordenação, depois POO, SOLID e GoF (🔴). 22:40: regras 📌 de 11/11 (revisão de 1 dia) + Anki |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · B1 + B2 ✅ 05/11 · A3 ✅ 06/11 · B3 ✅ 09/11 (Módulo 0 concluído). Depois (ordem decidida em 09/11): **G semântica e reescrita (10–13/11) → H texto (16–20/11)** → D concordância (23–27/11) → F pontuação (30/11–04/12) → C período (07–11/12) → E regência, crase e colocação (14–18/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
 

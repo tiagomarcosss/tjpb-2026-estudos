@@ -22,12 +22,12 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 |---|---|---|
 | Agora (10 min) | ✅ Diagnóstico de listas, pilhas e filas corrigido: **8/10**. Ler a teoria mínima e refazer **Q6 (duas pilhas) e Q10 (`pop(0)` × deque)** sem olhar | [[2026-11-10_Semana-03_Bloco-01_Listas-Pilhas-Filas_CORRECAO]] |
 | Almoço · Português | 🔴 **G. Semântica e reescrita, parte 1: coesão e referenciação** (anáfora × catáfora, pronome com referente escrito, termo-síntese, coesão × coerência). Teoria + bloco só de G | [[Português]] |
-| 19h · Bloco 1 | 🔴 **APF funções de dados:** responder o bloco de 06/11 (8 questões, ~20 min) e mandar para correção | [[APF, SAFe e Testes]] |
+| 19h · Bloco 1 | ✅ **APF funções de dados corrigido: 5/8** (era 0/3 em 03/11); saiu da fila. Refazer **Q1, Q3 e Q5** sem olhar | [[2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados_CORRECAO]] |
 | Agora (10 min) | ✅ **Treino de árvores corrigido: 12/15** (diagnóstico era 5/10). Árvores saiu da fila. Refazer **Q1 (contar folha por folha, conferir o total) e Q10 (rastrear o −1)** sem olhar | [[2026-11-11_Semana-03_Bloco-01_Arvores-Treino_CORRECAO]] |
 | 20h · Bloco 2 | ✅ Árvores · treino feito (12/15). Se sobrar fôlego: diagnóstico de **hash** (8 questões); senão, fica para qui 12/11 | [[2026-11-10_Semana-03_Bloco-03_Tabelas-Hash]] |
 | 22:40 · Revisão | Regras de hoje (11/11) + revisão espaçada abaixo + 15 min de Anki | [[regras-tjpb]] |
 
-**Fila hoje:** Português → G (1º item) · Específicas → APF funções de dados (só falta responder) → hash. Listas, pilhas e filas e **árvores** saíram da fila hoje (árvores: diagnóstico 5/10 → treino 12/15).
+**Fila hoje:** Português → G (1º item) · Específicas → hash (último item). Saíram da fila hoje: listas, pilhas e filas · **árvores** (diagnóstico 5/10 → treino 12/15) · **APF funções de dados** (bloco 5/8).
 
 **Pendente:** Q5 do chat de Big-O · confirmar a inscrição (**até 18/11, 16h**; boleto até 19/11) · Anki dos erros de conjuntos (04/11), SAFe, Big-O e listas/pilhas/filas · discursiva *e-CUSTAS* fica para o treino de estrutura de sábado.
 
