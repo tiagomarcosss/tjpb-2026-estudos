@@ -240,6 +240,7 @@
   - Leitura: queda ao longo do dia (6/12 → 5/12 → 3/10) e erros no próprio mini-guia = **cansaço de leitura**. Português encerrado no dia.
   - Arquivo: `PROVAS OFICIAIS (estudo)/Correções/2026-11-12_Semana-03_Bloco-03_Portugues-Texto-H2-Tipologia_FGV-10q_CORRECAO.pdf` (+ .md). Com isso, **acabaram as questões de texto inéditas da DPE-RS 2023 e da TJ-AP 2024**: os próximos blocos precisam de outras provas FGV.
   - Depois da correção: "desisto" (2ª vez; a 1ª foi em 03/11). Lembrado o combinado de 03/11 (não decidir cansado; reduzir a carga em vez de parar). Logo em seguida decidiu estudar à noite mesmo assim, "muito puto comigo mesmo". Plano da noite: **hash 19h** (bloco de 8) → **POO 20h** (só teoria) → Anki; parar sem culpa se travar. **Atenção nas próximas sessões:** 3 blocos de Português no mesmo dia derrubaram placar e ânimo. Limitar Português a 1 bloco por dia.
+  - Perguntou se vai melhorar até a prova. Mostrados os "antes × depois" (árvores, APF, coesão, Português oficial) e a conta para os 36: **alvo realista Português 5–6 · RLM 7 · Específicas 25–27 = 37–40**. Combinado: Português todo dia no almoço (1 bloco ou teoria + 5 oficiais com o protocolo anti-riscar), Específicas à noite pela fila; o protocolo vale para todas as disciplinas. Nas correções, contar "certas riscadas" (12/11: 10 de 20 erros; meta < 20%).
 
 ---
 
