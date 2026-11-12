@@ -20,10 +20,11 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Manhã · Português | ✅ **G · coesão e coerência: bloco 6/12** (autorais 6/8, oficiais FGV 0/4); **G saiu da fila**. Próximo: **H (texto)**, com questões oficiais FGV | [[2026-11-12_Semana-03_Bloco-01_Portugues-Coesao-e-Coerencia-G_CORRECAO]] |
+| Manhã · Português | ✅ **G · coesão e coerência: bloco 6/12** (autorais 6/8, oficiais FGV 0/4); **G saiu da fila** | [[2026-11-12_Semana-03_Bloco-01_Portugues-Coesao-e-Coerencia-G_CORRECAO]] |
+| Tarde · Português | ✅ **H · texto: 12 oficiais FGV, 5/12** (sem teoria ainda). H segue na fila: teoria amanhã no almoço | [[2026-11-12_Semana-03_Bloco-02_Portugues-Texto-H_FGV-12q_CORRECAO]] |
 | 19h · Bloco 1 | 🔴 **Hash**, último item de Específicas da fila. Teoria já dada (5 min relendo o resumo); responder as **8 questões** e mandar para correção | [[2026-11-10_Semana-03_Bloco-03_Tabelas-Hash]] · [[resumo-tabelas-hash]] |
 | 20h · Bloco 2 | Fila de Específicas vazia → plano da Semana 3: 🔴 **POO** (herança, sobrecarga × sobrescrita, encapsulamento, interface × classe abstrata). Teoria hoje; bloco amanhã se não der tempo. **Busca e ordenação (🟡) vai para depois de GoF** (regra 5: a semana termina dom 15/11 com 3 assuntos 🔴 abertos) | [[Algoritmos, POO, SOLID e GoF]] |
-| 22:40 · Revisão | Regras 📌 de hoje (12/11) + refazer **Q8 e Q11 do bloco G** sem olhar + revisão espaçada abaixo (11/11 e 05/11) + 15 min de Anki. Se sobrar tempo: Q1 e Q10 do treino de árvores, Q1, Q3 e Q5 de APF | [[regras-tjpb]] |
+| 22:40 · Revisão | Regras 📌 de hoje (12/11) + refazer **Q8 e Q11 do bloco G** e **Q1, Q4, Q6 e Q8 do bloco H** sem olhar + revisão espaçada abaixo (11/11 e 05/11) + 15 min de Anki. Se sobrar tempo: Q1 e Q10 do treino de árvores, Q1, Q3 e Q5 de APF | [[regras-tjpb]] |
 
 **Fila hoje:** Português → ~~G~~ ✅ (saiu hoje) → **H** (próximo) · Específicas → hash (último item). Depois do hash, a Semana 3 segue pelo plano: POO → SOLID → GoF (🔴) → busca e ordenação e IoC (🟡) → Res. CNJ 370 (⚪, sábado, corta primeiro se apertar).
 

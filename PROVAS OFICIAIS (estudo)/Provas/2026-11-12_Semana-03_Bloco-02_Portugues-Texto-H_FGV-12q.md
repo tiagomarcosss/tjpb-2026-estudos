@@ -1,7 +1,7 @@
 ---
 tipo: bloco
 fonte: oficial
-status: pendente
+status: corrigido
 banca: FGV
 prova: "DPE-RS 2023 + TJ-AP 2024 (Analista TI · Desenvolvimento de Sistemas)"
 disciplina: ["Português"]
