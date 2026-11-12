@@ -81,6 +81,19 @@
 - [09/11] DE ENCONTRO A = choque, colisão, oposição (o caminhão foi de encontro ao poste) · AO ENCONTRO DE = a favor, concordância (veio ao encontro das expectativas).
 - [09/11] Oração adverbial antecipada = oração com conjunção (quando, se, embora, como = causa) ANTES da principal, com vírgula. "Como" + adjetivo em frase exclamativa ("Como seriam felizes!") é advérbio de intensidade, não conjunção.
 - [09/11] Coerência = faz sentido lógico e no mundo real · coesão = partes amarradas por palavras. Dois períodos soltos, sem relação entre si, não têm coesão.
+- [12/11] Falta de conector = problema de COESÃO · contradição/absurdo = problema de COERÊNCIA. "Absolvido… por isso, cumprirá a pena" = coeso e incoerente · "Choveu muito. A sessão foi adiada" = coerente sem conector (inverti na Q1).
+- [12/11] Finalidade do texto: "Acreditou-se X… Ocorre que Y" = refutação = CRITICAR X. Distratores: causa não discutida ("decorre de"), radicalização ("absoluta", "todos"), leitor trocado ("orientar" sem comando no texto), extrapolação.
+- [12/11] "Construção adequada/aceitável" não é assunto, é formato (4 frases com defeito, 1 sem). Checklist: pronome (referente escrito? um só?) → conector (sentido bate?) → paralelismo → redundância → lógica → norma.
+- [12/11] Teste do pronome em 2 passos: (1) existe palavra escrita com o mesmo gênero e número? (2) trocando, a frase faz sentido? "Antes de eles passarem à etapa" com "aviões" passa no 1 e cai no 2: o dono real (os alunos) não está escrito.
+- [12/11] Pronome com DUAS setas possíveis ("disse à colega que ela…", "o relatório dele") = ambiguidade = construção inadequada.
+- [12/11] Hiperônimo retoma UMA PALAVRA com outra mais ampla (computadores → as máquinas) · termo-síntese resume UM TRECHO, uma ação ou uma lista (faltou sem justificativa → essa conduta).
+- [12/11] Elipse sem vírgula também existe: sujeito não repetido ("leu o processo e assinou"). A frase SEM elipse é a que REPETE a palavra ("chegou… chegou").
+- [12/11] Opinião/preferência + motivo = EXPLICAÇÃO (pois) · fato que provoca fato = CAUSA E CONSEQUÊNCIA. Rótulo "causa e consequência": ler o 1º como causa e o 2º como consequência, com "por isso" no meio; se só funciona invertendo, é explicação. Entre alternativa discutível e uma sem brecha, marcar a sem brecha.
+- [12/11] Alternativa "poderia estar empregado o conector X no lugar do ponto": não classificar, LER a frase com o conector. "Deus deve amar os medíocres, já que fez vários deles" = V (escrevi "porque" em cima e recuei). "Deve" de suposição = tese; o fato depois = argumento.
+- [12/11] Oposição não precisa de "mas": antônimos em estruturas paralelas (futuro × passado, paz × guerra) já opõem. "Ou… ou" = ALTERNÂNCIA, não oposição.
+- [12/11] PORTANTO / logo / por isso = CONCLUSÃO · POIS / porque / já que = EXPLICAÇÃO. "Antes de mais nada" = em primeiro lugar (o argumento principal).
+- [12/11] Dentro de um texto argumentativo, exemplos concretos FUNCIONAM como argumento (prova da tese: radiação nos esqueletos, DDT no leite). "Exemplo ≠ argumento" vale para frase isolada (risquei a certa na Q11 da DPE-RS).
+- [12/11] "Conclusão mais coerente" = a que fecha a cadeia do próprio texto, mesmo contrariando o senso comum (light → sem saciedade → come mais ⇒ comida comum faz comer menos). Conceito novo (compulsão, naturais, saúde) = extrapolação.
 
 ## Raciocínio Lógico-Matemático
 
