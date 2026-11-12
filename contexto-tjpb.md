@@ -221,6 +221,7 @@
   - Comparação: funções de dados 0/3 (03/11) → 5/8. **APF funções de dados sai da fila** (teoria de 03/11 + bloco corrigido). Bizu dado no chat antes do bloco: 4 perguntas (dado ou ação? usuário reconhece? existe sozinho? quem mantém?).
   - Arquivo: `QUESTÕES NÃO OFICIAIS/Correções/2026-11-06_Semana-02_Bloco-02_APF-Funcoes-de-Dados_CORRECAO.pdf` (+ .md)
 - **11/11 (noite) · Anki:** os 5 lotes FGV feitos no PC do trabalho (158 cartões) ainda não estavam no Anki; importados pelo AnkiConnect no PC de casa (só faltavam os sub-baralhos, nenhuma duplicata) + lote novo `anki/2026-11-11_Arvores-APF-erros-do-dia_formato-FGV.tsv` (7: altura com −1, n − 1 em n-ária, altura mín./máx., ALI que altera um campo, tabela de código, definição de AIE, carga de arquivo). Total 165. Falta sincronizar com o AnkiWeb.
+- **11/11 (noite) · Hash: teoria no chat**, salva em `resumos/resumo-tabelas-hash.md` (encadeamento × endereçamento aberto, sondagem linear, fator de carga e rehash, O(1) médio × O(n) pior, lápide na remoção, equals/hashCode, chave imutável em Python, hash × TreeMap). Bloco de 8 questões fica para qui 12/11, 19h. **Português: G ainda não começado** (previsão era 10–13/11).
 
 ---
 
@@ -294,7 +295,7 @@
 
 | # | Item | Nível | Situação |
 |---|---|---|---|
-| 12 | **Hash** (Semana 3) | 🔴 | **Próximo de Específicas (último da fila).** Diagnóstico pronto (`2026-11-10_Semana-03_Bloco-03_Tabelas-Hash`, 8 questões). Falta responder e corrigir. Não depende de árvores |
+| 12 | **Hash** (Semana 3) | 🔴 | **Próximo de Específicas (último da fila). Teoria dada em 11/11 (noite): [[resumo-tabelas-hash]].** O diagnóstico vira o bloco do assunto. Diagnóstico pronto (`2026-11-10_Semana-03_Bloco-03_Tabelas-Hash`, 8 questões). Falta responder e corrigir. Não depende de árvores |
 
 - ✅ **APF funções de dados saiu da fila em 11/11** (teoria de 03/11 + bloco 5/8; ALI × AIE pela origem, tabela de código e "todo AIE é ALI de outra aplicação" ficam como ponto fraco).
 - ✅ **Árvores saiu da fila em 11/11** (diagnóstico 5/10 + teoria mínima na correção + treino 12/15; busca e remoção 3/3 cada; folha no nível 1, n − 1 arestas em n-ária e altura com −1 ficam como ponto fraco).
@@ -331,7 +332,7 @@
 | Seg 09/11 · noite | ✅ **Simulado 01 feito e corrigido: 27/60** (Português 2/10 · RLM 6/10 · Específicas 19/40). Discursiva não feita (vai treinar estrutura aos sábados) |
 | Ter 10/11 | ~~Discursiva e-CUSTAS~~ (fica para os sábados de treino de estrutura). Ler a correção do simulado em PDF, começando pelos 6 erros em assunto já estudado (Q5, Q7, Q27, Q32, Q33, Q56). Revisão espaçada das regras de 06/11 e de 09/11 (B3). Almoço: começar **G. Semântica e reescrita** (coesão e referenciação; ordem decidida em 09/11). Depois: responder o bloco de APF funções de dados e seguir para listas, pilhas, filas, árvores e hash |
 | Qua 11/11 | ✅ Diagnóstico de listas, pilhas e filas corrigido (8/10); saiu da fila. ✅ Diagnóstico de árvores (5/10) + **treino de árvores (12/15)**; árvores saiu da fila. 22:40: refazer Q1 e Q10 do treino de árvores e Q1, Q3 e Q5 de APF sem olhar + regras 📌 de 11/11 + revisão espaçada de 04/11 + Anki. ✅ **APF funções de dados corrigido (5/8)**; saiu da fila. G (Português) não registrado hoje |
-| Qui 12/11 | Almoço: 🔴 **G. Semântica e reescrita** (coesão e referenciação), se ainda não começou. 19h: 🔴 **Hash** (diagnóstico pronto, 8 questões; último item de Específicas da fila). 20h: com a fila de Específicas vazia, segue o plano da Semana 3: 🟡 busca e ordenação, depois POO, SOLID e GoF (🔴). 22:40: regras 📌 de 11/11 (revisão de 1 dia) + Anki |
+| Qui 12/11 | Almoço: 🔴 **G. Semântica e reescrita** (coesão e referenciação): **não pular**, Português está ~2 dias atrás. 19h: 🔴 **Hash**: teoria já dada (resumo), só responder o bloco de 8 questões (último item de Específicas da fila). 20h: com a fila de Específicas vazia, segue o plano da Semana 3: 🟡 busca e ordenação, depois POO, SOLID e GoF (🔴). 22:40: regras 📌 de 11/11 (revisão de 1 dia) + Anki |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · B1 + B2 ✅ 05/11 · A3 ✅ 06/11 · B3 ✅ 09/11 (Módulo 0 concluído). Depois (ordem decidida em 09/11): **G semântica e reescrita (10–13/11) → H texto (16–20/11)** → D concordância (23–27/11) → F pontuação (30/11–04/12) → C período (07–11/12) → E regência, crase e colocação (14–18/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
 

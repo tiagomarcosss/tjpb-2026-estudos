@@ -27,7 +27,7 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 | 20h · Bloco 2 | ✅ Árvores · treino feito (12/15). Se sobrar fôlego: diagnóstico de **hash** (8 questões); senão, fica para qui 12/11 | [[2026-11-10_Semana-03_Bloco-03_Tabelas-Hash]] |
 | 22:40 · Revisão | Regras de hoje (11/11) + revisão espaçada abaixo + 15 min de Anki | [[regras-tjpb]] |
 
-**Fila hoje:** Português → G (1º item) · Específicas → hash (último item). Saíram da fila hoje: listas, pilhas e filas · **árvores** (diagnóstico 5/10 → treino 12/15) · **APF funções de dados** (bloco 5/8).
+**Fila hoje:** Português → G (1º item) · Específicas → hash (último item; teoria dada à noite em [[resumo-tabelas-hash]], falta o bloco). Saíram da fila hoje: listas, pilhas e filas · **árvores** (diagnóstico 5/10 → treino 12/15) · **APF funções de dados** (bloco 5/8).
 
 **Pendente:** Q5 do chat de Big-O · confirmar a inscrição (**até 18/11, 16h**; boleto até 19/11) · ✅ Anki em dia (11/11, PC de casa: 158 cartões dos 5 lotes do trabalho + 7 de árvores/APF de hoje; **sincronizar com o AnkiWeb**) · discursiva *e-CUSTAS* fica para o treino de estrutura de sábado.
 

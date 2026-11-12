@@ -13,6 +13,7 @@ Voltar: [[00-HOME]] · Conteúdo detalhado: [[plano-tjpb]], seção 4.1
 ## Material
 
 - Regras estudadas: [[regras-tjpb#Algoritmos, POO, SOLID e GoF]]
+- Resumo: [[resumo-tabelas-hash]] (11/11)
 
 ## Desempenho e arquivos
 
