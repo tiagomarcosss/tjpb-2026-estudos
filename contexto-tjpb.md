@@ -9,7 +9,7 @@
 ## Situação atual
 
 - Semana 0 (21–25/10): inscrição, caderno de erros, Anki e diagnóstico.
-- **1ª retificação do edital (23/10):** jornada 30h · isenção da taxa só até 27/10, 16h · inscrição segue até 18/11, 16h. Plano atualizado para a versão 3 em 26/10. Inscrição: ainda não confirmada.
+- **1ª retificação do edital (23/10):** jornada 30h · isenção da taxa só até 27/10, 16h · inscrição segue até 18/11, 16h. Plano atualizado para a versão 3 em 26/10. **Inscrição feita em 11/11** (nº 260001255213, Analista – Desenvolvimento de Sistemas, FGV). **Pagamento pendente: boleto de R$ 120 até 19/11** (sem agendamento, transferência ou cartão).
 - **2ª retificação do edital (29/10, lida em 02/11):** discursiva vira **estudo de caso** sobre Conhecimentos Específicos (análise do contexto → problemas → teoria e norma → solução), **mínimo 24/40** e 8 hipóteses de nota zero · "remuneração" → "vencimento" (valor igual) · demais itens não afetam o Dev. Anexo I não mudou. Discursivas autorais passam a ser estudos de caso.
 - Adiantando a Semana 1 (Engenharia de Software e Ágil) desde 22/10.
 - Estudo sem cursinho: fontes oficiais + banco de questões (QConcursos/TEC) + Claude como professor e corretor de discursiva. Pacotes pós-edital ainda não lançados.
