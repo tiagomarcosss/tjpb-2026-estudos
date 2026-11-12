@@ -93,6 +93,8 @@
 - [12/11] Oposição não precisa de "mas": antônimos em estruturas paralelas (futuro × passado, paz × guerra) já opõem. "Ou… ou" = ALTERNÂNCIA, não oposição.
 - [12/11] PORTANTO / logo / por isso = CONCLUSÃO · POIS / porque / já que = EXPLICAÇÃO. "Antes de mais nada" = em primeiro lugar (o argumento principal).
 - [12/11] Dentro de um texto argumentativo, exemplos concretos FUNCIONAM como argumento (prova da tese: radiação nos esqueletos, DDT no leite). "Exemplo ≠ argumento" vale para frase isolada (risquei a certa na Q11 da DPE-RS).
+- [12/11] Questão de Português sobre relação entre orações NÃO é tabela-verdade: o XOR do RLM (só VF ou FV) não decide. Oposição = ideias CONTRÁRIAS (pode ser V-V: "medo do futuro" × "medo do passado") · "ou… ou" = OPÇÕES = alternância (Q9 da DPE-RS, errei pelo reflexo de RLM).
+- [12/11] Puxar a seta também na ALTERNATIVA: "os exemplos citados", "a tese", "o argumento" retomam o quê no texto? "O termo X" entre aspas = palavra · "os exemplos" = fatos citados pelo autor ("Lembremos que…"). Minhas marcas no texto não são as do enunciado (Q11: liguei "exemplos" aos conectores que eu sublinhei).
 - [12/11] "Conclusão mais coerente" = a que fecha a cadeia do próprio texto, mesmo contrariando o senso comum (light → sem saciedade → come mais ⇒ comida comum faz comer menos). Conceito novo (compulsão, naturais, saúde) = extrapolação.
 
 ## Raciocínio Lógico-Matemático
