@@ -18,6 +18,7 @@ prova: "Simulado 02 (TRT-24 2025 + DPE-RS 2023 + TJ-AP 2024)"
 | Arquivo | Para quê |
 |---|---|
 | `2026-11-16_Semana-04_Simulado-02_FGV-60q_PROVA.pdf` | Caderno (13 páginas): capa, 60 questões em 2 colunas e cartão de respostas na última página |
+| `2026-11-16_Semana-04_Simulado-02_FGV-60q_FOLHA-DE-RESPOSTAS.pdf` | Cartão de respostas (1–60), 1 página: **imprimir** |
 | `QUESTÕES NÃO OFICIAIS/Provas/2026-11-04_Semana-02_Discursiva-01_Estudo-de-Caso.pdf` | Discursiva (enunciado, rascunho e folha de texto definitivo de 30 linhas). **Abrir só na hora da discursiva** |
 | `Correções/2026-11-16_Semana-04_Simulado-02_FGV-60q_GABARITO-NAO-ABRIR.md` | Gabarito definitivo renumerado. **Não abrir** |
 | Provas originais | `2025-05-11_FGV-TRT-24-2025-Reaplicacao_AJ-TI_PROVA-ORIGINAL.pdf`, `2023-07-09_FGV-DPE-RS-2023_…`, `2024-03-24_FGV-TJ-AP-2024_…` |
