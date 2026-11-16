@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 12/11/2026 (após a correção do bloco G · coesão e coerência) · **Semana do plano:** 3 (Algoritmos, POO, SOLID e GoF)
+**Atualizado em:** 16/11/2026 (Simulado 02 montado) · **Semana do plano:** 4
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -241,6 +241,12 @@
   - Arquivo: `PROVAS OFICIAIS (estudo)/Correções/2026-11-12_Semana-03_Bloco-03_Portugues-Texto-H2-Tipologia_FGV-10q_CORRECAO.pdf` (+ .md). Com isso, **acabaram as questões de texto inéditas da DPE-RS 2023 e da TJ-AP 2024**: os próximos blocos precisam de outras provas FGV.
   - Depois da correção: "desisto" (2ª vez; a 1ª foi em 03/11). Lembrado o combinado de 03/11 (não decidir cansado; reduzir a carga em vez de parar). Logo em seguida decidiu estudar à noite mesmo assim, "muito puto comigo mesmo". Plano da noite: **hash 19h** (bloco de 8) → **POO 20h** (só teoria) → Anki; parar sem culpa se travar. **Atenção nas próximas sessões:** 3 blocos de Português no mesmo dia derrubaram placar e ânimo. Limitar Português a 1 bloco por dia.
   - Perguntou se vai melhorar até a prova. Mostrados os "antes × depois" (árvores, APF, coesão, Português oficial) e a conta para os 36: **alvo realista Português 5–6 · RLM 7 · Específicas 25–27 = 37–40**. Combinado: Português todo dia no almoço (1 bloco ou teoria + 5 oficiais com o protocolo anti-riscar), Específicas à noite pela fila; o protocolo vale para todas as disciplinas. Nas correções, contar "certas riscadas" (12/11: 10 de 20 erros; meta < 20%).
+- **13/11 (sex):** sem registro no Claude (teoria do H, hash e POO não registrados).
+- **14–15/11 (sáb e dom) · Revisão dos assuntos por conta própria**, fora do Claude (sem registro de assunto nem placar). O simulado de domingo passou para segunda.
+
+### Semana 4 (16–22/11)
+
+- **16/11 (seg) · Simulado 02 montado** (PC do trabalho): [[2026-11-16_Semana-04_Simulado-02_FGV-60q_PROVA]] = 60 oficiais FGV inéditas no formato TJPB, recortadas dos cadernos originais (Português 10 do TRT-24 2025 · RLM 4 do TRT-24 + 6 da DPE-RS 2023 · Específicas 30 do TRT-24 + 10 da TJ-AP 2024) + **Discursiva 01** (estudo de caso autoral, Scrum, de 04/11). TRT-24 Q11 anulada e Q16–30 (legislação, fora do edital) ficaram de fora. Gabarito definitivo em `Correções/…_GABARITO-NAO-ABRIR.md`. **Ainda inédita para o Simulado 03: TJ-MS 2024** (não baixada). Da TJ-AP restam 20 de Específicas; da DPE-RS, RLM Q29 e Q30.
 
 ---
 
@@ -354,6 +360,7 @@
 | Qui 12/11 | ✅ Manhã: interpretação no chat + estudo de coesão e coerência + **bloco G (6/12)**; G saiu da fila. 19h: 🔴 **Hash**: teoria já dada (resumo), só responder o bloco de 8 questões (último item de Específicas da fila). 20h: com a fila de Específicas vazia, segue o plano da Semana 3: 🔴 **POO**; busca e ordenação (🟡) vai para depois de GoF (regra 5, proposta em 12/11, aguardando o ok do Tiago). 22:40: refazer Q8 e Q11 do bloco G sem olhar + regras 📌 de 12/11 e 11/11 + revisão espaçada de 05/11 + Anki |
 | Qui 12/11 · tarde | ✅ **Bloco H com 12 oficiais FGV: 5/12** e **H2 tipologia: 3/10** (sem teoria). H segue na fila. Português encerrado no dia (cansaço de leitura) |
 | Sex 13/11 | Almoço: 🔴 **teoria do H** (2 partes: argumentação + tipologia/narrador; tabelas curtas, a partir dos erros de 12/11) + 5 questões oficiais FGV de interpretação no início. Noite: SOLID (🔴) ou o que sobrar de POO. 2º bloco do H: sábado (recuperação) ou seg 16/11 |
+| Seg 16/11 | **Simulado 02** (5h: objetiva ~3h30 + Discursiva 01 ~1h15). Mandar respostas e foto da folha para correção. Fila parada hoje (H e hash seguem). **Boleto até qui 19/11** |
 
 - **Almoço (Português · Módulo 0 de base, combinado em 28/10; virou fila em 04/11):** A1 ✅ 28/10 · A2 ✅ 30/10 · B1 + B2 ✅ 05/11 · A3 ✅ 06/11 · B3 ✅ 09/11 (Módulo 0 concluído). Depois (ordem decidida em 09/11): **G semântica e reescrita (10–13/11) → H texto (16–20/11)** → D concordância (23–27/11) → F pontuação (30/11–04/12) → C período (07–11/12) → E regência, crase e colocação (14–18/12). Questões FGV só depois do Módulo 0; até lá, autorais básicas.
 

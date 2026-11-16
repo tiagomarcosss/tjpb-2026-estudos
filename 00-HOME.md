@@ -14,28 +14,27 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Quinta, 12/11/2026 · Semana 3 (Algoritmos, POO, SOLID e GoF) · faltam 73 dias para a prova**
+**Segunda, 16/11/2026 · Semana 4 · faltam 69 dias para a prova · DIA DE SIMULADO**
 
-> **Fila primeiro (regra de 04/11):** o assunto do dia é o primeiro pendente da "Fila de pendências" do [[contexto-tjpb]], não o do calendário.
+> **Fila primeiro (regra de 04/11):** o assunto do dia é o primeiro pendente da "Fila de pendências" do [[contexto-tjpb]], não o do calendário. Hoje o simulado ocupa o lugar dos blocos; a fila não anda (e está tudo bem).
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Manhã · Português | ✅ **G · coesão e coerência: bloco 6/12** (autorais 6/8, oficiais FGV 0/4); **G saiu da fila** | [[2026-11-12_Semana-03_Bloco-01_Portugues-Coesao-e-Coerencia-G_CORRECAO]] |
-| Tarde · Português | ✅ **H · texto: 12 oficiais FGV, 5/12** e **H2 · tipologia: 10 oficiais, 3/10** (sem teoria ainda). H segue na fila: teoria amanhã no almoço. **Português encerrado hoje** | [[2026-11-12_Semana-03_Bloco-02_Portugues-Texto-H_FGV-12q_CORRECAO]] · [[2026-11-12_Semana-03_Bloco-03_Portugues-Texto-H2-Tipologia_FGV-10q_CORRECAO]] |
-| 19h · Bloco 1 | 🔴 **Hash**, último item de Específicas da fila. Teoria já dada (5 min relendo o resumo); responder as **8 questões** e mandar para correção | [[2026-11-10_Semana-03_Bloco-03_Tabelas-Hash]] · [[resumo-tabelas-hash]] |
-| 20h · Bloco 2 | Fila de Específicas vazia → plano da Semana 3: 🔴 **POO** (herança, sobrecarga × sobrescrita, encapsulamento, interface × classe abstrata). Teoria hoje; bloco amanhã se não der tempo. **Busca e ordenação (🟡) vai para depois de GoF** (regra 5: a semana termina dom 15/11 com 3 assuntos 🔴 abertos) | [[Algoritmos, POO, SOLID e GoF]] |
-| 22:40 · Revisão | **Leve:** só as regras 📌 de hoje (12/11) + Anki. Se der: refazer **Q1 e Q7 do H2** (afirmar o consequente; achar o "eu/nós") + revisão espaçada abaixo (11/11 e 05/11) + 15 min de Anki. Se sobrar tempo: Q1 e Q10 do treino de árvores, Q1, Q3 e Q5 de APF | [[regras-tjpb]] |
+| Almoço | Nada novo. No máximo 15 min de Anki | — |
+| Simulado · 5h | **Simulado 02:** 60 oficiais FGV inéditas no formato TJPB (base TRT-24 2025) + **Discursiva 01** (estudo de caso autoral, abrir só na hora). Objetiva ~3h30 · discursiva ~1h15 · cartão ~15 min. Nada em branco, "?" nos chutes, V/F nas negativas, **protocolo anti-riscar** | [[2026-11-16_Semana-04_Simulado-02_FGV-60q_PROVA]] (PDF na mesma pasta) · `QUESTÕES NÃO OFICIAIS/Provas/2026-11-04_Semana-02_Discursiva-01_Estudo-de-Caso.pdf` |
+| Depois | Mandar as respostas (`1-A, 2-?C…`) e a foto da folha definitiva. Correção em PDF | — |
+| 22:40 · Revisão | Sem revisão hoje se o simulado terminar tarde. Só o Anki do dia | [[regras-tjpb]] |
 
-**Fila hoje:** Português → ~~G~~ ✅ (saiu hoje) → **H** (próximo) · Específicas → hash (último item). Depois do hash, a Semana 3 segue pelo plano: POO → SOLID → GoF (🔴) → busca e ordenação e IoC (🟡) → Res. CNJ 370 (⚪, sábado, corta primeiro se apertar).
+**Fila (sem mudança):** Português → **H. Texto** (falta teoria em 2 partes + 3º bloco com outra prova FGV) → D concordância · Específicas → **hash** (bloco de 8 sem registro de resposta) → POO → SOLID → GoF.
 
-**Pendente:** **pagar o boleto até 19/11** (R$ 120; agendamento não vale) · **sincronizar o Anki com o AnkiWeb** (165 cartões importados no PC de casa em 11/11) · Q5 do chat de Big-O · discursiva *e-CUSTAS* fica para o treino de estrutura de sábado.
+**Pendente:** 🔴 **pagar o boleto até qui 19/11** (R$ 120; agendamento não vale) · sincronizar o Anki com o AnkiWeb · registrar o que foi revisado de 13 a 15/11 (sábado e domingo: revisão dos assuntos, sem bloco).
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras de `regras-tjpb` com ~1, 7 e 30 dias: **11/11** (1 dia: APF funções de dados, listas/pilhas/filas e árvores) e **05/11** (7 dias: Português B1 + B2, sujeito, complementos e predicativo). Não há regras de 13/10. Nas de 05/11, priorizar **predicativo** (teste do feminino e do pronome) e **OD × OI com "aos"**, que seguem como ponto fraco.
+Regras com ~1, 7 e 30 dias: não há regras de 15/11 nem de 17/10 → usar a mais recente, **12/11** (Português G, H e H2 + protocolo anti-riscar), e **09/11** (7 dias: Simulado 01 e B3). Fica para amanhã se o simulado ocupar a noite.
 
 ```query
-path:regras-tjpb ("[11/11]" OR "[05/11]")
+path:regras-tjpb ("[12/11]" OR "[09/11]")
 ```
 
 ---
