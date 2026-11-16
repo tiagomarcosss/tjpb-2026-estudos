@@ -246,7 +246,7 @@
 
 ### Semana 4 (16–22/11)
 
-- **16/11 (seg) · Simulado 02 montado** (PC do trabalho): [[2026-11-16_Semana-04_Simulado-02_FGV-60q_PROVA]] = 60 oficiais FGV inéditas no formato TJPB, recortadas dos cadernos originais (Português 10 do TRT-24 2025 · RLM 4 do TRT-24 + 6 da DPE-RS 2023 · Específicas 30 do TRT-24 + 10 da TJ-AP 2024) + **Discursiva 01** (estudo de caso autoral, Scrum, de 04/11). TRT-24 Q11 anulada e Q16–30 (legislação, fora do edital) ficaram de fora. Gabarito definitivo em `Correções/…_GABARITO-NAO-ABRIR.md`. **Ainda inédita para o Simulado 03: TJ-MS 2024** (não baixada). Da TJ-AP restam 20 de Específicas; da DPE-RS, RLM Q29 e Q30.
+- **16/11 (seg) · Simulado 02 montado** (PC do trabalho): [[2026-11-16_Semana-04_Simulado-02_FGV-60q_PROVA]] = 60 oficiais FGV inéditas de **um único concurso de Desenvolvimento de Sistemas** (ALE-RO, FGV, edital 2025/prova 2026: Português 1–10, RLM 13–22, Específicas 41–80), recortadas do caderno original, na estrutura do edital do TJPB + **Discursiva 01** (estudo de caso autoral, Scrum, de 04/11). Gabarito definitivo em `Correções/…_GABARITO-NAO-ABRIR.md`. A 1ª versão (base TRT-24 2025, cargo genérico de TI, com seção "Conhecimentos Específicos Básicos") foi **descartada a pedido do Tiago**: simulado deve ser fiel ao TJPB e usar provas **novas e do cargo de Desenvolvimento de Sistemas**. Outras provas FGV de Dev ainda inéditas: **AL-GO 2026** (Desenvolvedor de Sistemas), **AMAZUL 2026**, **TCE-RR 2025**, TJ-MS 2024. O caderno do TRT-24 2025 ficou salvo em `Provas/` (parcialmente visto).
 
 ---
 

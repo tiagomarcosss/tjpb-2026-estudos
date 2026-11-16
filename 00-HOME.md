@@ -21,7 +21,7 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 | Horário | O que fazer | Onde |
 |---|---|---|
 | Almoço | Nada novo. No máximo 15 min de Anki | — |
-| Simulado · 5h | **Simulado 02:** 60 oficiais FGV inéditas no formato TJPB (base TRT-24 2025) + **Discursiva 01** (estudo de caso autoral, abrir só na hora). Objetiva ~3h30 · discursiva ~1h15 · cartão ~15 min. Nada em branco, "?" nos chutes, V/F nas negativas, **protocolo anti-riscar** | [[2026-11-16_Semana-04_Simulado-02_FGV-60q_PROVA]] (PDF na mesma pasta) · `QUESTÕES NÃO OFICIAIS/Provas/2026-11-04_Semana-02_Discursiva-01_Estudo-de-Caso.pdf` |
+| Simulado · 5h | **Simulado 02:** 60 oficiais FGV inéditas na estrutura do TJPB (ALE-RO 2026, cargo Análise e Desenvolvimento de Sistemas) + **Discursiva 01** (estudo de caso autoral, abrir só na hora). Objetiva ~3h30 · discursiva ~1h15 · cartão ~15 min. Nada em branco, "?" nos chutes, V/F nas negativas, **protocolo anti-riscar** | [[2026-11-16_Semana-04_Simulado-02_FGV-60q_PROVA]] (PDF na mesma pasta) · `QUESTÕES NÃO OFICIAIS/Provas/2026-11-04_Semana-02_Discursiva-01_Estudo-de-Caso.pdf` |
 | Depois | Mandar as respostas (`1-A, 2-?C…`) e a foto da folha definitiva. Correção em PDF | — |
 | 22:40 · Revisão | Sem revisão hoje se o simulado terminar tarde. Só o Anki do dia | [[regras-tjpb]] |
 

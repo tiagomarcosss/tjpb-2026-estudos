@@ -1,44 +1,44 @@
 ---
 tipo: prova
 fonte: oficial
-disciplina: ["Português", "RLM", "Engenharia de Software e Ágil", "Arquitetura e System Design", "Banco de Dados e SQL", "Linguagens e Frameworks", "Segurança", "DevOps e Nuvem", "IA", "Algoritmos, POO, SOLID e GoF", "Judiciário, LGPD e Governança", "Discursiva"]
-assunto: "Simulado 02 · 60 questões oficiais FGV no formato TJPB + Discursiva 01 (estudo de caso autoral)"
+disciplina: ["Português", "RLM", "Engenharia de Software e Ágil", "APF, SAFe e Testes", "Arquitetura e System Design", "Banco de Dados e SQL", "Linguagens e Frameworks", "Segurança", "DevOps e Nuvem", "IA", "Algoritmos, POO, SOLID e GoF", "Discursiva"]
+assunto: "Simulado 02 · 60 questões oficiais FGV (ALE-RO 2026, Análise e Desenvolvimento de Sistemas) na estrutura do TJPB + Discursiva 01"
 semana: 4
 data: 2026-11-16
 banca: FGV
-prova: "Simulado 02 (TRT-24 2025 + DPE-RS 2023 + TJ-AP 2024)"
+prova: "Simulado 02 (ALE-RO 2026 · Análise e Desenvolvimento de Sistemas)"
 ---
 
-# Simulado 02 · formato TJPB 2026 (60 objetivas + estudo de caso)
+# Simulado 02 · estrutura do TJPB 2026 (60 objetivas + estudo de caso)
 
-> ⚠️ **Objetivas: questões oficiais da FGV**, Tipo 1, recortadas dos cadernos originais e renumeradas no formato do edital do TJPB (10 Português + 10 RLM + 40 Específicas). **Discursiva: autoral, no estilo FGV, não oficial.** Base: TRT-24 2025 (reaplicação, Analista Judiciário – TI), prova inédita reservada para simulado. Ficaram de fora a Q11 do TRT-24 (anulada) e as Q16–30 (legislação trabalhista e administrativa, fora do edital do TJPB), trocadas por questões inéditas da DPE-RS 2023 (RLM) e da TJ-AP 2024 (Específicas).
+> ⚠️ **Objetivas: questões oficiais da FGV**, de um único concurso para o cargo de **Análise e Desenvolvimento de Sistemas** (Assembleia Legislativa de Rondônia, edital de 2025, prova de 2026, Tipo 1), recortadas do caderno original e renumeradas na estrutura do edital do TJPB (item 10.8.3). **Discursiva: autoral, no estilo FGV, não oficial.** Substitui a 1ª versão deste simulado (base TRT-24, cargo genérico de TI), descartada em 16/11 a pedido.
 
 ## Arquivos
 
 | Arquivo | Para quê |
 |---|---|
-| `2026-11-16_Semana-04_Simulado-02_FGV-60q_PROVA.pdf` | Caderno (13 páginas): capa, 60 questões em 2 colunas e cartão de respostas na última página |
+| `2026-11-16_Semana-04_Simulado-02_FGV-60q_PROVA.pdf` | Caderno (12 páginas): capa e 60 questões em 2 colunas |
 | `2026-11-16_Semana-04_Simulado-02_FGV-60q_FOLHA-DE-RESPOSTAS.pdf` | Cartão de respostas (1–60), 1 página: **imprimir** |
-| `QUESTÕES NÃO OFICIAIS/Provas/2026-11-04_Semana-02_Discursiva-01_Estudo-de-Caso.pdf` | Discursiva (enunciado, rascunho e folha de texto definitivo de 30 linhas). **Abrir só na hora da discursiva** |
+| `QUESTÕES NÃO OFICIAIS/Provas/2026-11-04_Semana-02_Discursiva-01_Estudo-de-Caso.pdf` | Discursiva (enunciado, rascunho e folha de texto definitivo). **Abrir só na hora da discursiva** |
 | `Correções/2026-11-16_Semana-04_Simulado-02_FGV-60q_GABARITO-NAO-ABRIR.md` | Gabarito definitivo renumerado. **Não abrir** |
-| Provas originais | `2025-05-11_FGV-TRT-24-2025-Reaplicacao_AJ-TI_PROVA-ORIGINAL.pdf`, `2023-07-09_FGV-DPE-RS-2023_…`, `2024-03-24_FGV-TJ-AP-2024_…` |
+| Prova original | `2026_FGV-ALE-RO_Analista-TI-Analise-e-Desenvolvimento-de-Sistemas_PROVA-ORIGINAL.pdf` |
 
 ## Como fazer
 
 - **Tempo:** 5 horas, como no TJPB (13h–18h): objetiva ~3h30, discursiva ~1h15, marcação ~15 min.
-- Sem consulta e cronometrado. **Nada em branco**, **"?"** antes da letra nos chutes, **pontinho** nas candidatas, **V/F nas INCORRETA/EXCETO**.
+- Sem consulta e cronometrado. **Nada em branco**, **"?"** nos chutes, **pontinho** nas candidatas, **V/F nas INCORRETA/EXCETO**.
 - **Protocolo anti-riscar (12/11):** só riscar com a palavra do texto que contradiz; "acho que não" vira pontinho.
 - Ao terminar: mandar as respostas (`1-A, 2-?C…`) e a foto da folha de texto definitivo.
 
-## Composição (nº novo ← questão original)
+## Estrutura (edital do TJPB) e origem
 
-| Parte | Nº | Prova de origem | Correspondência |
+| Módulo | Disciplina | Nº | Questão original (ALE-RO) |
 |---|---|---|---|
-| Português | 1–10 | TRT-24 2025 | 1←1, 2←2, 3←3, 4←4, 5←5, 6←6, 7←7, 8←8, 9←9, 10←10 |
-| RLM | 11–14 | TRT-24 2025 | 11←12, 12←13, 13←14, 14←15 |
-| RLM | 15–20 | DPE-RS 2023 | 15←21, 16←22, 17←24, 18←27, 19←31, 20←32 |
-| Específicas | 21–50 | TRT-24 2025 | 21←31, 22←32, … , 50←60 (nº novo = original − 10) |
-| Específicas | 51–60 | TJ-AP 2024 | 51←41, 52←42, 53←44, 54←49, 55←62, 56←65, 57←66, 58←71, 59←75, 60←76 |
+| Conhecimentos Gerais | Língua Portuguesa | 1–10 | 1–10 (texto-base "Canudos não se rendeu") |
+| Conhecimentos Gerais | Raciocínio Lógico-Matemático | 11–20 | 13–22 (nº novo = original − 2) |
+| Conhecimentos Específicos | Conhecimentos Específicos – Especialidade | 21–60 | 41–80 (nº novo = original − 20) |
+
+Fora do simulado: Português 11–12 e RLM 23–24 (sobram como inéditas), Legislação Específica e História e Geografia de Rondônia 25–40 (não caem no TJPB).
 
 ## Minhas respostas
 
