@@ -16,25 +16,27 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 **Segunda, 16/11/2026 · Semana 4 · faltam 69 dias para a prova · DIA DE SIMULADO**
 
+> ✅ **Simulado 02 feito e corrigido (16/11, noite): 30/60** (Português 5 · RLM 6 · Específicas 19) + **Discursiva 01: 15/40** (estimativa). Correção em PDF: [[2026-11-16_Semana-04_Simulado-02_FGV-60q_CORRECAO]] · resumo: [[2026-11-16_Simulado-02_FGV-ALE-RO-2026]] · discursiva: [[2026-11-16_Discursiva-01_Scrum_CORRECAO]]. **Amanhã (ter 17/11):** ler a correção pelos erros em assunto já estudado (Q26 RUP, Q25 validação, Q30 lista × vetor, Q5 cognato) e pela discursiva; almoço = teoria do H; 19h = bloco de hash; 20h = POO.
+
 > **Fila primeiro (regra de 04/11):** o assunto do dia é o primeiro pendente da "Fila de pendências" do [[contexto-tjpb]], não o do calendário. Hoje o simulado ocupa o lugar dos blocos; a fila não anda (e está tudo bem).
 
 | Horário | O que fazer | Onde |
 |---|---|---|
 | Almoço | Nada novo. No máximo 15 min de Anki | — |
 | Simulado · 5h | **Simulado 02:** 60 oficiais FGV inéditas na estrutura do TJPB (ALE-RO 2026, cargo Análise e Desenvolvimento de Sistemas) + **Discursiva 01** (estudo de caso autoral, abrir só na hora). Objetiva ~3h30 · discursiva ~1h15 · cartão ~15 min. Nada em branco, "?" nos chutes, V/F nas negativas, **protocolo anti-riscar** | [[2026-11-16_Semana-04_Simulado-02_FGV-60q_PROVA]] (PDF na mesma pasta) · `QUESTÕES NÃO OFICIAIS/Provas/2026-11-04_Semana-02_Discursiva-01_Estudo-de-Caso.pdf` |
-| Depois | Mandar as respostas (`1-A, 2-?C…`) e a foto da folha definitiva. Correção em PDF | — |
+| Depois | ✅ Feito: objetiva e discursiva corrigidas (PDF) | [[2026-11-16_Semana-04_Simulado-02_FGV-60q_CORRECAO]] |
 | 22:40 · Revisão | Sem revisão hoje se o simulado terminar tarde. Só o Anki do dia | [[regras-tjpb]] |
 
 **Fila (sem mudança):** Português → **H. Texto** (falta teoria em 2 partes + 3º bloco com outra prova FGV) → D concordância · Específicas → **hash** (bloco de 8 sem registro de resposta) → POO → SOLID → GoF.
 
-**Pendente:** 🔴 **pagar o boleto até qui 19/11** (R$ 120; agendamento não vale) · sincronizar o Anki com o AnkiWeb · registrar o que foi revisado de 13 a 15/11 (sábado e domingo: revisão dos assuntos, sem bloco).
+**Pendente:** 🔴 **pagar o boleto até qui 19/11** (R$ 120; agendamento não vale) · sincronizar o Anki com o AnkiWeb · registrar o que foi revisado de 13 a 15/11 (sábado e domingo: revisão dos assuntos, sem bloco). · **decidir:** resumo de 1 página + Anki de arquitetura de computadores (10 das 40 específicas no Simulado 02) · reescrever a Discursiva 01 no sábado 21/11.
 
 ### 🔁 Revisão espaçada de hoje
 
 Regras com ~1, 7 e 30 dias: não há regras de 15/11 nem de 17/10 → usar a mais recente, **12/11** (Português G, H e H2 + protocolo anti-riscar), e **09/11** (7 dias: Simulado 01 e B3). Fica para amanhã se o simulado ocupar a noite.
 
 ```query
-path:regras-tjpb ("[12/11]" OR "[09/11]")
+path:regras-tjpb ("[16/11]" OR "[12/11]" OR "[09/11]")
 ```
 
 ---

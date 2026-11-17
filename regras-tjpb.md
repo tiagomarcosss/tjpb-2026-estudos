@@ -111,6 +111,13 @@
 - [12/11] Sentido do observador = o que ELE percebe (não o frio que os outros "parecem" sentir). "Parecia", "não via mais que", "perdi de vista" = limitação pela distância.
 - [12/11] Fases do enredo: situação inicial (equilíbrio, nada aconteceu) → complicação (o fato que perturba) → clímax (maior tensão, decide o desfecho) → desfecho. Projeção futura = o narrador IMAGINA o que vem ("pensava no que estaria aguardando").
 - [12/11] "Conclusão mais coerente" = a que fecha a cadeia do próprio texto, mesmo contrariando o senso comum (light → sem saciedade → come mais ⇒ comida comum faz comer menos). Conceito novo (compulsão, naturais, saúde) = extrapolação.
+- [16/11] "Nós" em texto de um autor só: se o leitor não pode praticar as ações (imaginar, escrever, encerrar a obra), é plural de modéstia: "nós" = o autor (a FGV chamou de "plural enfático").
+- [16/11] Finalidade de um segmento: ligar a frase à tese ou ao título do texto; o sujeito da frase mostra o foco ("Eram quatro apenas" = os defensores → heroísmo, não a crueldade dos soldados). Errada pela 3ª vez (09/11, 12/11 e 16/11).
+- [16/11] "Incorreta" de interpretação: a falsa costuma acrescentar uma causa que o trecho não dá ("por sua exagerada crueldade"). Duas alternativas com causas diferentes para o mesmo fato: uma delas é a falsa.
+- [16/11] Cognato = mesmo radical (raciocinar/raciocínio/raciocina; viver/vida). Formas de retomada: pronome (o, la, ele), repetição, sinônimo ou cognato. "Que" depois de substantivo = pronome relativo, não pessoal.
+- [16/11] Parônimos: espiar (espreitar) × expiar (pagar a culpa) · aspirar (almejar) × expirar (soltar o ar, vencer o prazo) · discrição (reserva) × descrição · esperto (vivo) × experto (perito) · abstenção (não participar) × abstração. "Fim" = objetivo ou término; "finalidade" = só objetivo.
+- [16/11] Eufemismo = trocar o termo duro pelo suave sem mudar o fato; conferir a direção da troca. Uniformidade de tratamento: você → seu/lhe/o; tu → teu/te.
+- [16/11] Redação (erros da Discursiva 01): "é necessária a presença" (com artigo, concorda) · "manter atualizada a situação" · "destacam-se os critérios" (sujeito posposto no plural) · "onde" só para lugar · fechar todo parágrafo com ponto.
 
 ## Raciocínio Lógico-Matemático
 
@@ -179,10 +186,17 @@
 - [09/11] Casa dos pombos ("ter certeza") = pior caso: retirar primeiro TUDO o que não completa a exigência mais difícil e só depois o que falta; comparar os cenários e ficar com o maior. O total da urna quase nunca é o mínimo.
 - [09/11] "Sabe-se que..." = probabilidade condicional: o novo total é só o que satisfaz a condição. Dados lançados em sequência: contar as ordens ({4,3,1} = 6 casos, {3,3,2} = 3).
 - [09/11] Média ponderada com "necessariamente": testar a pior nota em cada posição, com o melhor arranjo possível das outras.
+- [16/11] Lucro total de operações com bases diferentes = soma dos lucros ÷ soma dos custos (nunca a média das taxas): 20.000 + 7.500 sobre 125.000 = 22%.
+- [16/11] Cabeças e rodas (duas condições): supor tudo do tipo menor; cada troca acrescenta a diferença (11 bicicletas = 22 rodas; faltam 6 → 6 triciclos). Conferir as DUAS condições antes de marcar.
+- [16/11] Duas equações com incógnita sobrando (x = 3p + 5b e 2x = 5p + 13b): substituir para o x sumir, não somar. Razão p/b = isolar p em função de b (p = 3b).
+- [16/11] "Juntos" = bloco × ordens internas; "juntos, mas não ao lado de C" = bloco − casos em que C também encosta; probabilidade = favoráveis ÷ n!.
+- [16/11] Operação definida no enunciado ("define-se resto(x, y)"): aplicar a definição passo a passo. Piso de negativo desce: ⌊−2,1⌋ = −3. Unidades: 1 m³ = 1.000 L; 1 km = 1.000 m.
 
 ### Raciocínio sequencial
 
 - [21/10] Filas com trocas: letras no papel, reescrevendo a fila a cada troca.
+- [16/11] Fila: tudo vira posição. "k pessoas antes" = posição k + 1 · entre a posição a e a b = b − a − 1 · central de n (ímpar) = (n + 1) ÷ 2.
+- [16/11] "Apaga e pula" em círculo: simular na lista, riscando; a cada volta, pular só os números que sobraram.
 
 ---
 
@@ -197,7 +211,7 @@
 - [24/10] 4 atividades fundamentais de todo processo (Sommerville): especificação · projeto e implementação · validação · evolução.
 - [24/10] Incremental: processo pouco visível (não compensa documentar cada versão), estrutura degrada sem refatoração; menos indicado para sistemas grandes, de vida longa e com várias equipes.
 - [24/10] Integração e configuração (reuso): menos custo e risco, entrega rápida; mas exige concessão nos requisitos e perde o controle sobre a evolução dos componentes.
-- [24/10] RUP · Elaboração = maioria dos casos de uso + descrição da arquitetura + plano de desenvolvimento, riscos principais tratados. Concepção = caso de negócio.
+- [24/10] RUP · Elaboração = maioria dos casos de uso + descrição da arquitetura + plano de desenvolvimento, riscos principais tratados. Concepção = caso de negócio. Pista: "linha de base da arquitetura" no enunciado = Elaboração; a Construção usa a arquitetura pronta (errei em 16/11, riscando a certa).
 - [24/10] RUP · 3 perspectivas: dinâmica = fases no tempo · estática = workflows (atividades) · prática = boas práticas. Todo workflow pode ocorrer em qualquer fase; cada fase tem iterações.
 - [24/10] RUP não é ágil: é iterativo e incremental, mas dirigido a planos (pesado). Definição: dirigido a casos de uso, centrado na arquitetura, iterativo e incremental. AUP/OpenUP são as variações ágeis.
 - [24/10] Manifesto Ágil: "mais que", não "em vez de". Processos, documentação, contratos e planos têm valor.
@@ -247,6 +261,9 @@
 - [28/10] Gherkin: Dado = contexto anterior · Quando = ação/evento · Então = resultado esperado · E/Mas = continuam o passo anterior.
 - [28/10] BDD = prática · Gherkin = linguagem (aceita português) · Cucumber = ferramenta que executa o Gherkin via step definitions (há também SpecFlow, Behave, Behat). BDD não exige Cucumber.
 - [28/10] TDD = teste de unidade, pelo dev · ATDD = critérios de aceitação definidos juntos (negócio + dev + teste) antes de codificar · BDD = comportamento em linguagem de negócio. Complementares: nenhum substitui o outro.
+- [16/11] Tarefas da engenharia de requisitos: elicitar = descobrir · analisar = classificar, modelar e resolver conflito (negociação, pontos de vista) · especificar = documentar · validar = conferir com a necessidade do cliente (completo, consistente) · gerenciar = rastreabilidade e controle de mudança. Informação bruta → modelo coerente = análise.
+- [16/11] FURPS+ = Functionality, Usability, Reliability, Performance, Supportability + restrições (design, implementação, interface, físicas): classifica requisitos. GORE = requisitos derivados de objetivos (goals).
+- [16/11] Protótipo horizontal = interface inteira, rasa · vertical = uma função, até o banco. Usuário que não sabe dizer o que quer + feedback rápido de interface = descartável.
 
 ### Estimativa
 - [30/10] Story point = tamanho RELATIVO do item (esforço + complexidade + incerteza). Não é hora nem produtividade individual. O Guia do Scrum não obriga story points nem Planning Poker.
@@ -338,20 +355,32 @@
 - [11/11] Recursão em árvore: ler o que a linha da FOLHA devolve. `null → 0` + `folha → 1` + `f(esq) + f(dir)` = conta folhas · `null → 0` + `1 + f(esq) + f(dir)` = conta nós · `null → −1` + `1 + max(...)` = altura. `n.esq == null && n.dir == null` = folha (nenhum filho), não "dois filhos". Nunca riscar o caso base: sem ele, NullPointerException (errei a Q9). **Altura: `None → −1` dá a altura em ARESTAS (folha = 0); `None → 0` daria em níveis/nós do caminho. Rastrear a folha primeiro: o valor dela define a unidade (Q10 do treino: contei 4 nós; a função devolve 3).**
 - [11/11] Questão de árvore com chaves inseridas: DESENHAR a árvore antes das alternativas (desenhei na Q2 e na Q6 e acertei; não desenhei na Q7, Q8 e Q9 e errei).
 - [11/11] Binária com n nós: altura MÍNIMA = ⌊log₂ n⌋ (cheia/completa; 20 nós → níveis 0 a 3 cabem só 15 → altura 4) · altura MÁXIMA = n − 1 (degenerada, um nó por nível). Escrever 1, 2, 4, 8, 16 na margem e somar.
+- [16/11] Vetor (estático ou dinâmico): inserir ou remover no meio = O(n) por causa do deslocamento; "dinâmico" só resolve o tamanho. Lista duplamente encadeada com o ponteiro do nó = O(1). Palavra "ponteiro" ou "nó já localizado" = lista encadeada.
+- [16/11] Composição = a parte não existe sem o todo ("só existe se", "excluído junto") · agregação = a parte sobrevive sozinha.
+- [16/11] UML: sequência = ordem das mensagens no tempo · comunicação = vínculos entre objetos · objetos = instâncias com valores num instante · classes = tipos.
 
 ## Banco de Dados e SQL
 - [09/11] Chave primária determina todos os demais atributos (a → b, a → c, a → d). Dependência entre não chave (b → c) é transitiva e viola a 3FN.
 - [09/11] ON DELETE: CASCADE = apaga os filhos junto (sem órfão, sem erro) · RESTRICT / NO ACTION = impedem a exclusão (geram erro) · SET NULL = exige coluna que aceite NULL. "Evitar erro ao remover o pai" = CASCADE.
 - [09/11] ETL = Extract, Transform, Load (extrair das fontes, padronizar e carregar no DW) · ELT = carrega bruto e transforma dentro do destino (grande volume, nuvem). Relacional = OLTP · multidimensional = OLAP (cubos, dimensões, agregações).
+- [16/11] 1FN = valores atômicos · 2FN = sem dependência parcial (atributo que depende só de parte da chave composta) · 3FN = sem dependência transitiva. Alterar o mesmo dado em várias linhas = anomalia de atualização.
+- [16/11] Integridade de entidade = PK única e não nula · referencial = toda FK aponta para uma PK existente (ou é nula) · de domínio = o valor respeita o tipo da coluna.
+- [16/11] Modelagem: conceitual = entidades e relacionamentos do negócio, sem tecnologia (DER ou diagrama de classes) · lógica = tabelas e chaves · física = índices e armazenamento. ANSI/SPARC: externo, conceitual e interno.
+- [16/11] INSERT INTO t (colunas) VALUES (valores) = nova linha · UPDATE altera linha · ALTER TABLE muda a estrutura (DDL).
 
 ## Arquitetura e System Design
 - [09/11] Microsserviços = cada serviço com seu banco, implantação independente, baixo acoplamento. "Compartilham o mesmo banco" e "maior acoplamento" descrevem monolito. Hexagonal = portas e adaptadores (núcleo de negócio isolado de banco, tela e API).
 - [09/11] REST: PUT = atualizar/substituir · 200 OK · 201 Created · 204 No Content (sucesso, sem corpo). Servidor web = recebe HTTP e entrega conteúdo · servidor de aplicação = lógica de negócio e banco.
 - [09/11] SPA = uma página sem recarregar · PWA = site com recursos de app (offline via Service Worker, ícone, push), mas continua web: não vira app nativo.
+- [16/11] SOAP = protocolo das mensagens · WSDL = descreve o serviço (contrato) · UDDI = publica e descobre · REST não usa WSDL.
+- [16/11] Afinidade de sessão (sticky) = mesmo usuário → mesmo servidor; se o servidor cai, a sessão se perde. Solução: aplicação stateless com a sessão em cache distribuído (Redis).
+- [16/11] Arquitetura corporativa (baixa prioridade, limítrofe no edital): Zachman = matriz 6 × 6, classifica · TOGAF = método ADM · ISO 42010 = norma que define view e viewpoint.
 
 ## Linguagens e Frameworks
 - [09/11] Spring Boot = autoconfiguração + servidor embutido (jar que roda sozinho) · Spring Cloud = sistemas distribuídos · Hibernate = ORM/JPA · JUnit = teste. Anotações: @RestController na classe · @PostMapping no método · @RequestBody no parâmetro (corpo JSON) · @PathVariable (pedaço da URL).
 - [09/11] Python: range(início, fim, passo) nunca inclui o fim; range(4, -4, -1) para em −3 (8 voltas). Contar as voltas antes de calcular. L[-1] = último; -1 % 5 = 4.
+- [16/11] Compilação = traduz tudo antes e gera executável · interpretação = lê e executa direto, linha a linha (Python) · ligação (linking) = junta os módulos compilados.
+- [16/11] Sub-rotina = gênero; função retorna valor; procedimento não retorna. Passagem por valor = cópia (a original não muda) · por referência = endereço (a original muda).
 
 ## Mobile e UI/UX
 - [09/11] TLS substituiu o SSL (todas as versões do SSL estão obsoletas). HTTPS = HTTP + TLS. Não existe divisão "SSL autentica, TLS cifra".
@@ -359,11 +388,17 @@
 ## DevOps e Nuvem
 - [09/11] CI = integrar e testar a cada commit · entrega contínua = sempre pronto para produção · implantação contínua = vai sozinho para produção.
 - [09/11] Internet = pública · intranet = privada, só para os de dentro · extranet = parte da rede aberta, com controle de acesso, a parceiros externos autorizados.
+- [16/11] Arquitetura de computadores (parte comum): Von Neumann = instruções e dados na mesma memória e no mesmo barramento (gargalo CPU–memória); Harvard = separados. CPU = UC + ULA + registradores. ROM = não volátil (firmware de boot); RAM, cache e registradores = voláteis. Impressora = saída.
+- [16/11] Binário: octal = 3 bits por dígito, hexadecimal = 4. Sem sinal: estouro = carry (8 bits vão de 0 a 255). Complemento de dois: positivo + positivo = negativo → overflow.
+- [16/11] systemctl: start/stop = agora · enable/disable = no boot · mask = bloqueia qualquer início.
 
 ## Segurança
 - [09/11] Rótulo de segurança × habilitação = MAC (mandatório) · o dono decide = DAC (discricionário) · pelo cargo = RBAC. Privilégio mínimo é princípio, não modelo de controle.
 - [09/11] OAuth2: response_type=code → authorization code (depois troca o code pelo token, com PKCE) · response_type=token → implícito (obsoleto) · client_credentials é grant_type.
 - [09/11] OWASP Top 10:2021 tem SSRF como A10 ("falsificação de solicitação do lado do servidor"). Conferir na Semana 11 a edição vigente em owasp.org/Top10.
+- [16/11] ISO 27005, tratamento do risco: modificar (reduzir com controles) · reter (aceitar) · evitar (desistir da atividade) · compartilhar (seguro, terceiro). Risco inerente = antes dos controles · residual = o que sobra depois do tratamento.
+- [16/11] Continuidade: RTO = tempo máximo parado · RPO = perda máxima de dados (distância até o último backup).
+- [16/11] Segregação de funções = ninguém faz o processo crítico sozinho (contra fraude e erro interno). Proprietário do ativo = classifica e define os requisitos de proteção; custodiante = opera (backup, logs). ABAC = acesso por atributos e contexto.
 
 ## IA
 
@@ -391,3 +426,8 @@
 - [09/11] Antes de marcar, procurar no enunciado a palavra que contradiz a alternativa ("ciclos incrementais" × "sem ciclos"; "interno" × "acessado publicamente"). Contradição = alternativa fora.
 - [09/11] Quando o enunciado descreve um espectro ("desde os bem definidos até os que exigem intuição"), a resposta costuma cobrir o espectro inteiro. Quando traz uma sigla (ETL), traduzir a sigla.
 - [12/11] Protocolo anti-riscar-a-certa (em 12/11, 10 dos 20 erros de Português foram a certa riscada): **1ª passada só com pontinhos** (nenhum X) · **2ª passada: X só com a PROVA escrita ao lado**, uma palavra ou trecho do TEXTO que contradiz (ex.: "talvez ≠ onisciente"). Sem prova escrita, o pontinho fica. Rótulo na alternativa (tese, autoridade, aposto, argumentativa): ir ao texto e achar o trecho antes de julgar. Se sobrarem 2 pontinhos, desempatar pela palavra do COMANDO (essencial, impertinente, diferente).
+- [16/11] Simulado 02: risquei a certa 5× (Q1, Q5, Q26, Q36 e Q38), todas sem prova escrita; onde risquei com a palavra sublinhada, acertei. 1ª passada sem nenhum X.
+- [16/11] Palavra desconhecida no comando ("cognato"): não riscar nada; procurar a alternativa que usa um recurso diferente das outras.
+- [16/11] Olhar as questões vizinhas do mesmo assunto: o enunciado de uma pode trazer o termo que responde a outra (a Q50 trazia "risco residual", resposta da Q51). Casar a palavra do enunciado com a da alternativa ("medição quantitativa" → "Gerenciado Quantitativamente").
+- [16/11] Duas alternativas com o mesmo valor (01111 e 001111): marcar a que tem o formato do método (grupos de 3 bits para octal).
+- [16/11] Discursiva: antes do rascunho, listar as entregas de cada item com a quantidade (3 problemas + 3 fundamentos; exemplo; critério; 2 letras do INVEST). Cada entrega = uma frase. "Apresente um exemplo" = escrever o exemplo. Entre a sigla em inglês e o nome em português, usar o português ("Definição de Pronto").
