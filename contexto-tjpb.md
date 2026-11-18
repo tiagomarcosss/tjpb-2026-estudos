@@ -350,6 +350,7 @@
 - ✅ **SAFe saiu da fila em 06/11** (bloco 9/12; papéis, voto de confiança e CD Pipeline ficam como ponto fraco).
 - **Revisão da Semana 1** (era 31/10): absorvida pelo simulado de 08/11. Não dobrar.
 - **RLM:** conjuntos e Venn fechados em 04/11 (sem mín/máx). Próximo pelo mapa: porcentagem, razão e proporção (ter/qui no almoço, depois do Módulo 0).
+- **18/11 · Decisão do Tiago: sem replanejamento.** Avisado pela regra 6 (Específicas ~1,5 semana atrasada: Semana 3 pela metade, SQL não começado; proposta de cortes por prioridade). Ele recusou: encara o TJPB como etapa de evolução para os próximos concursos e segue **a fila normal, no ritmo sustentável**, sem estudar às pressas. Projeção feita no chat: seguindo certinho, chega até a Semana 11 (Segurança e IA) em 23/01; no ritmo das últimas 4 semanas (~60% dos dias), até a Semana 8 (Linguagens).
 - **18/11 · RLM:** análise combinatória estudada (tarde, por conta própria). Falta o **bloco corrigido** para fechar; depois, probabilidade (item 7 do mapa, depende dela).
 - **16/11 · Simulado 02 não muda a fila:** Português segue com a **teoria do H** (finalidade errada pela 3ª vez) e depois D; Específicas seguem com **hash (bloco) → POO → SOLID → GoF** e, depois, a Semana 4 (relacional e SQL: Q31, Q32 e Q46 do simulado são desse conteúdo). RLM: depois de porcentagem, **razão, proporção e equações** (Q17 e Q19) e combinatória/probabilidade (Q15). **Arquitetura de computadores (⚪, Semana 10): decisão do Tiago pendente** sobre adiantar um resumo de 1 página + Anki.
 
