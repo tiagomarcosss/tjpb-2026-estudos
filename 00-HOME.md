@@ -14,27 +14,28 @@ Arquivos-mestre: [[plano-tjpb|📅 Plano]] · [[contexto-tjpb|🧭 Contexto e po
 
 > Esta seção é atualizada pelo Claude no início de cada sessão.
 
-**Terça, 17/11/2026 · Semana 4 · faltam 68 dias para a prova**
+**Quarta, 18/11/2026 · Semana 4 · faltam 67 dias para a prova**
 
-> 🔴 **Boleto da inscrição: pagar até qui 19/11** (R$ 120; agendamento, transferência e cartão não valem).
+> 🔴 **Boleto da inscrição: pagar AMANHÃ, qui 19/11** (R$ 120; último dia; agendamento, transferência e cartão não valem).
 
-> **Fila primeiro (regra de 04/11):** o assunto do dia é o primeiro pendente da "Fila de pendências" do [[contexto-tjpb]]. Hoje: Português → **teoria do H** · Específicas → **hash** (último item da fila) → POO. Português: no máximo 1 bloco por dia (combinado de 12/11).
+> **Fila primeiro (regra de 04/11):** 17/11 e a manhã de hoje foram só Anki (dia mínimo, sem culpa); a fila não andou. Português → **teoria do H** · Específicas → **hash** → POO. Hoje à tarde: **análise combinatória** (RLM) estudada por conta própria; falta o bloco para fechar.
 
 | Horário | O que fazer | Onde |
 |---|---|---|
-| Antes do almoço · 20 min | Ler a correção do Simulado 02 só pelos erros em assunto já estudado: **Q26 RUP, Q25 validação, Q30 lista × vetor, Q5 cognato** + a correção da discursiva | [[2026-11-16_Semana-04_Simulado-02_FGV-60q_CORRECAO]] · [[2026-11-16_Discursiva-01_Scrum_CORRECAO]] |
-| Almoço | 🔴 **Teoria do H, parte 1 · argumentação**: finalidade do segmento primeiro (errada 3×), tese × argumento × exemplo, autoridade, pertinente × impertinente, indução × dedução. Pedir ao Claude | [[Português]] |
-| Bloco 1 · 19h | 🔴 **Hash**: responder o bloco de 8 questões (teoria já dada). Protocolo anti-riscar: só X com palavra do texto que contradiga | `QUESTÕES NÃO OFICIAIS/Provas/2026-11-10_Semana-03_Bloco-03_Tabelas-Hash.pdf` · [[resumo-tabelas-hash]] |
-| Bloco 2 · 20h | 🔴 **POO** (teoria: classes, encapsulamento, herança, polimorfismo, abstração; composição × agregação). Só teoria hoje; bloco amanhã | [[Algoritmos, POO, SOLID e GoF]] |
-| Revisão · 22:40 | Refazer Q25, Q26 e Q30 do simulado sem olhar + regras 📌 de 16/11 e 11/11 (abaixo) + Anki do dia | [[regras-tjpb]] |
+| Tarde | ✅ Análise combinatória (estudo próprio) | [[RLM]] |
+| Bloco 1 · 19h | **Bloco de combinatória** (fixar enquanto está fresco; só esse assunto). Pedir ao Claude | [[RLM]] |
+| Bloco 2 · 20h | 🔴 **Hash**: responder o bloco de 8 questões (teoria já dada). Protocolo anti-riscar. Se o cansaço bater, fica para amanhã 19h | `QUESTÕES NÃO OFICIAIS/Provas/2026-11-10_Semana-03_Bloco-03_Tabelas-Hash.pdf` · [[resumo-tabelas-hash]] |
+| Revisão · 22:40 | Regras 📌 de 16/11 e 11/11 (abaixo) + Anki do dia | [[regras-tjpb]] |
 
-**Fila:** Português → **H. Texto** (teoria em 2 partes + 3º bloco com outra prova FGV) → D concordância · Específicas → **hash** → POO → SOLID → GoF.
+**Amanhã (qui 19/11):** 🔴 boleto · almoço: teoria do H, parte 1 (finalidade do segmento primeiro) · 19h: hash (se não sair hoje) · 20h: POO.
+
+**Fila:** Português → **H. Texto** (teoria em 2 partes + 3º bloco com outra prova FGV) → D concordância · Específicas → **hash** → POO → SOLID → GoF · RLM → **combinatória (falta bloco)** → probabilidade.
 
 **Pendente:** 🔴 **boleto até qui 19/11** · sincronizar o Anki com o AnkiWeb · **decidir:** (1) resumo de 1 página + Anki de arquitetura de computadores (4/10 no Simulado 02), sem mexer na fila; (2) reescrever a Discursiva 01 no sábado 21/11.
 
 ### 🔁 Revisão espaçada de hoje
 
-Regras com ~1 dia (**16/11**: Simulado 02 e Discursiva 01) e ~7 dias (não há de 10/11 → **11/11**: listas, árvores e APF funções de dados). ~30 dias: não há regras de 18/10 (as primeiras, de 21/10, entram na sexta 20/11).
+Regras com ~1 dia (não há de 17/11 → **16/11**: Simulado 02 e Discursiva 01) e ~7 dias (**11/11**: listas, árvores e APF funções de dados). ~30 dias: não há regras de 19/10 (as primeiras, de 21/10, entram na sexta 20/11).
 
 ```query
 path:regras-tjpb ("[16/11]" OR "[11/11]")

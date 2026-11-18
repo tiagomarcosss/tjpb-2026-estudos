@@ -1,6 +1,6 @@
 # Contexto de Estudo · TJPB 2026
 
-**Atualizado em:** 16/11/2026 (Simulado 02 feito e corrigido: 30/60 · discursiva 15/40) · **Semana do plano:** 4
+**Atualizado em:** 18/11/2026 (17–18/11 só Anki; 18/11 à tarde, análise combinatória por conta própria) · **Semana do plano:** 4
 
 > Arquivo substituído toda semana. Regras estudadas ficam em "regras-tjpb". Plano e conteúdo por semana ficam em "plano-tjpb".
 
@@ -257,6 +257,8 @@
   - **Discursiva 01 (Scrum), 15/40:** A 7/12 · B 2/8 · C 2/9 · D 2,5/8 · geral 1,5/3. Texto completo, 28 linhas, sobre o caso (a estrutura deixou de ser o problema). Faltou conteúdo pedido: **sem exemplo de história, sem INVEST, sem uso correto da velocidade, sem Scrum Master**; "Definition of Ready (DoD)" no lugar de Definição de Pronto (no rascunho estava certo); story point descrito com tempo e número de pessoas; "é necessário a presença", "manter atualizado a situação". Regra nova: listar as entregas de cada item antes do rascunho.
   - Arquivos: `PROVAS OFICIAIS (estudo)/Correções/2026-11-16_Semana-04_Simulado-02_FGV-60q_CORRECAO.pdf` (+ .md) · [[2026-11-16_Simulado-02_FGV-ALE-RO-2026]] · [[2026-11-16_Discursiva-01_Scrum_CORRECAO]] (foto em `discursivas/`).
   - **Decisões pendentes (perguntadas em 16/11):** (1) resumo de 1 página + Anki de arquitetura de computadores e fundamentos de programação agora, sem mexer na fila; (2) reescrever a Discursiva 01 no sábado 21/11.
+- **17/11 (ter) e 18/11 (qua, manhã) · Só Anki** (regra 7: dia mínimo, não é dia perdido). A fila não andou: teoria do H e bloco de hash seguem pendentes.
+- **18/11 (qua, tarde) · RLM: estudou análise combinatória por conta própria** (item 6 do mapa de RLM, Prioridade 2; puxada pelo erro de probabilidade com permutação na Q15 do Simulado 02). Sem bloco ainda: para sair da fila, falta bloco corrigido.
 
 ---
 
@@ -348,6 +350,7 @@
 - ✅ **SAFe saiu da fila em 06/11** (bloco 9/12; papéis, voto de confiança e CD Pipeline ficam como ponto fraco).
 - **Revisão da Semana 1** (era 31/10): absorvida pelo simulado de 08/11. Não dobrar.
 - **RLM:** conjuntos e Venn fechados em 04/11 (sem mín/máx). Próximo pelo mapa: porcentagem, razão e proporção (ter/qui no almoço, depois do Módulo 0).
+- **18/11 · RLM:** análise combinatória estudada (tarde, por conta própria). Falta o **bloco corrigido** para fechar; depois, probabilidade (item 7 do mapa, depende dela).
 - **16/11 · Simulado 02 não muda a fila:** Português segue com a **teoria do H** (finalidade errada pela 3ª vez) e depois D; Específicas seguem com **hash (bloco) → POO → SOLID → GoF** e, depois, a Semana 4 (relacional e SQL: Q31, Q32 e Q46 do simulado são desse conteúdo). RLM: depois de porcentagem, **razão, proporção e equações** (Q17 e Q19) e combinatória/probabilidade (Q15). **Arquitetura de computadores (⚪, Semana 10): decisão do Tiago pendente** sobre adiantar um resumo de 1 página + Anki.
 
 ## Próximos passos
@@ -376,7 +379,9 @@
 | Sex 13/11 | Almoço: 🔴 **teoria do H** (2 partes: argumentação + tipologia/narrador; tabelas curtas, a partir dos erros de 12/11) + 5 questões oficiais FGV de interpretação no início. Noite: SOLID (🔴) ou o que sobrar de POO. 2º bloco do H: sábado (recuperação) ou seg 16/11 |
 | Seg 16/11 | ✅ **Simulado 02 feito e corrigido: 30/60** (Português 5 · RLM 6 · Específicas 19) + **Discursiva 01: 15/40** (estimativa). Fila parada (H e hash seguem). **Boleto até qui 19/11** |
 | Ter 17/11 | Ler a correção do simulado em PDF, começando pelos erros em assunto já estudado (**Q26 RUP, Q25 validação, Q30 lista × vetor, Q5 cognato**) e pela discursiva. Almoço: 🔴 **teoria do H** (finalidade do segmento primeiro). 19h: 🔴 **bloco de hash** (8 questões). 20h: **POO** (composição × agregação entra aqui). 22:40: refazer Q25, Q26 e Q30 sem olhar + regras 📌 de 16/11 |
-| Qui 19/11 | 🔴 **Pagar o boleto de R$ 120** (último dia; sem agendamento) |
+| Ter 17/11 e Qua 18/11 (manhã) | ⏸️ Só Anki. Fila parada |
+| Qua 18/11 | ✅ Tarde: análise combinatória (estudo próprio). Noite: **bloco de combinatória** (fixar enquanto está fresco) **ou** 🔴 hash (primeiro da fila de Específicas). 22:40: Anki + regras de 16/11 e 11/11 |
+| Qui 19/11 | 🔴 **Pagar o boleto de R$ 120** (último dia; sem agendamento). Almoço: 🔴 teoria do H, parte 1. 19h: 🔴 hash (se não for feito na quarta). 20h: POO |
 | Sáb 21/11 | Recuperação da fila + **reescrever a Discursiva 01 em 40 min** com a lista de entregas por item (meta: 28+), sem olhar a versão melhorada |
 | Dom 22/11 · 13h | **Simulado 03** (prova FGV de Desenvolvimento de Sistemas inédita: AL-GO 2026, AMAZUL 2026 ou TCE-RR 2025, na estrutura do TJPB) + discursiva nova. Anotar início e fim no cartão. Comparar com 30/60 (26 sem chutes), 17 firmes, 7 convictos, 5 certas riscadas |
 
