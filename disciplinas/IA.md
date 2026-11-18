@@ -6,7 +6,7 @@ tags: [disciplina]
 
 # IA
 
-**Quando:** Semana 11 (04–10/01) · **Peso:** Conhecimentos Específicos
+**Quando:** Semana 9 (21–27/12; trocada com Flutter/mobile em 18/11, plano v4.1) · **Peso:** Conhecimentos Específicos
 
 Voltar: [[00-HOME]] · Conteúdo detalhado: [[plano-tjpb]], seção 4.1
 

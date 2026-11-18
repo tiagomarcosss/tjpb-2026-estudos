@@ -8,6 +8,7 @@
 - **Vagas Dev:** 10 (6 AC · 1 PcD · 3 negros) + cadastro de reserva
 - **Meta:** 49–51 acertos na objetiva · 30+ na discursiva
 - **Versão:** 4 · 27/10/2026 · Fonte: Edital nº 01/2026 (`edital/edital.pdf`) + 1ª retificação (23/10/2026) + 2ª retificação (29/10/2026, aplicada em 02/11) · arquivos em `edital/`
+- **v4.1 · 18/11/2026 (a pedido do Tiago):** IA trocada de lugar com Dart/Flutter/mobile: IA vai para a Semana 9 e Dart/Flutter/mobile para a Semana 11 (junto com Segurança). Motivo: IA cai com certeza em conceitos; Flutter tem poucas questões FGV e, com o atraso da fila, a Semana 11 fica colada na prova.
 - **Mudanças da v4:** conteúdo conferido com o Anexo I do edital · parte "Comum a todos os cargos de TI" incluída · nível de profundidade por assunto (🔴 🟡 ⚪) · normas do CNJ espalhadas pelos sábados · conteúdo de RLM e Português (seção 4.2) · OSPF/BGP removidos
 
 ---
@@ -139,9 +140,9 @@ A discursiva é o que separa quem passa: muitos vão empatar entre 46 e 50 acert
 | 6 | 30/11–06/12 | Arquitetura: SOA · REST · microsserviços · eventos · padrões corporativos · Clean Arch · DDD | Res. 335/2020 (PDPJ-Br) |
 | 7 | 07–13/12 | System Design: CAP · cache/Redis · escalabilidade · resiliência | Res. 615/2025 (IA) |
 | 8 | 14–20/12 | Java/Spring · JS/TS · Node · Angular/React · Python | Res. 91/2009 (MNI) + MInG |
-| 9 | 21–27/12 | Dart/Flutter · mobile · UI/UX · WCAG/eMAG · acessibilidade (25/12 descanso) | Res. 522/2023 + MoReq-Jus |
+| 9 | 21–27/12 | IA (ML, LLM, RAG, segurança de IA) · UI/UX · WCAG/eMAG · acessibilidade (25/12 descanso) | Res. 522/2023 + MoReq-Jus |
 | 10 | 28/12–03/01 | DevOps: Git · CI/CD · Docker · Kubernetes · Terraform · observabilidade + fundamentos (SO, redes, arquitetura de computadores) | PDTI 2024–2026 do TJPB |
-| 11 | 04–10/01 | Segurança (OWASP, OAuth, JWT, cripto) · IA (ML, LLM, RAG, segurança de IA) | — |
+| 11 | 04–10/01 | Segurança (OWASP, OAuth, JWT, cripto) · Dart/Flutter · mobile | — |
 | 12 | 11–17/01 | LGPD · Marco Civil · governança (COBIT, ITIL, ISO 27001/27002/27005) · gestão de TI · transformação digital · 2 simulados completos | — |
 | 13 | 18–23/01 | Só revisão + simulados. Sexta e sábado: descanso. | — |
 | **Prova** | **Dom 24/01** | **13h · chegar até 12h30 · documento original com foto e caneta preta/azul transparente** | |
@@ -153,8 +154,8 @@ A discursiva é o que separa quem passa: muitos vão empatar entre 46 e 50 acert
 | Fase | Período | Objetivo |
 |---|---|---|
 | 1. Base | 21/10–22/11 | Eng. Software, Ágil, APF, algoritmos, POO/SOLID, GoF, BD/SQL |
-| 2. Núcleo | 23/11–27/12 | Arquitetura, System Design, linguagens, mobile, UI/UX |
-| 3. Complemento | 28/12–17/01 | DevOps, fundamentos de TI, segurança, IA, LGPD, governança, CNJ |
+| 2. Núcleo | 23/11–27/12 | Arquitetura, System Design, linguagens, IA, UI/UX |
+| 3. Complemento | 28/12–17/01 | DevOps, fundamentos de TI, segurança, mobile, LGPD, governança, CNJ |
 | 4. Reta final | 18/01–23/01 | Simulados, caderno de erros, discursivas. Nada novo. |
 
 - Sugestão: se possível, tire 2–3 dias de folga entre 18 e 22/01 para a revisão final.
@@ -273,15 +274,15 @@ Ordem recomendada:
 - 🔴 Python: tipos, listas, dicionários, tuplas, sets, slicing, compreensões (leitura de código) · ⚪ FastAPI (Pydantic, rotas, async) e Django (MTV, ORM, migrations)
 - Sábado: ⚪ Res. CNJ 91/2009 (MNI) + MInG
 
-### Semana 9 (21–27/12): Dart, Flutter, Mobile e UI/UX
+### Semana 9 (21–27/12): IA e UI/UX
 
-- 🟡 Dart: tipos, null safety, estruturas de controle, try/catch, Future, async/await, Stream
-- 🟡 Flutter: "tudo é um widget", StatelessWidget × StatefulWidget, ciclo de vida (initState, build, dispose, setState)
-- ⚪ Flutter: gerenciamento de estado (Provider, BLoC, Cubit, Riverpod: o que cada um faz), layout (Material × Cupertino, responsivo), navegação (Navigator, rotas nomeadas, passagem de parâmetros)
-- 🟡 Mobile: ciclo de vida Android/iOS, SQLite, Room, Hive/Isar, SharedPreferences/NSUserDefaults, Keystore/Keychain, SSL Pinning, ofuscação, TLS, dados em repouso × em trânsito, JSON, Firebase Cloud Messaging
+- 🟡 IA: tokenização, stemming × lematização, stop words, TF-IDF, word embeddings, Transformer (atenção), LLMs, engenharia de prompt (zero/few-shot, chain-of-thought)
+- 🔴 RAG · ⚪ APIs OpenAI/Hugging Face, LangChain
+- 🟡 Fundamentos de IA (comum): aprendizado supervisionado × não supervisionado, IA generativa
+- 🟡 Segurança de IA: prompt injection, jailbreak, ataques adversariais, sanitização da saída, vazamento de contexto, retenção zero
+- (A Res. CNJ 615/2025, sobre IA no Judiciário, já foi vista no sábado da Semana 7)
 - 🟡 UI/UX: princípios, user flows, wireframes e protótipos (baixa/média/alta fidelidade), design systems, mobile-first
 - 🟡 WCAG 2.1/2.2 (POUR, níveis A/AA/AAA), eMAG, HTML5 semântico, ARIA, leitores de tela · acessibilidade digital (comum)
-- (Dart e Flutter têm poucas questões FGV; complemente com outras bancas)
 - Sábado: ⚪ Res. CNJ 522/2023 + MoReq-Jus e gestão documental (metadados, ciclo de vida, preservação, RDC-Arq) (comum)
 
 ### Semana 10 (28/12–03/01): DevOps, Nuvem e Fundamentos de TI
@@ -298,17 +299,18 @@ Ordem recomendada:
 - 🟡 Redes e TCP/IP (comum): camadas, IP, TCP × UDP, portas, DNS, HTTP/HTTPS
 - Sábado: ⚪ PDTI 2024–2026 do TJPB
 
-### Semana 11 (04–10/01): Segurança e IA
+### Semana 11 (04–10/01): Segurança, Dart, Flutter e Mobile
 
 - 🔴 OWASP Top 10 (2021): A01 Broken Access Control, A03 Injection etc.
 - 🟡 Codificação segura, modelagem de ameaças (STRIDE), DevSecOps
 - 🔴 Criptografia simétrica (AES) × assimétrica (RSA, ECC), assinatura digital, certificados, PKI, ICP-Brasil
 - 🔴 OAuth 2.0 (fluxos, authorization code + PKCE), OpenID Connect (ID token), SAML 2.0 (IdP, SP, asserção), JWT (header.payload.signature), rate limiting
 - 🟡 Segurança (comum): confidencialidade, integridade e disponibilidade · controle de acesso
-- 🟡 IA: tokenização, stemming × lematização, stop words, TF-IDF, word embeddings, Transformer (atenção), LLMs, engenharia de prompt (zero/few-shot, chain-of-thought)
-- 🔴 RAG · ⚪ APIs OpenAI/Hugging Face, LangChain
-- 🟡 Fundamentos de IA (comum): aprendizado supervisionado × não supervisionado, IA generativa
-- 🟡 Segurança de IA: prompt injection, jailbreak, ataques adversariais, sanitização da saída, vazamento de contexto, retenção zero
+- 🟡 Dart: tipos, null safety, estruturas de controle, try/catch, Future, async/await, Stream
+- 🟡 Flutter: "tudo é um widget", StatelessWidget × StatefulWidget, ciclo de vida (initState, build, dispose, setState)
+- ⚪ Flutter: gerenciamento de estado (Provider, BLoC, Cubit, Riverpod: o que cada um faz), layout (Material × Cupertino, responsivo), navegação (Navigator, rotas nomeadas, passagem de parâmetros)
+- 🟡 Mobile: ciclo de vida Android/iOS, SQLite, Room, Hive/Isar, SharedPreferences/NSUserDefaults, Keystore/Keychain, SSL Pinning, ofuscação, TLS, dados em repouso × em trânsito, JSON, Firebase Cloud Messaging (a parte de segurança mobile liga com OWASP e cripto desta semana)
+- (Dart e Flutter têm poucas questões FGV; complemente com outras bancas)
 
 ### Semana 12 (11–17/01): Legislação, Governança e Gestão de TI
 

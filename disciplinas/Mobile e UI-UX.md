@@ -6,7 +6,7 @@ tags: [disciplina]
 
 # Mobile e UI-UX
 
-**Quando:** Semana 9 (21–27/12) · **Peso:** Conhecimentos Específicos
+**Quando:** UI/UX e WCAG na Semana 9 (21–27/12) · Dart, Flutter e mobile na Semana 11 (04–10/01; trocados com IA em 18/11, plano v4.1) · **Peso:** Conhecimentos Específicos
 
 Voltar: [[00-HOME]] · Conteúdo detalhado: [[plano-tjpb]], seção 4.1
 
